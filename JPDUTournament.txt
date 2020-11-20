@@ -1,4 +1,4 @@
-JPDU Tornament
+JPDU Tornament (NA)
 	8th JPDU Tournament (2005)
 		R1
 			THW charge citizen for ambulances.
@@ -67,3 +67,20 @@ JPDU Tornament
 			THBT NATO has lost its significance.
 		GF
 			THW amend the article 9 of Constitution.
+	1st JPDU Tournament (2002)
+		R1
+			THBT nationwide registry of citizens is harmful.
+		R2
+			THW place students according to their abilities.
+		R3
+			THBT the Japanese government should require / force fathers to take a child-care leave.
+		R4
+			THBT schools should provide students with condoms.
+		R5
+			THBT changing companies is more beneficial than working for the same company.
+		QF
+			THBT China’s participation in WTO is beneficial for Japan.
+		SF
+			THW abolish the “payoff. system” in Japan: caps on bank-deposit guarantees.
+		GF
+			There is no neutral position.
