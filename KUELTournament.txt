@@ -1,0 +1,141 @@
+KUEL Tournament
+	23rd KUEL Tournament (2001)
+		R1
+			THBT children don’t need to have brothers and sisters.
+		R2
+			TH would introduce direct election.
+		R3
+			THBT cosmetic surgery makes human’s life worse.
+		R4
+			THBT cramming is better than having free time.
+		R5
+			THBT father is not necessary for family.
+		QF
+			THW amend the penal code of mental illness.
+		SF
+			TH should introduce tax for plastic bag.
+		GF
+			THW abolish death penalty.
+	21st KUEL Tournament (2000)
+		R1
+			Which is better a new year’s card by postal delivery or E-mail?
+		R2
+			THBT the Japanese government should amend the Japanese constitution.
+		R3
+			THBT the reverse designation draft system should be abolished in professional baseball.
+		R4
+			THBT it’s better for and unmarried woman to have abortion, when she becomes pregnant.
+		R5
+			THBT we should not choose celebrities as politicians.
+		R6
+			THBT we should achieve our first aim.
+		QF
+			THBT the greater includes the lesser.
+		SF
+			THBT NPO would save Japan.
+		GF
+			THBT even Homer sometimes nods.
+	19th KUEL Tournament (1999)
+		R1
+			THBT late-night operation of stores should be prohibited.
+		R2
+			THW promote the democratization of the United Nations.
+		R3
+			THBT individually planned holidays are better than package holidays.
+		R4
+			THBT the .Black Ships. save Japan.
+		R5
+			THBT the courses of study made by the Ministry of Education, Science and culture should be abolished.
+		OF
+			THBT a single-party government is better than a coalition government.
+		QF
+			THBT genes control human behavior rather than free will.
+		SF
+			THBT Japan should become self-sufficient in food production.
+		GF
+			THBT the 20th century was a golden age.
+	17th KUEL Tournament (1998)
+		R1
+			.Manga. have a better effect on children than novel.
+		R2
+			To be single is better choice for women who have stable careers.
+		R3
+			We should isolate Japan.
+		R4
+			Waseda University was wrong in accepting Hirosue as a student.
+		R5
+			The Japanese government should allow unlicensed teachers to teach at public school.
+		R6
+			We should never give up.
+		QF
+			Poverty cleans the soul.
+		SF
+			One world, one language.
+		GF
+			Santa Claus should go on a diet.
+	15th KUEL Tournament (1997)
+		R1
+			University libraries should be open to all.
+		R2
+			The Japanese government should stop extending the .Shinkansen. network.
+		R3
+			We should stop midnight programs on TV.
+		R4
+			The Japanese government should prohibit people from visiting foreign countries judged to be dangerous.
+		OF
+			All newspaper articles should give the journalists’ name.
+		QF
+			The Japanese government should raise the rate of consumption tax to 10 percent.
+		SF
+			Divorce is a good decision in life.
+		GF
+			Equality is an unhappy thing for people.
+	13th KUEL Tournament (1996)
+		R1
+			It’s better for athletes to retire at their peak of their careers.
+		R2
+			The Japanese government should allow trials to be broadcast on TV.
+		R3
+			Physically challenged people should not be separated in schools.
+		R4
+			It’s better for Japanese people to learn world history than Japanese history.
+		OF
+			Collectivism is better than individualism for Japanese people.
+		QF
+			Comic variety shows on TV have bad effects on Japanese society.
+		SF
+			Aging is golden.
+		GF
+			Okinawa should be independent.
+	11th KUEL Tournament (1995)
+		R1
+			Beauty Contests should be forbidden.
+		R2
+			Asian countries are more important for Japan than any other countries.
+		R3
+			Otoshidama (giving money to children on New Year ’s day) is a good custom.
+		R4
+			U.S. bases in Japan are indispensable for peace.
+		R5
+			The end justifies the means.
+		QF
+			People should hold on to their dreams forever.
+		SF
+			Japan is an outsider in the world.
+		GF
+			The Japanese should not try to justify the colonial policies of WW2.
+	9th KUEL Tournament (1994)
+		R1
+			Japanese music is better than foreign music.
+		R2
+			The Heisei Recession has been good for Japanese society.
+		R3
+			The dropping of atomic bombs on Hiroshima and Nagasaki was inevitable.
+		R4
+			Housekeeping is proof of love.
+		QF
+			Scientific development will bring human happiness.
+		SF
+			Foreigners with right of permanent residence should have suffrage.
+		GF
+			Fairy tales give bad influence to child.

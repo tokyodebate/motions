@@ -1,0 +1,246 @@
+BP Novice
+	2019 East
+		R1
+			THW censor and remove all contents (including books and tweets) which are deemed to be anti-vaccination.
+		R2
+			TH, as ASEAN member states, would pursue relationship with China as opposed to the US.
+		R3
+			THBT oppressed minorities should emphasize individualism over collectivism to their children.
+				INDIVIDUALISM and COLLECTISM describe the attitude of individuals to their communities.In individualism, people prefer to act as individuals rather than members of groups. Collectivism focuses on cohesiveness and group goals, sometimes at the expense of individual interest.
+		R4
+			THBT sexual fidelity should not be a criterion to measure the strength of love.
+				SEXUAL FIDELITY refers to the attitude or behavior of someone who is willing to have sex only with their husband, wife or partner.
+	2019 West
+		R1
+			THR the narrative “experience of hardship and agony is necessary for success”.
+		R2
+			TH celebrates the increasing number of children going to cram schools.
+		R3
+			THBT multinational corporations operating in developing nations should be compelled to follow the strict environmental standards of western liberal democracies.
+		R4
+			In countries where conscription exists exclusively for men, THBT feminists should advocate for the conscription of women.
+		QF
+			THW ban slum tourism run and profited by people living outside the slum.
+		SF
+			THBT people who currently promote vegetarianism on animal welfare grounds should instead advocate for consumption of products where the production process treats animals well. e.g.) products with “Certified Animal Welfare Claims” like “cage free”products.
+		GF
+			TH regrets the use of derogatory terms currently used for cigarette smokers. e.g.) Yanikasu
+	2018 East
+		R1
+			This house would not give medical treatment to patients of attempted suicide.
+		R2
+			This house regrets the China-Vatican deal on the appointment of Chinese bishops.
+				Before this agreement below. Chinese Catholics were split between a faction that registered with the State-controlled Catholic Patriotic Association (CPA), and an underground Catholic community that swore loyalty only to the Pope. The CPA had appointed Chinese bishops in the past, who were excommunicated by the Vatican church. The new deal makes the Vatican recognize China’s system of nominating its own bishops, but gives the Pope veto powers over new nominations.
+		R3
+			This house believes that liberal democracies should actively combat the rise of right wing populism (e.g. suppressing their speech acts, dismantling their political parties).
+		R4
+			This house believes that feminist movement should seek a ban on contents that sexually objectify women (including but not limited to some pornography and animated characters on magazines).
+	2017 East
+		R1
+			THW ban sacreligious expressions
+		R2
+			THBT the media should anonymize the identity of convicted criminals (incl, but not limited to their age, face, and race/nationality)
+		R3
+			THBT economic development organizations (e.g. IMF, WB) should not make aid conditional upon trade liberalization
+		R4
+			THR the western feminist narrative that regards victims revealing their marks of domestic violence as a form of female empowemrment
+		Pre-QF
+			THBT countries with booming populations should allocate every adult a single tradable permit to have a child.
+		QF
+			THW ban private ownerships of land.
+		SF
+			THW legalize unconditional euthanasia.
+		GF
+			TH prefers technocracy to democracy as a system for governance.
+	2017 West
+		R1
+			THW legalize duels to the death under government supervision
+		R2
+			TH, as Japan, regrets quality supremacy
+				Quality supremacy: concept that the quality of products is the most significant one for business. And companies often seek for quality beyond the necessity.
+		R3
+			THW abolish tax execmptions for religious organizations which neglect LGBT rights
+		R4
+			THBT states should not make contracts with private military contractors in combat roles
+		QF
+			TH opposes specialization of female athletes.
+		SF
+			THW require university graduates to move to economically deprived areas for a substantial period of time after graduation.
+		GF
+			TH opooses careerism.
+	2016 Kansai Preliminary
+		R1
+			THW ban international aid charities from sensational graphic, or overly-emotional images of suffering in fundraising and advertising campaigns.
+		R2
+			THW require all the religious schools to teach atheism in their compulsory curriculum.
+		R3
+			THBT LGBTQIA + movements should oppose comedians which use transvestism as a joke.
+		R4
+			THW ban Hate Speech.
+	2016 Kanto preliminary
+		R1
+			THW ban all procedures to alter one’s racial appearance.
+		R2
+			THW make the board of executives criminally liable if their workers commit suicide due to overwork.
+		R3
+			THR western media demonizing Islamic terrorists rather than portraying them as criminals with legitimate grievances.
+		R4
+			TH opposes the marketing of indigenous cultures for the purpose of tourism.
+		OF
+			THBT prominent civil society activists should choose not to run for elected office.
+		QF
+			As feminists, TH opposes FEMEN
+				FEMEN is a feminist activist group intended to protect women’s rights. The organization became internationally known for organizing controversial topless protests against sex tourism, religious institutions, sexism, homophobia and other social, national and international topics. The organization describes itself as “fighting patriarchy in its three manifestations – sexual exploitation of women, dictatorship and religion” and has started that its goal is “sextremism serving to protect women’s rights”
+		SF
+			TH supports prisoner’s unionization.
+		GF
+			THBT post conflict societies should recruit rebel soldiers into state army.
+	2015 Kansai preliminary
+		R1
+			THBT companies do not have the right to prohibit their employees from engaging in a romantic relationship.
+		R2
+			TH Supports the rights of athletes to make political expressions at international sporting events.
+		R3
+			THBT developing countries should ban members of political dynasties from standing for elected office.
+		R4
+			THW allow deaf couples to use medical technology to ensure they have deaf offspring.
+	2015 Kanto preliminary
+		R1
+			THBT schools should put students into classes accourding to their academic ability from the early stage of education.
+		R2
+			THBT the feminist movement should oppose online dating websites which romantically link rich men and attractive women.
+		R3
+			THW ban the publication of any scientific research that may conclude certain race/sex are inferior to others.
+		R4
+			In states where gay marriage is legal, THW require religious communities to hold marriage ceremonies for gay couples.
+		OF
+			THBT judges of supreme court should be directly elected by the citizens.
+		QF
+			THBT it is legitimate for states to restrict art when it is socially regarded disgusting.
+		SF
+			In times of economic crisis, THBT governments should withhold information that negatively affects the economy from the public.
+		GF
+			THR the prevailing perception of soldiers as heroes.
+	2014 Kansai Preliminary
+		R1
+			THW legalize performance-enhancing drugs in international sporting events.
+		R2
+			THBT Japanese government should allow workers who engage in decommissioning and decontamination projects to contract out the regulations on personal exposed dose in return for increased wages.
+		R3
+			THW require companies using animals to make their products to put ethical warning labeling on them.
+				Ethical warning labels make consumers informed the physical and mental suffering involved in producing the animal products they are considering of buying. For example statements like “This chicken’s beak was cut off, causing intense pain until its death.” and “This shampoo was tested by putting drops of shampoo in the eyes of rabbits. As a consequence, their eyes rotted with significant pain inflicted” or pictures.
+		R4
+			THBT individuals in developing nations who receive government funding for tertiary education should be prohibited from emigrating.
+	2014 Kanto Preliminary
+		R1
+			THW allow the police to use entrapment.
+		R2
+			TH, as feminists, regrets the sexualization of female athletes on sports media.(such as Sports Illustrated)
+		R3
+			THBT developing countries should put heavy tariff on art products (movie, music, comic, novel etc…)from developed countries.
+		R4
+			THBT trade unions and labor protection laws should be suspended during times of economic crisis.
+		Octo-Finals
+			THBT publicly funded universities should be required to reduce enrolement in degreb programs within ther universities that have statistically poor employment outcomes.
+		Quarter Finals
+			As a way of opposing religions, THW despise seeking out and exposing immoral behaviors of religious leaders.
+		Semi-Finals
+			TH welcomes the increased recognition of the choice of people with severe disabilities to sterilize themselves
+		Grand Final
+			In the era of the Internet, THBT music has declined.
+	2013 Kansai Preliminary
+		R1
+			THBT grading students in universities has done more harm than good
+		R2
+			THW prohibit parent from practicing religious initation ceremonies to their children without their expressed consent (such as Baptism, Circumcision etc)
+		R3
+			TH actively celebrates the rise of fat acceptance movement
+		R4
+			THBT the West should economically and diplomatically engage with repressive regimes
+	2013 Kanto Preliminary
+		R1 -Wassup Man! (Song: None Shall Pass)
+			THW criminalise gang membership
+		R2 -It’s All Mine. Yes, ALL Of It. (Song: Earth Song)
+			THW ban oil companies from owning patents for technologies of renewable energy
+		R3 -I Am Who I Am. And I Love It. (Song: Как в красной тюрьме Like a Red Prison)
+			THBT feminist groups (e.g. Femen, Pussy Riots etc) should not use extreme tactics in countries with high levels of gender inequality
+		R4 -Transparency (Song: American Idiot)
+			THBT Obama should make public all evidence of the abuse committed by soldiers stationed in Iraq and Afghanistan
+		OF -Private? Public? (Song: Taxman)
+			THBT essential state services (incl. but not limited to water & electricity) should not be privatized
+		QF -Phrases That Stick In Your Mind (Song: Can’t Get You Out Of My Head)
+			TH regrets politicians emphasising and overusing the phrase “War on XXX” (such as War on Terror)
+		SF -This Matters To Me. (Song: I Was Born Without You)
+			THW extend the right to vote in Israeli elections to all Jews everywhere – including those who live outside of
+		Israel and who are not Israeli citizens
+			GF -I Will Be Alright. (Song: The Imperial March)
+		TH regrets the dominant narrative in children’s education that good always wins
+	2012 Kansai Preliminary
+		R1
+			THW prohibit tourists to enter natural heritage sites.
+		R2
+			THBT National insurance policy should cover by-choice abortion.
+		R3
+			THW not allow those who have been wrongly accused of being gay to sue for defamation.
+		R4
+			THW ban aid agencies to take missionary act.
+	2012 Kanto Preliminary
+		R1
+			THBT national sporting teams should reflect the diversity of the national population.
+		R2
+			THW impose mandatory counselling for survivors of attempted suicide and their families
+		R3
+			THW require indigenous communities to send their children to school of modern education.
+		R4
+			THW prosecute suspects even if they are dead.
+		Break Rounds
+		OF
+			THW make development aid to African nations conditional on demonopolizing their major industries.
+		QF
+			THBT post war compensation should be given to victim rather than state.
+		SF
+			THBT Google should not self-sensor expression which causes violent backlash (such as Innocence of Muslims).
+		GF
+			THW establish truth and reconciliation commission to investigate sexual abuse within the Catholic church.
+	2011 Kansai Preliminary
+		R1
+			THW cancel 3rd world debt.
+		R2
+			THW allow the police to physically discipline children below the age of criminal responsibility.
+		R3
+			THW ban all political lobbyists.
+		R4
+			THW force Catholic church to allow marriage and sexual intercourse for priests without exception.
+	2011 Kanto Preliminary
+		R1
+			THW legalize prostitution in developing countries.
+		R2
+			THW use bribery records to disqualify political candidates.
+		R3
+			THBT mentally handicapped citizens are better cared for in the community than in institutions, when doctors believe both options are available.
+		R4
+			THBT Arabic nations should not sell oil to countries which deny religious freedom in public.
+		Break Rounds
+		OF
+			THW require unemployed citizens to conduct job hunting or job training to receive social welfare except for livelihood protection.
+		QF
+			THW allow the use of lethal force against intruders in defense of property.
+		SF
+			THBT EU should have the right to inspect and/or veto its member states’ economic policies, in which violation could lead to immediate exclusion from Eurozone.
+		GF
+			THW ban expressions which glorify assassination.
+	BP Novice 2010
+		R1
+			THW invade the Democratic People’s Republic of Korea (North Korea).
+		R2
+			THW ban homeschooling.
+		R3
+			THW prosecute sengoku38 for leaking state secrets.
+		R4
+			(Assuming that a placebo effect exists) THW allow doctors to lie to patients about their diagnosis/prognosis.
+		QF
+			THBT Afghanistan should be allowed to legally produce opium.
+		SF
+			THBT bullfighting should be stopped.
+		GF
+			THW not give medical treatment to attempted suicides.
