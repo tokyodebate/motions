@@ -14,23 +14,23 @@ Gemini Cup
 			THW require children in isolated communities to live outside their community for a few years.
 		R4
 			THBT progressive movements should not doxx
-			Info Slide: Doxxing is an internet-based practice of researching and broadcasting private or identifiable information (e.g. name, address, occupation etc.) about an individual or organization.
+				Doxxing is an internet-based practice of researching and broadcasting private or identifiable information (e.g. name, address, occupation etc.) about an individual or organization.
 			THR the exclusion of privileged minorities in minority discourse.
 			THR corporate participation in social justice issues (eg LGBTQIA +, Racial relations, Abortion)
 		OF
 			THBT Western liberal democracies should ban imports of consumer goods made by child labour.
 			THW require all sold products to clearly display their price in Dead Children Currency.
-			Info Slide: According to Population Services International, a respected charity research group, 1 dead child = $650-$1000. The dead child tends to refer to an African kid who died because you didn’t give it to charity.
+				According to Population Services International, a respected charity research group, 1 dead child = $650-$1000. The dead child tends to refer to an African kid who died because you didn’t give it to charity.
 			THW prohibit the use of automated weapon systems.
 		QF
 			THBT art related to LGBTQ+ should be exclusively created by LGBTQ+ artists.
 			THBT government should not fund contemporary art.
-			Info Slide: Contemporary art is known for the use of materials, methods, and subjects that challenge the strict boundaries of traditional aesthetics. It is characterized by great diversity and a lack of a uniform organizing principle.
+				Contemporary art is known for the use of materials, methods, and subjects that challenge the strict boundaries of traditional aesthetics. It is characterized by great diversity and a lack of a uniform organizing principle.
 			TH would allow the “Cultural Defence” in all criminal proceedings.
-			Info Slide: A “cultural defense” is a defense to the prosecution in criminal proceedings which claims that the defendant’s punishment for criminal conduct should be diminished because of the cultural differences. A “cultural defense” is often argued when the defendant had a minority background which holds values that are antithetical to the society at large.
+				A “cultural defense” is a defense to the prosecution in criminal proceedings which claims that the defendant’s punishment for criminal conduct should be diminished because of the cultural differences. A “cultural defense” is often argued when the defendant had a minority background which holds values that are antithetical to the society at large.
 		SF
 			TH, as the U.S., would “reform the police” rather than “defund the police”.
-			Info Slide: Reform the police is to transform the values, culture, policies and practices of police organizations so that police can perform their duties with respect for democratic values, human rights and the rule of law. Defund the police is to divest funds from police departments and reallocating them to non-policing forms of public safety and community support, such as social service, youth services, housing, education, healthcare and drug rehabilitation.
+				Reform the police is to transform the values, culture, policies and practices of police organizations so that police can perform their duties with respect for democratic values, human rights and the rule of law. Defund the police is to divest funds from police departments and reallocating them to non-policing forms of public safety and community support, such as social service, youth services, housing, education, healthcare and drug rehabilitation.
 			THW allow Japanese to opt out of the national pension system.
 			THBT economic development organizations(e.g. IMF and World Bank) should make aid conditional upon democratic reform (e.g. transparency in election, participation in voting).
 		GF
@@ -285,8 +285,8 @@ Gemini Cup
 			TH opposes peace education that uses shocking graphic images of victims of war
 			THBT universities in liberal democracies should not accept the children of the ruling elite of oppressive regimes
 		R4: So diverse,beyond the hands of adj core
-			Info slide: A plea bargain is any agreement in a criminal case between the prosecutor and defendant whereby the defendant agrees to plead guilty to a particular charge, disclose accomplices in a trial or cooperate for investigations in return for some concession from the prosecutor.
 			THW abolish plea-bargaining
+				A plea bargain is any agreement in a criminal case between the prosecutor and defendant whereby the defendant agrees to plead guilty to a particular charge, disclose accomplices in a trial or cooperate for investigations in return for some concession from the prosecutor.
 			THBT multinational corporation which operates in developing countries should abide by the environmental/labor standard of its country of origin
 		OF
 			THW prohibit credit rating agencies from denying legal liability for inaccuracy of their ratings
