@@ -205,7 +205,7 @@ World Universities Debating Championship
 			THBT liberal democracies that overthrow the governments of other states should impose power sharing even when this overrides or delays democratic representation.
 		ESL SF
 			THW severely limit companies ability to replace workers with technology
-			ESL Quarterfilans
+		ESL QF
 			THBT the African-American community should oppose “broken windows policies”
 				The broken windows theory describes the concept that substantial amounts of petty crime create that increase major crime. Many jurisdictions, including most famously New York State, have introduced policing policies in response; and respond to areas of high crime with substantial increase in police presence, arrest and prosecution rates for petty crime and harsher punishments.
 		EFL SF
