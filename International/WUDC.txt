@@ -1,0 +1,984 @@
+World Universities Debating Championship
+	Cape Town Worlds (2019)
+		R1
+			TH, as South Africa, would forcibly break up exclusive Afrikaner* enclaves. *Afrikaners are a white South African ethnic group descended from predominantly Dutch settlers
+		R2
+			THBT the protection of international law conventions and treaties should not apply to combatants from terrorist organizations (e.g. prohibition of torture, prisoners of war status, guarantee of post-conflict release)
+		R3
+			TH opposes the norm that romantic love should be the primary source of fulfilment in a person’s life.
+		R4
+			THBT the ongoing process of decolonisation should include actively disempowering religions that were imposed in the country during colonialism.
+				Decolonisation refers to the process of critiquing and moving away from value systems and influences that were imposed on countries during colonialism. Some examples include: removing statues of colonial figures e.g. Cecil Rhodes, prioritising indigenous narratives of history over colonial narratives, replacing colonial authors with local authors in curricula.
+		R5
+			THW implement substantial measures to impose long-termism in corporate investment culture (e.g. minimum holding periods for shares, yearly rather than quarterly financial reporting, long-term executive compensation plans).
+		R6
+			THS granting megacities autonomous control over their economic and social policy (e.g. immigration, health, criminal justice) with national taxation policy remaining under the control of the federal government. *Megacities = cities with a population of over 10 million people
+		R7
+			THW actively encourage women not to have children..
+		R8
+			THBT the United States should disengage from Syria.
+		R9
+			THBT developing countries should privatise their state-owned enterprises (e.g. airlines, railways, utility companies).
+		EFL SF
+			THW grant individuals and organisations open standing to challenging the constitutionality of laws enacted by their government.
+				In most legal systems, in order to initiate legal proceedings, potential plaintiffs must demonstrate that they are directly involved in the issues of a case in a way that is distinct from general members of the public. This means that an ordinary citizen cannot challenge a law as unconstitutional if they cannot prove that it has, or is imminently likely to, directly affect them. A doctrine of open standing would allow anyone to initiate legal proceedings in court. Plaintiffs would still need to demonstrate a valid legal argument. For example, under the status quo, new healthcare legislation which may increase many people’s premiums could not be challenged by a general member of the public. Under a doctrine of open standing it could be.
+		EFL GF
+			THBT it is unjustified to assist evil regimes in systematically persecuting members of their identity group in order to mitigate and moderate the regime’s abuses (e.g. Israel Kasztner in Nazi-controlled Hungary, Wang Jingwei in Japan-occupied China).
+		ESL QF
+			THW subsidise art that glorifies the working class
+		ESL SF
+			TH supports governments significantly increasing their use of big data-based predictive models in decision-making to replace human judgements (e.g. criminal justice policy, allocation of healthcare resources, housing development).
+		ESL GF
+			In the lead up to the 1994 negotiated settlement in South Africa, THBT the ANC should have demanded further concessions (e.g. removing the amnesty provision in the TRC, greater land and economic rights) even at the expense of prolonging the conflict.
+		Partial Double OF
+			THBT the WHO should adopt a convention which bans the sale of drugs with high resistance tendencies (e.g. antibiotics) to countries which do not comply with WHO guidelines regarding their medical and agricultural use.
+				Context slide: The World Health Organisation h conventions on various health topics, which can impose binding regulation on member states.
+		OF
+			THBT an approach of Political Expansionism on the part of the Chinese state is in the interests of the Chinese people.
+				For the purposes of this debate, “Political Expansionism” is an approach to international relations which involves exerting pressure over and intervening in the internal affairs of other states. It seeks to spread ideology and exercise influence over the political and information environments of the targeted countries through channels such as economic investment and backing political groups.
+		QF
+			TH supports a norm of embracing anger in public discourse rather than one of aspiring to dispassionate objectivity.
+		SF
+			THW impose a narrow banking regulation.
+				In the status quo, financial institutions use the money deposited by customers (e.g. in a bank account) to make loans and investments. Deposits could alternatively be used to buy government-back safe assets (e.g. treasury bonds), which tend to have the lowest risk of default of all assets. In this debate, an “equity account” would be an account where the financial institution can use deposits for loans and investments. The value of an equity account fluctuates based on the value of its underlying assets. A “narrow banking” regulation is the requirement that all financial institutions back up all deposits with an equivalent value of government-back safe assets, unless customers choose to deposit their money in an “equity account”.
+		GF
+			THBT the present condition of humanity is better than it would be in 100 years time.
+	38th Mexico Worlds (2018)
+		R1
+			THW ban all communication tech companies (such as Google, Apple, Facebook, Whatsapp, etc.) from encrypting their users data, including the content of their communications, in such a way that the company cannot retrieve that data even under a court order.
+		R2
+			TH supports job security legislation.
+				For the purpose of this debate, “job security legislation” refers to laws intended to make businesses fire employees less often. Its goal is to disincentives the termination of existing employees, whether the business employs an alternative individual to replace them or not. Examples of this legislation include, but are not limited to, increased severance pay and detailed cause requirements for terminating employment. Protections against discriminatory termination or similar laws do not fall under this term.
+		R3
+			THW redefine the criterion for excessive force in the US to be any use of beyond what is reasonable given all the facts of the case, including the benefit of hindsight (e.g. whether the individual had a gun, not whether it was reasonable to believe he had a gun).
+				The current criterion in the US as to whether a police offices used excessive force is whether he acted reasonably given his perspective at the time and without the benefit of hindsight. Academic research has shown that when using this criterion, juries consistently conclude that officers harming or killing black individuals acted reasonably in almost all circumstances.
+		R4
+			THW limit the amount of time that a museum can display a given piece of art to 3 months out of every 10 year period, rather than allow museums to display their works as long as they choose.
+				The art that you see in a museum typically comes from one of the following sources: i) that museum’s permament collection that’s always on display, ii) that museum’s permament collection that is mostly kept in storage and may occasionally be displayed (the largest museums usually display as little as 5% of their collections); iii) pieces lent to that museum on a temporary basis by another museum iv) pieces donated or lent by private individuals or institutions.
+		R5
+			THW allow citizens to vote on individual bills in place of their representative, with the representative retaining the voting power of those of their constituents who did not directly vote on that specific bill.
+		R6
+			THBT all states should mandate that research on and use of CRISPR technology be exclusively carried out by institutions funded entirely by the state.
+				CRISPR is currently the only existing technology that allows cheap, fast and targeted gene edition in living organisms. It potentially allows for heritable* changes, though so far very little research on such heritable changes in humans has occurred. * heritable changes are changes that can be passed on from parents to their children.
+		R7
+			TH, as Iran, would cease all support for military groups in the Middle East (e.g. Hezbollah, Hamas, Houthis, etc.).
+		R8
+			TH prefers a world in which all individuals who have achieved a middle class standard of living choose to pursue the highest level of achievement in their chosen career, rather than a wold in which those individuals priorities day-to-day enjoyment over work.
+		R9
+			THW not allow out of court settlements for workplace discrimination and harrasment.
+		PD-OF
+			THBT ASEAN should negotiate all investment deals with Chinese government entities as a bloc (with decisions made by majority vote of its members), so that no member state can enter into investment deals without the rest of the world
+			The Association of South East Asian Nations (ASEAN) is a regional intergovernmental organisation comprising of Southeast Asian states which promotes Pan-Asianism and greater economic integration within the ASEAN common market. There are 10 ASEAN member states, namely, Malaysia, Singapore, Myanmar, Thailand, Indonesia, Brunei, Philippines, Cambodia, Loas, & Vietnam.
+		ESL QF
+			TH, as the Chinese Communist Party, would lift all restrictions on foreign investments in China, except restrictions critical to national security
+			There are currently a number of restrictions on foreign entities investing in China. Such restrictions include, but are not limited to: government approval for large foreign investments in China; limitations on the proportion of certain sectors that can be owned by foreign entities; and foreign companies that enter China are required to do so in a 50% joint venture with a local firm.
+		OF
+			TH supports the court’s decision to acquit Tehlirian
+			Soghomon Tehlirian was an Armenian whose family was killed during the Turkish genocide against Armenians. In Berlin in 1921, Tehlirian assassinated Tallat Pascha, widely considered the main orchestrator of the Armenian genocide. Despite conclusive evidence of his guilt, a Berlin court decided to acquit Tehlirian and free him.
+		ESL SF
+			TH prefers a non-adversarial legal system
+			In an adversarial legal system (which is implemented in most countries), the prosecution and defense perform investigations, provide evidence, question witnesses and make legal arguments in an attempt to win the case, while the judge(s) are relatively passive observers and act as an impartial referee. In a non-adversarial legal system, the judge takes responsibility for most of the investigative process – questioning defendants and witnesses, ordering searches to be done – in an attempt to gather facts and look for any and all evidence in an impartial way. The prosecution and defense may be questioned by the judge, but have no control over the proceedings, and perform a minor role within the court.
+		EFL SF
+			THBT Catholic religious officials in Mexico should not make statements in support of governmental policies, political parties, or candidates.
+		QF
+			Individuals with Anti-Social Personality Disorder (ASPD), formerly known as sociopathy, have a highly reduced ability to feel empathy. People with ASPD do potentially have the ability to feel empathy, and, as with other emotions, their capacity to feel empathy can be increased based on exposure to certain experiences and relationships, yet is unlikely to reach what is considered a “normal” level.
+			TH, as a parent of a child of ASPD, would enable and support that child given that child’s aims based on their current psychological makeup, instead of trying to make them more empathetic
+		SF
+			THW create an international court with the ability to classify national debt as “odious debt” at the debtor nation’s request and remove the obligation of that nation to repay
+		ESL GF
+			In democratic post-colonial states, THBT opposition parties to the party of independence should claim and use the legacy of anti-colonial resistance.
+		GF
+			With a spare $1,000, one can provide (on average) a single child, who would otherwise have died in infancy, with a full and healthy life – for example, by donating to the distribution of insecticide-treated anti-malaria bed nets. Alternatively, one can (on average) increase the life expectancy of about 5 adults by 10 years – for example, by donating to the therapy for deadly acquired diseases in the developing world
+			THW rather save the list of a single child, over extending the life of 5 adults by 10 years
+	37th Dutch Worlds (2017)
+		R1
+			THBT post-genocidal regimes should destroy all places of extermination (for example, death camps).
+		R2
+			THW allow members of the armed forces to form labour unions
+		R3
+			THBT sports leagues should significantly tax and redistribute from wealthier teams to poorer teams
+		R4
+			In areas with rapidly rising property prices, THW suspend all restrictions on property development that are not health and safety requirements (for example, environmental zoning regulations, building height restrictions, and regulations on the appearance of buildings)
+		R5
+			THBT the Netherlands should allow citizens to purchase additional votes from the government at a cost proportional to their wealth (for example, one additional vote for 1% of wealth)
+				The Netherlands has a political system with many political parties in which no one party typically gets a majority of the vote. Seats in the parliament are allocated in proportion to the number of votes received by each party on a national level (‘proportional representation’). The government is formed by the coalition of parties that has a majority in the parliament.
+		R6
+			THB the world would be a better place if women from privileged backgrounds turned down any benefits arising from AA programs.
+		R7
+			THBT S Korea should produce nuclear weapons.
+		R8
+			THR the glamorization of start-up culture that encourages people to start own companies rather than puruse traditional career paths
+		R9
+			THW temporarily and significantly relax minimum labour standards in times of unusually high unemployment, including workplace health and safety standards, minumum wage, working hour restrictions etc.
+		Partial Double OF
+			THBT countries close to conflict zones should only grant long-term asylum to refugees who agree to one year of military service.
+		ESL QF
+			THBT the U.S. should provide campaign funding for federal and state confressmen and senators who score highly on bipartisan metrics*. *Info: Scores derived from instances of voting with the other party, co-sponsoring bills, etc., calculated by independent bodies.
+		Open OF
+			THW ban advocacy for religious belief in public places
+		ESL SF
+			TH, as the pope, would abolish the requirement for clerical celibacy.
+		EFL GF
+			THBT the European left should promote a hard left agenda, including the nationalisation of major industry, very high tax rates on wealthy, and expansion of the welfare states.
+		ESL GF
+			THW force all news organisations to operate as non-profits
+		Open SF
+			TH, as the Chinese Communist Party, will allow fair and competitive elections for local elections
+		Open GF
+			THW apply universal jurisdiction to crimes against the environment
+	36th Thessaloniki Worlds (2016)
+		R1
+			THW allow states to use mercenary forces in combat roles in active military operations.
+				Mercenaries are soldiers for hire outside of national armed forces. They can be hired either as individuals contracted by a state or through companies offering these services to a state.
+		R2
+			THW would prohibit private ownership of art deemed to be culturally or historically significant
+		R3
+			THBT all states should collectively aggregate and evenly distribute all revenue from mineral wealth globally on a per capita basis
+		R4
+			THBT governments with racially diverse populations should never record the ethnic or racial background of their residents.
+		R5
+			TH believes the US should withdraw from East Asia and cede regional hegemony to China.
+		R6
+			THBT states should adopt sunset clauses that legally force them to review and either re-authorize or revise their constitutions every generation.
+				A sunset clause is a legal measure that provides that the law in which it is contained shall expire after a specific date, unless further action is taken to extend it.
+		R7
+			TH supports stronger collective bargaining rights and protections rather than legislated labor market regulations (e.g., wage levels and working conditions)
+		R8
+			THBT the creation of feminist icons and their cults of personality are good for the feminist movement
+		R9
+			THBT that criminal punishments should be based only on the offenders’ culpability rather than the damages caused by the criminal act or other outcomes derived from the punishment.
+				Culpability is a measure of the degree to which a person can be held morally responsible for an offense.
+		Open Partial Double
+			TH regrets mainstream commercial films that depict historical subjugation and/or crimes agains humanity.
+		Open OF
+			TH would nationalize all systemically important financial institutions such as banks and insurance companies.
+		Open QF
+			TH supports the establishment of a Black secessionary state within the territory of the United States, the founding of which is supported by the American government.
+		Open SF
+			THBT non-western countries who were once colonized, when fabricating the material culture of national identity (anthems, street names, holidays, flag, etc.) should privilege pre colonial history and notions of indigeneity over themes of anti colonial resistance.
+		Open GF
+			THB that the world’s poor would be justified in pursuing complete Marxist revolution.
+		ESL QF
+			THW prefer a world in which extremely wealthy people in Western liberal states donate excess money to their governments rather than to charities.
+				The Giving Pledge is a campaign founded by Bill Gates Warren Buffett to encourage the extremely wealthy to donate the majority of theIr wealth to charity. In addition to its founders, the Pledge has been signed by prominent individuals including Mark Zuckerberg, Elon Musk, Bill Ackman and Paul singer
+		ESL SF
+			THB the West should prioritize stability over exporting democracy in foreign policy.
+		ESL GF
+			TH supports the decline of the nations-state’s power in an increasingly globalized world.
+		EFL SF
+			Room 1: TH would retrospectively criminalise excessively risky management practises for economically significant corporations and prosecute the executive responsible for them.
+			Room 2: THBT the IMF and World Bank should pay reparations to countries adversely affected by structural adjustment policies.
+		EFL GF
+			THB that campaigners for refugee protection should not use pictures displaying the graphic suffering of refugees as part of their advocacy.
+	35th Malaysia Worlds (2015)
+		R1
+			TH regrets the decline of tightly integrated families.
+		R2
+			THBT environmental movements should support climate engineering that fundamentally alters the environment, in an attempt to combat Global Warming.
+				Climate engineering is a deliberate and large-scale intervention in earth’s climatic system in an effort to combat Global Warming. Climate engineering may take many forms; Examples include, but are not limited to, planting large forests where none previously existed, fertilizing the ocean with iron to dramatically increase the population of algae, and increasing cloud coverage so less sunlight reaches earth’s suface.
+		R3
+			THBT in areas of socio-economic deprivation, schools should train students in vocational skills to the exclusion of the Liberal Arts.
+		R4
+			THW prohibit the media from reporting on the mental illness of those accused of crimes.
+		R5
+			THBT the international community should cut off internet access in Syria.
+		R6
+			THBT developing countries should adopt economic development policies that heavily disincentivise urbanisation.
+		R7
+			THW ban the research and production of moral enhancement drugs.
+				Over the last decade, scientists have identified a range of chemicals that exist naturally in the brain and shape individuals’ moral behaviour. Significant amounts of research is now being carried out to create “moral enhancement drugs”, which would alter the levels of such chemicals. Such drugs have been shown to increase individuals’ tendencies to display empathy and care for others, to behave in altruistic way, and to resist pressures to act in ways that violate their personal ethical beliefs.
+		R8
+			THBT the United States and the European Union should seek to promote peace by heavily subsidising Israeli businesses who invest in the Palestinian territories.
+		R9
+			TH, as a medical professional employed by the United States military or security services, would, and would encourage others, to refuse orders to provide medical treatment to individuals undergoing “Enhanced Interrogation Techniques”.
+		Open partial double OF
+			THW allow corporations to use hackers to retaliate against cyberattacks where the state seems unwilling or unable to do so.
+		Open OF
+			THBT disadvantaged groups should emphasise their conformity with, rather than distictiveness from dominant culture; as a strategy for improving their social position.
+		Open QF
+			TH regrets the decline of secular pan-Arab nationalism.
+		Open SF
+			THBT all states should create special economic zones in cities, where all economic activities (except the purchase of goods and services) are carried out by women.
+		Open GF
+			THBT humanitarian organisations should and should be allowed to give funding, resources or services ti illegal armed groups when this is made a condition for access to vulnerable civilians.
+		ESL GF
+			THBT liberal democracies that overthrow the governments of other states should impose power sharing even when this overrides or delays democratic representation.
+		ESL SF
+			THW severely limit companies ability to replace workers with technology
+			ESL Quarterfilans
+			THBT the African-American community should oppose “broken windows policies”
+				The broken windows theory describes the concept that substantial amounts of petty crime create that increase major crime. Many jurisdictions, including most famously New York State, have introduced policing policies in response; and respond to areas of high crime with substantial increase in police presence, arrest and prosecution rates for petty crime and harsher punishments.
+		EFL SF
+			THW ban its citizens from visiting iliberal states whose economies depend on tourism.
+	34th Chennai Worlds (2014)
+		R1
+			THBT the United States of America should fund moderate Madrassas (schools of Islamic study) throughout the Islamic world
+		R2
+			THW allow first-time offenders to, with the consent of the victims, pay compensation to them in place of a prison sentence
+		R3
+			TH regrets the rise of a ‘hookup culture’ (one which accepts and encourages casual sexual encounters focused on physical pleasure, without necessarily including emotional bonding)
+		R4
+			THBT developing countries should ban members of political dynasties from standing for elected office
+		R5
+			THBT the Trans-Pacific Partnership is in the interests of the small and medium-sized negotiating countries.
+				A number of countries are currently negotiating to establish the world’s largest free trade area by comprehensively liberalising trade in the Asia-Pacific region. This proposed agreement, known as the Trans-Pacific Partnership (TPP), would include US, Japan, Australia, Vietnam, Mexico, Chile, Canada, Singapore, Malaysia, New Zealand, Peru, and Brunei. China is NOT included in these negotiations.
+		R6
+			THW make the receipt of welfare payments to raise children conditional on the use of long-term, but reversible, contraception
+		R7
+			THBT government agencies that regulate drugs should only test whether a drug is safe, not whether it is effective, before approving it for public use
+				Generally, government agencies responsible for regulating drugs (for example, the Food and Drug Administration, or the European Medicines Agency) require that a new drug pass two different tests before being approved for public use. These separate tests assess whether a drug is 1.safe: does the drug pose an unacceptable health risk? 2.effective: does the drug do wht it claims to do?
+		R8
+			THBT NATO should unconditionally offer membership to the states of the former Soviet Union, excluding Russia
+		R9
+			TH regrets the commodification of indigenous cultures
+		EFL SF
+			THBT the gay rights movement should abandon the claim that sexuality is not a choice
+		EFL GF
+			THBT multinational companies should be liable for human rights abuses that occur anywhere in their supply chain
+		ESL QF
+			THW remove all copyright protection for material deemed to be morally objectionable
+		ESL SF
+			THBT Pope Francis should publicly encourage Catholics to support radically redistributive government policies
+		ESL GF
+			THW allow countries to pay other countries to settle asylum-seekers who reach their borders
+		OPEN PARTIAL DOUBLE OF
+			THW abolish gated communities in the developing world
+		OPEN OF
+			THBT Japan should shame its soldiers who participated in WWII, including those who did not commit war crimes themselves
+		OPEN QF
+			THW auction off the long-term right to govern bankrupt cities for profit
+		OPEN SF
+			THBT women should reject practices that alter the appearance of their genitalia, such as waxing and labiaplasty
+		OPEN GF
+			THBT India should adopt aggressive free market policies, including but not limited to deregulating of labour markets, allowing foreign investment and privatising state owned enterprises
+		MASTERS R1
+			THB that the feminist movement should actively fight to liberate men from their prescribed gender roles
+		MASTERS R2
+			THW redraw the borders of Africa
+		MASTERS GF
+			THW never categorize people by their race
+	33rd Berlin Worlds (2013)
+		R1
+			THW create public housing for the poor in wealthy areas
+		R2
+			THBT Japan should acquire nuclear weapons
+		R3
+			THW only imprison individuals who pose a direct and continuing threat to society
+		R4
+			THBT International development institutions (such as the World Bank) should not finance natural resource extraction projects in corrupt states
+		R5
+			THBT self described progressive males of dominant ethnicities are morally obliged to refrain from taking positions of responsibility where there is a qualified alternative candidate from a historically disadvantaged group who would otherwise receive the post
+		R6
+			THW legally permit soldiers to refuse to participate in military actions or missions on the basis of conscience
+		R7
+			THBT European Union nations should forgive Greece’s sovereign debt
+		R8
+			THBT countries with booming populations should allocate every adult a single tradable permit to have a child
+		R9
+			THW ban political parties and require all candidates for national public office to seek election as independents
+		EFL QF
+			THBT publicly funded universities should be required to reduce enrolment in degree programs within their university that have statistically poor employment outcomes
+		EFL SF
+			THBT policies that may have significant environmental consequences should be subject to a veto by a ‘supreme court’ of scientific experts
+		EFL GF
+			TH welcomes the decline of the United States of America as the sole global super power.
+		ESL QF
+			THBT publicly funded universities should be required to reduce enrolment in degree programs within their university that have statistically poor employment outcomes
+		ESL SF
+			THBT the feminist movement should actively promote norms of stable monogamous relationships
+		ESL GF
+			THBT representative democracies with large numbers of foreigners living in their territory (on temporary or permanent basis) should create specific seats to represent them in parliament.
+		Partial Double OF
+			THBT universities should never prohibit research or teaching on the grounds of sexist, racist or otherwise discriminatory implications
+		OF
+			THBT the US should cut off military aid to Egypt
+		QF
+			THW ban all advertising of consumer goods and services
+		SF
+			TBHT the WTO should never allow nations to place export restrictions on food, rare-earth metals, and other non-oil commodities
+		GF
+			THW not allow religious communities to expel members on the basis of views or actions that contradict doctrinal teachings
+	32nd De La Salle Worlds 2012
+		R1
+			THW make fathers take paternity leave
+		R2
+			THW prevent politicians from making fact claims, that, while not technically lies, are substantially misleading to voters
+		R3
+			THW force large companies who leave an area to pay the costs of any resulting structural unemployment
+		R4
+			THW require individuals to donate all their wealth, above 5 million USD, to philantrophic projects
+		R5
+			THW require deaf parents to send their children (deaf or hearing) to mainstream schools for their primary and secondary education
+		R6
+			TH supports politicians who pass progressive legislation, even where this is contrary to the wishes of the democratic electorate
+		R7
+			TH supports the free movement of labour worldwide
+		R8
+			THW exempt academic disputes from defamation law
+		R9
+			THW ban all private healthcare in favor of a comprehensive public healthcare system
+		OF
+			THW not allow a single media company to own multiple TV channels or newspapers (whether in print or online)
+		QF
+			THBT “Western” consultants advising dictatorships have a moral duty to sabotage them
+		SF
+			THBT images designed to even slightly sexually attract/aroused viewer should be restricted to specialist adult shot/xxx domain
+		GF
+			TH support nationalism
+		ESL QF
+			THW limit government ministers’ standard of living to that of someone no the current median wage
+		ESL SF
+			In countries with few female politicians, THB it is good to have a politically active ‘first lady’
+		ESL GF
+			THS scientist who fabricate evidence exaggerating certainty of man-made climate change where theres low likelihood of being caught
+		EFL SF
+			THBT when doctors discover a patient has a sexual transmitted disease, they should reveal that information to the patients partner
+		EFL GF
+			THBT public education system should raise the aspiration of children from disadvantaged backgrounds yoned that which it is realistic to expect them to achieve
+		Masters R1
+			THW end all public funding for post secondary education and use the money to give everyone an equal loathsome payment on their 18th birthday to use how they see fit
+		Masters R2
+			THW grant financial support for female politician running for office especially when the incumbent is male.
+		Masters GF
+			THBT the developing world should sell their unoccupied land to companies,let that company build cities on them, that can operate outside the law of that state.
+		Women’s Night
+			THW only sell porn for women made by wmen.
+	31st Botswana Worlds 2011
+		R1
+			THBT national sporting teams should reflect the diversity of the national population.
+		R2
+			THBT all states have a right to nuclear weapons.
+		R3
+			THBT governments should not provide benefits on the basis of marital status.
+		R4
+			THBT central banks should set limits on government spending.
+		R5
+			This wouse would prioritise asylum Seekers who have engaged in armed struggle against oppressive regimes.
+		R6
+			This wouse would allow teachers unions the right to strike.
+		R7
+			This wouse would require individuals to reveal their actual identity when communicating on the internet.
+		R8
+			THBT the southern african development community (SADC) should pursue political union.
+		R9
+			THBT social movements should use the courts rather than the legislature to advance social change.
+		OF
+			This wouse would buy countries votes in nternational organizations.
+		QF
+			THBT courts should not enforce wills that discriminate on the basis of race.
+		SF
+			TH opposes organised religion.
+		GF
+			This wouse would invade Zimbabwe.
+		EFL SF
+			TH supports a one state solution for the Israeli-Palestinian conflict.
+		EFL GF
+			This wouse would give more votes to the poor.
+		ESL QF
+			THBT domestic courts should try foreign nationals who commit war crimes abroad.
+		ESL SF
+			This wouse would prefer that the children of racial minorities be adopted by parents of that race.
+		ESL GF
+			THBT the courts should break up consistently dominant political parties.
+		Masters R1
+			This wouse would buy local.
+		Masters GF
+			TH prefers a philosopher King to a tyrannical democracy.
+	30th Koc Worlds 2010
+		R1
+			THW ban labor unions.
+		R2
+			THBT developing nations should pay for the full tuition of female university students.
+		R3
+			THW financially incentivise both inter-faith and inter-ethnic marriages.
+		R4
+			THW prohibit high-ranking members of the Sri Lankan military and the Tamil Tigers from participating in elections.
+		R5
+			THW abolish the taxes on alcohol and cigarettes that go beyond normal sales taxes.
+		R6
+			THW prosecute communities for complicity in honour killings.
+		R7
+			THW grant those diagnosed with terminal illnesses the right to access treatments that have not completed clinical testing.
+		R8
+			THW partition Sudan.
+		R9
+			THW ban all pornography.
+		OF
+			THBT the West should recognise the Dalai Lama.
+		QF
+			THW ban all procedures designed to alter racial appearance.
+		SF
+			THBT the U.S. government should subsidize twitter to liberalize oppressed societies.
+		GF
+			THBT the media should show the full horror of war.
+			ESL
+		QF
+			THW ban any scheme intended to “cure” homosexuality.
+		SF
+			THW allow prisoners to raise their babies behind bars.
+		GF
+			THW prohibit expression that portrait convicted war criminals in a positive light.
+		EFL SF
+			THW use faith-based rehabilitation in prisons.
+		EFL GF
+			THBT democratic states should own their own broadcasting corporations.
+		Masters R1
+			THW require individuals who had cosmetic surgery to disclose it to anyone whom they wish to have baby with.
+		Masters R2
+			THBT Robots are winning.
+		Masters GF
+			THW push the button.
+	29th Cork Worlds 2009
+		R1
+			THW ban all forms of gambling.
+		R2
+			THW fire the senior managements of all corporations which receive government bailouts.
+		R3
+			THW allow soldiers to sue their government for negligence.
+		R4
+			THW force the religious desegregation of Northern Irish schools.
+		R5
+			THBT China and India should bear the same obligations as the West in fighting climate change.
+		R6
+			THW criminalise adultery.
+		R7
+			THBT the west should recognise the independence of Abkhazia.
+		R8
+			THW apply a lower rate of income tax to women.
+		R9
+			THW ban the publication of political opinion polls.
+		OF
+			THW arm local militia to fight the Taliban in Afghanistan.
+		QF+ESL SF
+			THBT the International Criminal Court should prosecute crimes against the democratic process.
+		EFL GF
+			THW prohibit all private health care.
+		SF
+			THBT governments should subsidise private home ownership.
+		ESL GF
+			THW implement quotas for domestic players in national football leagues.
+		GF
+			THW ban abortion at all stages of pregnancy.
+		Masters GF
+			THBT the end of capitalism is nigh.
+	28th Assumption Worlds 2008
+		R1
+			THW allow the use of torture.
+		R2
+			THBT Taiwan should declare independence now.
+		R3
+			THW not allow local government to pay for the relocation of homeless people.
+		R4
+			THBT the European Union should only direct aid to nations that pursue environmentally sustainable development.
+		R5
+			THBT every criminal defendant should be required to use a government provided defense lawyer.
+		R6
+			THW subject foreign political contributions to greater restrictions than domestic contributions.
+		R7
+			THW assassinate Vladimir Putin.
+		R8
+			THBT governments should never rescue failing private industry.
+		R9
+			THW deny scarce medical resources to terminally ill patients.
+		ESL OF
+			THW support the use of mercenaries by the United Nations.
+		OF
+			THBT governments in the developing world should invest in sex tourism.
+		QF+ESL OF
+			THW force religious adoption agencies to place children with homosexual couples.
+		ESL SF
+			THW require doctors to report all cases of suspected domestic violence.
+		SF
+			THBT extreme economic need should be grounds for asylum.
+		EFL GF
+			THW eliminate all non state-run schools.
+		ESL GF
+			THBT the Turkish military should stop enforcing the separation of church/mosque and state.
+		GF
+			THBT people who give HIV to others must pay drug support.
+		Masters R1
+			TH regrets the passing of Bhutto.
+		Masters R2
+			THW stop the search for the gay gene.
+		Masters R3
+			THW let them eat whale.
+		Masters GF
+			THW put an age limit on debating.
+	27th UBC Worlds 2007
+		R1
+			THW ban government funding of religious schools.
+		R2
+			THBT the UK should abolish its nuclear arsenal.
+		R3
+			TH supports accelerated land redistribution in South Africa.
+		R4
+			THW criminalize the payment of ransom.
+		R5
+			TH supports independence for Quebec.
+		R6
+			THW abolish all taxes on inherited wealth.
+		R7
+			THW support regime change in Myanmar/Burma.
+		R8
+			THW ban cosmetic surgery.
+		R9
+			THW grant citizenship in exchange for military service.
+		ESL SF
+			THB all serious crimes should be trialed by jury.
+		ESL GF
+			THBT politicians have a right to a private life.
+		EFL GF
+			THW lift sanctions on Iran.
+		OF
+			THBT developing nation should nationalize their energy resources.
+		QF
+			THBT people sentenced to life imprisonment should be allowed to choose the death penalty instead.
+		SF
+			THW ban websites that glorify eating disorders.
+		GF
+			THBT economic growth is the solution to climate change.
+		Masters R1
+			THW designate one city to permanently host the Olympics.
+		Masters R2
+			THBT governments should provide heroin addicts with safe injection facilities.
+		Masters GF
+			TH supports a 35 hour working week.
+	26th Dublin Worlds 2006
+		R1
+			THW grant an amnesty to all illegal immigrants currently in the United States.
+		R2
+			THBT the Catholic Church should allow the use of condoms in the fight against HIV/AIDS in Africa.
+		R3
+			THBT West should end military cooperation with Pakistan until it holds free presidential elections.
+		R4
+			THW prohibit women over the age of 45 years from undergoing assisted human reproduction.
+		R5
+			THW give Japan a permanent seat on the United Nations Security Council.
+		R6
+			THW not allow intelligent design to be included in the school science curriculum.
+		R7
+			THW recognise a legally enforceable right to a minimum standard of living.
+		R8
+			TH supports the creation of an independent state for the Iraqi Kurds.
+		R9
+			TH supports indigenous persons convicted of a crime being sentenced by their community and not the courts.
+		ESL SF
+			THW abandon the civilian use of nuclear power.
+		ESL GF
+			THBT European Governments should pay parents to have children.
+		OF
+			THBT international law should recognise the right of each state to unilaterally undertake armed humanitarian intervention.
+		QF
+			THW permit legislating by citizen initiated referenda.
+		SF
+			THW prohibit speeches that incite hatred.
+		GF
+			THW abolish all laws prohibiting cruelty to animals.
+	25th MMU Worlds 2005
+		R1
+			THW compel HIV infected people to disclose their disease to their sexual partners.
+		R2
+			THBT EU should open its doors to North Africa.
+		R3
+			THW not teach vocational studies at University.
+		R4
+			THW positively discriminate women in the armed forces.
+		R5
+			THBT outsourcing is good for the developed and developing nations.
+		R6
+			THW have harsher sentences for celebrity criminals.
+		R7
+			THBT anti-terrorism is the new McCarthyism.
+		R8
+			THW expand NAFTA into South America.
+		R9
+			THW prioritise organ donations to those who have lived a healthy lifestyle.
+		OF
+			THB it is time for an ASEAN parliament.
+		QF
+			THBT mentally handicapped people are better cared for in the community than in institutions.
+		SF
+			THW use gambling to rejuvenate depressed economic zones.
+		GF
+			TH supports corporal punishment in schools.
+	24th Singapore Worlds 2004
+		R1
+			THW try Saddam Hussein before an international tribunal.
+		R2
+			TH supports all forms of child labour.
+		R3
+			THB environmentalists should use terrorism in support of their goals.
+		R4
+			THB students all round the world should be taught in English.
+		R5
+			THW tie World Bank aid to women’s rights.
+		R6
+			THW make the release of child sexual abusers conditional on chemical castration.
+		R7
+			THB only African countries should be peacekeepers in African conflicts.
+		R8
+			THW use international sporting events for political change.
+		R9
+			THW ban religious symbols in state schools.
+		ESL SF
+			TH prefers regional trade agreements to the WTO.
+		ESL GF
+			THBT Japanese armed forces should fight in foreign lands.
+		OF
+			THW support regime change in Iran.
+		QF
+			THB parents should cast proxy votes for their children.
+		SF
+			THB war journalists should be forced to reveal their sources in international criminal tribunals.
+		GF
+			THW ban the abortion of fetuses on the grounds of their permanent disability.
+	23rd Stellenbosch Worlds 2003
+		R1
+			TH fears an expanded Europe.
+		R2
+			THW return land to its original owners.
+		R3
+			THBT AIDS drugs should be freely available to all.
+		R4
+			THBT the media is the West’s most effective weapon.
+		R5
+			THBT harmony is more important than diversity.
+		R6
+			THBT environmentalism in the Third World is the responsibility of the First World.
+		R7
+			THBT the West should accept the democratic decision of the people of Zimbabwe.
+		R8
+			THBT the US should be answerable to TRCs (Truth & Reconciliation Commissions) in South America.
+		R9
+			THBT Sharon should stand with Milosovic.
+		ESL SF
+			TH supports compulsory military service.
+		ESL GF
+			THW make population control a pre-requisite of aid.
+		OF
+			THBT tobacco companies should have social responsibilities.
+		QF
+			THB in the absolute right of the patient.
+		SF
+			THBT globalization is imperialism repackaged.
+		GF
+			THBT the world has learned nothing from 9/11.
+	22nd Toronto Worlds 2002
+		R1
+			THW bail out failing industries.
+		R2
+			THBT making Yassar Arrafat a partner in peace was a mistake.
+		R3
+			THBT the west should treat state sponsored sexism as aparthide.
+		R4
+			THBT the WTO is the friend of the developing world.
+		R5
+			THW force feed anorexics.
+		R6
+			THBT political assassinations are a legitimate tool of foreign policy.
+		R7
+			TH supports domestic content quotas in broadcasting.
+		R8
+			THBT the sexual history of rape victime should be admissible in court.
+		R9
+			THBT US foreign policy is responsible for September 11.
+		ESL SF
+			THBT prisoners have no right to vote.
+		ESL GF
+			THBT the Nobel Prize proves that the UN has a strong role to play.
+		OF
+			THW extradite accused criminals to face the death penalty.
+		QF
+			TH supports surrogacy for profit.
+		SF
+			THBT civil liberties must be restricted in the interests of security.
+		GF
+			THW ban prisoners publishing accounts of their crimes.
+	21st Glasgow Worlds 2001
+		R1
+			THW ban criminals from voting.(Cancelled due to mis times announcement)
+		R1b
+			THW give Europe its own Army.
+		R2
+			THW put a speed limit on human traffic.
+		R3
+			THW company directors criminally liable for the wrongs of their company.
+		R4
+			THB the US should get out of the Middle East.
+		R5
+			THW make pollution a tradable commodity.
+		R6
+			THW remove patents on pharmaceutical drugs from the 3rd world.
+		R7
+			THBT the WTO should grant exemptions to developing nations.
+		R8
+			THW ban performance enhancing drugs in sport.
+		ESL SF
+			THW keep peacekeepers out of civil wars.
+		ESL GF
+			THBT a language which needs proteting isn’t worth protecting.
+		OF
+			THW outlaw genetic discrimination.
+		QF
+			TH supports a one child policy.
+		SF
+			THW make reparations for slavery.
+		GF
+			THW elect its judges.
+		Masters QF
+			THW censor hate.
+		Masters SF
+			THBT the rights of the child are paramount.
+		Masters GF
+			THW squeeze the rich until the pip squeaks.
+	20th Sydney Worlds 2000
+		R1
+			THBT election campaigns should be fully financed by the state.
+		R2
+			TH demands work for welfare.
+		R3
+			THW alter its genetic code.
+		R4
+			THW put worker’s rights before trade rights.
+		R5
+			THW have lots of sex.
+		R6
+			THW ignore the war in Chechnya.
+		R7
+			THB religious doctrines are more important than women’s rights.
+		R8
+			TH likes its environmentalists radical.
+		R9
+			THW put corporate profits before individual privacy.
+		OF
+			That Asia should take the liberal path.
+		QF
+			THW shut down Macdonalds.
+		SF
+			THB the IMF is the British Empire of today.
+		GF
+			THB Marx would have approved of the internet.
+		Masters R1
+			THW club baby seals.
+		Masters SF
+			That women should apply lipstick.
+		Masters GF
+			TH favours positive discrimination.
+	19th Manila Worlds 1999
+		R1
+			TH supports the bombing of Iraq.
+		R2
+			THB globalization marginalises the poor.
+		R3
+			THB the father should be present at conception.
+		R4
+			THB ASEAN should rally behind Anwar.
+		R5
+			THB art should be free from censorship.
+		R6
+			THB democracy is the best way forward for Russia.
+		R7
+			THB religious leaders should listen to opinion polls.
+		R8
+			THW rehabilitate criminals.
+		R9
+			THBT federalism will not work for Europe.
+		OF
+			THBT old dictators should not have to face the music.
+		QF
+			THBT media is more powerful than the government.
+		SF
+			THW get US bases out of Asia.
+		GF
+			THB Nethanyahu is the biggest obstacle to peace in Israel.
+		Masters R1
+			THW support global nuclear disarmament.
+		Masters SF
+			THBT child labour is necessary in developing countries.
+		Masters GF
+			THBT a celibate priest is an unhappy priest.
+	18th Athens Worlds 1998
+		R1
+			THB in economic policy before social policy.
+		R2
+			THW look to the East.
+		R3
+			THW put an immediate ban on land mines.
+		R4
+			THB he who controls information technology controls the world.
+		R5
+			THBT the glass is half full.
+		R6
+			THBT marriage is an outdated institution.
+		R7
+			THBT environmentalism is mostly hot air.
+		R8
+			THBT liberty should be rationed.
+		R9
+			THW protect the rights of smokers.
+		OF
+			THB we should leave nation states to the scrap yard of history.
+		QF
+			THBT the Olympic Games should come home for good.
+		SF
+			THW give national treasures back to its people.
+		GF
+			THBT humanitarianism is a first world affectation.
+	17th Stellenbosch Worlds 1997
+		R1
+			THBT developing nations need strong dictatorship.
+		R2
+			THW legalize prostitution.
+		R3
+			TH has an unhealthy obsession with sport.
+		R4
+			THBT the U.S. is more sinned against than sinning.
+		R5
+			THW let the information superhighway run free.
+		R6
+			THBT fanaticism works.
+		R7
+			THW allow same-sex couples to adopt children.
+		R8
+			TH will regret the trade bloc.
+		R9
+			THBT the Truth and Reconciliation Commission is a weak response.
+		ESL GF
+			THBT there is no such thing as universal human rights.
+		OF
+			TH supports privatization
+		QF
+			THW adopt quotas.
+		SF
+			THBT one man’s terrorist is another man’s freedom fighter.
+		GF
+			THW legalize all drugs.
+	16th Cork Worlds 1996
+		R1
+			THW put pragmatism before its principles.
+		R2
+			THW test nuclear weapons.
+		R3
+			THW rebuild the Berlin Wall.
+		R4
+			THW sacrifice economic growth for the good of the environment.
+		R5
+			THW give racists a platform.
+		R6
+			THW make the blood of the patriarchy run in the streets. (enforced humour round)
+		R7
+			THW heed its priests.
+		R8
+			THBT developing nations should adopt Western feminism.
+		R9
+			THB in trial by jury.
+		OF
+			THW reject big government.
+		QF
+			THBT the melting pot has failed.
+		SF
+			THW let the language die.
+		GF
+			THBT strong dictatorship is better than weak democracy.
+	15th Princeton Worlds 1995
+		R1
+			THW plan for peace by preparing for war.
+		R2
+			TH has more to fear than to hope from genetic engineering.
+		R3
+			THW open its doors to the world.
+		R4
+			THBT the separation of church and state has gone too far.
+		R5
+			THBT the United Nations belongs on the ash-heap of history.
+		R6
+			THBT American culture is an oxymoron. (enforced humour round)
+		R7
+			THBT capitalism is a dead end.
+		R8
+			THB economic sanctions should not be used to influence domestic policy.
+		R9
+			THBT the government that governs least, governs best.
+		OF
+			TH supports the statement, “Yankee Go Home!”
+	14th Melbourne Worlds 1994
+		R1
+			THBT right is more important than peace.
+		R2
+			THBT political correctness is the new McCarthyism.
+		R3
+			THBT space exploration can no longer be justified.
+		R4
+			THBT Islam has had a bad press.
+		R5
+			THBT the blood of East Timor is on Australia’s hands.
+		R6
+			THBT there is in this age a dearth of heroes.
+		R7
+			THBT feminism should give way to multiculturalism.
+		R8
+			THBT the West will regret free trade.
+		R9
+			THBT cricket is to sport as Rolls-Royce is to motorcars. (enforced humour round)
+		OF
+			THBT the state of the union is stuffed.
+		QF
+			THW support affirmative action.
+		SF
+			THBT the Pope should get married.
+		GF
+			THBT Machiavelli is the way to go.
+	12th Dublin Worlds 1992
+		R1
+			THW support positive discrimination.
+		R2
+			THW support the right to strike.
+		R3
+			THBT sex kills romance.
+		R4
+			THBT freedom of the individual is a myth.
+		R5
+			Short men cast long shadows while the sun sets.(enforced humour round)
+		R6
+			TH reveres the memory of the British Empire.
+		R7
+			THW out-closet homosexuals.
+		R8
+			TH rejects consensus.
+		R9
+			THW abolish capital punishment.
+		OF
+			The problems of the nation are better solved by the private sector than by government.
+		QF
+			THW give land for peace.
+		SF
+			A Federated Europe will protect the weak from the strong.
+		GF
+			Nationalism is a hangover from history.
+	11th Toronto Worlds 1991
+		R1
+			The state has no place in the bedrooms of the nation.
+		R2
+			Kuwait should be freed by military force.
+		R3
+			Freedom of the press is limited to those who own one.
+		R4
+			All evils are equal when they are extreme.
+		R5
+			Democracy is the bludgeoning of the people, by the people, for the people.
+		R6
+			TH condemns the war on drugs.
+		R7
+			THW kiss the sky.
+		R8
+			Environmentalism will go the way of the hula hoop.
+		R9
+			To die for an idea is to set a rather high price for conjecture.
+			THW not dare lift the veil.
+	1st Glasgow Worlds 1981
+		R1
+			THBT violence is legitimate political expression.
+		R4
+			THBT the developed world has failed the underdeveloped.
+		GF
+			TH regrets living in the nuclear age.
