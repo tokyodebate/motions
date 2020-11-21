@@ -124,7 +124,8 @@ World Schools Debating Championships (WSDC)
 			 THW not consume art created by people who have committed deeply immoral acts.
 		R5
 			 THBT cities with significant immigrant populations should actively break up ethnic enclaves.
-R6. THW ban political opinion polls.
+		R6
+			THW ban political opinion polls.
 		R7
 			 TH supports a right to die.
 		R8
