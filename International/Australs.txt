@@ -1,4 +1,4 @@
-Motions for the Australs
+Australasian Intervarsity Debating Championships
 	Bali Australs 2019
 		R1
 			That the United States should adopt a single payer insurance scheme instead of offering a public option in the private insurance market.
@@ -715,7 +715,7 @@ Motions for the Australs
 			That industrialized nations should be forced to accept climate change refugees.
 			That states should remove all restrictions against the immigration of HIV-infected people.
 			That medical workers from developing countries should not be allowed to migrate to the developed world.
-			ESL Final: Energy
+		ESL GF: Energy
 			That the price of petrol should be determined entirely by the market.
 			That we would drill for oil in the arctic circle.
 			That the production of non-hybrid cars should be stopped.
@@ -790,7 +790,7 @@ Motions for the Australs
 			That male circumcision should be banned.
 			That we should decriminalize prostitution in Southeast Asia.
 			That cock fighting should be banned.
-			ESL Final: GENDER
+		ESL GF: GENDER
 			That we should legalise abortion in Southeast Asia.
 			That there should be gender quotas for Executive positions in Fortune 500 companies.
 			That doctors should be required to report suspected cases of domestic violence.
@@ -845,11 +845,11 @@ Motions for the Australs
 			That Australia should compromise the legal protections of asylum seekers to appease Indonesia.
 			That East Asia should adopt a common history textbook.
 			That politicians must relinquish all control over family-owned assets to global investment banks.
-			ESL Final
+		ESL GF
 			That we should end affirmative action in Malaysia.
 			That governments should fund development aid and not disaster relief.
 			That we would introduce hard labour for criminals in the developed world.
-			Final
+		GF
 			That we should criminalise the payment of dowry.
 			That it should be legitimate to use aid to buy votes in international organisations.
 			That China should allow the internal free movement of labour.
@@ -927,7 +927,7 @@ Motions for the Australs
 			The private life of politicians are public property.
 			Under age hackers should face the full force of the law.
 			Israel should cease construction of its security fense.
-			Final: Women
+		GF: Women
 			TH should pay women to have babies.
 			Victims of sex trafficking should be given automatic residency.
 			Equal opportunity legislation should apply to religious institutions.
