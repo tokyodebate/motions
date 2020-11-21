@@ -1,5 +1,5 @@
-Motions for HWS Round Robin
-HWS ROUND ROBIN 2019
+HWS Round Robin
+	HWS ROUND ROBIN 2019
 		R1
 			This House regrets the decline of the humanities in higher education.
 				In academic settings, “the humanities” is contrasted with the study of natural sciences, social sciences, and professional trainings. Core fields in the humanities include: literature, philosophy, history, religion, art.
@@ -16,7 +16,7 @@ HWS ROUND ROBIN 2019
 		GF
 			This House believes that the Black Lives Matter movement should embrace open carry gun laws and engage in armed community patrols.
 				The Black Panthers began as a group of black citizens in Oakland, California who engaged in armed patrols of the city streets, specifically focusing on observing police behavior and arrests. In response, California enacted much stricter gun control legislation.
-HWS Round Robin (2018)
+	HWS Round Robin (2018)
 		R1
 			THBT the criminal justice system should not consider retribution as a factor in sentencing.
 		R2
@@ -29,7 +29,7 @@ HWS Round Robin (2018)
 			When responding to civilian casualties, this house believes that the military action taken does not have to meet the principle of proportionality.
 		Open GF
 			This house believes that the interests of the Chinese people would be better served by a peaceful transition into a democracy, rather than a continuation of one party rule.
-HWS Round Robin (2017)
+	HWS Round Robin (2017)
 		R1
 			This house supports the use of “eye in the sky” policing in urban areas with high crime rates.
 		R2
@@ -42,7 +42,7 @@ HWS Round Robin (2017)
 			This house believes that the US should issue guest worker visas, under which minimum wage laws would not apply.
 		Open GF
 			THBT governments should abandon the strategy of “decapitation” in fighting terrorism.
-HWS Round Robin (2016)
+	HWS Round Robin (2016)
 		R1
 			THW require the use of a draft by lottery when engaged in extended military interventions.
 		R2
@@ -56,7 +56,7 @@ HWS Round Robin (2016)
 			THBT Israel should set aside a certain percentage of seats in the Knesset to be elected by diaspora Jews.
 		Open GF
 			THS health insurance companies offering terminally ill patients the option of a lump sum payment to forgo expensive life-extending treatments.
-HWS Round Robin (2015)
+	HWS Round Robin (2015)
 		R1
 			THS establishing an independent state of Kurdistan.
 		R2
@@ -69,7 +69,7 @@ HWS Round Robin (2015)
 			THW prohibit religious institutions from considering applicants’ religious affiliation for any position whose primary function is not the performance of religious rites (e.g., administrators, teachers, fundraisers, etc.).
 		Open GF
 			THBT prominent civil society activists should choose not to run for public office.
-HWS Round Robin (2014)
+	HWS Round Robin (2014)
 		R1
 			THW measure the efficacy of charities and strip those with comparatively low social value of their charitable status.
 		R2
@@ -82,7 +82,7 @@ HWS Round Robin (2014)
 			THW permit parents to stunt physical development of their severely mentally disabled children.
 		Open GF
 			THBT, within broad budgetary constraints, environmental policy should be decided by unelected scientific experts selected by their peers.
-HWS Round Robin (2013)
+	HWS Round Robin (2013)
 		R1
 			THW allow legislation through voter initiated referenda.
 		R2
