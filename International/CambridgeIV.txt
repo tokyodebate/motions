@@ -28,6 +28,18 @@ Cambridge IV
 			THBT the West should massively discourage and disincentivise economic collaboration and exchange with China.
 		R4
 			THW raise their child to prefer to be single.
+		R5
+			THBT the democratic nominee should commit to abolishing ICE
+		ESL SF
+			THBT it is in the interest of the Russian Federation for Vladimir Putin to run for a fifth term as President in 2024.
+		ESL GF
+			TH prefers technocracy to democracy.
+		Open QF
+			THBT it is in the interest of the Russian Federation for Vladimir Putin to run for a fifth term as President in 2024.
+		Open SF
+			TH prefers technocracy to democracy.
+		Open GF
+			THBT Palestinians should prioritise striving to consolidate a Palestinian state in the Westbank and the Gaza Strip as opposed to seeking the right to return to Israel.
 	Cambridge IV 2017
 		R1
 			THW give companies tax breaks on all revenues paid as renumeration (salaries and bonus) to all female employees.
@@ -49,6 +61,17 @@ Cambridge IV
 			In cases where a supreme court would currently rule on the compliance of a given law with a constitutional provision, THW hold a public referendum on whether to abandon that constitutional provision.
 		Open GF
 			THBT it is always immoral to fight for one’s country.
+	Cambridge IV 2018
+		R1
+			TH opposes the attempts by the feminist movement to redefine roles and behaviours traditionally associated with women (e.g. wanting to be a housewife, wearing make-up and heels) as empowering.
+		R2
+			THS countries withdrawing from the International Criminal Court in order to create their own regional replacements (e.g. an African Criminal Court, an InterAmerican Criminal Court).
+		R3
+			In areas of chronically low academic attainment, THBT the general approach of educational charities should be to focus resources on maximising the potential of exceptional students, over helping the lowest achieving.
+		R4
+			THS the rise of computational creativity.
+		R5
+			THW give legislative veto power to a Future Generations Commission.
 	Cambridge IV 2016
 		R1
 			THW abolish all government schemes that provide grants, tax-breaks or loans at preferential terms to home buyers.
