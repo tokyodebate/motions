@@ -35,7 +35,7 @@ United Asia Debating Championship
 		R8
 			TH prefers a world where there are fewer but larger charitable organizations combating poverty
 			THW require all parents to set up a child trut fund* as a precondition to having children. *A Child Trust Fund (CTF) is a long-term savings or investment account for children that is only accessible to them when they reach 18.
-		You are the CEO of a charity which provides educational scholarships to students from a poor ethnic minority with historically low guaduation rates, you discover that your program has not resulted in significant improvement in those students’ graduation rates. THW hide the data
+			You are the CEO of a charity which provides educational scholarships to students from a poor ethnic minority with historically low guaduation rates, you discover that your program has not resulted in significant improvement in those students’ graduation rates. THW hide the data
 		EFL GF
 			TH supports paying reparations to communities that have suffered from historical injustices
 			THBT multicultural states should actively impose a singular national identity (e.g. history, culture, language)
@@ -195,7 +195,7 @@ United Asia Debating Championship
 		Open Quarterfinal: Gender
 			THW not allow being labeled homosexual to be grounds for defamation claims.
 			TH, as the LGBT movement, would abandon its pursuit of full inclusion into the armed forces.
-		You are the leader of a prominent feminist political party which enjoys reasonable support but is highly unlikely to win an election on its own. The recently elected head of state, with a historically poor record with women’s rights, has asked for your party to be part of a coalition government. THW accept the offer.
+			You are the leader of a prominent feminist political party which enjoys reasonable support but is highly unlikely to win an election on its own. The recently elected head of state, with a historically poor record with women’s rights, has asked for your party to be part of a coalition government. THW accept the offer.
 		Open Semifinal: Philosophy
 			TH supports materialism.
 			TH regrets cosmopolitanism.
