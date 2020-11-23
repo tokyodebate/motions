@@ -1,5 +1,5 @@
-Motions for Sydney Mini
-Sydney Mini 2011
+Sydney Mini
+	Sydney Mini 2011
 		R1
 			THBT countries under going severe economic crises should suspend democratic government.
 		R2
@@ -18,7 +18,7 @@ Sydney Mini 2011
 			THW reintroduce the Glass Steagall Act.
 		GF
 			THW .prohibit religious institutions from endorsing or promoting candidates for public office
-Sydney Mini 2010
+	Sydney Mini 2010
 		R1
 			THW ban unpaid internships.
 		R2
@@ -35,7 +35,7 @@ Sydney Mini 2010
 			THW require organized religion to pay reparations to women for facilitating their repression for over two millennia.
 		GF
 			THBT the courts, not the people and/or parliament, should define marriage.
-Sydney Mini 2009
+	Sydney Mini 2009
 		R1
 			THS a surge in Afghanistan
 		R2
@@ -54,7 +54,7 @@ Sydney Mini 2009
 			THW not require child support payments from fathers who offer to pay for an abortion
 		GF
 			THBT the government should forcibly remove women and children from extremist religious communities
-Sydney Mini 2008(多分)
+	Sydney Mini 2008(多分)
 		R1: Religion (Ireland I)
 			That this house would compel priests to divulge the details of confessionals in criminal trials.
 		R2: Economics
@@ -73,7 +73,7 @@ Sydney Mini 2008(多分)
 			That this house would allow Bosnia to break up
 		GF
 			That this house would allow potential parents to pay women to carry unwanted children to term.
-Sydney Mini 2007
+	Sydney Mini 2007
 		R1
 			TH supports an immediate transition to democracy in Pakistan.
 		R2
@@ -90,7 +90,7 @@ Sydney Mini 2007
 			THW destroy the data gained from all unethically conducted research.
 		GF
 			THW decriminalise incest.
-Sydney Mini 2006
+	Sydney Mini 2006
 		R1
 			THW ban political parties that advocate the legalisation of paedophilia.
 		R2
@@ -109,7 +109,7 @@ Sydney Mini 2006
 			THB the US should seek Iran’s assistance in Iraq.
 		GF
 			THW allow the testing of experimental treatments on patients with terminal illnesses.
-Sydney Mini 2005
+	Sydney Mini 2005
 		R1
 			THW use martial law to control the rioters.
 		R2
