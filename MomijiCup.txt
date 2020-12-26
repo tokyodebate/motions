@@ -1,4 +1,19 @@
 Momiji Cup
+	Momiji Cup 2020
+		R1
+			THR social media being increasingly used as a primary souce of news distribution.
+		R2
+			THBT parents should be honest with their children about their (i.e. parents') imperfections and insecurities.
+		R3
+			THS voluntourism.
+				Voluntourism is a form of tourism in which travellers participate in voluntary work, typically for a charity.
+		R4
+			THS athletes making political and religious expressions at international sporting events.
+		SF
+			In times of crisis, THBT the state should withhold information that may damage public confidence.
+		GF
+			TH opposes the 'Toxic Positivity' culture.
+				"Toxic positivity" refers to the concept that keeping a positive mindset and being optimistic is the right and best way to live your life.
 	Momiji Cup 2019
 		R1
 			THW allow workers to sell their rights in exchange for higher pay
