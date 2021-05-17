@@ -1,13 +1,30 @@
 KK-Cup
+	KK-Cup 2021
+		R1
+			THW ban all forms of private education
+		R2
+			THR the trend of social media companies censoring information they deem to be inappropriate for their platform (including but not limited to questionable news, explicit images, offensive and discriminatory content.)
+		R3
+			THBT feminist movement should oppose the idealization of "IKUMEN".
+				IKUMEN is a combination of the word ikuji (childcare) and ikemen (hunk) – a stark contrast to the older stereotypes of the uncooperative, workaholic father. IKUMEN are expected to take a more active role in parenting.
+		R4
+			Under COVID-19 circumstances, THP that non-elected medical experts pass policies regarding its containment (e.g. lockdowns, compulsory vaccinations) over elected politicians
+		SF
+			THS filial responsibility law
+				Filial responsibility laws are laws that impose a duty on children, including adult children, for the support of their impoverished parents or other relatives. While most filial responsibility laws are settled in civil court, some include criminal penalties for those who fail to provide for their family members. An adult child is a term commonly used to describe any grown adult who was exposed to emotional, physical or sexual abuse as a child.
+		GF
+			Assuming the technology to alter one's memory irreversibly exists, THW allow individuals to use it.
+		Ruby GF
+			THO the dominant narrative that individuals should ""do what they love""
 	KK-Cup 2020
-		ROUND 1
+		R1
 			THBT western liberal democracies should dismantle political parties that promotes racist ideologies.
-		ROUND 2
+		R2
 			TH, as minority race group in their region, would shame majority race group who publicly state their preference in their dating and sex lives.
-		ROUND 3
+		R3
 			THS communal child rearing.
 				Communal child rearing is the system of rating children as a whole society. In this system, biological parents lose parental right to their children, and the communities give necessities of lives, education and money for independence etc. to all children equally. Also, parents and children live apart, and don’t keep special connection to each other.
-		ROUND 4
+		R4
 			THBT handicapped entertainers should refrain from using their disability in a comical or self-deprecating manner to humor the audience.
 		PRE-SF
 			THBT developed countries should not require developing countries to adhere to any environmental restrictions.
