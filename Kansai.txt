@@ -1,4 +1,48 @@
 The Kansai
+	The Kansai 2021
+		R1
+			THBT the new agriculture law is in the interest of Indian farmers
+				A new agriculture law in India was proposed last year that would allow Indian farmers to directly sell and negotiate prices for their products with private buyers like supermarket chains anywhere in India. Currently, Indian farmers can only sell their products in government-controlled markets called 'mandis'. The sales process in mandis is regulated through commission agents (CAs) who mediate between the farmers and traders. Although there is a minimum support price in mandis, the traders and CAs have built cartels where they control prices and speed of payments, with little transparency on the trade process. While this law would allow farmers to sell freely outside of mandis, the law sparked massive protests by farmers around India due to fears of further deregulation and exploitation by corporations.
+			THS the rise of shareholder activism
+				Shareholder activism is a way that shareholders can influence a corporation's management by exercising their rights as partial owners. The goals of shareholder activism heavily vary, and range from financial (increase of shareholder value through changes in corporate policy, financing structure, cost cutting, etc.) to non-financial (disinvestment from particular countries, adoption of environmentally friendly policies, etc.)
+			THW ban targeted advertising based on the health data of users (e.g. medical record, log data of wearable devices, digital footprint related to medical conditions)
+		R2
+			THP a world where people vote behind the veil of ignorance
+				The veil of ignorance is a hypothetical moral reasoning device proposed by an American philosopher John Rawls to discover the principles that should structure a society. Behind the "veil of ignorance", you are unable to know your personal identity/circumstances (ethnicity, socio-economic status, gender etc.) and your individual idea of how to lead a good life. Thus, when you make decisions behind the veil of ignorance, you decide without any knowledge of your current social position or characteristic, or what position you would end up having in that society.
+			THP a world without wants for social approval
+			THP a world with a technology that allows individuals to relive their memories with dead loved ones
+		R3
+			THR the formation of the Quad
+				The Quadrilateral Security Dialogue (also known as the Quad) is an informal strategic forum between the United States, Japan, Australia and India that is maintained by semi-regular summits, information exchanges and military drills between member countries. The forum was initiated as a dialogue in 2007 by Prime Minister Shinzo Abe of Japan. The diplomatic and military arrangement was widely viewed as a response to increased Chinese economic and military power, and the Chinese government respond
+			THW impose significant fines and sanctions on corporations that use the forced labor of Uighurs
+			THBT the Biden administration should seek to sustain the strong ties with Taiwan from the Trump administration
+		R4
+			THR the popularity of mukbang in pop culture
+				A mukbang [mʌk.paŋ], also known as an eating show, is an online audiovisual broadcast in which a host consumes large quantities of food such as noodles, junk foods, etc. It became popular in South Korea in 2010, and since then it has become a huge worldwide trend. Mukbang is usually prerecorded or streamed live on platforms such as AfreecaTV, YouTube, and Twitch. Such content creators (e.g. Yuka Kinoshita, MaxSuzuki, Shugi, Mbro are often said to have eating disorders.
+			THW establish exclusive schools for students with ADHD/ASD
+				ADHD (Attention Deficit Hyperactivity Disorder) and ASD (Autism Spectrum Disorders) are neurodevelopmental disorder/conditions. Sometimes ADHD/ASD occur with intellectual disability/learning disability. However, it does not mean all people with ADHD/ASD have intellectual disability/learning disability.
+			THW allow psychiatrists to prescribe medicines to minors without parental consent
+		QF
+			THW mandate all scientists to periodically conduct reproducibility research. (e.g. reproducing the result of existing research or experiments, meta-analysis of reproducibility of pre-existing experiments)
+				Reproducibility is a major principle of the scientific method. It means, when different researchers follow the same methodology of a research (i.e. experiments or observational study) to reproduce the result, it should match the result of the original research. Currently, many research results in some fields are said to be unreproducible, especially in several branches of Biology, Psychology and Behavioral Economics etc.
+			THBT the state should promote the use and adoption of embryo freezing technology
+			THW impose a digital data tax on tech companies or data brokerage firms based on amount of user data they own
+		SF
+			TH, as Sudan, R the Sudan-Israel normalization deal
+				In October 2020, Sudan agreed to normalize its diplomatic relations with Israel. In exchange, the Trump administration removed Sudan from the US list of state sponsors of terrorism, unblocking international economic aid and investment. This deal has led to huge rejection from Islamists and opposition parties, where Sudan suffers from weak governance and a crippling economy
+			THBT preemptive self-defense should not be considered as a legitimate ground for state military actions
+				Preemptive self-defense refers to the use of armed coercion by a state to prevent another state (or non-state actor) from pursuing a particular course of action that is not yet directly threatening, but which, if permitted to continue, could result at some future point in an act of armed coercion against the first state
+			THBT the US should end its targeted drone strikes policy
+		Rookie GF
+			TH regrets the prevalence of virtue signaling on social media
+				Virtue signaling is when a person holds a prominent and disingenuous moral value with the sole intent of enhancing one's own image
+			THBT social movements should reveal and openly denounce the negative track records of revered historical figures (e.g. Mahatma Gandhi, Mother Teresa, Winston Churchill etc.)
+			TH, as a liberal parent living in a conservative society, would encourage their daughter to be single
+		Grand Final
+			TH prefers a common law system over a civil law system
+				Legal systems around the world generally follow either a common law system or a civil law system. In a common law system (e.g. US, UK), judges take an active role in shaping the laws. Decisions by the court establish precedent for future cases. Judges interpret laws and apply to specific cases based on established precedents. In a civil law system (e.g. Japan, Germany) lawmakers and legal scholars hold stronger influence. Legislated laws clearly define cases that can be brought to court, the procedures for handling claims, and the punishment for an offense. Judges merely evaluate the facts of each case and make decisions using the conditions stated in the applicable law.
+			Assuming the VR technology to simulate prison sentencing for any given years (which, in reality, lasts for only a few seconds) is completed, THW replace all real criminal sentencing with the use of the VR technology
+			THBT prison inmates should be pardoned of their punishment if they are diagnosed of severe mental illnesses (e.g. Alzheimer's causing dementia) where they cannot remember conducting the crime
 	The Kansai 2020
 		R1
 			THW not use public money on life-extending medical care for people over certain age in super aging society.
