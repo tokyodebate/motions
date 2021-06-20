@@ -1,4 +1,57 @@
 ICU Tournament
+	30th ICU Tournament(2021)
+		R1: Education
+			THW abolish all private schools
+			THBT post-conflict states should actively promote a unifying national narrative in the history curriculum
+			THW allow parents to remove their children from specific classes at school (such as sports, religious studies, sex education and science) on moral, religious or political grounds
+		R2: Criminal Justice System
+			THW hold religious leaders personally liable for instances of COVID superspreading in religious events
+			THS the use of risk-assessment algorithms in the criminal justice system
+				Risk-assessment algorithms use big data and statistical modelling to predict the likelihood of a person committing crimes in the future. Factors analyzed by the algorithm include but are not limited to the defendant's age, history of noncompliance or violence, family background and employment status.
+			THW release inmates from jail solely on the basis of their rehabilitation
+		R3: Japan
+			THS the remilitarization of Japan
+			THO the rising popularity of the "Yami-kawaii" subculture
+				Yami-kawaii" is an aesthetic subculture that contrasts pastels and cute imagery with imagery and messages about depression, illness and suicide. Yami-kawaii fashion is premised on dressing as if ill, fragile or wounded.
+			THBT communities that have been victims of atrocities should emphasize the narrative of the “banality of evil” when interpreting those atrocities
+				The concept of ‘banality of evil’ claims that great act of evil can be committed by ordinary individuals within a bureaucracy. Under this theory, most perpetrators of great evil are ordinary people, with no motive for their actions other than promoting their own advancement in the system.
+		R4: Law
+			THO corporate personhood
+				Corporate personhood is a legal doctrine that sees corporations as “legal persons” who can sue or be sued, own property, or enter into contracts.
+			THS filial responsibility laws
+				Filial responsibility laws make adult children legally responsible for financially supporting their parents.
+			THS right-to-work laws.
+				"Right-to-work laws" guarantee no person can be forced to join a union or pay union membership fees as a condition of employment.
+		Pre-QF: Social Movements
+			THR the increasing trend of celebrities being the face of political discourse and campaigns (e.g. Emma Watson and HeForShe, etc.)
+			TH, as a minority rights activist, would actively criticize the model minority concept
+				The term "model minority" refers to minority groups whose members are seen to be more educationally and financially successful than members of other minority groups. The term "model minority" has been used to describe Asian-Americans in America, the Vietnamese and Korean population in Germany, the Christian Arab population in Israel, and the German and Lebanese population in Mexico.
+			THBT Western social justice groups (e.g. feminism, LGBT advocacy) should heavily prioritize a local over global agenda
+		Novice SF: Sports
+			THBT developing countries should never hold major international sporting events
+			THW transfer all state funding for elite sportspersons to youth academies
+			THW introduce significant "cost caps" in sports
+				A "cost cap" is a limit to the amount of money each team can spend during the competitive year.
+		Novice GF: States
+			In developing countries, THW ban ownership of land and property by foreigners and foreign-owned corporations
+			THBT states should never protect dying languages
+			THW delicense corporations that do not engage in social responsibility proportional to their profit margins (e.g. campaigns to end hunger in a community, giving away portion of profit to charity, implementing more environmentally friendly business operations etc.)
+		QF: DEVELOPMENT / ECONOMICS
+			THBT states should prioritize negotiating bilateral trade agreements over large regional agreements (e.g. the Trans-Pacific Partnership, the Regional Comprehensive Economic Partnership)
+			THBT free trade agreements should only be signed into law after being approved by referenda in the signatory countries
+			THBT the EU should have committed to debt relief rather than issuing "coronabonds" in response to the COVID-19 crisis
+				Bonds are normally issued by individual states. "Coronabonds" are issued by the European Central Bank, and are meant to finance COVID-19 relief and recovery efforts. All EU states would be liable for the joint debt, with proceeds from the debt also being shared in pre-agreed proportions. The EU has committed to issuing coronabonds.
+				SF: States
+			THBT deradicalization efforts in Southeast Asia should dedicate a significant portion of their resources to programs targeted at women
+				Deradicalization aims to prevent the spread of radical beliefs and to safely reintegrate at-risk individuals back into society. Deradicalization efforts include but are not limited to job training and skill-building programs, programs that promote counter-narratives to extremist ideas, and programs that teach youth about topics such as citizenship, stereotyping, discrimination, extremism, and cultural diversity.
+			THBT governments in nascent democracies should allocate a significant portion of their budget based on participatory budgeting
+				Participatory budgeting is a process in which ordinary civilians decide how to allocate part of a public budget. Citizens propose spending projects within a predefined amount of funding, and the government is bound by the decisions they make.
+			THP a unified state-dominated public policy research landscape to one dominated by ideologically defined think tanks
+		GF: Narratives
+			THS the prominence of the FIRE movement among millennials
+				Proponents of the Financial Independence, Retire Early (FIRE) movement strive to accumulate assets until the resulting passive income provides enough money for their living expenses, potentially allowing them to retire decades earlier than the standard retirement age.
+			THR the dominant narrative that individuals should "do what they love"
+			THP the reclamation of disputed monuments (e.g. the Rhodes Status at Oxford, Voortrekker Monuments in South Africa, Yasukuni Shrine in Japan, etc.) to their destruction
 	28th ICU Tournament(2019)
 		R1: Corporatons
 			THBT NGOs that advocate labor rights should reject all funding from multinational corporations.
