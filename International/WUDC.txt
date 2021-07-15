@@ -1,8 +1,57 @@
 World Universities Debating Championships
+	Korea WUDC (2021)
+		R1:
+			TH, as South Korea, would aim to significantly increase its cross-border economic cooperation with North Korea
+		R2:
+			THW ban social media companies from independently deplatrforming politicians
+		R3:
+			TH prefers environmental movements heavily prioritizing a local agenda over a global one (e.g., focusing on local pollution rather than climate change)
+		R4:
+			TH opposes the glorification of professional e-sports players
+		R5:
+			TH opposes the general approach of companies to grow by massively sacrificing short-term profitability with the hope of gaining a large portion of the market*
+				*e.g. the original business model of companies such as Uber or Amazon
+		R6:
+			THBT it is in the interest of the Catholic church to officially recognize Folk Saints
+				Folk Saints are dead people recognized by the general population as saints who were not officially acknowledged as saints by the Catholic church. Unlike regular saints, they lived lives that the church considers sinful. They are popular in many regions, especially in Latin America. Examples include Sarita Colonia that answers the prayers of sex workers & LGBT people; and Juan Soldado that answers the prayers of people who commit low-level crimes out of financial desperation.
+		R7:
+			THBT pursuing strong expansionist policies* in the Arctic region is in the Russian interest
+				*Including but not limited to: building artificial islands in order to claim additional territory, trying to significantly limit foreign presence, stationing warships and troops
+		R8:
+			TH opposes the academisation* of social justice movements
+				*The increasingly significant presence of academics and academic terminology, processes and structures in many parts of the world
+		R9:
+			THBT states should classify organized crime syndicates as terrorist groups*
+				*classification as a terrorist group would legally allow law enforcement to pursue tactics such as targeted extra-judicial killings, reducing barriers to law enforcement gathering evidence, using military forces, criminalizing membership, etc
+		ESL_Quarters:
+			TH would teach children to have a logical approach to life, even at the expense of reducing their emotional bandwidth (e.g. trying to react in less emotional ways, prioritising logic over emotions when approaching problem-solving, etc.)
+		ESL_Semis_finals:
+			THBT police commissioners should be directly elected by their local community.
+		ESL_Grand_finals:
+			THBT governments would be justified in heavily pursuing Longtermism
+				For the purposes of this debate, supporters of Longtermism believe that significantly more beings will be alive during the future, and that we should assign moral value to the unborn. Thus, they conclude that when evaluating our actions today, the largest consideration is how they affect the future. Potential examples of Longtermist policies can include encouraging people to dedicate their lives to reducing long-run existential risks, allocating a substantial portion of the budget to try and improve the welfare of future generations, or trying to expand humanity to other planets. Under a Longtermist view such policies are ethical even if they come at the very strong expense of more immediate and certain goals like poverty reduction, providing healthcare or increasing the happiness of the living.
+		Master's GF:
+			TH loves online debating and supports all competitive debating being held exclusively online indefinitely regardless of external factors (e.g pandemic)
+		EFL_Semis_finals:
+			TH prefers a world in which the Resident Evil machine exists
+				Resident Evil is a VR machine. It leads its user through a set of scenarios aimed at testing whether the user would diverge from universal moral norms. These norms could include not killing, not stealing, not betraying others, or similar. While connected, the simulated scenarios feel completely real to the user. All adults are tested on Resident Evil and their results are publicly available.
+		EFL_Grand_finals:
+			THBT international discussion forums should not self-censor* in an attempt to increase inclusivity to people from countries with stringent freedom-of-speech rules.
+				*Examples of self-cenorship are: AI conferences avoiding discussions on the implications of the use of a certain technology by oppressive regimes; competitions censoring topics; moderators removing politically sensitive content from discussion boards
+		Open_Octos:
+			TH supports the rise of language-generating AI
+				For the purpose of this debate, 'language-generating AI' is AI that can generate fluent streams of text after processing billions of words from sources such as books, articles and websites. Language-generating AI could conceivably have the potential to write press releases, stories, debate speeches, guitar tabs, scientific hypotheses, technical manuals, code, and more. In limited contexts, the latest versions of the advanced language generating technology were found to be indistinguishable from human writing, however the technology as a whole is still error-prone. Language-generating AI already has commercial & research applications by large organizations, and the technology is expected to rapidly develop in versatility & scale in the near future.
+		Open_Quarters:
+			TH opposes the Biden Administration plan to finance large scale governmental projects through multi-trillion dollar fiscal stimulus
+		Open_Semi_finals:
+			TH prefers to live an average anonymous life in South Korea over being a K-Pop star
+		Open_Grand_finals:
+			TH supports the creation of an international court with a mandate to prosecute leaders for health crimes
+				For the purposes of this debate 'health crimes' are massive violations of the international health codes. For example, the unwillingness to comply with the WHO's regulations on dealing with pandemics, a significant violation of norms on the prescription of antibiotics, breaching the experimentation codes of ethics.
 	Thailand WUDC (2020)
 		R1:
-		This House would impose a BBC-style impartiality requirement on all news platforms.
-			The BBC (British Broadcasting Corporation) is legally required to cover the news impartially. This means: 1. It cannot take sides on controversial issues. 2. The amount of coverage each viewpoint gets should roughly reflect the level of support that viewpoint has in society. 3. It is not required to be neutral on certain fundamental issues like the rule of law and the legitimacy of the democratic process.
+			This House would impose a BBC-style impartiality requirement on all news platforms.
+				The BBC (British Broadcasting Corporation) is legally required to cover the news impartially. This means: 1. It cannot take sides on controversial issues. 2. The amount of coverage each viewpoint gets should roughly reflect the level of support that viewpoint has in society. 3. It is not required to be neutral on certain fundamental issues like the rule of law and the legitimacy of the democratic process.
 		R2:
 			This House supports the rapid global elimination of both tariff and non-tariff barriers to free trade.
 		R3:
