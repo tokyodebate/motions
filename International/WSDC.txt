@@ -1,4 +1,49 @@
 World Schools Debating Championships (WSDC)
+	WSDC Macau Online 2021
+		R1 (Vocation)
+			TH, as an intelligent but poor student, would pursue vocational education over a traditional college degree
+		R2 (COVID)
+			THW suspend labour unions for healthcare workers during times of crisis
+				A labour union is an organisation of workers who have come together to achieve common goals (eg improving safety standards, attaining better wages and benefits such as healthcare)
+		R3 (Proid)
+			THR the rise of rainbow capitalism
+				Rainbow capitalism is the commercialization and commodification of LGBTQ movements, most notably Pride
+		R4 (Attack on Titan)
+			TH, as an Eldian child in Marley, Would volunteer to be a Warrior
+				In the Attack on Titan universe, Eldians are an oppressed group of ethnic minorities. In the country of Marley, they are forced to live in internment zones and are treated as second class citizens without any civil liberties and regularly suffer abuse from Marleyan police and civilians. "Warriors" are Eldian children who volunteer to join the Marleyean military to become Titans, extremely powerful humanoid weapons. Warriors participate in very dangerous missions, often against foreign Eldians, and have a maximum lifespan of 13 years. However, Warriors and their family members, including future generations, automatically receive honourary Marleyan citizenship and gain the rights of regular Marleyan citizens.
+		QF (Intelectual Property)
+			THBT developing countries are justified in and should pursue IP theft as a strategy for development
+				Intellectual property theft refers to the robbing of people or companies of their ideas, inventions, and creative expressions. It can include everything from proprietary products and parts, to movies, music, web content, business processes, and software.
+		SF (Invade Taiwan)
+			In the event of a Chinese invasion of of Taiwan, TH, as the USA, Would intervene militarily
+		GF (Cheating)
+			You are in a stable relationship with a wealthy, workaholic partner but you are emotionally and physically unsatisfied, THW cheat
+		High School Novice Semifinals (Intellectual Property)
+			THBT developing countries are justified in and should pursue IP theft as a strategy for development
+		High School NOvice Finals (The House Spouse)
+			THW require partners to pay their house husbands/wives for household chores
+		Pre University Semifinals (Intellectual Property)
+			THBT developing countries are justified in and should pursue IP theft as a strategy for development
+				Intellectual property theft refers to the robbing of people or companies of their ideas, inventions, and creative expressions. It can include everything from proprietary products and parts, to movies, music, web content, business processes, and software.
+		Pre Univertity Finals (AI)
+			Assuming feasibility, THW develop non-sentient artificial intelligence that imitates deceased loved ones in appearance, personality, and mannerisms
+	WSDC 2020
+		R1
+			TH, as a state with ageing population, would opt for policies that increase immigration (e.g. more visas) rather than ones that encourage citizens to have more children (e.g. tax benefits)
+		R2
+			THP new and original TV series (e.g. Umbrella Academy, the Witcher) to revamps of classic universes (e.g. Amazon series on the Lord of the Rings, Netflix adaption of Alice in Wonderland)
+		R3
+			THW forbid Western tech companies from accepting Chinese standards in order to access the Chinese market (e.g. Google accepting censorship, Apple moving servers to China etc)
+		R4
+			THBT feminist movement in the west should heavily promote the concept of 'self-partnership'
+				A self-partnered person would feel whole and fulfilled within self and does not feel compelled to seek fulfilment through having another person as partner.
+		QF
+			THBT states should strive to reduce inequality even after everyone has enough for an acceptable quality of life
+		SF
+			Motion: THBT the African Union should actively redirect funding from its military interventions towards humanitarian projects (e.g. food insecurity, disease)
+				The African Union is a political, economic, and humanitarian bloc consisting of 55 states in the African continent. Its military wing is currently engaged in interventions in Somalia, Sudan, Mali, the Central African Republic, and Uganda.
+		GF
+			In asymmetric warfare, THBT it is justified for the weaker side to cause deliberate harm to enemy civilians for strategic purposes
 	WSDC Thailand 2019
 		R1
 			THBT governments should actively prevent gentrification.
