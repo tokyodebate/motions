@@ -1,4 +1,29 @@
 Icho Cup
+	2021
+		R1
+			THW require schools to provide sex education
+		R2
+			THW allow terminally ill patients to take medicines that haven't completed clinical testing
+		R3
+			Assuming feasibility, THW erase society's memory and evidence of the criminal past of former convicts after their release from prison.
+		R4
+			THBT super-aging society should prioritize the influx of immigrants rather than incentivizing their citizens to give birth.
+		Novice QF
+			Assuming feasibility, THW erase the sense of fear from soldiers
+		Novice SF
+			THBT multinational corporations operating in developing nations should be compelled to follow the strict environmental standards of western liberal democracies
+		Novice GF
+			TH Prefers a world without the commercialization of sports.
+				Commercialization is the process of bringing new products or services to market. The commercialization of sports is that aspect of the sports enterprise that involves the sale, display, or use of sport or some aspect of sport so as to produce income.
+		OF
+			Assuming feasibility, THW erase the sense of fear from soldiers
+		Quarterfinals
+			THBT multinational corporations operating in developing nations should be compelled to follow the strict environmental standards of western liberal democracies
+		Semifinals
+			THBT femvertising does more harm than good for feminist movements.
+				"Femvertising" is a type of advertising that employs pro-female talents, messages and imagery to empower women and girls.
+		Grand Final
+			In times of national crisis (e.g. natural disaster, health crisis, economic crisis), THW actively promote the narrative that individuals should make a sacrifice for the collective good.
 	2020
 		R1
 			THW allow students to choose their teachers
@@ -48,20 +73,20 @@ Icho Cup
 		R1
 			THW ban negative campaigning in political elections.
 		R2
-			THW force doctors to tell the true condition of illnesses directly to patients. 
+			THW force doctors to tell the true condition of illnesses directly to patients.
 		R3
 			THW force religious schools to provide sex education. (including contraception and existence of abortion)
 		R4
 			THBT social media (i.e. Facebook, Twitter, etc.) should actively remove content that they deem to be fake news from their platforms.
 		Double-Oct
-			THBT CEOs of large corporations should be selected by employees rather than shareholders. 
+			THBT CEOs of large corporations should be selected by employees rather than shareholders.
 		OF
-			THW nationalize pharmaceutical industry. 
+			THW nationalize pharmaceutical industry.
 				Pharmaceutical industry is made of companies that discover, develop, produce and market drugs as different types of medicine.
 		QF
-			THW ban all non essential forms of cosmetic surgery. 
+			THW ban all non essential forms of cosmetic surgery.
 		SF
-			THW monitor sex offenders with GPS technology. 
+			THW monitor sex offenders with GPS technology.
 		GF
 			THW prohibit slum tourism.
 				Slum tourism is a type of tourism that involves visiting and seeing impoverished areas.
