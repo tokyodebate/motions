@@ -1,11 +1,36 @@
 Oxford IV
 	Oxford Online IV 2020
+		R1
+			THBT contemporary social movements should focus on class differences rather than on identity-based differences (gender, race, religion etc.)
+		R2
+			THP lockdown policy decisions in federal governments to be made regionally (e.g. by states, provinces) rather than by the centralized government
+		R3
+			THP activist messaging to focus on how things could be (a positive vision for the future) rather than on how things are (how bad things are currently)
+		R4
+			THW allow victims of violent crimes to veto the prosecution of their offender
+		R5
+			THBT governments in the developing world should limit migration to megacities
+		Octofinals
+			THR the increasing emphasis upon publicity and performative expressivism in social movements.
+		QF
+			TH, as Saudi Arabia, W provide funding and support to Tigray People's Liberation Front (TPLF), and encourage their aggression against the Ethiopian federal government
+				The Tigray region is one of 10 semi-autonomous federal states organised along ethnic lines in Ethiopia, and home mostly to the Tigrayan people who make up about 6 percent of Ethiopia’s population of more than 110 million. Tigray People's Liberation Front (TPLF) is the ruling party of Tigray and have a fractious relationship with the federal government of Abiy Ahmed. Relations have been especially fraught in the past few weeks, and Ethiopia is on the brink of a civil war.
+		SF
+			THW prefer to be born with HSAM
+				Hyperthymesia (HSAM) is a rare condition that leads people to be able to remember an abnormally large number of their life experiences in vivid detail.
+		GF
+			THR the narrative that there exists no objective truth
 		ESL Pre-Semis
 			TH prefers to live in a world where most individuals lead polyamorous relationships, as opposed to single-partner relationships.
+		ESL Semifinals
+			THW leave Dharma
+				You are a prominent leader of a religion called ""Dharma"". Similar to many other religions, most of Dharma's followers are conservatives or moderates, with some people being progressives, and a tiny portion being extremists. Upon years of studying scripture, you have come to the conclusion that Dharma is a radical religion. As such, you have lost your faith. You see yourself as having two options. Option A is leaving Dharma. You can speak your truth from a safe refuge and encourage people to leave the religion. Option B is staying. You would continue to serve as a leader and pretend that Dharma is a very progressive religion and attempt to convince your followers as such.
 		ESL Final
 			THR the Americanization of social justice debates, e.g. focus on police brutality as a result of BLM, use of english terms by social movements, rather than words in local languages and the focus on American icons such as MLK or RBG.
-		Open Final
-			THR the narrative that there exists no objective truth.
+		Novice SF
+			THW hold social media platforms liable for illegal content that is posted (fake news, defamation, etc.)
+		Novice Finals
+			TH opposes the glorification of career achievements as a basis of self-worth.
 	Oxford IV 2019
 		R1
 			THW ban political advertising on social media.
