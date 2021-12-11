@@ -1,4 +1,19 @@
 Asian Schools Debate Championship
+	ASDC 2021
+		Round 1
+			This House Believes That we should support the creation of children's literature which teaches that people are neither good nor evil
+		Round 2
+			This House Supports Helicopter Parenting (parents who oversee every aspect of their child's life constantly especially in school)
+		Round 3
+			This House Believes That Gotham would be safer if Batman abandoned his 'No Killing' rule
+		Round 4
+			This House Believes That the US President should not have the power to pardon US citizens for their crimes
+		Quarterfinals
+			This House Believes That developed nations should pay developing nations that have experienced significant negative effects from climate change
+		Semifinals
+			This House Would allow first-time offenders to, with the consent of the victims, pay compensation to victims instead of serving a prison sentence
+		Grand Finals
+			This house believes that feminist organisations should not criticize female politicians for their views on women's issues
 	ASDC 2016
 		R1: “Ban All”
 			THW ban all advertisements targeted at children

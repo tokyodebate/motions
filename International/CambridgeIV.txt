@@ -1,4 +1,21 @@
 Cambridge IV
+	Cambridge IV 2021
+		R1
+			THBT the trend towards the institutionalization of art has done more harm than good
+		R2
+			THW introduce racial quotas for healthcare professionals (e.g. nurses, doctors)
+		R3
+			THBT the feminist movement should oppose the commercialisation of reproduction (e.g. sale of ova, commercial surrogacy)
+		R4
+			THBT South American countries should no longer co-operate with the USA's "War on Drugs"
+		R5
+			THBT national legislatures should apportion electoral representation by age group, rather than geographical area
+		Open_Quarter
+			In response to the 2021 Belarus–European Union border crisis, THBT NATO should deploy additional active duty troops to their member states in Eastern Europe (Lithuania, Latvia, Estonia, Poland)
+		Open_Semi
+			THP a world where religious beliefs and teachings are not codified into scripture or doctrine
+		Open_Final
+			THO transhumanism
 	Cambridge IV 2020
 		R1
 			THR the decline of tightly integrated families.
@@ -9,16 +26,16 @@ Cambridge IV
 		Open QF
 			Assuming the One Ring has been destroyed and Sauron defeated, TH, as a Hobbit, would never leave the Shire.
 			THBT, rather than give money to Foreign Aid and International Development Institutions, developed countries should instead directly fund the Global Solidarity Fund.
-		ESL SF
-			When evaluating financial risk and value, THBT financial institutions and credit rating agencies should actively account for climate and nature based impacts and risk.
 		Open SF
 			THBT humanity should invest considerable amount of resources into the exploration of deep space.
+		Open F
+			TH regrets the demonisation of populist leaders (e.g. Donald Trump, Marine LePen, Jair Bolsonaro)
+		ESL SF
+			When evaluating financial risk and value, THBT financial institutions and credit rating agencies should actively account for climate and nature based impacts and risk.
 		ESL GF
 			THW join the resistance against the AI.
 		Novice GF
 			Assuming it could done instantly, THW remove all nuclear weapons and the capacity to build them from the current world.
-		Open GF
-			?
 	Cambridge IV 2019
 		R1
 			THW expel states which fail to spend a minimum of 2% of GDP on defence from NATO.
