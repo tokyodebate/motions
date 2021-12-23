@@ -2,17 +2,17 @@
 A collection of debate motions.
 
 ## Format
-The format is indentation sensitive. In other words, the number of "tabs" before the first letter in the line determines the type of element.  
-Avoid empty lines. The parser will try to remove any empty line but... why risk it?  
-**DO NOT** use spaces instead of tabs.  
+The format is indentation sensitive. In other words, the number of "tabs" before the first letter in the line determines the type of element.
+Avoid empty lines. The parser will try to remove any empty line but... why risk it?
+**DO NOT** use spaces instead of tabs.
 **DO NOT** put tabs after the word / sentence, it may confuse the parser.
 
 `Example.txt`
 ```
 Tornament Name
-	2020
+	2021
 		R1
-			THBT AAA	
+			THBT AAA
 			THW BBB
 				Info Slide
 			THW CCC
@@ -29,7 +29,7 @@ Tornament Name
 	2019
 		R1: Utility
 			THBT AAA
-				
+
 			THW BBB
 				Info Slide
 			THW CCC
