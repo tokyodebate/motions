@@ -16,7 +16,7 @@ K-cup
 		R3
 			THBT people of the world would benefit from supporting degrowth instead of the SDGs.
 				Degrowth is a term used for both a political, economic, and social movement as well as a set of theories that critiques the paradigm of economic growth. It is pointing out the social and ecological harm caused by the pursuit of infinite growth and Western "development" imperatives.
-		R4
+		GF
 			THR the decision of Digital Agency to cancel Joichi Ito.
 				Joichi Ito is a venture capitalist and businessperson, well-known as pioneer in the IT industry. He has a history as Director of MIT Media Lab, MIT Professor, and visiting professor at Harvard Law School. He resigned from these posts in September 2019 when it came to light that he had received secret research funding from Jeffrey Epstein, a notorious sex offender. Now, in 2021, the Digital Agency of Japan planned to take him on as its leader, but renewed interest in the above circumstances prompted them to pass him on this time. Digital Agency will begin operations September 1.
 	2020 NA
