@@ -1,4 +1,25 @@
 Momiji Cup
+	Momiji Cup 2021 (12.4-5)
+		R1:
+			Assuming feasibility, THW allow all individuals who are willing to volunteer to be sent on a one way trip to Mars.
+				In this world, it has become technically feasible for people to be sent to Mars. However, because of technological constraints, once people go to Mars they are unable to come back to Earth. Space agencies around the world are gathering volunteers to be sent out to Mars to conduct research work in hopes to make Mars permanently inhabitable.
+		R2:
+			THW require politicians to retire after a certain age.
+		R3:
+			THR the institutions of marriage and civil partnership.
+				A civil partnership (also known as a civil union) is a legally recognized arrangement similar to marriage, created primarily as a means to provide recognition in law for same-sex couples. Civil unions grant some or all of the rights of marriage except the title itself.
+		R4:
+			THW allow individuals to buy exemption from compulsory military service by paying the state.
+		Pre-SF:
+			TH supports self-diagnosis.
+				Self-diagnosis is the process of individuals diagnosing or identifying medical conditions themselves based on information online.
+		SF:
+			THBT constantly being able to connect through our phones has done more harm than good to romantic relationships.
+		GF:
+			TH supports "Setsuna-shugi".
+				刹那主義 Setsuna-shugi refers to the principle of living in the moment.
+		RGF:
+			TH regrets the depiction of the everyday lives of people with disabilities as inspirational.
 	Momiji Cup 2020
 		R1
 			THR social media being increasingly used as a primary souce of news distribution.
