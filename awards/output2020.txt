@@ -1,0 +1,625 @@
+<h2 style="text-align: center;">【Asian Bridge 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Champion]
+Sowen Park
+(Yechan Park joint)
+</p>
+<p style="text-align: center;">[3rd best team]
+かとうゆりファンクラブ
+(Kana Ishikawa joint)
+</p>
+<p style="text-align: center;">[5th best team]
+Motion for the next round is
+(Koki Yoshioka joint)
+</p>
+<p style="text-align: center;">[7th best team]
+アジアの至宝
+(Atsuki Ito joint)
+</p>
+<p style="text-align: center;">[9th best team]
+Tokyo&Hit-U
+(Xianshangu Gu joint)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[4th Best Speaker]
+Yechan Park
+</p>
+<p style="text-align: center;">【Team Name Prize】
+[2nd best team name]
+Sowen Park
+</p>
+<h2 style="text-align: center;">【KK Cup 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Grand Finalist]
+KY (Kana Ishikawa joint)
+</p>
+<p style="text-align: center;">[Pre-semi Finalist]
+Joint A (Atsuki Ito joint)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[8th Best Speaker]
+Kana Ishikawa
+</p>
+<p style="text-align: center;">【Breaking Adjudicator】
+Hiroyuki Shibuya
+</p>
+<h2 style="text-align: center;">【The Kansai 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Champion]
+完全感覚Debaters(Chikara Mizokami, Yutaro Kurihara joint)
+</p>
+<p style="text-align: center;">[Grand Final Best Speaker]
+Chikara Mizokami
+</p>
+<p style="text-align: center;">［Quarter Finalist］
+カイトとレオ○とレナ△(Reo Nakajima joint)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[4th Best Speaker]
+Chikara Mizokami
+</p>
+<p style="text-align: center;">[5th Best Speaker]
+Yutaro Kurihara
+</p>
+<p style="text-align: center;">［8th Best Speaker］
+Hirohito Asai
+</p>
+<p style="text-align: center;">【Adjudicator Prize】
+［2nd Best Adjudicator］
+Ryo Hiramoto
+</p>
+<p style="text-align: center;">［5th Best Adjudicator］
+Tomoko Yagasaki
+</p>
+<h2 style="text-align: center;">【J Cup 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Champion]
+わらじーず（Akira Kato, Masahiro Ito joint）
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[2nd Best Speaker]
+Akira Kato
+</p>
+<p style="text-align: center;">[3rd Best Speaker]
+Masahiro Ito
+</p>
+<p style="text-align: center;">[Student Best Speaker]
+Ryosuke Yoshida
+</p>
+<h2 style="text-align: center;">【JUDC online 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Champion]
+Bloody Ploughman(Kanan Ishizaka, Tota Takahashi joint)
+</p>
+<p style="text-align: center;">[Grand Final Best Speaker]
+Tota Takahashi
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[2nd Best Speaker]
+Kanan Ishizaka
+</p>
+<p style="text-align: center;">[3rd Best Speaker]
+Tota Takahashi
+</p>
+<p style="text-align: center;">［5th Rookie Best Speaker］
+Kana Ishikawa
+</p>
+<p style="text-align: center;">【Adjudicator Prize】
+［Best Adjudicator］
+Mizuki Arita
+</p>
+<p style="text-align: center;">［3rd Best Adjudicator］
+Yutaro Kurihara
+</p>
+<p style="text-align: center;">［3rd Best Adjudicator］
+Ryo Hiramoto
+</p>
+<h2 style="text-align: center;">【TODO 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Open Oct Finalist]
+Not in the same class (Ryosuke Yoshida joint)
+</p>
+<h2 style="text-align: center;">【NDO 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Grand Finalist]
+Champion, Shampion, or Sampion（Kanan Ishizaka, Tota Takahashi joint）
+</p>
+<p style="text-align: center;">[Semi Finalist]
+X-KDS（Ryosuke Yoshida joint）
+飴と鞭（Yutaro Kurihara, Atsuki Ito, Kana Ishikawa）
+</p>
+<p style="text-align: center;">[Quarter Finalist]
+ヲラ東京サ行グダ（Ryo Hiramoto, Mina Hamada joint）
+</p>
+<p style="text-align: center;">[Rookie Breaking team]
+AndZ（Takeshi Matsuda joint）
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[3rd Best Speaker]
+Ryosuke Yoshida
+</p>
+<p style="text-align: center;">[5th Best Speaker]
+Ryo Hiramoto
+Yutaro Kurihara
+</p>
+<p style="text-align: center;">[8th Best Speaker]
+Mina Hamada
+</p>
+<p style="text-align: center;">【Rookie Speaker Prize】
+[2nd Rookie Best Speaker]
+Kana Ishikawa
+</p>
+<p style="text-align: center;">[7th Rookie Best Speaker]
+Atsuki Ito
+</p>
+<p style="text-align: center;">【Adjudicator Prize】
+[3rd Best Adjudicator]
+Hiroyuki Shibuya
+</p>
+<p style="text-align: center;">[3rd Student Best Adjudicator]
+Rei Toyama
+</p>
+<p style="text-align: center;">【Adjudication Core】
+[Deputy Chief Adjudicator]
+Chikara Mizokami
+</p>
+<h2 style="text-align: center;">【Hong Kong Pro-Ams 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Grand Finalist]
+Yoda and Panda (Tota Takahashi, Joint)
+</p>
+<p style="text-align: center;">【Adjudication Core】
+Kanan Ishizaka
+</p>
+<h2 style="text-align: center;">【Taylors Debate Open 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Top Breaking Team]
+Melon (Kanan Ishizaka, Tota Takahashi)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[4th Best Speaker]
+Kanan Ishizaka
+Tota Takahashi
+</p>
+<h2 style="text-align: center;">【Monash Australs 2020】</h2>
+<p style="text-align: center;">【ESL Grand Final Judge】
+　Tota Takahashi
+</p>
+<h2 style="text-align: center;">【Monash Australs 2020】</h2>
+<p style="text-align: center;">【ESL Grand Final Judge】
+　Tota Takahashi
+</p>
+<h2 style="text-align: center;">【K-Cup 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Champion]
+Bloody Nerds（Tota Takahashi joint）
+</p>
+<p style="text-align: center;">[Grand Final Best Speaker]
+Tota Takahashi
+</p>
+<p style="text-align: center;">[Grand Finalist]
+Hola 東京さ行ぐだ
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[The Best Speaker]
+Tota Takahashi
+</p>
+<p style="text-align: center;">[3rd Best Speaker]
+Akira Kato
+Ryo Hiramoto
+</p>
+<p style="text-align: center;">[5th Best Speaker]
+Mina Hamada
+</p>
+<p style="text-align: center;">[Best Student Speaker]
+Tota Takahashi
+</p>
+<p style="text-align: center;">【Adjudication Core】
+[Deputy Chief Adjudicator]
+Mizuki Arita
+</p>
+<h2 style="text-align: center;">【Femenism Open 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Open Semi Finalist]
+Yay (Ryosuke Yoshida, Takeshi Matsuda)
+</p>
+<p style="text-align: center;">[EFL Grand Finalist]
+Please give us a case (Atsuki Ito Joint)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[Open 8th Best Speaker]
+Ryosuke Yoshida
+</p>
+<h2 style="text-align: center;">【Elizabeth Cup 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[5th Best Team]
+Tokyo 神聖ルアナ帝国（Luana Ichinose, Akira Kato）
+</p>
+<p style="text-align: center;">[6th Best Team]
+Tokyo 北陸からの刺客（Haruka Sawazaki, Kana Ishikawa）
+</p>
+<p style="text-align: center;">[9th Best Team]
+Tokyo 特許許可局（Yuxin Tian, Kanan Ishizaka）
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[4th Best Speaker]
+Kanan Ishizaka
+</p>
+<p style="text-align: center;">[6th Best Speaker]
+Akira Kato
+</p>
+<p style="text-align: center;">【Rookie Speaker Prize】
+[2nd Rookie Best Speaker]
+Luana Ichinose
+</p>
+<p style="text-align: center;">[5th Rookie Best Speaker]
+Haruka Sawazaki
+</p>
+<h2 style="text-align: center;">【Monash Debate Open 2020】</h2>
+<p style="text-align: center;">[Breaking Adjudicator]
+[Novice Grand Final Judge]
+[Open Grand Final Judge]
+Ryosuke Yoshida
+</p>
+<h2 style="text-align: center;">【Korean National Championship 2020】</h2>
+<p style="text-align: center;">[5th Best Adjudicator]
+Tota Takahashi
+</p>
+<h2 style="text-align: center;">【Pre Gemeni 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[2nd Best Team]
+明日誕生日（Rei Toyama, Ryosuke Yoshida, Atsuki Ito）
+</p>
+<p style="text-align: center;">[3rd Best Team]
+2年生をなぎ倒す会（Haruka Sawazaki, Takeshi Matsuda, Luana Ichinose）
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[2nd Best Speaker]
+Ryosuke Yoshida
+</p>
+<p style="text-align: center;">[4th Best Speaker]
+Luana Ichinose
+</p>
+<p style="text-align: center;">【Judge Prize】
+[The Best Adjudicator]
+Tota Takahashi
+【Adjudication Core】
+[Chief Adjudicator]
+Kanan Ishizaka
+</p>
+<p style="text-align: center;">【Organizing Comittee】
+TD  Moegi Matsu
+</p>
+<h2 style="text-align: center;">【Gemini Cup 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Grand Finalist]
+VTokyo (Ryosuke Yoshida, Rei Toyama, Atsuki Ito)
+</p>
+<p style="text-align: center;">[Quarter Finalist]
+2年生をなぎ倒す会 (Haruka Sawazaki, Luana Ichinose, Takeshi Matsuda)
+No pain no gain (Kana Ishikawa, Koki Yoshioka, Yechan Park)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[2nd Best Speaker]
+Luana Ichinose
+</p>
+<p style="text-align: center;">[4th Best Speaker]
+Ryosuke Yoshida
+</p>
+<p style="text-align: center;">[5th Best Speaker]
+Kana Ishikawa
+</p>
+<p style="text-align: center;">【Judge Prize】
+[5th Best Adjudicator]
+Ryo Hiramoto
+Yutaro Kurihara
+</p>
+<p style="text-align: center;">[Breaking Adjudicator]
+Chikara Mizokami
+</p>
+<p style="text-align: center;">【Adjudication Core】
+[Chief Adjudicator]
+Kanan Ishizaka
+</p>
+<p style="text-align: center;">【Organizing Committee】
+TD Moegi Matsuo
+</p>
+<h2 style="text-align: center;">【UMSU International Debate Open 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Grand Finalist]
+To ta Kua (Tota Takahashi joint)
+</p>
+<h2 style="text-align: center;">【WOLCE The Pre-ABP Debate 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Open Semi Finalist]
+UTokyo SAD 18 (Luana Ichinose, Ryosuke Yoshida)
+</p>
+<p style="text-align: center;">[Open Quarter Finalist]
+Tokyo 1 (Kanan Ishizaka, Tota Takahashi)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[2nd Best Speaker]
+Luana Ichinose
+</p>
+<p style="text-align: center;">[5th Best Speaker]
+Ryosuke Yoshida
+Tota Takahashi
+</p>
+<p style="text-align: center;">[8th Best Speaker]
+Kanan Ishizaka
+</p>
+<h2 style="text-align: center;">【K Cup 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[2nd best team]
+のりのりのりの（Haruka Sawazaki joint）
+</p>
+<p style="text-align: center;">[8th best team]
+オカザえもん（Asahi Nakano joint）
+</p>
+<p style="text-align: center;">【Speaker prize】
+[4th Best Speaker]
+Haruka Sawazaki
+</p>
+<p style="text-align: center;">【Adjudication Core】
+DCA Mizuki Arita
+</p>
+<h2 style="text-align: center;">【MIDP Pre Malaysia ABP 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Grand Finalist]
+Tokyo 1 (Kanan Ishizaka, Tota Takahashi)
+</p>
+<h2 style="text-align: center;">【Malaysia ABP 2020 Weekend1】</h2>
+<p style="text-align: center;">［Breaking Adjudicator］
+Ryosuke Yoshida
+</p>
+<h2 style="text-align: center;">【Malaysia ABP 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[EFL grand finalist]
+[EFL first breaking team]
+Tokyo 1 (Kanan Ishizaka, Tota Takahashi)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[Overall Best  EFL Speaker]
+Tota Takahashi
+</p>
+<p style="text-align: center;">[3rd Best EFL Speaker]
+Kanan Ishizaka
+</p>
+<p style="text-align: center;">【Adjudicator Prize】
+[Breaking Adjudicator]
+Ryosuke Yoshida
+</p>
+<h2 style="text-align: center;">【JPDU Autumn Tournament 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Champion]
+Tokyo A (Puhong Yu, Moegi Matsuo)
+</p>
+<p style="text-align: center;">[Grand Final Best Speaker]
+Kanan Ishizaka
+</p>
+<p style="text-align: center;">[Grand Finalist]
+Tokyo D (Kanan Ishizaka, Tota Takahashi)
+</p>
+<p style="text-align: center;">[Quarter Finalist]
+Tokyo C (Kana Ishikawa, Koki Yoshioka)
+Joint C (Luana Ichinose joint)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[The Best Speaker]
+Kanan Ishizaka
+</p>
+<p style="text-align: center;">[2nd Best Speaker]
+Tota Takahashi
+</p>
+<p style="text-align: center;">[6th Best Speaker]
+Puhong Yu
+</p>
+<p style="text-align: center;">[9th Best Speaker]
+Luana Ichinose
+</p>
+<p style="text-align: center;">[3rd Rookie Best Speaker］
+Kana Ishikawa
+</p>
+<p style="text-align: center;">【Adjudicator Prize】
+[2nd Best Adjudicator]
+[Best Competitive Adjudicator]
+Ryosuke Yoshida
+</p>
+<p style="text-align: center;">【Adjudication Core】
+[Deputy Chief Adjudicator]
+Mizuki Arita
+</p>
+<h2 style="text-align: center;">【Icho Cup 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+【Pearl Champion】
+Luana: My deputy is, of course, also me! (Luana Ichinose joint)
+</p>
+<p style="text-align: center;">【Pearl Grand Final Best Speaker】
+Luana Ichinose
+</p>
+<p style="text-align: center;">【Pearl Semi Finalist】
+牛レバー(Haruka Sawazaki, Takeshi Matsuda)
+</p>
+<p style="text-align: center;">【Diamond Quarter Finalist】
+ひまわり(Asahi Nakano joint)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+【2nd Best Speaker】
+Luana Ichinose
+</p>
+<p style="text-align: center;">【3rd Best Speaker】
+Haruka Sawazaki
+</p>
+<p style="text-align: center;">【9th Best Speaker】
+Takeshi Matsuda
+</p>
+<p style="text-align: center;">【Judge Prize】
+【Best Adjudicator】
+Yutaro Kuriharaさん
+Ryosuke Yoshida
+</p>
+<p style="text-align: center;">【Adjudication Core】
+[Chief Adjudicator]
+Tota Takahashi
+</p>
+<h2 style="text-align: center;">【Umeko cup 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Semi Finalist]
+Tokyo 1 (Asahi Nakano, Haruka Sawazaki)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[Open Best Speaker]
+Haruka Sawazaki
+</p>
+<p style="text-align: center;">[Open 3rd Best Speaker]
+Takeshi Matsuda
+</p>
+<p style="text-align: center;">[Rookie Best Speaker]
+Koki Hirano
+</p>
+<p style="text-align: center;">[Rookie 5th Best Speaker]
+Asahi Nakano
+</p>
+<p style="text-align: center;">【Judge Prize】
+[The Best Adjudicator]
+Xianshang Gu
+</p>
+<p style="text-align: center;">[2nd Best Adjudicator]
+Kana Ishikawa
+</p>
+<h2 style="text-align: center;">【Evergreen Cup 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Champion]
+初対面 (Haruka Sawazaki, Yutaro Kurihara)
+</p>
+<p style="text-align: center;">[Grand Final Best Speaker]
+Yutaro Kurihara
+</p>
+<p style="text-align: center;">【Overall Speaker Prize】
+[The Best Speaker]
+Yutaro Kurihara
+</p>
+<p style="text-align: center;">[Rookie Best Speaker]
+Haruka Sawazaki
+</p>
+<p style="text-align: center;">[4th Rookie Best Speaker]
+Asahi Nakano
+</p>
+<p style="text-align: center;">[6th Rookie Best Speaker]
+Sakurako Eriksen
+</p>
+<p style="text-align: center;">【Adjudicator Prize】
+[The Best Adjudicator]
+Ryosuke Yoshida
+</p>
+<h2 style="text-align: center;">【Solbridge NEADC 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Champion]
+Tokyo 1 (Kanan Ishizaka, Tota Takahashi)
+</p>
+<p style="text-align: center;">[Grand Final Best Speaker]
+Kanan Ishizaka
+</p>
+<p style="text-align: center;">[Semi Finalist]
+Tokyo 2 (Luana Ichinose, Ryosuke Yoshida)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[3rd Best Speaker]
+Tota Takahashi
+</p>
+<p style="text-align: center;">[4th Best Speaker]
+Kanan Ishizaka
+</p>
+<p style="text-align: center;">【Adjudication Core】
+Co-CA Akira Kato
+</p>
+<h2 style="text-align: center;">【Japan BP 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Open Quarter Finalist］
+Loveless Losers (Kana Ishikawa joint)
+MariTa (Mizuki Arita joint)
+orihs etabed abab (Chikara Mizokami joint)
+Owsuke (Ryosuke Yoshida joint)
+</p>
+<p style="text-align: center;">[Open Pre-Quarter Finalist]
+TH celebrates alcohol (Atsuki Ito, Koki Yoshioka)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[Open 3rd Best Speaker]
+Chikara Mizokami
+</p>
+<p style="text-align: center;">【Adjudicator Prize】
+[4th Best Adjudicator]
+Kanan Ishizaka
+</p>
+<p style="text-align: center;">【Adjudication Core】
+[Chief Adjudicator]
+Tota Takahashi
+</p>
+<p style="text-align: center;">【Organizing Committee】
+[Communication Director]
+Ryosuke Yoshida
+</p>
+<p style="text-align: center;">[Tabulation Director]
+Kodai Matsumura
+Haruka Sawazaki
+</p>
+<h2 style="text-align: center;">【Momiji Cup 2020】</h2>
+<p style="text-align: center;">【Speaker Prize】
+[3rd Newcomer Best Speaker]
+Koki Hirano
+</p>
+<h2 style="text-align: center;">【Aoyama Women’s Cup 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Grand Finalist]
+KY (Kana Ishikawa joint)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[3rd Best Speaker]
+Kana Ishikawa
+</p>
+<p style="text-align: center;">[8th Best Speaker]
+Yoshiko Maejima (not eligible)
+</p>
+<p style="text-align: center;">【Adjudicator Prize】
+[3rd Best Adjudicator]
+Kana Okamoto
+</p>
+<p style="text-align: center;">【Adjudication Core】
+[Chief Adjudicator]
+Mizuki Arita
+</p>
+<h2 style="text-align: center;">【Bangladesh UADC 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Open Oct Finalist]
+[Open 2nd Breaking Team]
+Tokyo A (Kanan Ishizaka, Tota Takahashi, Ryosuke Yoshida)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[Overall Best Speaker]
+Kanan Ishizaka
+</p>
+<p style="text-align: center;">[7th Best Speaker]
+[EFL Overall Best Speaker]
+[2nd Best Reply Speaker]
+Tota Takahashi
+</p>
+<h2 style="text-align: center;">【Ryoso Cup 2020】</h2>
+<p style="text-align: center;">【Team Prize】
+[Champion]
+仲悪そうランキング1位（Yutaro Kurihara joint）
+</p>
+<p style="text-align: center;">[Grand Finalist]
+《スターバースト・ストリーム》（Ryosuke Yoshida joint）
+</p>
+<p style="text-align: center;">[Semi Finalist]
+300kg of ramen（Atsuki Ito joint）
+シャドーブリアン（Kana Ishikawa joint）
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[2nd Best Speaker]
+Yutaro Kurihara
+Ryosuke Yoshida
+Kana Ishikawa
+</p>
+<h2 style="text-align: center;">【IIUM Open 2020】</h2>
