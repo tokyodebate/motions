@@ -2,12 +2,37 @@ Gemini Cup
 	Gemini Cup 2021
 		R1
 			THP developmental dictatorship over democracy in developing countries.
+			THR the use of mockery by left-wing media in covering the far right.
+			THW give parents additional votes to vote on behalf of their children.
 		R2
 			THBT the internet has brought us closer to achieving a communist utopia.
+			THP a world where individuals believe that all course of events are predetermined to occur.
+			THO the narrative that it is desirable to repress strong emotions.
 		R3
+			TH, as the eSports community, P larger but more spaced apart balance patches to smaller, more frequent ones.
+				Balance patches are updates that are released by game developers which change game mechanics and balance, as well as occasionally add new content. They are usually aimed to make strong characters/strategies weaker and vice versa to maintain the balance and fairness of the game.
+			THBT the Bundesliga should abolish the “50+1 rule”.
+				The "50+1 rule" is an informal term used to refer to a clause in the regulations of the German Football League (the Bundesliga). The clause states that, in order to obtain a license to compete in the Bundesliga, the club's fans must hold a majority of its own voting rights.
 			THW establish quotas for immigrants on national sports teams.
 		R4
+			THS the narrative that all cops are bastards.
+				All cops are bastards (ACAB, 1312, etc.) is a slogan which originated in British crime/prison culture, and is considered a hate symbol against police officers. In the wake of the murder of George Floyd, this slogan has seen increased use by protestors and activists.
 			THBT the state should pay reparations to individuals convicted in the past for actions that are no longer recognized as a crime.
+			THW force priests to report the confession of serious crimes to the police
+				A confession is an occasion when a Christian tells a priest, formally and privately, what they have done wrong so that they can be forgiven.
+		QF
+			You are an author who is trying to warn against climate change. Rather than write a dystopian sci-fi novel on the aftermath of climate change, THW write a similar fantasy novel (magic brooms instead of hovercrafts, spells instead of laser guns, etc) where using magic slowly but irreversibly harms the Earth.
+			THR the success of white artists who use cultural modes of expression that come from minority cultures (e.g. Rap, Jazz, Hip-hop, etc.).
+			THBT the feminist movement should actively support #NotAllMen.
+		SF
+			TH, as the EU, W remove Hungary from the EU.
+				Hungary has repeatedly violated EU principles since Orbán Viktor became prime minister. For example, it expanded the prime minister's authority indefinitely, seized control of the domestic media and regulated freedom of expression, cracked down on minorities, and passed an anti-LGBT law in June. It has also strengthened ties with China and Russia. The EU has imposed sanctions and recommendations on Hungary since 2018, but has not improved and continues to crack down on democracy.
+			THBT the United States should pursue aggressive containment of China (e.g. economic sanctions, diplomatic threats, remilitarization of South China Sea and Japan, countering China's influence in various regions).
+			TH, as Malala, W focus on activism pushing the Taliban government to be more progressive rather than criticizing its existence.
+		GF
+			As a country with a large cosmetic surgery industry (i.e. Korea), THW nationalize the cosmetic surgery industry.
+			THW require the consent of any twin siblings in addition to the patient when storing genetic information in public databanks.
+			Assuming vaccines for Covid-19 are widely accessible to everyone, THBT hospitals should deprioritize Covid-19 patients who are willingly unvaccinated in emergency care.
 	Gemini Cup 2020
 		R1
 			THW allow pro-life organisations to pay women considering abortion to carry their pregnancies to term
