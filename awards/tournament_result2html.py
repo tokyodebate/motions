@@ -30,7 +30,7 @@ with open('output2020.txt', 'w') as fw:
 					counter = 0
 
 
-			elif len(cols) == 1:  # 大会名
+			elif len(cols) == 1:  # 大会名 【Tokyo mini 2020】　など
 				if counter != 0:
 					memory = memory + '</p>'
 					fw.write(memory + '\n')
@@ -41,7 +41,7 @@ with open('output2020.txt', 'w') as fw:
 				fw.write(output + '\n')
 
 
-			elif len(cols) == 2: #
+			elif len(cols) == 2:  # 賞状の名前、受賞者の名前　【Ajudicatior Prize】, Todai Taro　など
 				if counter == 0:
 					memory = '<p style="text-align: center;">' + cols[1] + '\n'
 					counter += 1
