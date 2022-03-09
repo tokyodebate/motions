@@ -1,4 +1,21 @@
 KK-Cup
+	KK-Cup 2022
+		R1
+			THBT the government should heavily subsidize cosmetic surgery in areas where such procedures are incredibly popular.
+		R2
+			Assuming feasibility, THW allow the use of "Limiter Removal" in professional sports.
+				Human beings are equipped with something called potential. When human muscles exert excessive muscular power. the body suffers damage because of the enormous load on muscle fibers and other parts of the body and the enormous amount of energy consumed. Therefore, in order to prevent damage to muscles and bones, the human brain is equipped with a safety device (limiter) that limits the amount of power that can be consciously exerted. We assume Limiter Removal. It is a technology which is capable of bringing out 100% of human ability during competition.
+		R3
+			THBT feminist movement should aggressively oppose advertisement casting with traditional gender role
+		R4
+			THBT countries should suspend all elections in times of severe health crisis.
+		PreSemifinals
+			THW require companies to place image of animal suffering on all products and food whose production harmed or killed animals.
+		Semifinals
+			THW replace "real world" prison incarceration with simulated incarceration for people not sentenced to a life sentence.
+				For the purposes of this debate, there exists a safe technology which can accurately simulate the experience of being in prison. A person within the simulation will experience the simulation as fully real, including time passing slowly as in "real life", while not interacting with others in the "real world". In reality, even a long sentence in the simulation will be done in a matter of days.
+		Grandfinal
+			THBT elementary education should not teach all opinions ought to be respected.
 	KK-Cup 2021
 		R1
 			THW ban all forms of private education
