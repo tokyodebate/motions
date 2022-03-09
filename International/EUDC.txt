@@ -1,4 +1,77 @@
 European Universities Debating Championships
+	EUDC 2021
+		R1
+			THW prioritise means-based[1] rather than target-based[2] regulation [1] e.g of means-based regulations: setting standards that attempt to make the workplace more accessible or banning the use of polluting technologies [2] e.g of target-based regulations: setting hiring quotas for employees from one particular group, or making companies reduce carbon emissions to X under threat of fines
+		R2
+			TH, as a University scholarship fund targeted at marginalized identity groups, W prioritize allocating funds based on merit rather than economic necessity.
+		R3
+			THO the narrative that love (romantic, familial, etc.) is about sacrifice
+		R4
+			THBT societal narratives about recovery during crisis should be transformative (attempt to radically change society) rather than restorative (attempt to stabilise current crisis)
+		R5
+			TH, as the Spanish government, would give Catalonia a chartered regime
+				In Spain there are two ways financial autonomy is exercised by autonomous regions: In the common regime the central government is in charge of setting and collecting most taxes, which it then redistributes between all the autonomous regions with the aim of reducing inequalities between regions. This implies that richer regions become net contributors to the system, while poorer ones become net recipients. Catalonia is currently under a common regime.The second regime is a chartered regime, where as long as regions pay a fixed amount to the central government, they are allowed full control over setting and collecting non-VAT taxes (including raising or lowering tax). Currently only Basque Country and Navarre have a chartered regime.
+		R6
+			THBT social movements should follow social marxism
+				For the purposes of this debate, "social marxism" is defined as the belief that members of all oppressed groups should unite and fight together. Social marxism states that you cannot support one group without also supporting all others.
+		R7
+			THR Germany's decision to go ahead with the Nord Stream 2 deal with Russia
+				Nord Stream 2 is a set of offshore natural gas pipelines directly linking Russia and Germany. It would double the amount of natural gas that Germany directly imports from Russia.
+		R8
+			THBT states should prioritise high employment rates at the expense of significantly slowing down technological advancement (e.g. taxing automation, setting a minimum quota for human employees, or banning/limiting use of certain technologies)
+		R9
+			In functioning democracies with one dominant political party, THP opposition parties to predominantly campaign on the basis of moral character (e.g. integrity, transparency, corruption) rather than predominantly on specific issues and policies (e.g. unemployment, education, the environment).
+		QF
+			THS Green Central Banking
+				Green Central Banking refers to central banks deliberately using their monetary policy instruments to incentivise climate-friendly market activities. For instance, targeted green lending programmes, targeted green bond purchase programmes, ""brown penalties"" (higher interest rates for pollution-intensive banks or businesses), lowering the financing rate for banks that offer collateral with a smaller carbon footprint, and mandatory disclosures of climate risks. For the purposes of this debate, green central banking would support climate-friendly policies even at the expense of traditional monetary objectives such as targeting inflation rates, ensuring financial stability and market efficiency, as well as retaining neutrality of intervention.
+		SF
+			THP religious organisations to actively propagate the idea that faith in a higher power cannot be explained with logic, rather than attempt to explain faith rationally
+		GF
+			THS a Multi-Speed Europe
+				Multi-Speed Europe is a scenario where existing Member States in the European Union integrate at different paces, where certain Member States opt in doing more in specific policy areas, while others opt out. This would not apply retroactively, so existing policies would remain unified, but new policies would be differentially adopted. These may cover policies such as defence, internal security, taxation or social matters.
+		ESL SF
+			THBT the Myanmar opposition movement should prioritise demands for an immediate, internationally-observed election over demands for Aung San Suu Kyi to be freed
+		ESL Final
+			THP humans to aquire memories* of their past lived experiences upon reaching adulthood rather than staying oblivious * memories of past lived experiences include events, interactions and emotions, but not skills
+				For the purposes of this debate reincaraction is real. It happens in human form only, in a random (not karmic) way, and doesn't have to follow immediately after death. This is known to all and considered an undisputable fact.Humans have inherent traits that consist of their core personality and preferences. These get transferred through reincarnations and do not change. People are a combination of their inherent traits and their environment.
+	EUDC 2020
+		R1:
+			THW only allow university admission on the basis of standardized testing, as opposed to non-quantitative methods (e.g. essays, alumni interviews)
+		R2:
+			This House Would ban Amazon’s internal arbitration courts
+				Infoslide: All third-party sellers on Amazon are contractually obliged to settle any dispute between them and Amazon in an Amazon internal arbitration process
+		R3:
+			This House Opposes the commercialization of Mindfulness
+				Infoslide: Mindfulness is the psychological process of purposely bringing one’s attention to experiences occurring in the present moment without judgment, which one develops through the practice of meditation and through other training
+		R4:
+			This House Believes That pro-democratic activists should use fake news and synthetic media (e.g. “deepfake”, fake video or audio recordings) to advance their cause.
+		R5:
+			THR the trend of central banks setting extremely low interest rates after the 2008 financial crisis
+		R6:
+			THBT 10 Minute School should remove the videos.
+				Infoslide: 10 Minute School is a large educational start-up operating in Bangladesh. It produces very popular online content including lessons on school subjects, as well as basic life skills such as writing a CV.Recently, in response to several videos about consent, LGBTQ+ rights and gender equality, extremists in Bangladesh have come out against the organization and its founders, calling the organization anti-Muslim and openly threatening them.
+		R7:
+			Given the technology, This House Would erase society’s memory and evidence of the criminal past of former convicts after their release from prison.
+		R8:
+			This House Believes That leaders of an occupied nation should not assist the occupying powers in maintaining stability.
+		R9:
+			This House Would ban ownership consolidation of newspapers by a single entity e.g. private equity firms, single media company.
+		ESL QF:
+			This House Would force individuals suspected of being a “stolen child” under the junta to undergo DNA testing to establish whether they are indeed stolen children.
+				Infoslide: From 1976 to 1983, Argentina was ruled by a military junta. In order to ensure lasting loyalty to the regime, the junta secretly kidnapped children of “subversive” parents as infants.
+		ESL SF:
+			THBT countries should suspend all elections in times of severe health crises
+		ESL F:
+			THW only recruit atheists to be part of the group, and would not allow any religious books or items of worship on board
+				Infoslide: The year is 2140. A distant planet very similar to Earth has been discovered. A group of humans is supposed to embark on a journey to settle the planet.
+		Open PDQ:
+			This House Would ban insurance coverage for sexual misconduct claims.
+		QF:
+			This House Would transfer management of all water resources to an international body.
+		SF:
+			TH, as Israel, would form a strategic military alliance with the Kurds in Syria.
+		F:
+			THW allow police officers to refuse orders on grounds of conscience
 	Athens EUDC 2019
 		R1
 			THBT Greece should introduce significant financial incentives for companies and individuals currently based in Athens* to relocate to other Greek cities *Over a third of the Greek population lives in Athens.

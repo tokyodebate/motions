@@ -1,4 +1,24 @@
 K-cup
+	2021 NA
+		R1
+			THW introduce eSports into the Olympics.
+		R2
+			THW ban all people over age 60 from driving cars.
+		R3
+			THW criminalise vaccine denial.
+	2021 BP
+		R1
+			THBT Instagram infographics do more harm than good for the Black Lives Matter movement.
+			Instagram infographics are aesthetically formatted informational posts on social media, namely Instagram, that aim to raise awareness or call for action regarding social issues. Their popularity have increased along with the rise of large-scale human rights causes, such as the Black Lives Matter movement.
+		R2
+			THO the growing trend of digital technology criticism.
+				Digital technologies like smartphones, computers, gaming devices, and SNSs have provided us with much utility and entertainment. However, some people criticize the effects of such innovations on our mental/physical health and human relationships.
+		R3
+			THBT people of the world would benefit from supporting degrowth instead of the SDGs.
+				Degrowth is a term used for both a political, economic, and social movement as well as a set of theories that critiques the paradigm of economic growth. It is pointing out the social and ecological harm caused by the pursuit of infinite growth and Western "development" imperatives.
+		GF
+			THR the decision of Digital Agency to cancel Joichi Ito.
+				Joichi Ito is a venture capitalist and businessperson, well-known as pioneer in the IT industry. He has a history as Director of MIT Media Lab, MIT Professor, and visiting professor at Harvard Law School. He resigned from these posts in September 2019 when it came to light that he had received secret research funding from Jeffrey Epstein, a notorious sex offender. Now, in 2021, the Digital Agency of Japan planned to take him on as its leader, but renewed interest in the above circumstances prompted them to pass him on this time. Digital Agency will begin operations September 1.
 	2020 NA
 		R1
 			THW ban all political lobbying

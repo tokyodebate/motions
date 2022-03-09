@@ -1,4 +1,14 @@
 BP Novice
+	2021 West (11.6)
+		R1: In criminal trials, TH prefers using Al judges to human judges/juries.
+			In criminal trials, Al judges independently reach a verdict based on programmed algorithms. These algorithms, which are introduced and updated by human beings, use large data sets (such as precedents) and statistical modeling to predict the likelihood of a person being guilty and decide what sentence is the most appropriate. High-end models of Al judges are also capable of examining and improving their criteria for judgment on their own.
+		R2:
+			In aging societies, THW tax workers who are not living with their elderly parents.
+		R3:
+			TH regrets the glorification of continuous self-improvement.
+		GF:
+			TH prefers a world in which social media sites were founded on a subscription-based revenue model rather than an ad-based revenue model.
+				Under a subscription-based revenue model, most of a business's revenue would come from the customer's regular (typically monthly or annually) payment. Businesses such as Netflix, Amazon Prime Video, and Slack use this kind of revenue model. Under an ad (=advertisement) based revenue model, most of a business's revenue would come from ad fees. This kind of revenue model is prevalent among social media sites such as Twitter, Facebook, and Instagram. In these cases, businesses pay ad fees to social media sites to have their ads appear. Also, ad fees are often decided by the number of clicks an ad gets (i.e. the more clicks an ad gets, the higher the ad fee becomes), which incentivizes social media sites to target ads to specific individuals based on information the site has collected (e.g. cookies, history of smartphone use etc).
 	2019 East
 		R1
 			THW censor and remove all contents (including books and tweets) which are deemed to be anti-vaccination.

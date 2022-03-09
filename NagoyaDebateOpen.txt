@@ -1,4 +1,50 @@
 Nagoya Debate Open
+	Nagoya Debate Open (2021)
+		R1
+			THW hold corporate owners/executives legally liable for the occupational accidents in workplaces.
+			THW repeal Section 230.
+				Section 230 is a piece of Internet legislation in the United States that provides immunity for website platforms from third-party content. It protects websites from lawsuits if a user posts something illegal, although there are exceptions for copyright violations, sex work-related material, and violations of federal criminal law.
+			THW allow the cultural defense in all criminal proceedings.
+				A "cultural defense" is a defense in criminal trials. It involves the defendant claiming that their actions were motivated by their cultural background and beliefs.
+		R2
+			TH, as FIFA, W boycott the FIFA World Cup Qatar 2022.
+				Qatar has faced criticism for its treatment of migrant workers, many of whom are involved in the construction of stadiums and infrastructure for the 2022 World Cup.
+			THR the IOC’s decision to ban “Black Lives Matter” apparel at the 2021 Tokyo Olympics.
+				The IOC recently placed a ban on any "direct" endorsement of the Black Lives Matter movement, such as BLM t-shirts and sportswear.
+			THR fining Naomi Osaka for skipping out on the press conference.
+				The French Open recently fined Naomi Osaka for skipping out on post match press conference, which lead to her pulling out of the ongoing event. Osaka cited mental health issues, which lead to the French Open first issuing her a warning and then second a hefty fine. Press conference days and viewerships are two major means of income for large sporting events, as media outlets would have to pay a hefty sum to be able to interview athletes. This money is then funneled into the event to pay the appearance fee for all athletes, the prize money and etc.
+		R3
+			THBT the South Korean government should exempt male K-pop artists with notable achievements from military conscription.
+			THR the decision of The Billboards to stop counting bundled music for their charts.
+				Bundled music is music (in the form of album sales and streams on Spotify Youtube) that is often added on with or under the price of an added merchandise, such as selling an album with a ticket to a concert or a t-shirt. In July of 2020, Billboard decided to eliminate the practice of counting albums bundled with merchandise and concert tickets on its album and song charts altogether, Under these new rules, albums that are attached to a ticket or merchandise bundle will no longer count for the ranking. The Billboards are a popular platform that tallies the total album sales and releases a weekly rank that is crucial for the popularity for the artist and revenue generation.
+			THS the YOLO lifestyle
+				A YOLO trend (You Only Live Once, 욜로) means a lifestyle or trend that many young people have adopted as a way to better enjoy life in the present, and not to think about saving up for the future.
+		R4
+			THBT revenue from tourism sites associated with indigenous cultures (e.g. Chichen Itza and related Mayan sites in Mexico) should be distributed directly to those communities.
+			THBT Asian immigrants to Western countries should assimilate in the culture of their host country even at the expense of losing their original culture.
+			THW mandates all newly created superheroes to represent racial/sexual minorities.
+		QF
+			THW weigh shareholder votes based on the length of time their shares have been held.
+			THR the rise of cryptocurrency.
+			THR the creation of the microcredit system in impoverished areas.
+				Microcredit is the extension of very small loans to impoverished borrowers who typically lack collateral, steady employment, and verifiable credit history. For example, Grameen Bank operating in impoverished areas of Bangladesh provides such microcredits. These banks can implement high or low-interest rates without the intervention of the government.
+		SF
+			THBT progressive rabbis should actively denounce Zionism.
+				A rabbi is a spiritual leader or religious teacher in Judaism. Progressive rabbis are rabbis who support the reform of judaism, which is characterized as being relatively liberal (viewing the individual Jew as autonomous and open to progressive values). Zionism is both an ideology and a nationalist movement that espouses the establishment of and support for a Jewish state centered in the area roughly corresponding to the Holy Land, the region of Palestine and/or Israel on the basis of a long Jewish attachment to that land.
+			TH, as the Israeli government, would officially acknowledge all kinds of conscientious objection.
+				A “conscientious objector” is an individual who has claimed the right to refuse to perform military service on the grounds of freedom of thought, conscience, or religion. The Israeli government has been sentencing the objectors (sarvanim in Hebrew) to prison for evading service, although with varying durations.
+			THBT the U.S. should provide aid to Palestine at the expense of weakening ties with Israel.
+		Rookie GF
+			THBT silent rounds should be abolished.
+			THW allow joint team participation in majors.
+				“Majors” are prestigious and highly competitive debate tournaments held annually and internationally. These tournaments span over several days and draw a significant number of participants. Some examples of majors include WUDC, Australs, EUDC, UADC, and ABP
+			THW mandate affirmative action for all debate tournaments.
+				Currently, WUDC and Australs employ an affirmative action policy that requires at least one-third of each institution's contingent to be non cis-male. Representation of nationalities and genders is also taken into account when deciding certain breaks (i.e. judge breaks). The policy was promoted to increase diversity but also to encourage participation from less-represented groups
+		GF
+			THBT access to the internet should be a basic human right in developing countries.
+			THW ban the collection of metadata.
+				Metadata is data that provides information about other data. For example, if the actual content of a message is data, metadata about the message is when, where, amongst whom, and how the message was sent. It is generally impossible to prevent the collection of metadata without opting out from using services that collect them. Oftentimes, you are required to consent to the collection of your metadata to access sources on the internet, such as Google, Facebook, etc.
+			THP a world in which AI undertakes all court rulings.
 	Nagoya Debate Open (2020)
 		R1
 			THW require candidates running for high office (President, Parliament/Diet etc) to have prior experience holding office in regional or local government
