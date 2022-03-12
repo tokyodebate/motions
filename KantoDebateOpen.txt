@@ -11,7 +11,10 @@ Kanto Debate Open
 			THP a world where all contracts are forcibly executed by magical power.
 		Round 3
 			THW ban non compete clause.
-				Non compete clause is a clause under which one party (usually an employee) agrees to the other party(usually the employer) not to ①enter into or start a similar profession of another party (usually the employer) ②operate business in competition against another party (usually the employer) ③headhunt ex-colleagues or an entire team for a certain period of time.
+				Non compete clause is a clause under which one party (usually an employee) agrees to the other party(usually the employer) not to 
+				①enter into or start a similar profession of another party (usually the employer) 
+				②operate business in competition against another party (usually the employer) 
+				③headhunt ex-colleagues or an entire team for a certain period of time.
 			THR the increasing popularity of buy-now-pay-later services (e.g. Afterpay, Affirm, Klarna, Paidy etc.).
 				Buy now pay later(BNPL) arrangements are point-of-sale installment loans that allow consumers to make purchases and pay for them at a future date. BNPL often doesn't charge interest and is often easier to get approved for than traditional credit cards or lines of credit are. Normally, BNPL doesn't affect your credit score; however, late payments or failing to pay can damage your credit score.
 			THP a world with the dominance of the narrative that  "shareholders are the owner of the company"
