@@ -17,8 +17,8 @@ import sys
 print(sys.path)
 
 
-with open('output2020.txt', 'w') as fw:
-	with open('input2020.tsv', encoding='utf-8', newline='') as fr:
+with open('output2022.txt', 'w') as fw:
+	with open('input2022.tsv', encoding='utf-8', newline='') as fr:
 		counter = 0
 		memory = ''
 		for cols in csv.reader(fr, delimiter='\t'):
