@@ -1,0 +1,15 @@
+<h2 style="text-align: center;"><span style="color: #ff0000; font-size: 18pt;">Executive Committee 2021</span></h2>
+<p style="text-align: center;"><span style="text-decoration: underline;">President</span>
+<b>Haruka Sawazaki</b></p>
+<p style="text-align: center;"><span style="text-decoration: underline;">Vice President</span>
+<b>Takeshi Matsuda</b></p>
+<p style="text-align: center;"><span style="text-decoration: underline;">International Affairs</span>
+<b>Ryosuke Yoshida</b></p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><b></b>Domestic Affairs</span>
+<b>Asahi Nakano</b></p>
+<p style="text-align: center;"><u><b></b>General Affairs</u></p>
+<p style="text-align: center;"><b>Koki Hirano</b></p>
+<p style="text-align: center;"><span style="text-decoration: underline;"><b></b>Finance</span>
+<b>Nasa Tsuchiya</b></p>
+
+<h2 style="text-align: center;"></h2>
