@@ -2,7 +2,8 @@ NA(NORTH AMERICAN STYLE)
 
 Icho Cup
 2021/8/18開催 2021/12/11 更新
-https://ichocup2021.herokuapp.com/icho2021/
+https://ichocup2021.herokuapp.com/icho2021/ 
+archive https://ichocup2021.herokuapp.com/icho2021/ (すでにmotionを反映させたurlです)
 
 K-Cup
 2021/12/11 更新
