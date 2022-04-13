@@ -1,4 +1,69 @@
 United Asia Debating Championship
+	Bali online UADC 2021
+		R1
+			This house regrets the increasing trend of universities in Asia partnering with global western universities (e.g. Yale-Nus, MIT-SUTD)
+			This house believes that universities should not accept research funding and scholarships from corrupted / problematic organizations and donors
+			This house believes that universities should primarily consider teaching ability and performance rather than research outputs when awarding tenure and allocating academic funding
+		R2
+			This house believes that feminist movements in developing nations should deprioritise the strategy of advocating for carceral feminism
+			This Hous regrets the glorification of women's resilience
+			Assuming the technology exists, this house would allow minority women of colour, with no affinity to their gender and race, to alter their identity to that of the majority gender and race
+		R3
+			This House Would ban collateralised loan obligations
+			This House would ban private sector management of pension funds
+			This house regrets western institutions' push for market liberalisation
+		R4
+			This House regrets the rise of digital currencies
+			Assuming technology exists, this house would operationalize the entire Criminal Justice System (e.g. Judges, Juries etc.) using Artificial Intelligence
+			This house would require social media users to verify their identities before creating an account (e.g. provide proof of identity and documentation)
+		R5
+			This House opposes the norm that individuals should "see the best in others"
+			This House would actively discourage home-ownership
+			This House regrets the culture of fearing death
+		R6
+			This House regrets progressives abandoning political moralism
+			This House blieves that environmentalists should put a monetary value on environmental functions
+			This house, as pride event organizers, would actively work with corporations that adopt rainbow capitalism
+		R7
+			This House believes that the CPTPP should accept China's application
+			This House believes that it is in the interests of India to offically recognise the Taliban regime of Afghanistan
+			This House regrets the signing of the AUKUS pact
+		R8
+			This House, as the parents, would not have children
+			In a state with failing adoption homes/numbers This House would put a moratorium on IVF clinics
+			As a parent from a minority community, this house would teach their children to pursue a mediocre but satisfactorily happy life over a life which involves a constant pursuit of excellence and the extraordinary
+		EFL_Quarter
+			This house regrets the rise of shows/films which involve mental suffering and self-harm (e.g. Bojack Horseman, Black Swan, 13 Reasons Why)
+			This house, as WWE, would induct Chris Benoit in the WWE Hall of Fame
+			This house believes that contemporary black film makers should actively create films which embrace blaxploitation
+		EFL_Semi
+			This house prefers a world where Islam has its own central authority (e.g. The Pope or the Magisterium in Catholicism)
+			This house believes that religious organisations should excommunicate members who commit serious crimes against society
+			This house, as the Catholic Church, would abolish the papal conclave and select its succeeding Popes through an election among all its members (i.e. its religious followers)
+		EFL_Final
+			This house believes that it is a legitimate tactic for activists to launch campaigns of personal attacks/insults at the family members of corrupt politicians
+			This house supports the strategy of activists publicly shaming those who do not actively denounce problematic individuals
+			This house prefers a narrative of collective blame for ethnic divides within a community, rather than the blame being placed exclusively on institutions or externalities
+		Open_PDO
+			This house would prohibit provincial and local governments from offering tax credits and other incentives to attract large companies to open business in their regions
+			This house prefers individuals seeking maximum material gain as opposed to meaning / fulfilment from their work
+			This House regrets China's focus on "Common Prosperity"
+		Open_Octa
+			TH would choose to be born in Fantasia Over Earth
+			This house welcomes research that seeks to transfer human consciousness into simulations, computers, and artificial intelligence
+			TH, as the parent, would not give their consent
+		Open_Quarter
+			This house supports Gulf States intervening in Ethiopia
+			This house believes that the Naftali Bennet administration is in the best interest of the Middle East
+			As a prominent Pro-Palestine journalist in the west covering the conflicts in Israel-Palestine, this house would choose not to focus on Hamas' role in the escalation of the conflict
+		Open_Semi
+			This house supports the narrative that current generations have a duty to protect the rights of future generations who do not exist yet
+			This house opposes fallen soldiers believing their deaths would be meaningful
+			This house prefers a world where individuals live in recognition of their moral flaws as opposed to a convenient morality
+		Open_Final
+			This house prefers a world where religions actively preach the concept of the Divine Gift
+			This house believes that moderate Muslims should refrain from attempting to reclaim the term jihad in the aftermath of terrorist attacks
+			This house believes that religious leaders should abandon the narrative that difficulties in life are "tests of God"
 	Bangladesh UADC 2020
 		R1: Environment
 			In developed countries, THW increase the tax on the use of non-renewable energy sources to be equivalent to the cost of the closest renewable energy source.
