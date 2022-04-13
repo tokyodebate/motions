@@ -1,5 +1,5 @@
 HWS Round Robin
-	HWS ROUND ROBIN 2021
+	HWS ROUND ROBIN (2021)
 		R1
 			THP a world where children are raised communally.
 		R2
@@ -16,7 +16,7 @@ HWS Round Robin
 				In the status quo, China allegedly sells arms to the Burmese military and has blocked an official condemnation of the coup at the U.N. Chinese investment, firms, and infrastructure have been targeted by protestors.
 		GF
 			THBT the legacy of historical figures should not suffer due to those figures' immoral actions, if those actions were generally seen as morally unproblematic by their own society.
-	HWS ROUND ROBIN 2020
+	HWS ROUND ROBIN (2020)
 		R1
 			THBT parents of minorities should encourage their children to embrace positive stereotypes about themselves.
 		R2
@@ -31,7 +31,7 @@ HWS Round Robin
 		GF 
 			THP a world where there exists a world government with sovereign power.
 				A world government with sovereign power would have effective power in the entirety of the world.  Such a government is characterized by a legislative system, a world court, and sufficient military power to enforce the laws created by such a government.
-	HWS ROUND ROBIN 2019
+	HWS ROUND ROBIN (2019)
 		R1
 			This House regrets the decline of the humanities in higher education.
 				In academic settings, “the humanities” is contrasted with the study of natural sciences, social sciences, and professional trainings. Core fields in the humanities include: literature, philosophy, history, religion, art.
