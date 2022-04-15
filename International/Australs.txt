@@ -1,5 +1,98 @@
 Australasian Intervarsity Debating Championships
-		Australs 2020
+	Nepal Australs 2021
+		R1
+			A: That we support this trend in progressive discourse. (Progressive Discourse)
+				In progressive discourse, there is a trend to defend behaviours and norms on the grounds that all of the participants have consented (for example, in defences of the production and consumption of pornography).
+			B: That we regret the trend of describing regressive views or speech as violent. (Violent Views)
+			C: That, as a new media company, we would choose to have a cohesive voice without consistent attribution of any particular writers (for example, the Economist) rather than individuals writers having their own independent, recognisable voices (for example, the Atlantic) (Writer Attribution)
+		R2
+			A: That we, as the judge, would rule the crack down legal. (Legal Crackdown)
+				You are a judge in a country with an established democracy, but which has experienced a weakening of its democratic institutions. The Parliament has passed an unconstitutional bill with popular support declaring martial law and repealing all statutory guarantees for elections. The legality of this has gone to court. You have the deciding vote in this case.
+			B: That, as New Zealand, we would refuse to extradite Mr Kim to China. (Kyung Yup Kim)
+				Kyung Yup Kim is a 46-year-old New Zealand permanent resident, having moved to New Zealand from Korea at the age of 16. There is strong forensic and circumstantial evidence linking Mr Kim to the recent murder in China of a Chinese woman, and he has been arrested and detained by the New Zealand police on the strength of that evidence. China has requested that New Zealand extradite Mr Kim to China, and has guaranteed that Mr Kim will not be executed should he be found guilty. China is also New Zealand's largest trade partner. However, China's courts and prison system have been often criticised as arbitrary and inhumane.
+			C: That we would allow a substantially lower minimum wage for prisoner labour. (Prisoner Labour)
+		R3
+			A: That we prefer the separate model to the concurrent model of women's sports. (Women's Sports)
+				A: There are broadly two models of women's sport. The first is the separate model, where women's seasons run at a completely separate time to the men's seasons. Examples include the men's and women's Australian Football League and Big Bash League.
+				The second model is the concurrent model, where all/the majority of women's and men's games happening one after the other at the same ground on the same day. Examples include the HockeyOne League in Australia.
+			B: That student sports should be completely de-professionalised. (Student Sports)
+				B: Deprofessionalising student sports may include barring all staff including coaches and associated administrators from receiving more than a living wage, pooling all revenue in the league to cover reasonable costs, and donating any profit to a range of non-sports charities.
+			C: That sports players should not be punished by sports leagues or clubs for private acts that are not illegal, but may be considered immoral by society (e.g. extra-marital affairs etc.) (Private Sports)
+		R4
+			A: That NATO should vote to expel Turkey. (Expel Turkey)
+				A: Turkey is a member of NATO, the North Atlantic Treaty Organisation, a collective defence agreement. In recent years, Turkey has deepened its relationship with Russia, including purchasing missile systems from them, in addition to other acts which have created tensions between Turkey and some other NATO members.
+			B: That, if the final Noumea Accord referendum fails, New Caledonia should not conduct regular referenda on independence. (Caledonian Independence)
+				B: New Caledonia is a set of islands in the Pacific and is currently a part of France. The Noumea Accord is an agreement between France and New Caledonia which provides for up to three referendums on New Caledonian self-determination. The first in 2018 and the second in 2020 were both won by “loyalists” who voted to remain a part of France. The first two referendums showed 43.3 percent support for independence in 2018 and 46.7 percent support in 2020. A "third referendum" has been held, but it was heavily disrupted by Covid-19 and it is expected that a make up Noumea Accord referendum will be held once the pandemic has subsided. The pro-independence faction is pushing for regular referendums to be continued to be held regardless of the result of the make up referendum.
+			C: That it is in the best interests of the Chinese Communist Party (CCP) to quietly abandon its attempt to reunify with Taiwan. (Taiwan Reunification)
+		R5
+			A: That we prefer a world where god judges people on the purity of their intentions, rather than the consequences of their actions. (God's Judgment)
+				A: In both worlds, people are aware of god's method of judgment.
+			B: That we prefer a world where hypocrisy is completely de-stigmatised. (De-stigmatising Hypocrisy)
+				B: For the purpose of this debate, hypocrisy means to act in a way that is inconsistent with your publicly stated positions and values. The inconsistency between action and position is key - hypocrisy is perceived as a moral flaw above mere dishonesty about one’s beliefs or the performance of immoral acts.
+			C: That we oppose self help narratives that instruct people to reduce their reliance on external validation. (Self-Validation)
+		R6
+			A: That we support a rise in income-selective dating apps. (Income-Selective Dating)
+				A: Income-selective dating apps require people to verify that they have a certain level of income or wealth in order to sign up to the app.
+			B: That we support the commodification of close and intimate relationships. (Commodifying Relationships)
+				B: Commodification is the transformation of things that normally exist outside the market into commodities or objects of trade. Commodification of intimacy includes but is not limited to hiring actors to play your family members; commercial hugging; rent-a-girlfriend.
+			C: That, in a world where both men and women were equally likely to do it, we would prefer a return to the norm of families in which one parent works and the other remains at home. (Parental Roles)
+		R7
+			A: That we, as Belarus, regret manufacturing the border crisis with Poland. (Belarus v. Poland)
+				A: Belarus has artificially created a border crisis with Poland by bringing in a significant number of migrants and asylum seekers – mostly from the Middle East – and taking them to the border with promises of an easy crossing into the European Union. Poland is a member of the European Union while Belarus is not
+			B: That Western powers should pressure Ethiopia to allow Tigray to secede. (Ethiopia v. Tigray)
+				B: Tigray is a region of Ethiopia. The Tigray People's Liberation Front is a political party with a military wing from the region which dominated Ethiopian national politics for decades. The TPLF had been in conflict with the federal Ethiopian government over proposed political reforms, and the postponement of the federal election. In response, Tigray held its own elections, and the Tigrayan and federal governments each deemed the other illegitimate. Military conflict began in Tigray in November 2020 after Ethiopia's Prime Minister Abiy Ahmed sent troops to topple the Tigray People's Liberation Front, which dominated national politics before he took office in 2018.
+				This troop movement was allegedly in response to TPLF attacks on federal army camps. Government forces drove the TPLF from Tigray's cities and towns, but the rebels retook most of the region, including its capital, Mekele, by late June.
+				The war has soured relations between Ethiopia and Western powers, including the United States, long a critical ally.
+			C: That countries should never cooperate with Chinese "hostage diplomacy" (Hostages v. China)
+				C: Michael Kovrig and Michael Spavor are two Canadians who were detained by China (allegedly on charges of espionage) shortly after Canada’s arrest of the Huawei executive Meng Wanzhou. They were released after Meng Wanzhou was released in a deal with American prosecutors. This is widely percieved to have been an example of "hostage diplomacy", where a country's citizens are taken hostage as a way to exert pressure.
+		R8
+			A: That China should walk back its crack down on private education. (Chinese Education)
+				A: China has recently cracked down sharply on private tutoring companies, forcing these companies to register as non-profit organisations, banning approvals for new companies, and making it illegal for them to receive foreign investment.
+			B: That education systems should actively teach "Sticking it to the man". (Sticking It To The Man)
+				B: "Sticking it to the man" is an anarchic/punk sentiment of the 80s, which encouraged the youth to be politically aware, question and undermine political authority.
+			C: That small or developing countries should replace their school curriculums with a well-performing curriculum of another country. (Foreign Curriculum)
+		Partial Double Octofinals
+			A: That, as a mid-tier CCP official in a regional government openly opposed to Xi Jinping's property tax plan, we would obstruct rather than facilitate its implementation. (Xi's Property)
+				A: Local governments in China rely on land sales for at least 40% of their revenues. This has encouraged an aggressive sales policy, aided and abetted by property developers who have taken on heavy debts to buy the land and build large numbers apartment blocks for buyers who believe that the sector will continue to grow and provide them with capital gains on their investment.
+				To curb what he perceives as excessive real-estate investment, Xi Jinping has announced a series of property tax pilot programs across different cities in China. These property taxes make it more expensive to own property, decreasing its attractiveness as an investment. This policy has seen significant opposition from local and regional governments.
+			B: That we regret the rise of retail investment. (Retail Investment)
+				B: Applications such as Robinhood have recently made it significantly easier for private individuals to invest in specific stocks and financial instruments. People use the app to purchase those stocks and financial instruments hoping the value will increase and they will turn a profit. This type of person is known as a "retail investor".
+			C: That we prefer a world without corporate tax. (Corporate Tax)
+				C: A corporate tax is a tax on the profits of a corporation.
+		ESL Quarterfinals
+			A: That the writer should write the first ending rather than the second ending. (1984 v. Fahrenheit 451)
+				A: A writer has just written one of the great works of dystopian fiction. They have two endings in mind. In one ending, the system prevails and the protagonist is consumed (for instance, in 1984, Winston's forbidden love for Julia is extinguished and he accepts Big Brother). In the other ending, the protagonist brings down the system and the seeds of a new society are sown (for instance, in Farenheit 451, Montag escapes and the dystopian city is destroyed).
+			C: That we regret the increasing number of movies made from existing intellectual property. (Existing IP Movies)
+		Octofinals
+			A: That we would ban the use of any reproductive technology (e.g. abortion, embryo selection) which alters the prevalence of any common disability (Prevalence Technology)
+				A: Prevalence describes how common a trait or medical condition is in the population.
+			B: That we regret the trend of left-wing media coverage of the deaths of individual prominent anti-vax activists from COVID-19. (Anti-Vax Coverage)
+			C: That, after receiving professional and science-based medical advice, patients should have the right to undergo treatments that are contrary to that advice and have not received regulatory approval for that usage (for instance, Ivermectin for Covid-19) (Contrary Treatments)
+		Quarterfinals
+			B: That, as a skilled worker, we would prefer a world where polywork was the norm. (Polywork)
+				B: Polywork means to have multiple jobs at multiple companies, rather than a single job at a single companies.
+			C: That, as a member of a minority community, we would actively discourage a child from that community from pursuing careers in state security apparatuses (military, police, immigration etc.) (Security Careers)
+		EFL Semifinals
+			A: That we would ban individuals from editing their own genomes. (Genome Editing)
+				A: At some point, gene editing technology will become sufficiently advanced to allow people to edit their own genomes. Gene editing may make someone smarter, more traditionally attractive, or have any other genetically expressed trait.
+			B: That we oppose Jeff Bezos' investment in anti-aging technology. (Anti-Aging Investment)
+				B: Amazon founder, Jeff Bezos, has invested in Altos Labs, a new anti-ageing start-up that hopes to prolong human life.
+		ESL Semifinals
+			B: That it is in the best interests of the Biden Administration to restore aid to Pakistan (Biden v. Pakistan)
+				B: During the Trump administration, the United States significantly reduced aid and support to Pakistan. The USA alleged Pakistan was failing to sufficiently counter terrorism in the region. In response, Pakistan has increased its economic relationship with China.
+			C: That it is in the interests of the EU to lift sanctions against the Taliban regime (EU v. Taliban)
+		Semifinals
+			A: That, in contexts where significant sectarian violence has recently given way to a increasingly stable unity government, we oppose measures that increase the public's awareness of the scale and details of atrocities (for instance, publishing evidence-gathering reports, Truth and Reconciliation Commissions). (Atrocity Awareness)
+			B: That we would prefer a world where Vladimir Putin died today suddenly of natural causes. (Putin's Death)
+		EFL Finals
+			A: That, assuming secure implementation and easy use, we would implement liquid democracy (Liquid Democracy)
+				A: Liquid democracy is a system where votes can be changed at any time. Individuals may change their votes as many times as they desire and the composition of Parliament updates weekly to reflect the new balance of votes. A vote is valid for three years before it must be re-cast.
+		ESL Finals
+			A: That we would ban plain clothes policing (Plain-Clothes Policing)
+				A: Plain clothes policing is routine policing where officials do not wear clothing that immediately identifies them as police. It does not refer to undercover policing, where police take on false identities to gather evidence.
+		Grand Final
+			B: That, in countries with a history of ethnic tensions, we would embrace cultural appropriation (Cultural Appropriation)
+	Australs 2020
 		R1
 			That, as Joe Biden, we would choose to run on a ‘Medicare-for-All’ platform.
 				Medicare-for-all is a policy proposal in the United States advocating a single-payer system, where the government steps in (rather than insurance companies) as the intermediary between patients and providers in health-care transactions.
