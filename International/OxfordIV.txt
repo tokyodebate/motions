@@ -1,4 +1,25 @@
 Oxford IV
+	Oxford Schools' 2021
+		R1
+			This House believes that schools should teach more life skills (e.g. cooking, driving, financial literacy) at the expense of academic subjects (e.g. Maths, Science, History).
+		R2
+			This House believes that mass tourism does more harm than good in developing nations.
+				Mass tourism is large numbers of tourists visiting the same place.
+		R3
+			This House would ban the media from reporting on terrorist attacks in the immediate aftermath.
+		R4
+			This House regrets the emphasis placed on personality in politics.
+		Quarterfinals
+			This House prefers a world where government decisions are made by individuals who are experts in specific fields (e.g. health, education, environment, justice) instead of elected politicians.
+		Semifinals
+			This House regrets the trend of young activists becoming leaders of social movements.
+		Grand Final
+			This House supports the narrative that one should strive to make a meaningful impact on the world even at the expense of one's own happiness
+		ESL Finals
+			This House supports surrogacy for profit.
+				Surrogacy is an arrangement where a woman (the 'surrogate') carries a child for another person or persons, who will become the child's parent(s) after birth. For profit surrogacy is when people become surrogates to earn a monetary payment. In contrast, non-profit surrogates cannot be compensated beyond direct pregnancy expenses.
+		Novice Finals
+			This House would prevent employers from accessing the criminal records of potential employees (excluding sex offences)
 	Oxford Online IV 2020
 		R1
 			THBT contemporary social movements should focus on class differences rather than on identity-based differences (gender, race, religion etc.)
