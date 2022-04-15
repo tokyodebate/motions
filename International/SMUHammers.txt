@@ -1,4 +1,45 @@
 SMU Hammers
+	2021 SMU Hammers
+		Round 1
+			THS the use of harsh truths and realities over an idealistic approach in educating children about career aspirations
+			THR the politicisation of student unions in developing countries
+			THBT schools’ curriculums in developing countries should prioritize the students’ performance in STEM subjects even at the cost of students’ talents in non-STEM subjects
+		Round 2
+			Assuming feasibility, TH, as the doctor would anonymously leak the information
+			THS 'No Marriage' movement (비혼주위자) in South Korea
+			THR the emphasis on "grit and tenacity" as traits women should possess to succeed
+		Round 3
+			In asymmetric warfare THBT it is justified for the significantly weaker side to target the wealthy and aristocratic enemy civilians
+			THBT the African Union should implement a single currency for all its member states
+			TH, As the British Royal Family, will actively criticise the legacy of Winston Churchill
+		Round 4
+			THBT the state should not fund any works of art or performances that the average citizen would not recognize as having artistic merit
+			THS the mainstream commercialisation of Asian culture and art in the West
+			THBT the state should ban the creation, distribution and displays of art which involve elements of self harm (e.g. "The Starving Artist", exhibitions which involve artists in uncomfortable positions for long periods of time, blood painting)
+		Novice_Semi
+			THP a world where religions place more emphasis on the performance of good deeds rather than acts of worship and piety
+			THBT the Queer community should push for separate religious spaces for the community
+			THBT religious preachers should abandon the notion of "God's Plan" when preaching to underprivileged communities
+		Novice_Final
+			This House would not allow serving politicians or their immediate families to use private services where public ones are available (i.e. education, healthcare)
+			THBT it is a legitimate tactic for activists to launch campaigns of personal attacks/insults at the family members of corrupt politicians
+			THO respectability politics
+		Open_Octa
+			THR the glorification of long-term relationships
+			THW ban labeling of preferences in gay hookup and/or dating apps
+			THO the narrative that people should seek a sense of belonging
+		Open_Quarter
+			THBT it is in the interests of China to formalise relations with the Taliban
+			THBT the West should fund Private Military Contractors for the National Unity Government in Myanmar to combat the Military Junta
+			With the benefit of hindsight THW have created a Jewish state in Germany, rather than a Jewish state in the British Mandate of Palestine
+		Open_Semi
+			THBT progressive individuals should have a zero tolerance policy for people with bigoted views in their social circles
+			TH supports stronger collective bargaining rights and protections rather than legislated labor market regulations (e.g., wage levels and working conditions)
+			THBT it is justified for social activists in developing countries to work with socially regressive bodies and institutions in the state
+		Open_Final
+			THP a world in which individuals do not possess a desire to compete with one another
+			THP a world without social validation as a motivating factor for peoples' decisionmaking
+			THR the narrative that one should maximise leisure over productivity in life
 	2013 SMU Hammers
 		Round 1 Religion
 			THW ban any depiction of the Prophet Mohhammed.
