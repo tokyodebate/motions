@@ -1,10 +1,24 @@
 Chungdahm2020
-Round 3
-1
-THW restrict the development of artificial intelligence.
-Round 2
-1
-THW disallow companies from asking about the criminal histories of any applicants.
-Round 1
-1
-THBT celebrities are paid too much for the work that they do.
+    Round 1
+        THBT celebrities are paid too much for the work that they do.
+    Round 2
+        THW disallow companies from asking about the criminal histories of any applicants.
+    Round 3
+        THW restrict the development of artificial intelligence.
+Sogang Rookie Tournament 2019 Fall
+    R1   
+        THW make all non-academic performance in class irrelevant to the final grading of the student (i.e., attendance, extra-curricular activities, and extra credit from internships)
+    R2
+        TH, as an openly queer/non-heteronormative individual would not date someone who chooses to stay in the closet
+    R3
+        TH, as the South Korean government, would grant high tax and social benefits to interracial married couples residing in South Korea.
+    R4
+        THR the dominant narrative of ‘Do What You Love’ as a metric of individual success
+    R5
+        THS social media companies (i.e., Twitter, Facebook, Youtube, etc.) action to ban accounts that post content of extremist and populist views.
+    Quaterfinals
+        THBT feminists should support the creation of gender segregated public spaces (including but not limited to women only MRT buses, taxis for women only)
+    Semifinals
+        In times of severe economic crisis, THW suspend current democratic regimes and replace them with a rule under a board of technocrats.
+    Grandfinals
+        Assuming feasibility, THW, immediately after their death, forcibly resurrect individuals who committed suicide.
