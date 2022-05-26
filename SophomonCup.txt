@@ -42,30 +42,30 @@ Sophomon Cup
 			THBT fines should be proportionate to income.
 			THBT poverty should be mitigating factor in sentencing economic crimes.
 			THW ban hostile architecture
-	Round 2 Theme: Politics
-		THW introduce compulsory voting system.
-		THR the rise of slacktivism.
-			Slacktivism is a term for the practice of supporting a political or social cause by means such as social media or online petitions, often characterized as involving very little effort or commitment.
-		THR the rise of anti-establishment candidates.
-	Round 3 Theme: Expression
-		THW censor racially provocative art.
-		THW ban speech that insults religion.
-		THBT the Media should refrain from sensationally reporting on incidents of police brutality.
-	Round 4 Theme: Ethnicity
-		THW ban all procedures designed to alter racial appearance.
-		In a post-genocide society, THBT the state should aggressively pursue housing policies which promote racial integration.
-		TH, as indigenous community, would encourage its young generation to study/find a job inside reservations rather than in urban areas.
-	Theme: IR
-		THBT United States should militarily intervene in Myanmar.
-		TH, as Japan, would remove Article 9 from its constitution.
-		As the Japanese government, THW cancel of the Tokyo Olympics/Paralympics.
-	Theme: Technology
-		Assuming feasibility, THS the use of AI for recruitment.
-		THW introduce a female quota in their STEM (Science, Technology, Engineering and Math) faculties.
-		THBT filter bubbles do more harm than good.
-			Filter bubble is a state of intellectual isolation when a website algorithm selectively guesses what information a user would like to see based on personalized search.
-	Theme: Culture and Narratives
-		THR the rise of sharing culture.
-			Sharing culture refers to a culture which encourages the frequent posting of botch mundane and intimate details of one's life on social media platforms and the commenting on and reacting to others post of this nature.
-		THR the dominant narrative that says "time heals all wounds.”
-		THO the dominant narrative that “hard work always pay off.”
+		Round 2 Theme: Politics
+			THW introduce compulsory voting system.
+			THR the rise of slacktivism.
+				Slacktivism is a term for the practice of supporting a political or social cause by means such as social media or online petitions, often characterized as involving very little effort or commitment.
+			THR the rise of anti-establishment candidates.
+		Round 3 Theme: Expression
+			THW censor racially provocative art.
+			THW ban speech that insults religion.
+			THBT the Media should refrain from sensationally reporting on incidents of police brutality.
+		Round 4 Theme: Ethnicity
+			THW ban all procedures designed to alter racial appearance.
+			In a post-genocide society, THBT the state should aggressively pursue housing policies which promote racial integration.
+			TH, as indigenous community, would encourage its young generation to study/find a job inside reservations rather than in urban areas.
+		Theme: IR
+			THBT United States should militarily intervene in Myanmar.
+			TH, as Japan, would remove Article 9 from its constitution.
+			As the Japanese government, THW cancel of the Tokyo Olympics/Paralympics.
+		Theme: Technology
+			Assuming feasibility, THS the use of AI for recruitment.
+			THW introduce a female quota in their STEM (Science, Technology, Engineering and Math) faculties.
+			THBT filter bubbles do more harm than good.
+				Filter bubble is a state of intellectual isolation when a website algorithm selectively guesses what information a user would like to see based on personalized search.
+		Theme: Culture and Narratives
+			THR the rise of sharing culture.
+				Sharing culture refers to a culture which encourages the frequent posting of botch mundane and intimate details of one's life on social media platforms and the commenting on and reacting to others post of this nature.
+			THR the dominant narrative that says "time heals all wounds.”
+			THO the dominant narrative that “hard work always pay off.”
