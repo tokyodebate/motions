@@ -3,13 +3,13 @@ Sophomon Cup
 		Round 1
 			THBT schools should actively teach children romantic relationship management skills.
 			THR cram school culture.
-		A cram school is a private tutoring institution that supplements regular schooling. It trains its students to achieve particular academic goals,most commonly to pass the entrance examinations of junior-high schools, high schools, or universities.
+				A cram school is a private tutoring institution that supplements regular schooling. It trains its students to achieve particular academic goals,most commonly to pass the entrance examinations of junior-high schools, high schools, or universities.
 			THBT schools should stop all attempts to put students in severe competition in extracurricular activities.
 		Round 2
 			THW replace all social safety net policies with universal basic income.
 				Universal Basic Income (UBI) is a system under which all adult citizens receive a certain amount of money on a regular basis, regardless of their income or need. It is also intended to be introduced as an alternative to unify the various existing social security systems.
 			TH, as the state A, W not adhere to the economic sanction on the state B.
-		State A's economy is largely dependent on state B. State B has caused a severe humanitarian crisis, and is subject to an economic sanction that is agreed by many of the members of the international community.
+				State A's economy is largely dependent on state B. State B has caused a severe humanitarian crisis, and is subject to an economic sanction that is agreed by many of the members of the international community.
 			THBT the provision of loans by global institutions in times of economic crisis should not be conditioned on meeting fiscal policy criteria determined by those institutions (e.g. IMF requiring reductions in government budgets, privatizations, and market delegations).
 		Round 3
 			THR the media focus on the gender of successful female professionals. (i.e. "female" president, "female" scientist)
@@ -22,11 +22,11 @@ Sophomon Cup
 		Scarlet Pre-SF / Violet SF
 			THW fund university departments in proportion to their role as a pipeline into the state's economy.
 			THR the negative connotations associated with "ronin(浪人)".
-		A ronin(浪人)is a student who has graduated from a High School, but failed or is not satisfied with the results of the entrance exams for universities, and spends additional year(s) to study.
+				A ronin(浪人)is a student who has graduated from a High School, but failed or is not satisfied with the results of the entrance exams for universities, and spends additional year(s) to study.
 			THBT the results of unethical research should be destroyed.
 		Scarlet SF
 			THO ethnicity filters on dating apps.
-		An ethnicity filter on a dating app refers to the app's feature that enables you to filter your potential matches based on their ethnicity.
+				An ethnicity filter on a dating app refers to the app's feature that enables you to filter your potential matches based on their ethnicity.
 			THBT major film and television award shows should abolish award categories separated by gender.
 			THP a world where Olympics are held without national element (i.e. no concept of national medal count, no national teams, no flags, no national anthem etc.).
 		Scarlet GF
@@ -38,7 +38,7 @@ Sophomon Cup
 			THBT developing countries should nationalize natural resources.
 			THBT developing countries should prioritize the education for the mass over the education for creating elites.
 	Sophomon Cup 2021
-		R1 Poverty
+		Round1 Poverty
 			THBT fines should be proportionate to income.
 			THBT poverty should be mitigating factor in sentencing economic crimes.
 			THW ban hostile architecture
