@@ -1,4 +1,54 @@
 World Universities Debating Championships
+	Belgrade WUDC 2022
+		R1:
+			In disaster-prone areas, This House Would replace all state rebuilding and reconstruction efforts with direct cash transfers to affected citizens.
+		R2:
+			This House Prefers the Franchise Model to the Qualifier Model for E-Sports leagues.
+				Info: There are two dominant models of E-Sports Leagues:
+			The Franchise Model sets up regional leagues, where private groups buy teams which cannot be relegated from the league. Each league is overseen by their own central authority and the league is owned by the teams and game developer. Teams compete in matches throughout a season, at the end of which an eventual champion is named for that league. Prominent examples of E-Sports using this system are League of Legends, Valorant, Overwatch etc.
+		The Qualifier
+			Model involves a set of independently run tournaments ranging from smaller regional events to major tournaments that require qualification or invitation based on success at previous tournaments. All of the tournaments are run by different organizations or actors, which can have different criteria for inviting or allowing teams to participate. Prominent examples of E-Sports using this system are CS:GO, Dota 2 etc.
+		R3:
+			This House Believes That LGBTQ+ movements in developing countries should integrate patriotism into their messaging* *including actions such as celebrating LGBTQ+ soldiers, talking openly about being "queer and a patriot", displaying the pride flag with the national symbol, and avoiding actions such as supporting independence movements within the country or publicly criticizing nationalism.
+		R4:
+			This House Would prohibit companies from regulating the private behaviors of their employees in employment contracts* *e.g., mandatory drug tests, no smoking policies, regulating their employees' social media, prohibiting models/actors from dating etc.
+		R5:
+			This House Opposes the emphasis on the struggle against the Ottoman Empire in the history curriculum of Balkan countries.
+				Info: In many Balkan countries that were under Ottoman rule from the 14th to the 19th century (e.g. Bulgaria, Greece, Serbia, etc.), the history curriculum focuses heavily on the national struggle against the Ottoman Empire as well as the crimes of the Ottomans against the local population (e.g. forcibly taking children to join the Janissary military corps, forcible conversions from Orthodox Christianity to Islam, murder and torture of local population etc.). In these countries, the Ottoman Empire is viewed as a colonizer, and those who led national uprisings fighting for independence are revered as national heroes.
+		R6:
+			In times of economic crisis, This House Would implement fiscal central banking.
+				Info: For the purposes of this debate, "fiscal central banking" refers to an economic system that grants central banks the mandate to control circulation of money in the economy through fiscal policy in addition to monetary policy. Under this system central banks can define limitations for the size of the budget, but not its distribution. i.e. they can decide rates for various taxes and limit or increase overall government spending, but can't decide what the money is spent on.
+		R7:
+			This House Opposes the popularization of therapy speak.
+				Info: "Therapy speak" refers to the significant expansion of psychological and medical language and concepts to daily life, outside of the academic context. This could include but is not limited to: - using terms like "toxic" or "gaslighting" when talking about interactions, friendships, or relationships in situations that do not meet the academic definition of these terms - referring to the urge to tidy up as "OCD", or a temporary inability to focus as "ADHD" - partaking in speculative psychiatric diagnoses of others, including public figures
+		R8:
+			This House Prefers that the Eastern bloc countries had formed their own Union instead of joining the European Union (EU).
+				Info: In 2004, Poland, Czech Republic, Slovakia, Hungary, Slovenia, Latvia, Lithuania, and Estonia joined the European Union (EU), followed by Bulgaria and Romania in 2007, and Croatia in 2013. For the purposes of this debate, the above countries are 'the Eastern bloc'. Serbia, Bosnia, and Northern Macedonia, along with other countries, are not currently part of the EU, but are aspiring to join the EU.
+		R9:
+			This House Opposes the pressure to focus on promoting one's career at the expense of forming a family.
+		EFL Semi Finals:
+			This House Would grant the power to pardon convicted criminals to pardoning committees instead of government executives (e.g. presidents, governors etc.).
+				Info: For the purposes of this debate, pardoning committees are made up of random citizens from the local community, similar to how jury panels are constructed. Convicted criminals can apply for a pardon, to be reviewed by the pardoning committee.
+		EFL Grand Finals:
+			This House Prefers a world in which humans cannot experience nostalgia* *Nostalgia is a sentimental longing or wistful affection for something in the past, typically for a period or place with happy personal associations.
+		ESL Quarter Finals:
+			This House Opposes the rise in anti-establishment discourse.
+		ESL Semi Finals:
+			Behind a veil of ignorance, This House Prefers to be born with an exceptionally high sense of self-awareness* *Self-awareness is one's innate ability to consciously know and understand their own character, feelings, motives, and desires.
+		ESL Grand Finals:
+			This House Supports the 10 pilots flying to their death.
+				Info: It is the 6th of April, 1941. The bombing of Belgrade by Nazi Germany began at dawn. The air force of Belgrade consists of 10 airplanes and 10 pilots to operate the airplanes. Knowing that they are going into certain death, and that they are unlikely to change the outcome of the bombing, the 10 pilots decide to take to the skies to take down as many Nazi airplanes as they can before dying.
+		Open Partial Double Octo Finals:
+			This House Believes That the environmental movement should take more radical action in the fight against climate change (e.g., blocking roads, vandalism, blowing up pipelines etc.).
+		Open Octo Finals:
+			This House Would ban corporate residential landlords* *Corporate residential landlords refers to corporations that own and maintain multiple apartments for the purpose of renting them out for residential use.
+		Open Quarter Finals:
+			This House Would ban the use of advanced analytics in political campaigns.
+				Info: Advanced Analytics is the autonomous or semi-autonomous examination of data or content. It involves using sophisticated techniques such as machine learning algorithms, deep learning, predictive modelling, or other tools to discover deeper insights, make predictions, or generate recommendations. Advanced Analytics can be used for political microtargeting, which involves identifying the detailed profile of individual voters and voter groups, testing the most persuasive messages, and tailoring campaign strategy to target different voter profiles.
+		Open Semi Finals:
+			This House Prefers religions that "center the self" to religions that "reject the self".
+				Info: For the purposes of this debate, religions that "center the self" embrace human existence and individual experiences as special. Believers are asked to consider their choices and experiences, struggles, and connection to God as uniquely important and a path to salvation. In contrast, religions that "reject the self" explicitly reject the idea that human existence and individual experiences are special. Believers are asked to accept individual experiences as temporary and unimportant, and individuality as an illusion that causes unhappiness.
+		Open Grand Finals: This House Supports a decline in global reliance on the dollar.
 	Korea WUDC (2021)
 		R1:
 			TH, as South Korea, would aim to significantly increase its cross-border economic cooperation with North Korea
@@ -506,7 +556,6 @@ World Universities Debating Championships
 			THBT the U.S. government should subsidize twitter to liberalize oppressed societies.
 		GF
 			THBT the media should show the full horror of war.
-			ESL
 		QF
 			THW ban any scheme intended to “cure” homosexuality.
 		SF

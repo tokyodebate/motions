@@ -1,5 +1,5 @@
 Seikei Joint
-	Seikei Joint 2022
+	Seikei Joint 2022(6.11)
 		R1:
 			THW strictly prohibit the media from broadcasting news of suicide.
 		R2:
@@ -34,3 +34,4 @@ Seikei Joint
 		R3:
 			TH, as you, would declare love for A today.
 				A is your friend. You have been in love with A. However, you are not sure what A thinks about you. One day, you know TOMORROW is the last day of earth…
+

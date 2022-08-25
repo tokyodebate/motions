@@ -10,7 +10,7 @@ World Universities Peace Invitational Debate (WUPID)
 		R4
 			TH prefers a world where human life naturally ended at 50.
 		Pre-SF
-			THW strip Russia of the right to host the 2018 FIFA World Cup. 
+			THW strip Russia of the right to host the 2018 FIFA World Cup.
 		SF
 			THS a social narrative that having more female politicians would result in more cooperation and reduced conflict.
 		GF
@@ -50,14 +50,8 @@ World Universities Peace Invitational Debate (WUPID)
 		GF
 			THBT unfettered capitalism is the greatest obstacle to world peace.
 	World Universities Peace Invitational Debate 2010
-		R1
-			
 		R2
 			THBT there is no place for monarchy in a modern technology
-		R3
-			
-		R4
-			
 		R5
 			THW LEGALISE ALL DRUG
 		QF

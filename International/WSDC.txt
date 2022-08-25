@@ -585,47 +585,21 @@ World Schools Debating Championships (WSDC)
 			THW turn its swords into ploughshares.
 		R2
 			THW ban surrogate motherhood.
-		R3
-			?
 		R4
 			THBT the cost of space exploration is justified.
 		R5
 			THBT economic sanctions against individual countries are immoral.
-		R6
-			?
-		R7
-			?
-		R8
-			?
-		QF
-			?
-		SF
-			?
 		GF
 			THW continue to prosecute World War II criminals.
 	9th World Schools Debating Championships 1997 in Bermuda
 		R1
 			THW support a mandatory retirement age.
-		R2
-			?
 		R3
 			THW expand the use of nuclear energy.
-		R4
-			?
-		R5
-			?
 		R6
 			THW support a mandatory retirement age.
-		R7
-			?
 		R8
 			THW expand the use of nuclear energy.
-		QF
-			?
-		SF1
-			?
-		SF2
-			?
 		GF
 			THBT terrorism is justifiable in some circumstances.
 	6th World Schools Debating Championships 1994 in New Zealand
@@ -635,23 +609,13 @@ World Schools Debating Championships (WSDC)
 			That feminism is corrupting the family.
 		R3
 			That technology has outstripped morality.
-		R4
-			?
 		R5
 			That one superpower is better than two.
-		R6
-			?
 		R7
 			That feminism is corrupting the family.
-		R8
-			?
 		Some of the impromptu motions
 			That Hollywood has a lot to answer for.
 			That tourists are a global menace.
 			That repression of civil rights justifies violent action.
-		QF
-			?
-		SF
-			?
 		GF
 			That the United Nations is the one best hope for the future.

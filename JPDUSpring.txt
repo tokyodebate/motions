@@ -1,4 +1,49 @@
 JPDU Spring Tournament
+	JPDU Spring Tournament 2022
+		Round 1
+			THR the focus on achievement in children's sport competition.
+			THBT sports league should not punish players for making political expressions during the sporting event.
+			THBT sport teams should be allowed to be listed on a stock market.
+				Listing refers to the company's shares being on the list of stock that are officially traded on a stock exchange. i.e., If a company is listed on a stock market, it allows public to buy/sell stocks(share) of the company.
+		Round 2
+			THW actively prioritise the implementation of carbon tax on companies as opposed to carbon cap-and-trade.
+				Under a carbon tax, the government sets a price that emitters must pay for each ton of greenhouse gas emissions they emit. Under the cap-and-trade programme, the government distributes the amount of emission limit (“cap”) on emissions permitted across a given industry. This cap is distributed to each company as “allowances”, within which a company is allowed to emit carbon dioxide or related pollutants. This allowance can be sold to other companies that pollute more than allowance, or bank for future use.
+			THBT the state should use the limited resources to fund climate mitigation at the expense of investing in adaptation. (e.g.) Examples of climate mitigation include promoting clean energy, investing in zero carbon emission, and protecting natural habitat. (e.g.) Examples of adaptation include landfilling drowning territory, building seawalls, and developing drought-resistant crops.
+			THBT heavy industries with environmental consequences should be subject to a veto by local communities.
+		Round 3
+			In primary education, THW not teach classics that contain insensitivities such as historical racism, sexual references, and profanity (e.g.) To Kill a Mockingbird, The Catcher in the Rye, Hadashi no Gen.
+				The Pulitzer Prize-winning novel, To Kill a Mockingbird, is a story of a white lawyer's defence of a black man against a false rape charge by a white woman in the 1930s. It is used in primary education to explore several factors, particularly racism, gender policing, and socio-economic class distinctions. This book is banned in schools in Mississippi. Salinger's most famous book, The Catcher in the Rye, was banned in Oklahoma in 1960 and has been banned in more than 30 schools for its anti-white and blasphemous content. The story is a boy's coming-of-age story that focuses on his escape from a strict boarding school. The council of Matsue city removed Nakazawa's Hadashi no Gen comic books from local school libraries, problematising the explicit and shocking scenes of the atomic bomb explosion.
+			THBT all municipalities should take an initiative for “塾代助成事業(After-school funding programme)”.
+				塾代助成事業(Afterschool funding programme) is a unified effort of Osaka city and its private sectors, in which children's extracurricular activities are subsidised depending on the parents’ financial capacity. Examples of extracurricular activities include cram schools, tutoring, language lessons, music lessons, sport clubs, ballet lessons, etc.
+			THS the decision of Waseda University.
+				In the winter semester of 2021, the school of Commerce at Waseda University discredited students who simultaneously played multiple recordings on a compulsory course. This outcome was not explicitly informed by the syllabus, thus students got to know this unwritten rule only after being failed.
+		Round 4
+			In the case where criminal could not succeed the crime plan, THBT criminal sentence should be determined based on the original intention rather than the actual consequences.
+			The Statute of Limitations (時効 in Japanese) is a law that sets the maximum time within which legal proceedings may be initiated. THW abolish the statute of limitations.
+			THBT domestic violence should be prosecuted without the consent of the victim.
+		Open QF
+			THBT Turkish government should implement economic sanctions against Russia.
+				Turkey is one of original members of NATO. Unlike other NATO countries, Turkey has positioned itself with great care to be the go-between with Russia and Ukraine.
+			THBT it is the interest of the former colonising countries (e.g. the UK, Japan/France, the Netherlands) to directly subsidize developing countries (e.g. Sri Lanka and Kenya, Laos, and Indonesia, respectively) with a bilateral agreement to repay the debt to China.
+				One Belt, One Road in developing countries has imposed debt onto them. This phenomena is called debt-trap. As an example of debt trap, Sri Lanka was not able to pay the debt back to China, resulting in leasing Hambantota port to China for 99 years (since 2017) and still approaching to debt default. Examples of other developing countries with the debt to China include Laos, indonesia, Kenya etc.
+			THBT EU should have a common foreign policy.
+				Currently, EU member states conduct the majority of their international affairs independently rather than collectively. Under a common foreign policy, EU member states would conduct all international affairs as a bloc.
+		Open SF
+			TH, in the period of economic recovery, would ease bank capital adequacy requirement.
+				Capital requirements are regulatory standard for banks and other financial institutions that determines the minimum level of liquid capital (or easily sold assets) they must keep on hand in ratio to their overall holdings.
+			THBT developed countries should financially support developing countries to evade the wheat and corn price surge from the Ukrainian crisis.
+				Ukraine and Russia export more than 25% of global wheat and corn production. The conflict has caused wheat and corn prices to rise by almost 40% as sanctions are imposed and ports are closed.
+			THBT governments should designate and publicly announce a list of financial institutions that they would bail out in the event of crisis.
+		Open GF
+			THR the queerbaiting in pop culture.
+				Queerbaiting is a marketing technique for fiction and entertainment in which creators hint at, but then do not actually depict, same-sex romance or other LGBT representation. Queerbaiting has been observed in popular fiction such as films and television series, but also in celebrities who convey an ambiguous sexual identity through their works and statements.
+			THS the pop culture trend of portraying villains as victims of society.
+				The recent Disney reincarnation of "Cruella (101 Dalmatians)" presents the commonly known deranged puppy-slaughterer as a hapless victim on a journey of self-discovery after experiencing the trauma of her mother being killed by a group of dalmatians. Likewise, Arthur, the protagonist in "Joker", is portrayed as a victim developing into a serial killer after child abuse experiences and repeated rejections from welfare services.
+			THBT entertainment platforms(e.g. Netflix, Hulu) should remove works created/played by those who have committed immoral and/or criminal acts in their personal lives.
+		High School GF
+			THR the emphasis of individuality.
+			A and their colleague B started working on the same project this spring and barely know each other. One day, A sees their boss harassing B. A did not know B was harassed till now. THBT it is immoral for Person A to stand by without helping B.
+			THBT human society should accept the human extinction someday in the future rather than blindly attempting to prolong the prosperity to avoid the extinction.
 	JPDU Spring Tournament 2021
 		R1: Education
 			THR the narrative that goint to a prestigious university is essential for success.
@@ -369,7 +414,6 @@ JPDU Spring Tournament
 				『It is about 不能犯！！！！　by the person who hates English in adj core（＾ー＾）y=~』
 			THBT the Japanese Supreme Court should nullify the election based on the disparity between values of votes in different constituencies
 			THBT juries should only include individuals that are from the same socio-economic class as the defendant.
-			info slide for GF
 		Rookie QF: “FUKUSHU” -- Kimitachi Chanto FUKUSHU Shiterukana???(by Takenori Hayashi)
 			THW legalize organ transplants for profit. (From Momiji cup 2012 R1)
 			THW ban combat sports. (From Umeko cup 2012 R1)
@@ -638,11 +682,11 @@ JPDU Spring Tournament
 			THW welcome casino.
 			THBT ASEAN should establish Security Council.
 			THBT EU should democratize Myanmar.
-		SF: ???
+		SF:
 			THW compensate victims of human trafficking.
 			THW give sex offenders castration.
 			THBT human right organization should stop criticizing the custom of circumcision in the third world countries.
-		GF: ???
+		GF:
 			THW justify preemptive strikes with nuclear weapons.
 			THBT pope should actively engage in diplomacy.
 			THBT NPT has failed.

@@ -6,7 +6,7 @@ United Asia Debating Championship
 			This house believes that universities should primarily consider teaching ability and performance rather than research outputs when awarding tenure and allocating academic funding
 		R2
 			This house believes that feminist movements in developing nations should deprioritise the strategy of advocating for carceral feminism
-			This Hous regrets the glorification of women's resilience
+			This House regrets the glorification of women's resilience
 			Assuming the technology exists, this house would allow minority women of colour, with no affinity to their gender and race, to alter their identity to that of the majority gender and race
 		R3
 			This House Would ban collateralised loan obligations
@@ -592,8 +592,6 @@ United Asia Debating Championship
 			THW disallow plea-bargaining in criminal trials
 			THW make sexual harassment a criminal offense instead of civil suit
 			THE elect judges
-		Open Semis
-			?
 		EFL Final
 			TH Supports The Use of Child Labour
 		Grand Final
