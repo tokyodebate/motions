@@ -1,0 +1,53 @@
+DSNPD
+    DSNPD 2022
+        R1
+            This house believes that minority communities should actively discourage their children from pursuing careers in state security apparatuses (i.e. the military, the police, immigration and border control).
+        R2
+            THW aggressively promote scientific rationalism in schools.
+                Scientific rationalism is the practice or principle of basing opinions and actions on reason and knowledge rather than on religious belief or emotional response.
+        R3
+            THW disallow Big Tech participation on online marketplace platforms that they own.
+        R4
+            This house, as the environmental movement, would lobby to abolish the mining industry.
+        R5
+            THR the widespread coverage of high profile lawsuits (e.g. OJ Simpson, Johnny Depp & Amber Heard).
+        Pre-QF
+            This house believes that Biden's shift away from 'strategic ambiguity' regarding Taiwan would be in the interest of Japan.
+                Last May, US President Biden declared that he would use military force to defend Taiwan if it were ever attacked by China, following other comments where he has consistently affirmed that the US would support Taiwan. This has been seen as a shift from the White House's traditional 'strategic ambiguity', which has been often avoiding discussions of if they would support Taiwan assuming they would be attacked by China.
+        QF, Novis SF
+            This House, as CCP, would repeal China's zero-COVID policy.
+        SF, Novis GF
+            THW use a social credit system for punishing non-violent crimes in western liberal democracies instead of jail time.
+                A social credit system is a system in which your credit in society determines access to and level of social services(e.g. healthcare, schooling) you receive, and the social credit can be decreased when you commit infractions.
+        Open GF
+            This House supports repealing labor protection laws during economic crisis.
+    DSNPD 2021
+        R1
+            THP a world where successes of revolutions were attributed to violent, rather than peacemaking efforts in the retelling of history.
+        R2
+            THBT carceral feminism does more harm than good to the feminist agenda.
+                Carceral Feminism describes an approach of increased policing, prosecution, and imprisonment as the primary solution to gendered violence.
+        R3
+            THO compulsory savings policies like superannuation.
+                Compulsory saving policies are government policies where a certain proportions of citizen's income is required to be saved. An individual cannot access this money until a legislated point in time (e.g. retirement age), and it is typically invested in a fund.
+        R4
+            THW ban ransomware payments.
+                Ransomware is an ever-evolving form of malware designed to encrypt files on a device, rendering any files and the systems that rely on them unusable or inaccessible. It can be downloaded onto systems in several ways, for example when users visit malicious or compromised websites, click on attachments from spammed email, or download from malicious pages through malvertisements. Malicious actors then demand ransom in exchange for the decryption key and threaten to sell or leak exfiltrated data or authentication information if the ransom is not paid. In recent years, ransomware incidents have become increasingly prevalent among the Nation’s state, local, tribal, and territorial (SLTT) government entities and critical infrastructure organizations.
+        R5
+            THBT religious preachers should abandon the concept of "Test of God" in preaching to struggling communities.
+        Pre-QF
+            THBT the pursuit of normalisation of ties by Gulf States with Israel is in the best interests of the Middle East.
+        QF
+            THBT progressive individuals should have a Zero Tolerance Policy for people with regressive values in their social circle.
+                A 'Zero Tolerance Policy' in this debate refers to cutting contact with a person to as great of an extent as reasonably possible. In the case of family or essential co-workers, this can look like being civil with but never close to them. For a friend, it can mean cutting them off completely.
+        Novis SF
+            THBT left wing media should focus on "notable achievements" of immigrants, rather than instances of their exclusion, suffering, or vulnerabilities.
+        SF
+            THBT Hindu youth in West Bengal should choose to vote for the BJP come election season.
+                India follows a quasi-federal system of governance where the centre and state share powers with the central government often having more powers.
+                Mamata Banerjee (Trinamool Congress), the incumbent Chief Minister of West Bengal, has long been criticised for her politics due to her tendency to appease religious minorities in the historically, culturally, and ethnically diverse border state. Her soon to be 3 term long rule has also been criticised on the grounds of slow economic progress. BJP, the controversial ruling party at the centre made significant headway in the 2021 Bengal Elections, increasing its number of seats from just 3 to 77 in a mere five years. This progress is often credited to the strong never-done-before Hindutva narrative they pushed in the state alongside promises of swift economic development.
+        Novis GF
+            THW choose to not be born.
+        GF
+            THO the veil of ignorance.
+                The veil of ignorance is a thought experiment/theory of philosophy meant to be undertaken by a group of people tasked with constructing an ideal society. For the purpose of this thought experiment they assume no class, privileges, disadvantages, and personalities. They are asked to consider which principles and laws they would select for the basic structure of society, but with no knowledge ahead of time of what position they would end up having in that society.
