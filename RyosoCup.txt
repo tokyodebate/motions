@@ -1,5 +1,5 @@
 Ryoso Cup
-	Ryoso Cup 2021 (1.22-23)
+	Ryoso Cup 2021
 		R1:
 			THR the recognition that school-days is the springtime of life.
 		R2:
@@ -9,6 +9,7 @@ Ryoso Cup
 				The humanities include the study of all languages and literatures, the arts, history, and philosophy. The "humanities" are often distinguished from the natural sciences and social sciences.
 		R4: THS tipping.
 			A tip is a sum of money customarily given by a customer to certain service sector workers. The customer pays the individuals that performed services as a reward for the service they have performed, in addition to the basic price of the service.
+				Info: A Tip is a sum of money customarily given by a customer to certain service sector workers. The customer pays the individuals that performed sevices as a reward for the service they have performed, in addition to the basic price of the service.
 		Rookie GF:
 			TH, as a teacher from an underprivileged racial/ethnic minority, W intentionally inflate the grades of students from similarly disadvantaged groups.
 		Senior GF:
