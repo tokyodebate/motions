@@ -1,4 +1,30 @@
 Icho Cup
+	Icho Cup 2022
+		R1:
+			THW legalize organ transplant for profit.
+		R2:
+			THW set mandatory retirement age for all politicians.
+		R3:
+			THW introduce a separate category for female researchers in academic accolades (e.g. Noble Prize for women).
+		R4:
+			THBT developing countries should prioritize vocational education over higher education.
+		OOF:
+			THBT Twitter does more harm than good.
+		OQF:
+			Assuming feasibility, THP a world where all artworks are anonymous.
+		OSF:
+			THR the rise of startup culture.
+				"Startup culture" encourages young people to start their own businesses over pursuing more traditional career paths.
+		OGF
+			THP a world where children are raised communally.
+				For the purposes of this debate, "raised communally" means that from shortly after their birth, children are taken from their birth parent(s) and raised together with other children by their wider community. Parental duties such as providing food, housing, education and other forms of care are shared between members of that community.
+		NQF:
+			THBT social media has done more harm than good for democracy.
+		NSF:
+			THBT medical patent protections should be suspended during a healthcare crisis.
+		NGF:
+			TH, as you, would use the technology to recreate your deceased family member.
+				You are an individual who has lost your one and only family member who you had loved deeply. Years have passed, and you are still unable to get over the grief. One day, you come across a technology that is able to recreate deceased individuals as non-sentient Als. This AI can imitate deceased loved ones in appearance, personality and mannerisms.
 	2021
 		R1
 			THW require schools to provide sex education

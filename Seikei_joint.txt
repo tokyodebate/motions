@@ -33,4 +33,5 @@ Seikei Joint
 			THW allow corporal punishment for education.
 		R3:
 			TH, as you, would declare love for A today.
-				[A is your friend. You have been in love with A. However, you are not sure what A thinks about you. One day, you know TOMORROW is the last day of earth…]
+				A is your friend. You have been in love with A. However, you are not sure what A thinks about you. One day, you know TOMORROW is the last day of earth…
+
