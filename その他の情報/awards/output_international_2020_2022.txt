@@ -10,21 +10,124 @@ Rina Kajitani
 <p style="text-align: center;">[2nd Best Speaker]
 Nasa Tsuchiya
 </p>
-<h2 style="text-align: center;">【Asian Bridge 2022 】</h2>
+<h2 style="text-align: center;">【BITS Parliamentary Debate 2022】</h2>
 <p style="text-align: center;">【Team Prize】
-[1st Best Team]
-nose boop (Yuichi Masaoka, joint)
+[Open Grand Finalist] 
+Tokyo TY (Ryosuke Yoshida, Nasa Tsuchiya) [Breaking 4th]
 </p>
 <p style="text-align: center;">【Speaker Prize】
-[1st Open Best Speaker]
-Yuichi Masaoka
-</p>
-<p style="text-align: center;">【Adjudicator Prize】
-[3rd Best Adjudicator]
+[Open 5th Best Speaker] 
 Nasa Tsuchiya
 </p>
-<p style="text-align: center;">[5th Best Adjudicator]
-Takeshi Mastuda
+<h2 style="text-align: center;">【Sunway Asian Parliamentary 2022】</h2>
+<p style="text-align: center;">【Adjudicator Prize】
+[Breaking Adjudicator, Novice Grand Final Chair]
+Nasa Tsuchiya
+</p>
+<h2 style="text-align: center;">【The 6th GLC Debate, 2022】</h2>
+<p style="text-align: center;">【Team Prize】
+[Open Grand Finalist]
+Tokyo A (Nasa Tsuchiya, Rina Kajitani) [Breaking 5th]
+</p>
+<p style="text-align: center;">[Open Semi Finalist]
+Tokyo B (Yuichi Masaoka, Yuki Saito) [Breaking 11th]
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[Open 8th Best Speaker]
+Nasa Tsuchiya
+Rina Kajitani
+</p>
+<h2 style="text-align: center;">【FHDOxBBO BP, 2022】</h2>
+<p style="text-align: center;">【Team Prize】
+[Open Pre-Finalist]
+Tokyo Garden Dog (Rina Kajitani, Yuichi Masaoka) [Breaking 5th, Open]
+</p>
+<p style="text-align: center;">[Pro-Am Finalist]
+Tokyo Snow boy and space girl (Nasa Tsuchiya, Yuki Saito) [Breaking 4th, Pro-Am]
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[Open 7th Best Speaker]
+Rina Kajitani
+</p>
+<p style="text-align: center;">[Open 9th Best Speaker]
+Yuichi Masaoka
+</p>
+<p style="text-align: center;">[Novice 3rd Best Speaker]
+Yuki Saito
+</p>
+<h2 style="text-align: center;">【DSNPD 2022】</h2>
+<p style="text-align: center;">【Team Prize】
+[Open Quarter-Finalist]
+Tokyo 1 (Haruka Sawazaki, Yuki Saito) [Breaking 24th]
+</p>
+<h2 style="text-align: center;">【East Malaysia Open 2022】</h2>
+<p style="text-align: center;">[Grand Finalist]
+Mumbai Tokyo Drift (Nasa Tsuchiya, joint)
+</p>
+<h2 style="text-align: center;">【Habib Pre-Worlds 2022】</h2>
+<p style="text-align: center;">【Team Prize】
+[Open Grand Finalist]
+Tokyo Garden Dog (Rina Kajitani, Yuichi Masaoka) [Breaking 3rd]
+</p>
+<p style="text-align: center;">[Open Semi Finalist]
+Tokyo SS (Haruka Sawazaki, Yuki Saito) [Breaking 12th]
+</p>
+<p style="text-align: center;">[Open Quarter Finalist]
+Tokyo MI (Atsuki Ito, Takeshi Matsuda) [Breaking 3rd]
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[Open 4th Best Speaker]
+Atsuki Ito
+</p>
+<p style="text-align: center;">[Open 8th Best Speaker]
+Rina Kajitani 
+Takeshi Matsuda
+</p>
+<p style="text-align: center;">[Open 15th Best Speaker]
+Yuichi Masaoka
+</p>
+<p style="text-align: center;">【Institutional Adjudicator】
+Emi Negita
+</p>
+<h2 style="text-align: center;">【Glasgow Summer Cup 2022】</h2>
+<p style="text-align: center;">【Team Prize】
+[ESL Grand Finalist]
+Tokyo Garden Dog (Rina Kajitani, Yuichi Masaoka) [Breaking 3rd, ESL]
+Tokyo Garden Snow (Haruka Sawazaki, Yuki Saito) [Breaking 4th, ESL]
+</p>
+<h2 style="text-align: center;">【Doxbridge Pre-WUDC 2022】</h2>
+<p style="text-align: center;">【Team Prize】
+[Open Octo-Finalist]
+Tokyo YT (Nasa Tsuchiya, Kotaro Yoshida) [Breaking 32nd, Open]
+</p>
+<p style="text-align: center;">[ESL Semi-Finalist]
+Tokyo KM (Rina Kajitani, Yuichi Masaoka) [Breaking 4th, ESL]
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[4th EFL Best Speaker]
+Kotaro Yoshida
+</p>
+<h2 style="text-align: center;">【World Debate Open 2022】</h2>
+<p style="text-align: center;">【Team Prize】
+[Open Semi Finalist]
+Party dog and garden dog (Rina Kajitani, joint) [Breaking 3rd, Open]
+</p>
+<p style="text-align: center;">[Open Quarter Finalist]
+Tokyo spacegirl and snowboy (Nasa Tsuchiya, Yuki Saito) [Breaking 5th, Open]
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[Open 5th Best Speaker]
+Rina Kajitani
+</p>
+<p style="text-align: center;">[Open 9th Best Speaker]
+Nasa Tsuchiya 
+</p>
+<p style="text-align: center;">[EFL 3rd Best Speaker]
+Yuki Saito
+</p>
+<p style="text-align: center;">【Adjudication Core】
+[Chief Adjudicator]
+Tota Takahashi
 </p>
 <h2 style="text-align: center;">【Doxbridge Worlds 2021】</h2>
 <p style="text-align: center;">【Team Prize】
@@ -129,7 +232,7 @@ Tokyo 1 (Kanan Ishizaka, Tota Takahashi, Ryosuke Yoshida)
 <p style="text-align: center;">[Best Reply Speakers]
 1st Tota Takahashi
 </p>
-<h2 style="text-align: center;">【ABP 2021結果報告】</h2>
+<h2 style="text-align: center;">【ABP 2021】</h2>
 <p style="text-align: center;">【Team Prize】
 [Champion]
 Tokyo 1 (Kanan Ishizaka, Tota Takahashi)
@@ -201,7 +304,7 @@ Kanan Ishizaka
 <p style="text-align: center;">[Advisor]
 Akira Kato
 </p>
-<h2 style="text-align: center;">【Oxford IV 2021結果報告】</h2>
+<h2 style="text-align: center;">【Oxford IV 2021】</h2>
 <p style="text-align: center;">【Team Prize】
 [Open Quarterfinalist]
 Tokyo A (Kanan Ishizaka, Tota Takahashi) [Breaking 7th]
@@ -240,36 +343,6 @@ Tota Takahashi
 </p>
 <p style="text-align: center;">[5th Best EFL Speaker]
 Ryosuke Yoshida
-</p>
-<h2 style="text-align: center;">【Asian Bridge 2020】</h2>
-<p style="text-align: center;">【Team Prize】
-[Champion]
-Sowen Park
-(Yechan Park joint)
-</p>
-<p style="text-align: center;">[3rd best team]
-かとうゆりファンクラブ
-(Kana Ishikawa joint)
-</p>
-<p style="text-align: center;">[5th best team]
-Motion for the next round is
-(Koki Yoshioka joint)
-</p>
-<p style="text-align: center;">[7th best team]
-アジアの至宝
-(Atsuki Ito joint)
-</p>
-<p style="text-align: center;">[9th best team]
-Tokyo&Hit-U
-(Xianshangu Gu joint)
-</p>
-<p style="text-align: center;">【Speaker Prize】
-[4th Best Speaker]
-Yechan Park
-</p>
-<p style="text-align: center;">【Team Name Prize】
-[2nd best team name]
-Sowen Park
 </p>
 <h2 style="text-align: center;">【Hong Kong Pro-Ams 2020】</h2>
 <p style="text-align: center;">【Team Prize】
