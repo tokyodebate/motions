@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">【Neko Championship 結果報告】</h2>
+<h2 style="text-align: center;">【Neko Championship】</h2>
 <p style="text-align: center;">【Team Prize】
 ［Open Grand Finalist］
 TH partially prefers dogs to cats (Nasa Tsuchiya, Jo Watanabe) ［Breaking 2nd］
@@ -33,7 +33,7 @@ Asahi Nakano
 Chikara Mizokami
 Ryosuke Yoshida
 </p>
-<h2 style="text-align: center;">【Asian Bridge 2022 結果報告】</h2>
+<h2 style="text-align: center;">【Asian Bridge 2022】</h2>
 <p style="text-align: center;">【Team Prize】
 [1st Best Team]
 nose boop (Yuichi Masaoka, joint)
@@ -49,7 +49,7 @@ Nasa Tsuchiya
 <p style="text-align: center;">[5th Best Adjudicator]
 Takeshi Matsuda
 </p>
-<h2 style="text-align: center;">【Silver Cup 2022 結果報告】</h2>
+<h2 style="text-align: center;">【Silver Cup 2022】</h2>
 <p style="text-align: center;">【Team Prize】
 [Best Team]
 東京近郊のおすすめなサウナ教えてください (Nasa Tsuchiya, joint)
@@ -87,7 +87,7 @@ Kana Ishikawa
 <p style="text-align: center;">【Organizing Committee】
 Atsuki Ito (Tab)
 </p>
-<h2 style="text-align: center;">【KK-Cup 2022 結果報告】</h2>
+<h2 style="text-align: center;">【KK-Cup 2022】</h2>
 <p style="text-align: center;">【Team Prize】
 ［Pre-Semi Finalist］
 ようこすみれ (Yoko Miyoshi, Sumire Nagao)[Breaking 7th]
@@ -114,19 +114,7 @@ Haruka Sawazaki (DCA)
 [Deputy Chief Adjudicator］
 Haruka Sawazaki
 </p>
-<h2 style="text-align: center;">【The 16th Polemic 結果報告】</h2>
-<p style="text-align: center;">【Team Prize】
-［Open Quarter Finalist］
-Tokyo A (Rina Kajitani, Nasa Tsuchiya, Yuichi Masaoka)
-</p>
-<p style="text-align: center;">【Speaker Prize】
-[Best Speaker]
-Rina Kajitani
-</p>
-<p style="text-align: center;">[2nd Best Speaker]
-Nasa Tsuchiya
-</p>
-<h2 style="text-align: center;">【Kanto Debate Open 2022  結果報告】</h2>
+<h2 style="text-align: center;">【Kanto Debate Open 2022】</h2>
 <p style="text-align: center;">【Team Prize】
 [Open Champion]
 Goodbye Happiness (Tota Takahashi, joint) [Breaking 2nd]
@@ -174,4 +162,407 @@ Kazuki Kaicho Tokunaga
 <p style="text-align: center;">[Breaking Adjudicator]
 Yuichi Masaoka
 Ko Oshima (DCA)
+</p>
+<p style="text-align: center;">【Adjudication Core】
+[Deputy Chief Adjudicator］
+Ko Oshima
+</p>
+<h2 style="text-align: center;">【The Kansai 2022】</h2>
+<p style="text-align: center;">【Team Prize】
+[Open Champion]
+新5000円札 (Tota Takahashi, joint) [Breaking 4th]
+</p>
+<p style="text-align: center;">[Open Grand Final Best Speaker]
+Tota Takahashi (OW)
+</p>
+<p style="text-align: center;">[Open Grand Finalist]
+日吉現代アート展 (Ryosuke Yoshida, joint) [Breaking 2nd]
+</p>
+<p style="text-align: center;">[Open Semi Finalist]
+大岡山歴史博物館 (Yutaro Kurihara, Chikara Mizokami, joint) [Breaking 1st]
+</p>
+<p style="text-align: center;">[Open Quarter Finalist]
+異世界カニ夜会 (Nasa Tsuchiya, Haruka Sawazaki, joint) [Breaking 7th]
+Zen’in Family (Takeshi Matsuda, joint) [Breaking 8th]
+</p>
+<p style="text-align: center;">[Rookie Semi Finalist]
+ブレイクorメンタルブレイク (Emi Negita, joint) [Rookie Breaking 3rd]
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[Open Best Speaker]
+Tota Takahashi
+</p>
+<p style="text-align: center;">[4th Open Best Speaker]
+Ryosuke Yoshida
+Chikara Mizokami
+</p>
+<p style="text-align: center;">[7th Open Best Speaker]
+Nasa Tsuchiya
+Yutaro Kurihara
+</p>
+<p style="text-align: center;">【Adjudicator Prize】
+[4th Best Adjudicator]
+Kana Ishikawa
+</p>
+<p style="text-align: center;">[Breaking Adjudicator]
+Jo Watanabe
+Rina Kajitani (DCA)
+Kazuki Tokunaga (IA)
+</p>
+<p style="text-align: center;">[Invited Adjudicator]
+Kana Ishikawa
+Kazuki Tokunaga
+</p>
+<p style="text-align: center;">【Adjudication Core】
+[Deputy Chief Adjudicator]
+Rina Kajitani
+</p>
+<h2 style="text-align: center;">【Sophomon Cup 2022】</h2>
+<p style="text-align: center;">【Team Prize】
+[Scarlet Grand Finalist]
+Does Sue wanna light a snowman? (Yuki Saito, joint) [Breaking 3rd]
+</p>
+<p style="text-align: center;">[Scarlet Semi Finalist]
+石原さとみのメガネになりたい季節だもん！ (Takeshi Matsuda, Asahi Nakano, joint) [Breaking 2nd]
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[5th Scarlet Best Speaker]
+Takeshi Matsuda
+</p>
+<p style="text-align: center;">[6th Scarlet Best Speaker]
+Yuki Saito
+</p>
+<p style="text-align: center;">[9th Scarlet Best Speaker]
+Asahi Nakano
+</p>
+<p style="text-align: center;">【Chief Adjudication Panel】
+Kana Ishikawa
+</p>
+<p style="text-align: center;">【Organizing Committee】
+Jo Watanabe (CD)
+</p>
+<h2 style="text-align: center;">【19th Elizabeth Cup】</h2>
+<p style="text-align: center;">【Team Prize】
+[4th Best Team]
+Tokyo A (Kana Ishikawa, Miki Ihira)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[Best Speaker]
+Rina Kajitani
+</p>
+<p style="text-align: center;">[2nd Best Speaker]
+Koki Yoshioka
+</p>
+<p style="text-align: center;">[4th Best Speaker]
+Haruka Sawazaki
+</p>
+<p style="text-align: center;">[7th Best Speaker]
+Kana Ishikawa
+Nasa Tsuchiya
+Kana Inokura
+</p>
+<p style="text-align: center;">[Rookie 2nd Best Speaker, Experienced 2nd Best Debater]
+Mariko Kawabata
+</p>
+<p style="text-align: center;">[Rookie 4th Best Speaker]
+Ema Higaki
+Rena Tajima
+</p>
+<p style="text-align: center;">[Rookie 5th Best Speaker]
+Marina Kimura
+</p>
+<h2 style="text-align: center;">【Seikei JOINT 2022】</h2>
+<p style="text-align: center;">【Team Prize】
+[Over All Best Team]
+Nuuskamuikkunen (Satoshi Inoue, Yuriko Hirai)
+</p>
+<p style="text-align: center;">[Over All 3rd Team]
+●Sea Bream● (Taiki Tsuchiya, Taiken Matsuzawa)
+</p>
+<p style="text-align: center;">[Over All 6th Team]
+青白赤 (Yuki Yamashita, Masahiro Yamada)
+</p>
+<p style="text-align: center;">[Over All 7th Team]
+私、レジ落ちしないので (Ryosui Banno, Daisuke Fujikawa)
+</p>
+<p style="text-align: center;">[Royal Peach Best Team]
+Nuuskamuikkunen (Satoshi Inoue, Yuriko Hirai)
+</p>
+<p style="text-align: center;">[Royal Peach 3rd Team]
+青白赤 (Yuki Yamashita, Masahiro Yamada)
+</p>
+<p style="text-align: center;">[Summer Crystal Second Team]
+●Sea Bream● (Taiki Tsuchiya, Taiken Matsuzawa)
+</p>
+<p style="text-align: center;">[Sweet Top 5th Team]
+過小評価妥当そうだ (Mizuki Hirota, Yuna Nakatsuru)
+</p>
+<p style="text-align: center;">[Sweet Top 7th Team]
+インターラブ (Ema Higaki, Narumi Matsuura)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[Over All Second Speaker]
+Yuki Yamashita
+Satoshi Inoue
+</p>
+<p style="text-align: center;">[Over All 5th Speaker]
+Daisuke Fujikawa
+</p>
+<p style="text-align: center;">[Over All 7th Speaker]
+Yuriko Hirai
+Ryosui Banno
+Masahiro Yamada
+</p>
+<p style="text-align: center;">[Royal Peach Best Speaker]
+Yuki Yamashita
+Satoshi Inoue
+</p>
+<p style="text-align: center;">[Royal Peach 3rd Speaker]
+Daisuke Fujikawa
+</p>
+<p style="text-align: center;">[Royal Peach 4th Speaker]
+Masahiro Yamada
+Ryosui Banno
+Yuriko Hirai
+</p>
+<p style="text-align: center;">[Royal Peach 7th Speaker]
+Taiki Tsuchiya
+</p>
+<p style="text-align: center;">[Sweet Top 6th Best Speaker]
+Mariko Kawabata
+</p>
+<p style="text-align: center;">[Sweet Top 10th Best Speaker (1/2)]
+Taiken Matsuzawa 
+</p>
+<p style="text-align: center;">[Sweet Top 13th Speaker (1/10)]
+Ema Higaki
+</p>
+<p style="text-align: center;">【Organizing Committee】
+[Motion Advisor]
+Jo Watanabe
+</p>
+<h2 style="text-align: center;">【June Debate Open 2022】</h2>
+<p style="text-align: center;">【Team Prize】
+[Semi Finalist]
+とっしー’s Garden Dogs (Rina Kajitani, Yuichi Masaoka, joint)
+</p>
+<p style="text-align: center;">[Quarter Finalist]
+Digital Butterflies (Takeshi Matsuda, Yuki Saito, Yuriko Hirai) [Reserved Breaking 1st]
+</p>
+<p style="text-align: center;">[Rookie Champion]
+Sugar Ducks (Kana Ishikawa, Emi Negita, Miki Ihara) [Rookie Breaking 2nd]
+</p>
+<p style="text-align: center;">[Rookie Grand Final Best Speaker]
+Kana Ishikawa (DPM)
+</p>
+<p style="text-align: center;">[Rookie Grand Finalist]
+橋本龍之介B (Kana Inokura, joint) [Rookie Breaking 1st]
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[4th Best Speaker]
+Rina Kajitani
+</p>
+<p style="text-align: center;">[9th Best Speaker]
+Yuichi Masaoka
+</p>
+<p style="text-align: center;">[Rookie 2nd Best Speaker]
+Yuriko Hirai
+</p>
+<p style="text-align: center;">[Rookie 4th Best Speaker]
+Kana Inokura
+Emi Negita
+</p>
+<p style="text-align: center;">【Adjudication Core】
+[Chief Adjudicator]
+Nasa Tsuchiya 
+</p>
+<p style="text-align: center;">【Organizing Committee】
+[Tournament Director]
+Jo Watanabe
+</p>
+<h2 style="text-align: center;">【Wakaba Cup 2022】</h2>
+<p style="text-align: center;">【Team Prize】
+[Altair 2nd Best Team]
+▶️ 葉っぱ (Karin Hirano, Takezo Kikuchi)
+</p>
+<p style="text-align: center;">[Altair 3rd Best Team]
+▶️ 棚から優上 (Yuna Nakatsuru, Mariko Kawabata)
+</p>
+<p style="text-align: center;">[Vega Best Team]
+▶️ 乃木高等女学校 (Yuriko Hirai, joint)
+</p>
+<p style="text-align: center;">[Vega 2nd Best Team]
+▶️ Voting issueにならなくてもいいもともと特別なargument (Satoshi Inoue, Daisuke Fujikawa)
+</p>
+<p style="text-align: center;">[Vega 3rd Best Team]
+▶️ NYUAD Aとして出たいところだがまだ入部／入学してないし大会のネーミング規制に引っ掛かるからとりあえず橋本龍之介C (Ema Higaki, joint)
+</p>
+<p style="text-align: center;">[Vega 5th Best Team]
+▶️ Tovarishchi (Taiki Tsuchiya, Yuki Yamashita)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[Altair Best Speaker]
+▶️ Mariko Kawabata
+</p>
+<p style="text-align: center;">[Deneb Best Speaker]
+▶️ Rena Tajima
+</p>
+<p style="text-align: center;">[Deneb 6th Best Speaker]
+▶️ Takezo Kikuchi
+</p>
+<p style="text-align: center;">[Deneb 9th Best Speaker]
+▶️ Rio Yagi
+</p>
+<p style="text-align: center;">[Deneb 10th Best Speaker]
+▶️ Karin Hirano
+</p>
+<p style="text-align: center;">[Vega 2nd Best Speaker]
+▶️ Yuriko Hirai
+</p>
+<p style="text-align: center;">[Vega 3rd Best Speaker]
+▶️ Daisuke Fujikawa
+</p>
+<p style="text-align: center;">[Vega 4th Best Speaker]
+▶️ Satoshi Inoue
+</p>
+<p style="text-align: center;">[Vega 6th Best Speaker]
+▶️ Yuki Yamashita
+</p>
+<p style="text-align: center;">[Vega 9th Best Speaker]
+▶️ Taiki Tsuchiya
+</p>
+<p style="text-align: center;">[Vega 10th Best Speaker]
+▶️ Ema Higaki
+</p>
+<h2 style="text-align: center;">【13th Icho Cup】</h2>
+<p style="text-align: center;">【Team Prize】
+［Open Grand Finalist］
+猫とミイラになりたい (Shuhei Kaneko, joint)
+</p>
+<p style="text-align: center;">［Open Semi Finalist］
+橋本龍之介 Pre-NYUAD: So Long and Thanks for All the Fish (we stand with Hirai Yuriko) (Kana Inokura, joint)
+</p>
+<p style="text-align: center;">［Open Quarter Finalist］
+意気込み？あ！ブレイクはしたい！(Rena Tajima, Ryosui Banno)
+</p>
+<p style="text-align: center;">［Open Octo Finalist］
+YY (Yasuho Masunaga, Yuna Nakatsuru)
+请再说一遍(Taiki Tsuchiya, Takezo Kikuchi)
+乃木高等女学校 (Yuriko Hirai, joint)
+杏ミカ (Satoshi Inoue, joint)
+</p>
+<p style="text-align: center;">［Novice Champion］
+ディベートを愛し、ディベートに愛され隊 (Ema Higaki, Mariko Kawabata)
+</p>
+<p style="text-align: center;">［Novice Grand Final Best Speaker］
+Mariko Kawabata
+</p>
+<p style="text-align: center;">［Novice Quarter Finalists］
+NNP (Akimu Hirata, Ryoma Ishida)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+［Overall Best Speaker］
+Shuhei Kaneko
+</p>
+<p style="text-align: center;">［Overall 8th Best Speaker］
+Rena Tajima
+</p>
+<p style="text-align: center;">［Overall 10th Best Speaker］
+Daisuke Fujikawa
+Taiki Tsuchiya
+</p>
+<p style="text-align: center;">［Open Silver 2nd Best Speaker］
+Rena Tajima
+</p>
+<p style="text-align: center;">［Open Silver 5th Best Speaker］
+Masahiro Yamada
+</p>
+<p style="text-align: center;">［Open Silver 10th Best Speaker］
+Ryosui Banno
+</p>
+<p style="text-align: center;">［Novice Best Speaker］
+Takezo Kikuchi
+</p>
+<p style="text-align: center;">［Novice 4th Best Speaker］
+Yuna Nakatsuru
+</p>
+<p style="text-align: center;">［Novice 5th Best Speaker］
+Mariko Kawabata
+</p>
+<p style="text-align: center;">［Novice 8th Best Speaker］
+Ryoma Ishida
+</p>
+<p style="text-align: center;">［Novice 10th Best Speaker］
+Ema Higaki
+</p>
+<p style="text-align: center;">【Adjudicator Prize】
+［5th Best Adjudicator］
+Tomoyuki Watanabe
+</p>
+<p style="text-align: center;">【Adjudication Core】
+［Best Adjudicator］
+Nasa Tsuchiya
+</p>
+<p style="text-align: center;">［Chief Adjudicator］
+Rina Kajitani
+</p>
+<p style="text-align: center;">【Organising Committee】
+Jo Watanabe（TD）
+Yuichi Masaoka (VTD)
+Yuki Saito (CD/ Tab)
+Emi Negita (MD)
+Soya Kato (FD/ Tab)
+Atsuki Ito (Tab)
+
+</p>
+<h2 style="text-align: center;">【K-Cup(NA) 2022】</h2>
+<p style="text-align: center;">【Team Prizes】
+[2nd Best Team]
+まりこあら&れなまけもの (Mariko Kawabata, Rena Tajima)
+</p>
+<p style="text-align: center;">[4th Best Team］
+TH, as 名古屋民 ,S the narrative that 名古屋 has no sightseeing spot. (Masahiro Yamada, joint)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[2nd Best Speaker]
+Satoshi Inoue
+</p>
+<p style="text-align: center;">[3rd Best Speaker].
+Yuriko Hirai
+Rena Tajima
+</p>
+<p style="text-align: center;">[6th Best Speaker]
+Takezo Kikuchi
+</p>
+<p style="text-align: center;">[8th Best Speaker]
+Mariko Kawabata
+Taiki Tsuchiya
+</p>
+<p style="text-align: center;">【Adjudicator Prize】
+[Best Adjudicator］
+Nasa Tsuchiya
+</p>
+<p style="text-align: center;">[2nd Best Adjudicator］
+Jo Watanabe
+</p>
+<p style="text-align: center;">【Organising Committee】
+Satoshi Inoue (Tech Support)
+Yuriko Hirai (Equity Officer)
+</p>
+<h2 style="text-align: center;">【K-Cup(BP) 2022】</h2>
+<p style="text-align: center;">【Speaker Prize】
+[3rd Best Speaker]
+Nasa Tsuchiya
+</p>
+<p style="text-align: center;">【Adjudicator Prize】
+[Best Adjudicator］
+Rina Kajitani
+</p>
+<p style="text-align: center;">[Grand Finals Judge］
+Rina Kajitani (Chair)
+Soya Kato (Panel)
+</p>
+<p style="text-align: center;">【Organising Committee】
+Satoshi Inoue (Tech Support)
+Yuriko Hirai (Equity Officer)
 </p>
