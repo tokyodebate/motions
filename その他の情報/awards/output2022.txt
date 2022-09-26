@@ -383,56 +383,56 @@ Jo Watanabe
 <h2 style="text-align: center;">【Wakaba Cup 2022】</h2>
 <p style="text-align: center;">【Team Prize】
 [Altair 2nd Best Team]
-▶️ 葉っぱ (Karin Hirano, Takezo Kikuchi)
+葉っぱ (Karin Hirano, Takezo Kikuchi)
 </p>
 <p style="text-align: center;">[Altair 3rd Best Team]
-▶️ 棚から優上 (Yuna Nakatsuru, Mariko Kawabata)
+棚から優上 (Yuna Nakatsuru, Mariko Kawabata)
 </p>
 <p style="text-align: center;">[Vega Best Team]
-▶️ 乃木高等女学校 (Yuriko Hirai, joint)
+乃木高等女学校 (Yuriko Hirai, joint)
 </p>
 <p style="text-align: center;">[Vega 2nd Best Team]
-▶️ Voting issueにならなくてもいいもともと特別なargument (Satoshi Inoue, Daisuke Fujikawa)
+Voting issueにならなくてもいいもともと特別なargument (Satoshi Inoue, Daisuke Fujikawa)
 </p>
 <p style="text-align: center;">[Vega 3rd Best Team]
-▶️ NYUAD Aとして出たいところだがまだ入部／入学してないし大会のネーミング規制に引っ掛かるからとりあえず橋本龍之介C (Ema Higaki, joint)
+NYUAD Aとして出たいところだがまだ入部／入学してないし大会のネーミング規制に引っ掛かるからとりあえず橋本龍之介C (Ema Higaki, joint)
 </p>
 <p style="text-align: center;">[Vega 5th Best Team]
-▶️ Tovarishchi (Taiki Tsuchiya, Yuki Yamashita)
+Tovarishchi (Taiki Tsuchiya, Yuki Yamashita)
 </p>
 <p style="text-align: center;">【Speaker Prize】
 [Altair Best Speaker]
-▶️ Mariko Kawabata
+Mariko Kawabata
 </p>
 <p style="text-align: center;">[Deneb Best Speaker]
-▶️ Rena Tajima
+Rena Tajima
 </p>
 <p style="text-align: center;">[Deneb 6th Best Speaker]
-▶️ Takezo Kikuchi
+Takezo Kikuchi
 </p>
 <p style="text-align: center;">[Deneb 9th Best Speaker]
-▶️ Rio Yagi
+Rio Yagi
 </p>
 <p style="text-align: center;">[Deneb 10th Best Speaker]
-▶️ Karin Hirano
+Karin Hirano
 </p>
 <p style="text-align: center;">[Vega 2nd Best Speaker]
-▶️ Yuriko Hirai
+Yuriko Hirai
 </p>
 <p style="text-align: center;">[Vega 3rd Best Speaker]
-▶️ Daisuke Fujikawa
+Daisuke Fujikawa
 </p>
 <p style="text-align: center;">[Vega 4th Best Speaker]
-▶️ Satoshi Inoue
+Satoshi Inoue
 </p>
 <p style="text-align: center;">[Vega 6th Best Speaker]
-▶️ Yuki Yamashita
+Yuki Yamashita
 </p>
 <p style="text-align: center;">[Vega 9th Best Speaker]
-▶️ Taiki Tsuchiya
+Taiki Tsuchiya
 </p>
 <p style="text-align: center;">[Vega 10th Best Speaker]
-▶️ Ema Higaki
+Ema Higaki
 </p>
 <h2 style="text-align: center;">【13th Icho Cup】</h2>
 <p style="text-align: center;">【Team Prize】
@@ -513,7 +513,6 @@ Yuki Saito (CD/ Tab)
 Emi Negita (MD)
 Soya Kato (FD/ Tab)
 Atsuki Ito (Tab)
-
 </p>
 <h2 style="text-align: center;">【K-Cup(NA) 2022】</h2>
 <p style="text-align: center;">【Team Prizes】
@@ -546,7 +545,8 @@ Nasa Tsuchiya
 Jo Watanabe
 </p>
 <p style="text-align: center;">【Organising Committee】
-Satoshi Inoue (Tech Support)
+</p>
+<p style="text-align: center;">Satoshi Inoue (Tech Support)
 Yuriko Hirai (Equity Officer)
 </p>
 <h2 style="text-align: center;">【K-Cup(BP) 2022】</h2>
@@ -558,11 +558,58 @@ Nasa Tsuchiya
 [Best Adjudicator］
 Rina Kajitani
 </p>
-<p style="text-align: center;">[Grand Finals Judge］
+<p style="text-align: center;">[Grand Finals Judge]
 Rina Kajitani (Chair)
 Soya Kato (Panel)
 </p>
 <p style="text-align: center;">【Organising Committee】
 Satoshi Inoue (Tech Support)
 Yuriko Hirai (Equity Officer)
+</p>
+<h2 style="text-align: center;">【Gemini Cup 2022】</h2>
+<p style="text-align: center;">【Team Prize】
+[Open Grand Finalist]
+麺包超人(Kotaro Yoshida, Taiki Tsuchiya, Takezo Kikuchi)
+</p>
+<p style="text-align: center;">[Open Semi Finalist]
+🤔🤔🤔(Kei Naganuma, Yuki Saito, Yuichi Masaoka)
+</p>
+<p style="text-align: center;">[Open Quarter Finalist]
+dU=TdS-PdV (Ryosui Banno, Satoshi Inoue, Yuki Yamashita)
+</p>
+<p style="text-align: center;">【Speaker Prize】
+[Open Best Speaker]
+Kotaro Yoshida
+</p>
+<p style="text-align: center;">[Open 5th Best Speaker]
+Taiki Tsuchiya 
+Takezo Kikuchi
+</p>
+<p style="text-align: center;">[Open 13th Best Speaker]
+Satoshi Inoue
+Yuki Saito
+Yuichi Masaoka
+</p>
+<p style="text-align: center;">[Rookie Best Speaker]
+Ryosui Banno
+Sumire Nagao
+</p>
+<p style="text-align: center;">[Rookie 5th Best Speaker]
+Emi Negita
+Mariko Kawabata
+Yuki Yamashita
+</p>
+<p style="text-align: center;">【Adjudicator Prize】
+[Best Adjudicator]
+Rina Kajitani
+Ryosuke Yoshida
+</p>
+<p style="text-align: center;">[2nd Best Adjudicator]
+Atsuko Ito
+</p>
+<p style="text-align: center;">【Adjudication Core】
+Nasa Tsuchiya (DCA)
+</p>
+<p style="text-align: center;">【Organizing Committee】
+Daisuke Fujikawa (CD)
 </p>
