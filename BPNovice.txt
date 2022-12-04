@@ -1,13 +1,13 @@
 BP Novice
 	2022 West
-		R1 THBT school should teach children to be skeptical of parental authority.
-
-		R2 THBT developing countries should prioritise the massive construction of infrastructure over the direct provision of high subsidies and social welfare.
-
-		R3 THS the narrative that it is desirable to repress strong emotions.
-
-		R4 THBT Social Media platforms(e.g. Twitter, Facebook) should censor contents produced by extremist political parties.
-		
+		R1
+			THBT school should teach children to be skeptical of parental authority.
+		R2
+			THBT developing countries should prioritise the massive construction of infrastructure over the direct provision of high subsidies and social welfare.
+		R3	
+			THS the narrative that it is desirable to repress strong emotions.
+		R4
+			THBT Social Media platforms(e.g. Twitter, Facebook) should censor contents produced by extremist political parties.
 	2021 West (11.6)
 		R1 
 			In criminal trials, TH prefers using Al judges to human judges/juries.
