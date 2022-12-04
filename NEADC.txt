@@ -1,0 +1,32 @@
+NEADC
+  NEADC 2022
+    R1: 
+      THW abolish laws against price-gouging.
+        Price gouging occurs when a seller increases the prices of goods, services, or commodities to a level much higher than is considered reasonable or fair. Usually, this event occurs after a demand or supply shock. Common examples include price increases of basic necessities after natural disasters.   
+    R2: 
+      THBT there are no immoral thoughts, merely immoral actions.
+    R3: 
+      TH, as Nepal, prefers strengthening our long-term relationship with China rather than India.
+    R4: 
+      In post-colonial states, THP education where strong emphasis is placed on multi-culturalism over similarities between different groups.
+    R5: 
+      THW allow individuals to sue religious organizations for compensation for the harmful effects of choices made as a result of adherence to religious doctrine.
+    R6: 
+      THBT states should be allowed to auction off the long-term right to govern bankrupt cities for profit.
+    Open PDO/EFL POF: 
+      THO the practice of vote buying.
+        Vote buying refers to practice where political parties or candidates provide goods or cash to voters in return for votes or ballot papers. 
+    Open OF/EFL QF: 
+      THW legally require all companies to adhere to a model of stakeholder capitalism.
+        Traditionally company executives have been required to maximise shareholder profits. Under stakeholder capitalism, company executives are instead obliged to serve the interests of all relevant stakeholders including shareholders, employees, customers, and vendors.
+    Open QF/EFL SF: 
+      THBT social movements should prioritise blaming the structure over particular public figures.       
+    Open SF: 
+      THBT the world should recognise the Tatmadaw as the legitimate government of Myanmar.
+        The Tatmadaw (Myanmar's army) led a coup in 2021 that overthrew the popularly elected government of Aung San Suu Kyi. Reception to the coup has been broadly negative both domestically and internationally.
+    Open GF: 
+      THBT governments should set up a department dedicated to producing and submitting ‘Sokal papers’ to academic journals, removing academics that admit Sokal papers and shutting down faculties that systemically admit ‘Sokal papers’.
+        A ‘Sokal paper’ refers to a fake academic paper that is submitted to a reputable academic journal that utilises the tropes and jargon of the journals field to write deliberately absurd articles and thesis’. The aim is to expose faculties and academics that accept these submissions.
+        An recent example was a re-write of Mein Kampf using feminist tropes titled “Our Struggle is my Struggle: Solidarity Feminism as an Intersectional Reply to Neoliberal and Choice Feminism.” (This got published)
+    EFL GF: 
+      THS disruptive climate protests by environmental movements. (e.g., blocking traffic)
