@@ -1,24 +1,24 @@
 Umeko Cup
 	The 28th Umeko Cup (2022)
-		R1: 
+		R1
 			THBT educators should actively teach children to focus on process over results.
-		R2: 
+		R2 
 			THW grant a right to die.
-		R3: 
+		R3 
 			THBT environmental activists should emphasize blaming large corporations for environmental degradation, as opposed to focusing on individual responsibility.
-		R4: 
+		R4 
 			THW nationalize pharmaceutical industry. (i.e. the research, development, and distribution of pharmaceuticals)
-		OQF: 
+		Open QF 
 			TH, as feminist movement, Opposes gaining profit through dating. (e.g. Papa-katsu(パパ活), Sugar babies)
-		OSF: 
+		Open SF 
 			THO “The video of black people holding boards and shouting(世界からのサプライズ動画)”.
 				“The video of black people holding boards and shouting”(黑人舉牌喊話影片,  世界からのサプライズ動画) is a form of online video messaging  service that has become an Internet meme on Twitter and TikTok since 2017.
 				These services are operated by East Asian companies, and after receiving orders, local actors mainly from sub-Saharan Africa read out ordered texts on a board in unfluent language. Some local people work on the videos as the main business.
-		OGF: 
+		Open GF
 			THP a world in which all people are born with equal and average level of intelligence.
-		RSF: 
+		Rookie SF
 			THW criminalize the payment of ransom to terrorist groups.
-		RGF: 
+		Rookie GF
 			THP a world where people cannot lie.
 			For the purpose of this debate, lying is to intentionally tell information that you believe to be untrue.
 
@@ -35,7 +35,7 @@ Umeko Cup
 			THS conscription
 		Rookie GF
 			THBT artists should not discuss the concepts behind their own art
-		Quarter Final
+		QF
 			THBT the feminist movement should oppose popular fary tales which portray traditional gender roles
 		Rookie GF
 			THR the narrative directed at the youth that one has to set clear goals/purposes for their ownn life

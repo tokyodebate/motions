@@ -1,26 +1,26 @@
 JPDU Tournament (BP)
 	41th JPDU Autumn Tournament (2022)
-		R1: 
+		R1
 			Assuming feasibility of assessment, THW decide jobs of individuals based on their abilities upon reaching legal adulthood.
-		R2: 
+		R2
 			THBT the rise of AI illustration technology does more harm than good.
 				AI illustration technology uses deep learning to analyse existing illustrations and generate illustrations for specified words.
-		R3: 
+		R3
 			THBT the feminist movement should actively seek success in capitalism.
-		R4: 
+		R4
 			THO Japanese exceptionalism.
 				Japanese exceptionalism is the idea and social narrative that Japan is exceptional in comparison to other nations. Some examples include but are not limited to; Japan has four seasons, Japanese people are hard working, Japanese people are good in STEM fields, Japan is super safe, etc.
-		Open Pre-SF: 
+		Open Pre-SF
 			THBT the body positive movement should actively differentiate itself from the fat acceptance movement.
 				The body positive movement is a social movement that originally started as a movement that advocates for the acceptance of marginalised bodies (people with scars, physical disabilities, acid attack survivors, etc.) In recent years, fat acceptance, which is a part of the body positive movement that advocates for self-love and social acceptance of larger bodies, has rapidly become the centre of social attention in relation to the body positive movement.
-		Open SF: 
+		Open SF
 			THS the focus on ESG in the financial industry, even at the expense of traditional monetary objectives.
 				Recently, there has been a rise in ESG (environmental, social, and corporate governance) focused products and actions in the financial industry. Prominent examples include ESG funds which integrate evaluation of ESG factors in investment processes, ESG bonds where funds raised must exclusively be used for sustainable projects, targeted green bond purchase programmes by the central bank, etc. Sometimes these products or actions are criticised for overly prioritising ESG initiatives over traditional objectives like managing financial risks and market efficiency, appropriate monetary policies such as investment returns, etc.
-		OpenGF: 
+		OpenGF
 			THR the glorification of genius.
-		RookieSF: 
+		Rookie SF
 			THW abolish the right to intellectual property.
-		RookieGF: 
+		Rookie GF
 			In an ageing society, THW determine one's pension based on the number of children they raised.
 
 	40th JPDU Autumn Tournament (2021)

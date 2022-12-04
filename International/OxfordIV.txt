@@ -1,4 +1,31 @@
 Oxford IV
+	Oxford IV 2022
+    R1
+      THW require all public primary and secondary schools to have significant quotas for all major ethnicites in their region
+    R2
+      THS states pursuing the goal of energy self sufficiency
+    R3
+      THP a world where the dominant norm is one where it is acceptable to talk about sex, sexual interests and advances with adults in all contexts (e.g. strangers, friends, work etc)
+    R4
+      THS mission command models in militaries
+        'Mission command' refers to granting large degrees of autonomy to individual military units and lower ranking officers. Rather than give concrete orders from the higher ranks and penalising soldiers for incompliance, under mission command model there are general guidelines and limitations that leave lower ranking officers a wide range of legitimate courses of action to choose from.
+    R5
+      THP sectoral bargaining to enterprise bargaining
+        Sectoral bargaining refers to large labour unions negotiating on behalf of a full sector of employees (e.g. teachers union, coal miners union). In contrast, Enterprise bargaining refers to smaller labour unions negotiating on behalf of employees of a single company (e.g. Amazon Labour union).
+    QF
+      THBT the US Federal Reserve should not continue to increase interest rates
+    Novice Final
+      THBT childhood years are the best years of life
+    SF
+      In federations, THBT laws regarding individual rights should be regulated exclusively by the federal government
+        'Laws regarding individual rights' are laws that have significant moral or principled implications on human rights and liberties, such as abortion rights, marriage rights etc., as opposed to legislations which are more practical in nature such as minimum wage levels, age of retirement etc.
+    ESL Final
+      THBT Gantz should enter a coalition with Netanyahu conditional that The Religious Zionist party is kept out of interest
+        The Religious Zionist Party is a far-right political party in Israel. The party supports annexation of west bank territories, opposes gay marriage and supports significant limitations on the Supreme court. In the recent Israeli elections, The Likud party, led by Benjamin Netanyahu, won the most seats.
+        Netanyahu will need The Religious Zionist Party to form a coalition, unless he gets support from the National Unity party lead by Benny Gantz, that is traditionally part of the center-left anti-Netanyahu block in the Knesset.
+    GF
+      THBT it is in the interest of the Indian people for India to align with the West   
+
 	Oxford Schools' 2021
 		R1
 			This House believes that schools should teach more life skills (e.g. cooking, driving, financial literacy) at the expense of academic subjects (e.g. Maths, Science, History).
@@ -9,11 +36,11 @@ Oxford IV
 			This House would ban the media from reporting on terrorist attacks in the immediate aftermath.
 		R4
 			This House regrets the emphasis placed on personality in politics.
-		Quarterfinals
+		QF
 			This House prefers a world where government decisions are made by individuals who are experts in specific fields (e.g. health, education, environment, justice) instead of elected politicians.
-		Semifinals
+		SF
 			This House regrets the trend of young activists becoming leaders of social movements.
-		Grand Final
+		GF
 			This House supports the narrative that one should strive to make a meaningful impact on the world even at the expense of one's own happiness
 		ESL Finals
 			This House supports surrogacy for profit.
