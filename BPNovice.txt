@@ -1,4 +1,12 @@
 BP Novice
+	2022 West
+	R1: THBT school should teach children to be skeptical of parental authority.
+
+	R2: THBT developing countries should prioritise the massive construction of infrastructure over the direct provision of high subsidies and social welfare.
+
+	R3: THS the narrative that it is desirable to repress strong emotions.
+
+	R4: THBT Social Media platforms(e.g. Twitter, Facebook) should censor contents produced by extremist political parties.
 	2021 West (11.6)
 		R1: In criminal trials, TH prefers using Al judges to human judges/juries.
 			In criminal trials, Al judges independently reach a verdict based on programmed algorithms. These algorithms, which are introduced and updated by human beings, use large data sets (such as precedents) and statistical modeling to predict the likelihood of a person being guilty and decide what sentence is the most appropriate. High-end models of Al judges are also capable of examining and improving their criteria for judgment on their own.

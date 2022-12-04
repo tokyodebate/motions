@@ -1,4 +1,54 @@
 Gemini Cup
+	Gemini Cup 2022
+		R1:
+			THS the existence of female vigilante groups in developing countries.
+			TH, as a climate activist, W oppose Japan's efforts to restart aging thermal power plants amid the ongoing power shortage crisis.
+			THR social movements delegitimizing what people say, due to their lack of lived experiences on the subject.
+
+		R2:
+			THBT debaters should not pursue persuasiveness of their speeches at the expense of factual correctness.
+			Assuming technology, THP a world in which individuals can buy and sell their natural talents and traits. (e.g. Athletic ability, Intelligence, Musical Talent)
+			THP a world in which Recall regularly records and distributes memories at a global scale.
+				Recall is a supernatural phenomenon that records a copy of the recent memories of a randomly chosen target without their knowledge. It then remotely implants this copy in the memory of a second randomly chosen target, who upon recalling the memory experiences it in the same way as the person from which it was recorded (e.g. they have the same emotional response to that memory).
+				
+		R3:
+			THO disaster capitalism.
+				Disaster capitalism refers to when private interests descend on a particular region in the wake of major destabilizing events, such as war, government upheaval, and natural disaster. An example of disaster capitalism is after the Earthquake and Tsunami in South Asia where developers seized land to build resorts and other ventures while local farmers and residents were evacuating their homes.
+			THR surveillance capitalism.
+				Surveillance capitalism is the monetization of data captured through monitoring people's movements and behavior online and in the physical world. Consumer surveillance is most commonly used for targeted marketing and advertising. Marketers combine demographic information with data about people's online activities (e.g. search activity, websites visited, posts and conversations in social media) to focus marketing efforts where they are most likely to be met with success. In more direct monetization, many companies also sell customer data to partners and other third parties.
+			THBT developing countries should heavily prioritise the massive construction of infrastructure over the direct provision of financial benefit (including but not limited to cash, subsidies for education and medicine) to citizens.
+
+		R4:
+			THO the spread of self diagnose of mental health.
+			THBT doctors should report all suspected cases of domestic violence.
+			THO the creation of saviour babies.
+				A saviour baby is a child who is born in order to provide a stem cell transplant to a sibling that is affected with a fatal disease, such as cancer. By using gene testing technology, the baby is ensured to have genes that make the transplant successful.
+				
+		Open QF:
+			THW ban art glorifying suicide. (e.g. 夜に駆ける(Yoru-ni-kakeru), 13 Reasons Why)
+			In post-conflict contexts, TH prefers the creation of art with messages of unity and hope, rather than art that seeks to commemorate previous or current suffering.
+			THR that the celebration of opulence is a prominent theme within minority art. (e.g. ""I Get Money"" by 50 cent, ""I’m So Paid"" by Akon)
+
+		Open SF:
+			THW require tech start-ups to guarantee the right to repair. (including but not limited: providing replacement parts, not adopting design features to prevent repairs, and publishing repair information)
+				Social movements such as iFixit have been fighting for a “right to repair”. The main goal of these movements is granting people the ability to repair their own devices by providing the necessary knowhow and tools. Recently, there have been several lawsuits in which consumers have sued companies for disabling self-repairs and in 2022, Apple announced the Self Service Repair Programme, in which they provide repair tools and manuals for their users.
+			In the context of US-China Tech Decoupling, TH, as Taiwan, would align exclusively with the US rather than continue a relationship with China.
+				Tech decoupling refers to the decrease in interdependence of the US and Chinese technology supply chains. This encompasses export/import controls and pressuring firms to diversify manufaturing plants. Taiwan, which includes the world's largest contract semiconductor producers, is under pressure to pick a side in the US-China rivalry for technological supremacy. The decoupling has also posed big questions for TSMC and other Taiwanese corporations on whether to commit themselves to the larger US market, or to the faster-growing China.
+			THS the rise of distributed social networks.
+				A distributed social network (e.g. Mastodon, Diaspora) is an open source technology that allows individuals to easily duplicate and establish their own social networking platforms. These platforms exist as alternatives to established social media services, such as Facebook or Twitter.
+
+		Open GF
+			THS the establishment of an independent nation for indigenous Americans within the territory of the US, the founding of which is supported by the American government.
+			THS the creation of charter cities in developing nations.
+				“Charter Cities"" are tracts of uninhabited land set aside by host nations that would be semi-autonomous and administered by a developing third-party government. Citizens of the host nation could move in and out as they so desire. In recent years, Honduras has explored the option of establishing a charter city administered by the Canadian government.
+			THS the use of forced population transfers that create separate, ethnically homogenous states as a solution to prolonged ethnic conflict.
+
+		Rookie GF
+			THW abolish the 60-vote rule.
+				In the US Senate, there is a rule that 60 out of 100 votes are needed to end debate and move to a vote on a bill, (60-vote rule) so that in principle, the final voting process happens after constructive discussions and necessary inter-party concessions.  By utilizing this rule, an opposing minority of at least 41 members can prevent the passage of a bill by voting to not end debate on a bill, even if a supporting majority of at least 51 members could later pass it.
+			THBT former colonizer countries should accept higher numbers of refugees even when faced with democratic opposition.
+			THBT local municipalities in developing countries should allocate significant portions of their budget via Participatory Budgeting.
+				Participatory budgeting (PB) is a type of citizen sourcing in which ordinary people decide how to allocate part of a municipal or public budget through a process of democratic deliberation and decision-making. Under a PB scheme, a sample of the public is selected to engage in discussions to draw up a budget with the help of experts.
 	Gemini Cup 2021
 		R1
 			THP developmental dictatorship over democracy in developing countries.
