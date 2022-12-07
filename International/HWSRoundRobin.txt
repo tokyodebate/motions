@@ -1,9 +1,9 @@
 HWS Round Robin
 	HWS ROUND ROBIN (2022)
-		 R1
+		R1
 			As a charity successfully making the world better, this house would reject donations from immoral actors.
 		R2 
-			This house believes that companies should implement policies that require management to work entry level jobs periodically.
+      This house believes that companies should implement policies that require management to work entry level jobs periodically.
 		R3 
 			This house would require laws that curtail individual freedom under the pretext of public health (e.g., vaccination requirements, mask mandates, lockdowns, etc.) to be confirmed by a referendum.
 		R4 
