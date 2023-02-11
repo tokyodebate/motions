@@ -1,14 +1,5 @@
 Asian Bridge
-	ASIAN BRIDGE 2023
-		R1: Charactersation Battle
-			THW replace human judges with AI judges in all parliamentary debate tournaments
-			THBT students should be able to choose their teachers
-			THS tourism that involves visiting and observing impoverished urban areas (slum tourism)
-		R2: Politics
-			THBT states with aging population should opt for policies that increase immigration (e.g. more visas) rather than ones that encourage citizens to have more children (e.g. tax benefits)
-			THR the rise of celebrities and artists openly supporting politicians
-			THW set consumption tax at rates in proportion to the environmental impacts of the goods (low tax for low-impact goods, high tax for high-impact goods)
-	ASIAN BRIDGE 2022
+	WASIAN BRIDGE 2022
 		R1
 			THW allow immigrants to vote in all elections.
 			TH regrets the dominant narrative that school teachers should be politically neutral in front of students.
