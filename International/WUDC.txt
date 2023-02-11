@@ -1,44 +1,44 @@
 World Universities Debating Championships
 	Madrid WUDC 2023
-		R1:
+		R1
 			THBT it's in the interest of the team for the player to be excluded from the World Cup finals squad
 				A team that’s recently gained prominence after great performances at the World Cup has advanced to World Cup finals for the first time. After the semi final, the team's top scorer and most important player, while drunk at a bar, publicly instigated a physical fight against another member of the team. When asked to calm down they continued to double down, causing more of a public disruption and seemingly irreconcilable differences with other members of the team.
-		R2:
+		R2
 			THP the quality of art being viewed as predominantly subjective as opposed to predominantly objective
-		R3:
+		R3
 			THBT The Pacific Alliance should introduce a common currency
 				The Pacific Alliance (Spanish: Alianza del Pacífico) is a Latin American trade bloc, formed by Chile, Colombia, Mexico and Peru.
-		R4:
+		R4
 			THBT governments, when determining housing policy, should heavily prioritise supporting renters over home owners
-		R5:
+		R5
 			THS the increasing prominence of data journalism at the expense of qualitative journalism
 				Data journalism is a type of journalism reflecting the increased role that numerical data has in the production and distribution of information in the digital era. It reflects the increased interaction between content producers (journalists) and several other fields such as design, computer science and statistics. On the flip side, more traditional forms of journalism are qualitative in approach, focusing more on interpretation and contextualisation.
-		R6:
+		R6
 			In developing countries with a history of ethnic, racial and/or religious tensions, THP a change of power from dominant political parties
 				For the purposes of this debate, dominant political parties are ones that have won multiple elections and have been in power for a long time. We will assume power can be handed over in a fair election.
-		R7:
+		R7
 			THBT it is in the interests of Taiwan to pursue friendlier ties with China (e.g. economic, political and cultural ties)
-		R8:
+		R8
 			TH, as an average individual in the world today, would prefer to be immortal
-		R9:
+		R9
 			THBT the internationalisation of intellectual property law brings more harm than good
 				Intellectual property is a category of property that includes ‘intangible’ creations of human intellect. There are many types of intellectual property including patents, copyrights and trademarks. The ‘internationalisation’ of intellectual property law refers to efforts to make intellectual property rights universally applicable, including the widespread use of treaties to recognise intellectual property rights across different jurisdictions, the creation of the World Intellectual Property Organisation, etc.
-		EFL Finals:
+		EFL Finals
 			THBT religious organisations should syncretise over remaining independent
-		ESL Semi Finals:
+		ESL Semi Finals
 			THBT education systems in Africa should emphasise pan-African history and identities rather than national ones
-		ESL Finals:
+		ESL Finals
 			When they are not part of that religion, THBT feminists should refrain from critiquing widespread religious practices that have different rules based on gender (e.g. wearing of veils, separate prayer spaces, women on their period being forbidden from fasting, Iddah (waiting) period after divorce/death of a husband, etc.)
-		Open Partial Double-Octofinals:
+		Open Partial Double-Octofinals
 			THW allow democratic governments to overturn supreme court/constitutional court decisions with a simple majority in the legislature
-		Open Octo Finals:
+		Open Octo Finals
 			THP a focus on societal factors (e.g. socioeconomic factors) as opposed to individual factors (e.g. personal history) when addressing the causes and consequences of mental health issues
-		Open Quarter Finals:
+		Open Quarter Finals
 			THBT the IMF removing all conditions on these loans, except for explicit anti corruption provisions, is preferable to the recent conditions to developing countries
 				During the recent economic crisis, the International Monetary Fund (IMF) has provided certain conditions to developing countries for receiving loans. These conditions require governments to adopt more market based economic policies. Targets include reducing government budget deficits and increasing international currency reserves. The policy conditions provided by the IMF include 1) reducing or eliminating fuel subsidies and fertiliser subsidies; 2) setting the currency exchange rate to international market rates; 3) implementing market-based interest rates; 4) anti corruption provisions.
-		Open Semi Finals:
+		Open Semi Finals
 			THR the dominance of left/liberal views at universities
-		Open Grand Final:
+		Open Grand Final
 			THP a world where all individuals have a strong belief in Ubuntu
 				Ubuntu (“I am because we are”) is a philosophical belief that asserts that people's identities should be shaped by, and their obligations should primarily be owed to, their communities.
 	Belgrade WUDC 2022
