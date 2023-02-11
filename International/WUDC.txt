@@ -23,22 +23,22 @@ World Universities Debating Championships
 		R9:
 			THBT the internationalisation of intellectual property law brings more harm than good
 				Intellectual property is a category of property that includes ‘intangible’ creations of human intellect. There are many types of intellectual property including patents, copyrights and trademarks. The ‘internationalisation’ of intellectual property law refers to efforts to make intellectual property rights universally applicable, including the widespread use of treaties to recognise intellectual property rights across different jurisdictions, the creation of the World Intellectual Property Organisation, etc.
-		EFL GF:
+		EFL Finals:
 			THBT religious organisations should syncretise over remaining independent
-		ESL SF:
+		ESL Semi Finals:
 			THBT education systems in Africa should emphasise pan-African history and identities rather than national ones
-		ESL GF:
+		ESL Finals:
 			When they are not part of that religion, THBT feminists should refrain from critiquing widespread religious practices that have different rules based on gender (e.g. wearing of veils, separate prayer spaces, women on their period being forbidden from fasting, Iddah (waiting) period after divorce/death of a husband, etc.)
-		PDO:
+		Open Partial Double-Octofinals:
 			THW allow democratic governments to overturn supreme court/constitutional court decisions with a simple majority in the legislature
-		OF:
+		Open Octo Finals:
 			THP a focus on societal factors (e.g. socioeconomic factors) as opposed to individual factors (e.g. personal history) when addressing the causes and consequences of mental health issues
-		QF:
+		Open Quarter Finals:
 			THBT the IMF removing all conditions on these loans, except for explicit anti corruption provisions, is preferable to the recent conditions to developing countries
 				During the recent economic crisis, the International Monetary Fund (IMF) has provided certain conditions to developing countries for receiving loans. These conditions require governments to adopt more market based economic policies. Targets include reducing government budget deficits and increasing international currency reserves. The policy conditions provided by the IMF include 1) reducing or eliminating fuel subsidies and fertiliser subsidies; 2) setting the currency exchange rate to international market rates; 3) implementing market-based interest rates; 4) anti corruption provisions.
-		SF:
+		Open Semi Finals:
 			THR the dominance of left/liberal views at universities
-		GF:
+		Open Grand Final:
 			THP a world where all individuals have a strong belief in Ubuntu
 				Ubuntu (“I am because we are”) is a philosophical belief that asserts that people's identities should be shaped by, and their obligations should primarily be owed to, their communities.
 	Belgrade WUDC 2022
