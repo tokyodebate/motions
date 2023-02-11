@@ -8,30 +8,6 @@ Asian Bridge
 			THBT states with aging population should opt for policies that increase immigration (e.g. more visas) rather than ones that encourage citizens to have more children (e.g. tax benefits)
 			THR the rise of celebrities and artists openly supporting politicians
 			THW set consumption tax at rates in proportion to the environmental impacts of the goods (low tax for low-impact goods, high tax for high-impact goods)
-		R3: Mixed Up
-			THW ban combat sports
-				A combat sport is a competitive contact sport that usually involves one-on-one combat. In many combat sports, a contestant wins by submitting the opponent with a hold, disabling the opponent (knockout, KO), or attacking the opponent in a specific or designated technique.
-			THW abolish tax exemptions for religious organizations which discriminate against sexual minorities
-			THS Neko Hodai
-				Neko Hodai (ねこホーダイ) is a subscription scheme in which paying users can adopt a cat from an animal shelter and return it when they can no longer take care of it.
-		R4: Crime and Conflict
-			THW pardon members of militant groups who were recruited when they were children, in exchange for leaving the group
-			THS the use of predictive algorithm in criminal court
-				For the purpose of this debate, "predictive algorithm" is a tool that uses big data to predict the likelihood of second offense by the defendant. Judges can increase/decrease the extent of punishment (e.g. sentencing, bail, or whether to grant/deny parole) based on the predictions.
-			In the context of post ethnic/religious conflict area, THW financially incentivize interracial and interfaith marriage
-		QF: Minority
-			THBT the LGBTIAQ+ movement should push the reinterpretation of religious texts rather than the narrative against religions
-				One example of sexuality-affirming reinterpretation of religious texts is about the story of Sodom and Gomorra in Christianity. One conventional interpretation argues that this story censures homosexuality, while some activists push another interpretation that this story does not deny homosexuality, and it just criticizes inhospitality and the negative treatment of guests.
-			THBT oppressed indigenous minorities should embrace and promote inaccurate but positive myths or beliefs about their culture. （e.g. depicting aboriginal people in Australia as "friendly people with purely traditional cultural practices")
-			THBT international sports events should not be held in countries suspected of human rights violations.
-		SF / Rookie GF: Narrative
-			THO the narrative that romantic feelings/relationships are valuable
-			THR the glorification of soldiers as heroes
-			THR the prevalence of battlefield metaphors in describing the conditions of individuals with chronic diseases (e.g. “cancer survivor”, “fighting leukemia” and “losing the battle against Alzheimer's disease”)
-		GF: Difficult Enough for GF?
-			In a parliamentary democracy, THW immediately trigger a general election when the prime minister steps down(e.g. After Shinzo Abe stepped down, after Boris Johnson stepped down)
-			THBT universities should prohibit research or teaching on the grounds of sexist, racist or otherwise discriminatory implications
-			THR the rise of TV shows in the "true crime" genre that portray perpetrators in sensational criminal incidents as "misunderstood misfits"(eg. Netflix's "Monster: The Jeffrey Dahmer Story")
 	ASIAN BRIDGE 2022
 		R1
 			THW allow immigrants to vote in all elections.
