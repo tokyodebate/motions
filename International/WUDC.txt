@@ -41,6 +41,14 @@ World Universities Debating Championships
 		Open Grand Final
 			THP a world where all individuals have a strong belief in Ubuntu
 				Ubuntu (“I am because we are”) is a philosophical belief that asserts that people's identities should be shaped by, and their obligations should primarily be owed to, their communities.
+		Masters R1:
+			THP to live as a cowboy rather than as an astronaut
+		Masters R2:
+			THP an absent god to an attentive devil
+		Masters Semi Finals:
+			THS the enforced "retirement" of all dinosaur debaters
+		Masters Grand Final:
+			TH, as a debater in the masters final, would rather be doing something else
 	Belgrade WUDC 2022
 		R1:
 			In disaster-prone areas, This House Would replace all state rebuilding and reconstruction efforts with direct cash transfers to affected citizens.
@@ -90,7 +98,8 @@ World Universities Debating Championships
 		Open Semi Finals:
 			This House Prefers religions that "center the self" to religions that "reject the self".
 				Info: For the purposes of this debate, religions that "center the self" embrace human existence and individual experiences as special. Believers are asked to consider their choices and experiences, struggles, and connection to God as uniquely important and a path to salvation. In contrast, religions that "reject the self" explicitly reject the idea that human existence and individual experiences are special. Believers are asked to accept individual experiences as temporary and unimportant, and individuality as an illusion that causes unhappiness.
-		Open Grand Finals: This House Supports a decline in global reliance on the dollar.
+		Open Grand Finals:
+			This House Supports a decline in global reliance on the dollar.
 	Korea WUDC (2021)
 		R1:
 			TH, as South Korea, would aim to significantly increase its cross-border economic cooperation with North Korea
