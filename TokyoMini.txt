@@ -56,7 +56,7 @@ Tokyo Mini
 		R3
 			THBT Angela Merkel has made a wrong decision.
 				At a meeting of CDU party, German Chancellor Angela Merkel has said the wearing of full-faced veils should be prohibited in the country “wherever it is legally possible”
-		R4
+		R4 / GF
 			THW abolish private property.
 	Atournament 2015 (Tokyo Mini 2015)
 		R1
