@@ -639,7 +639,7 @@ Gemini Cup
 		R4
 			THW allow pre-implantation genetic diagnosis.
 		QF
-			THBT insanity is not equivalent to “.not guilty”..
+			THBT insanity is not equivalent to “not guilty”.
 		SF
 			THW impose fat tax.
 		GF
@@ -657,7 +657,7 @@ Gemini Cup
 		R1
 			THW have national holidays in June.
 		R2
-			THBT “.slow life”. is better than “.fast life”..
+			THBT “slow life” is better than “fast life”.
 		R3
 			THBT we should keep scenery than construct buildings.
 		SF
@@ -685,4 +685,4 @@ Gemini Cup
 		SF
 			THW prohibit patenting on genetic information.
 		GF
-			THBT .”no pain, no gain.”.
+			THBT ”no pain, no gain”.
