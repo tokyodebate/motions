@@ -26,8 +26,33 @@ Borneo British Parliamentary Championship
 		GF
 			THP Tomorrowland
 				In the world of Tomorrowland, an independent and safe AI has been developed. This technology uses algorithms which know humans better than they know themselves and determines courses of action for one's personal life such that there is very little need for human decision making. Humans generally follow the directions of the algorithms. Some applications of the algorithm include: humans entering relationships based on the judgement of the algorithms; people not searching for jobs, but algorithms matching employers to potential employees; and humans not needing to vote, since the algorithms know which way they should vote.
-
-	Borneo British Parliamentary Championship 2020
+	Borneo British Parliamentary Championship 2021
+		R1
+			THS the trend of self-diagnosing via the internet
+		R2
+			TH, as the United States of America, would abandon the One China Policy
+				The "One China" Policy was recognized by the US in 1979, when it cut formal diplomatic ties with Taiwan and acknowledged China's position that there is only one Chinese government. However, it is distinct from the One China principle, whereby China insists Taiwan is an inalienable part of one China to be reunified one day. U.S. has unofficial ties with Taiwan, governed by the 1979 Taiwan Relations Act, which outlines the U.S. commitment to help Taiwan maintain its military defense.
+		R3
+			TH, as the LGBTQIA+ community, supports queer coding in art
+				Queer coding is the subtextual coding and interpretation of a fictional character as queer. While the character's sexual identity may not be explicitly confirmed, they may be coded through the use of traits and characteristics recognised by the audience. The queerness in a queer-coded character is intrinsic to the plot and is a natural part of a character's identity .Examples include, but are definitely not limited to, the portrayal of Scar, Jafar, and Ursula in Disney, to Sheldon Cooper in the Big Bang Theory, Xena, possibly to Batman/Robin and Sherlock/Watson as well.
+		R4
+			THBT the EU should punish their member states for illiberal reforms within their educational systems
+				In Hungary, Viktor Orban's government have placed universities under the control of public (government-controlled) foundations. The foundation boards' current and members will be appointed by Mr Orban’s Fidesz Party. This move towards more illiberal educational systems is predicted to be a trend that may soon be followed by other governments in Europe.
+		R5
+			THBT environmental activists should emphasize blaming large corporations for environmental degradation, as opposed to focusing on  individual responsibility
+		Novice SF
+			THR the naturalization policy in sports
+				Naturalization policy in sports is where a state provides a path to citizenship for athletes from another country in exchange for representing the country of destination's national team or contingent in international sporting events.
+		OF
+			THR the rise in the use of easily accessible online platforms for trading stocks, cryptocurrency, and other financial instruments (e.g., Robinhood, Etoro, etc.)
+		QF
+			THBT after achieving an adequate level of financial stability, individuals should focus heavily on the service of others
+		Novice Final / SF
+			THP leaderless social movements as opposed to one with clearly identifiable leaders
+				Leaderless resistance, or phantom cell structure, is a social resistance strategy comprised of independent groups or individuals. Leaderless cells lack vertical command links and so operate without hierarchical command, but they have a common goal that links them to the social movement from which their ideology was learned. Leaderless resistance, which often comprise of diverse variations within their core ideology, has been employed by a wide range of movements, both good and bad.
+		GF
+			In a post-COVID world, THBT the three countries sharing the Borneo Island (Brunei, Indonesia, Malaysia) should heavily prioritize subsidizing eco-tourism
+	Borneo Online Debate Championship 2020
 		R1:
 			THBT Queer movements in the developing world Should attempt to dissociate themselves from modern Queer movements in the west
 		R2:
@@ -38,10 +63,10 @@ Borneo British Parliamentary Championship
 		R4:
 			THO the demonization of dark humour / dark comedy
 				Broadly, dark comedy, dark humour, or gallows humour, is a style of comedy that makes light of subject matter generally considered taboo, particularly serious or painful to discuss."
-		NF:
+		Novice Final:
 			As an Asian parent, THW teach their child to actively reject the 'humble culture"
 				For the purpose of this debate, "humble culture" refers to a culture where people are encouraged (either by others; or themselves; or both) to actively refrain from publicly showing/revealing their successes, possessions and achievements
-		PF:
+		SF:
 			THBT the GNA and its allies should abandon any attempts at peace negotiations and continue its current push against the LNA
 				1. Oil-rich Libya has been in chaos since the Arab spring movement and NATO bombing campaign that toppled Gaddafi in 2011. Attempts to build a democratic state after Gaddafi fell, disintegrated into a new civil war between rival governments in 2014. Since 2014 the fighting has mainly been between rival centres of political power in east and west Libya after election disputes: namely the UN-recognised Tripoli administration, known as the Government of National Accord (GNA) led by Sarraj, and the Tobruk administration in the eastern city, which chose General Haftar to lead the Libyan National Army (LNA). While the GNA is officially recognised by the UN as Libya’s legitimate government, it holds little power on the ground, and some distrust its Islamist politics. Haftar’s supporters say he is a bulwark against extremism, while others see him as another would-be military dictator. 2. Over the last few years foreign powers have increasingly intervened in Libya’s civil war to defend their own strategic and economic interests. The democratically chosen GNA is backed by the UN and many western countries, but its main allies are Turkey, Qatar and Italy. The LNA enjoys the support of Russia, Egypt, the UAE, Saudi Arabia, France and Jordan. The recent escalation in fighting comes despite increased international pressure on both sides to return to negotiating a political settlement and to halt the violence over concerns about the spread of coronavirus. The recent loss of al-Watiya airbase dealt a significantly heavy setback for Haftar and will help Turkey expand its air operations in the conflict on behalf of the Tripoli government. The LNA’s foreign backers are likely to step up their support in order to counter a string of Turkish successes since Ankara intervened in January.
 		GF:
