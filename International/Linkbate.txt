@@ -12,20 +12,101 @@ Linkbate Debating Championships
 				The People's Action Party (PAP) has been elected as the ruling party in Singapore for nearly six consecutive decades. They have stably attained a voter share of 60% or above since 1968 but the general trend of their votes have been decreasing. For the purposes of this debate, the PAP has stayed in power by abusing advantages of being the incumbent party (e.g. rules which only allow preparation of elections to start after an election has been called) and has disrupted their opponents (e.g. by censoring what the PAP deems as "false information".)
 		R5: Education
 			THP a world where universities' admission processes place emphasis on students' academic interest attached to that specific field (e.g. the amount and depth of extra reading, extension courses, joining competitions related to that subject) as opposed to emphasis on academic capabilities at school (e.g. public examination results, assessment scores)
-		U16 Semi Finals
+		U16 SF
 			THO the sale of downloadable content (DLC) for video games
 				Downloadable content (DLC) is additional purchaseable content for a video game that adds extra content or an expansion to the base game. Examples of video games that offer DLC include Sims 4, The Witcher, and Grand Theft Auto V.
 		U16 Final
 			THP a world in which all donations are administered through the Donation Nation
 				For the purpose of this debate, a ‘Donation Nation’ is a central charity organization tasked with the collection and distribution of all financial resources donated by all citizens across the world towards charities. The organization then distributes the donations to charities across the world according to the number of people affected by that charity's cause i.e. the more people affected by the charity's cause, the more funding the charity would receive.
-		Open Double Quarter Finals
+		OPDQ
 			THO the narrative that people should only enter romantic relationships that they anticipate will be sustainable in the long term
-		Open Quarter Finals
+		OQF
 			THBT state economic policies should favour companies with business models that prioritize conquering markets in the long-term at the expense of short-term profitability
-		Open Semi Finals
+		OSF
 			THR the increased emphasis placed on family being a dominant social construct
-		Open Grand Final
+		OGF
 			To be announced...
+	6th Linkbate Debating Championships 2022
+		R1
+			TH, as a state with aging population, would opt for policies that increase immigration (e.g. more visas, more social benefits to work migrants) rather than ones that encourage citizens to have more children (e.g. tax benefits, increased childcare)
+		R2
+			THBT the feminist movement should actively encourage women who do not fit into the conventional beauty standards to seek for media exposure in the entertainment industry (e.g. become actors/singers, participate in idol producer shows etc.)
+		R3
+			THBT economically developed countries should be mandated to give COVID relief-related aid to economically developing countries
+		R4
+			THW turn down the offer
+				You are an aspiring journalist with an opposition leaning that recently graduated from a top school in Zimbabwe. The President of your nation, Emmerson Mnangagwa, has a track record of shutting down media companies that criticize the government. You just received an employment offer from a small media company in line with your political interests.
+		U16 SF
+			THR the predominance of youth in social movements (e.g. framing the youth as leaders, using language directly appealing to teenagers and young adults)
+		U16 Final
+			THBT religious figures should not be allowed to publicly endorse political candidates and parties
+		OOF
+			As ASEAN, THW actively reject the presence of AUKUS
+				AUKUS is a trilateral security pact between Australia, the United Kingdom, and the United States. Their current objectives are to reduce China's power in Southeast Asia through means such as, but not limited to, assisting Australia in acquiring nuclear-powered submarines. ASEAN is an economic union comprising of Southeast Asian nations: Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam.
+		OQF
+			TH, as an established actor from a minority race, would accept roles depicting stereotypical characteristics of their race
+		OSF
+			THP a world where religions significantly prioritize the involvement of its members within religious activities that are usually performed by religious leaders
+				The prevalent practice of religion places asymmetric duties and power to religious heads in determining the content and the course of preaches, sermons, and worshippings. Prioritizing involvement looks like the absence of official pastors and imams, to eventually push members to involve themselves in member preachings, doing service to peers, sharing personal religious experiences, etc.
+		OGF
+			Assuming feasibility of the technology, THS the use of the Equaliser in the new society
+				There has been a nuclear holocaust which has wiped out most of humanity. The survivors have collectively formed a new society. The new society has developed a technology called "Equaliser", which reconfigures every physical and intellectual trait of humans to an average value, and ensures an egalitarian society forever.
+	5th Linkbate Debating Championships 2021
+		R1
+			In countries with underdeveloped economies, THP governments heavily subsidizing social entrepreneurs at the expense of conventional SMEs (small and medium enterprises)
+				Social entrepreneurs take on business initiatives that predominantly create positive societal change. Compared to conventional business models that prioritize profit, examples of social entrepreneurship include eco-friendly products, serving disadvantaged communities, and focusing on philanthropic activities.
+		R2
+			THP a world where social media companies charge a subscription fee for their basic services (e.g. paying for an Instagram account), as opposed to getting their revenue from advertisements
+		R3
+			Assuming a steady supply of vaccines in times of pandemic, THW make access to stimulus (i.e. individual checks, low interest loans, other relief packages) contingent on getting vaccinated
+		R4
+			In the world of Pokémon, THBT governments should heavily subsidize young trainers to not pursue a path in becoming the Pokémon Champion
+				Pokémon are creatures with specialized abilities and are highly sentient. In the world of Pokémon, many young trainers strive to become the Pokémon Champion through competing in battles and outclassing their opposition. In Pokémon battles, they are ordered to attack each other until one Pokémon faints. There are also other paths to being a trainer that are less well-known, less well paid, and less lucrative (becoming a chef or being a Pokémon Beauty Contest Champion).
+		R5
+			In post-conflict states, THBT schools should prioritize teaching aspects of unity/reconciliation even if it comes at the expense of accuracy
+		U16 SF
+			TH, as a nation struggling with COVID-19 relief, would refuse China's vaccine diplomacy
+				Vaccine diplomacy is the use of vaccines to improve a country's diplomatic relationship and influence of other countries through forcing political and economic concessions (forcing unreasonable trade deals, one-sided treaties). Attempts by countries like China to use vaccine diplomacy as leverage has been widely criticised by international bodies like the UN.
+		U16 Final
+			THR the narrative of “happily ever after” for queer romantic relationships within popular media
+		OQF
+			THBT the Biden Administration should impose sanctions on countries heavily trading with military-controlled enterprises in Myanmar
+				Since February of this year, the military junta has seized control over Myanmar. Countries like the US have imposed targeted sanctions on military officials and military-controlled companies. However, some neighboring countries still trade with military-controlled enterprises.
+		OSF
+			THBT it is in the interest of the LGBTQIA+ movement to oppose the queerbaiting of movie characters when they were otherwise considered straight
+				Queerbaiting is a marketing technique for fiction and entertainment in which creators and directors hint at, but don't actually depict same-sex romance or other LGBTQIA+ representation. An example would be Watson in Sherlock Holmes.
+		OGF
+			THR debating in high school for WSDC selections
+				1. The World Schools Debating Championships (WSDC) is the premiere international high school debating tournament where students represent their countries. Each year, national teams are comprised of 3 speaking members and up to 2 alternate members that can be "substituted" into debate rounds.
+				2. You are a mediocre debater with a mild interest in debating. You reside in a country that has a history of fielding a strong and competitive team for WSDC. After competing in debate for all of high school, you were finally selected to represent your nation as one of the alternate members in your final year. You would likely speak in 1 or 2 of the 10+ rounds at WSDC.
+	4th Linkbate Debating Championships 2021
+		R1
+			THR the emphasis of textbook-based education within secondary schools
+		R2
+			THW allocate the majority of public healthcare funds to palliative care, as opposed to treatments for terminal diseases
+				Palliative care is specialized care aimed at optimizing the quality of life and alleviating pain mainly for people with serious, complex illnesses. It is distinctive from other treatments which aims to cure diseases. Palliative care can be used in conjunction with other medical treatments, and is currently underprioritized in terms of research, access, and development.
+		R3
+			TH, as a female artist winning her first Grammy, would choose to reject and denounce her recipient of the award
+				The 2021 Grammys arrived amid a cloud of controversy. Dr. Luke, a music producer with sexual assault allegations, was nominated under a pseudonym, for 'Producer of the Year' despite the Grammy's condemnation of his actions last year.
+		R4
+			In times of economic crisis, THP a system of lax labour regulations to that of extensive labour regulations (minimum wage, job security legislation, etc.)
+		R5
+			THW choose not to report the crime
+				You are a racial minority who lives in a community stigmatized by high crime rates. You are a well-respected member of your community. You've just witnessed an armed robbery committed by someone of your own minority status.
+		U16 SF
+			THW prevent countries with active humanitarian crisis from hosting major sporting events (e.g China as host of 2022 Olympic Games, the FIFA World Cup being hosted in Qatar in 2022).
+		U16 Final
+			THR the glorification of sacrifice in social movements
+		OOF
+			THR the narrative that people should marry for love
+		OQF
+			TH, as the Biden Administration, would prioritize immediately reinstating the JCPOA over negotiating further demands with Iran (i.e. requesting for the removal of ballistic missles, Iran's funding of extremist groups...)
+				The Joint Comprehensive Plan of Action (JCPOA) of 2015 is an agreement between Iran and several world powers that was created to dismantle Iran’s nuclear program and open its facilities for international inspection in exchange for sanctions relief. Despite the request of other world powers, Trump withdrew from the deal and reinstated sanctions during his presidency. This was due to the deal not accounting for Iran's possession of ballistic missiles, Iran still funding "radical terrorist groups", and other such reasons. As a result, Iran expanded their nuclear activities and has propagated a growing distrust towards the West since Trump's decision to reinstate sanctions. Currently, President Joe Biden has promised to renew the deal after negotiating with Iran.
+		OSF
+			THBT it is in the interest of social movements to "hijack" symbols of their opposition groups (e.g LGBT Twitter users and the #ProudBoys).
+		OGF
+			THW blow the whistle
+				You are a researcher working for a corporation that is about to release a cure for a fatal disease that afflicts millions. You’ve recently been made aware that the research conducted involved several instances of underground human testing which led to the speed in development. You have substantial evidence to prove this beyond reasonable doubt. Releasing this information will lead to the decommissioning of the research.
 	3rd Linkbate Debating Championships 2020
 		R1
 			THW legalise euthanasia
