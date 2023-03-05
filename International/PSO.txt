@@ -1,0 +1,24 @@
+Philippine Science Open
+    PSO 2023
+        R1
+            THR the widespread adoption and development of Artificial Intelligence
+        R2
+            Assuming that the technology exists, THW allow the alteration (i.e. addition, deletion, modification, and replacement) of a person's memories
+        R3
+            THW ban this genetic engineering research on adolescents
+                Groundbreaking new research suggests that it is theoretically possible to alter the cells of humans age 12 - 15 to develop adaptability to extreme conditions (e.g. resistance to extreme temperatures, starvation, radioactive waste). This alteration process will involve significant amounts of physical pain, but is non-fatal and full recoveries are assured.
+        R4
+            THBT the scientific community should stop actively disproving creationism (e.g. rebutting it in interviews, publishing comprehensive articles, etc.) in favor of letting science speak for itself
+        Novice SF
+            THR the premium placed on attaining scientific and mathematical awards (e.g. Nobel Prizes for Chemistry and Physics, Fields Medal, Lasker Award)
+        Novice Final
+            TH welcomes scientific research that seek to establish a biological link to immoral behaviors
+        QF
+            THBT developing countries should prioritize applied medical research over basic medical research
+                "Basic medical research refers to ventures into discovering the fundamentals of disease processes. For example, genetic analysis of inherited disorders, the factors that lead to tropical infections (e.g., malaria, dengue, etc.), features of state-specific diseases (e.g., Dystonia of Panay), etc.
+                Applied medical research refers to applying basic research in discovering new drugs, treatments, and innovations. For example, knowing that Diabetes is caused by insulin resistance led to the development of insulin therapies."
+        SF
+            THBT the scientist has a moral obligation to hide the existence of this oil reservoir from the world
+                While surveying an inconspicuous patch of international waters never before explored, a scientist discovers the world's largest oil reservoir ever deep beneath the surface.
+        GF
+            THP a world without rapid scientific and technological advancement
