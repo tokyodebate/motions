@@ -48,7 +48,7 @@ JPDU Spring Tournament
 		R1: Education
 			THR the narrative that goint to a prestigious university is essential for success.
 			THR the glamorization of continuous self-improvement(including but not limited to self improvement in academics, sports, arts) in education.
-			THW reduce punlic fundings to universities where menbers of oppressed communities are disproportionately underrepresented as students.
+			THW reduce public fundings to universities where members of oppressed communities are disproportionately underrepresented as students.
 		R2: Development
 			THBT micro-finance organisationslcharities, NGOs, Development Banks) should offer micro-finance loans in developing nations only to women.
 				Micro-finance refers to longterm loans with little or low interest provided to individuals who seek to start a business.
