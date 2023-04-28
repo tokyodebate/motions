@@ -184,11 +184,11 @@ Cambridge IV
 			THW Never Allow Prosecutors to Offer Reduced Sentences or Lesser Charges in Exchange for Testifying Against Others.
 		Open QF
 			TH Regrets the Rise of the 24 Hour News Media
-		Open SF
+		Open SF+SF
 			THBT All Companies Should Be At Least 75% Owned By Their Workforce, in Equal Shares
 		ESL GF
 			THBT that Japan Should Not Abandon Nuclear Power
-		Grand GF
+		GF
 			THBT Egypt Should Provide a Military Security Guarantee Against The Invasion of Gaza
 	Cambridge IV 2010
 		R1
