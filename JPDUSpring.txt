@@ -25,13 +25,30 @@ JPDU Spring Tournament
 			THW allow parents to give the Politeness Pill to their children under the age of 18, regardless of the children's consent
 				The Politeness Pill, when taken, temporarily permits only socially acceptable behavior, such as obedience, attendance at school, good manners, following the law, refraining from drugs and alcohol, etc.
 		Rookie GF:
-			Coming soon...
+			THR the decline of multi generational homes
+				A multi generational home is a household that consists of multiple adult generations living under the same roof (e.g. adult parents living with their adult children or grandparents living with grandchildren).
+			THS the aggressive government funding of social startups in developing countries
+				A social startup is an approach by start-up entrepreneurs, in which they develop, fund, and implement solutions to social, cultural, or environmental issues. It combines commerce and social issues to improve the lives of people connected to the cause. For these startups, they don’t measure their success in terms of profit alone, success for social entrepreneurs also considers factors including sustainability, social missions, and social return on investment, etc.
+			In the developing world, THR the forced rapid urbanization of local regions
+				In the process of urbanization, states will seek rapid introduction of new infrastructure, housing, transportation and industries to underdeveloped regions, often through massive construction projects. Urbanization can drastically change the living environments of the local people.
 		QF:
-			Coming soon...
+			THS Asian countries creating regional alternatives to the current international economic institutions (i.e. Asian Development Bank)
+			THR the Taiwanese government’s decision to prolong the conscription service
+				On December 27th, 2022, the Taiwanese President, Tsai Ying Wen, and the government made a policy to extend the length of conscription in response to the rising tension between China and Taiwan. Starting from January 1st of 2024, the mandatory military services will be extended from the original 4 months to 1 year. However, the compensation for soldiers will be raised to 4 times compared to the original payment. The purpose of this policy is to solve the shortage of manpower in the military, at the same time enhance the defense system against China’s invasion.
+			THBT it is in the interest of the Biden administration to aggressively go "all in" on Africa's future
+				During the US-African Union (AU) Summit held on December 14 2022, President Biden declared that the United States would go "all in" on Africa's future. Some of the tangible outcomes from this summit are the signing of MOU (Memorandum of Understanding) between the US and the African Continental Free Trade Area Secretariat, the promise of $55 billion worth of investment to Africa, and the planning of AU entering G20 Summits.
 		SF:
-			Coming soon...
+			TH, as the player, would transfer to the top-tier team
+				You are a 25 year old football player playing as a regular for a mid-tier team in the English Premier League. Your team has recently gained increasing success, but still falls short of being a top team in the league. You are seen to be one of the key players of the team and due to your recent success, have gained traction from a top-tier, big club team who has now offered to sign you.
+			TH, as an individual from a disadvantaged background, would 'code-switch' in the workplace
+				Code-switching is the practice of changing your mannerisms, tone of voice, appearance, or switching between two dialects of one language (e.g. Australian English and Australian Aboriginal English) depending on the social context you are in.
+			TH, as a young woman in Japan, would actively live a lifestyle of sampo generation
+				Sampo Generation is a neologism referring to a generation that gives up courtship, marriage, and having kids. For example, many of the young generations in South Korea have given up those three things because of social pressures and economic problems such as increasing cost of living, tuition payments, and affordable housing scarcity.
 		GF:
-			Coming soon...
+			THW ban political parties and require all candidates for national public office to seek election as independents
+			THP a world in which media depicts democratic politics as cynical and pessimistic to an idealistic and optimistic
+			THW give individuals the choice between living under a codified social contract with their respective states or living in designated state-free zone
+				A codified social contract refers to a normalized agreement governing the behavior of individuals and the government.
 	JPDU Spring Tournament 2022
 		Round 1
 			THR the focus on achievement in children's sport competition.
