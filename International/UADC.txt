@@ -11,6 +11,18 @@ United Asia Debating Championship
 				"Celebratory advocacy" embraces a positive and joyful approach to advocacy, utilizing music, dance, and art to inspire engagement and unity. It emphasizes celebrating achievements, fostering community, and highlighting the movement's successes.
 				On the other hand, "solemn advocacy" takes on a serious and reflective tone, drawing attention to challenges or injustices. It aims to evoke empathy, inspire deep reflection, and mobilize for change through emotional pleas and powerful expressions of dissatisfaction.
 		R3
+			THW introduce a luxury tax model on club level football salaries
+				The "luxury tax model" refers to imposing a "tax" if a club crosses the median total squad salary of clubs of that league. As per this tax, the club will have to pay the league association an equal mount for every dollar/pound/euro spent over the median value.
+				e.g. If the median total salary of a club in a league is 100 Million, and club X wants to have a total salary spending of 125 Million, then X will have to pay the league association luxury tax of 25 Million making their total cost 150 Million (125 M + 25 M).
+			THW choose to quit competitive chess and become a full-time chess streamer
+				I) Competitive chess follows a ranking system which divides players into tiers based on their rating. The 3 highest tiers of chess are Grandmaster (attained by roughly 1% of all chess players), followed by International Master (roughly 5%) and then FIDE Master (roughly 15% of all chess players).
+				II) You are a male professional chess player in your mid-thirties who has achieved FIDE Master status. Despite multiple attempts to advance further you have been unsuccessful in attaining an International Master (IM) status.
+				III) You also run a relatively well-known chess channel on social media platforms (Youtube, Twitch etc.) which has become increasingly hard to manage given your preparation for competitive chess.
+			THBT football clubs should actively disassociate from their 'Ultras'
+				I) In club football, 'Ultras' refer to a long-standing group of institutional fans renowned for their fanatical support. They are membership-based organizations that aim to create an atmosphere which intimidates opposing teams/fans through the use of verbal support, flares, banners etc. In some cases, Ultras have been associated with violent altercations with rival fans during games.
+				II) While Ultras are not directly associated with the football club, they organize meetings with the staff/coaches and have reserved seats in stadiums.
+				III) Many Ultras also engage in political activism across the spectrum. Examples include Indonesian club Persebaya's Ultras (the Bonek) campaigning against FIFA corruption, Turkish club Beşiktaş’ “Çarşı”protesting against president Erdogan's repression and Inter Milan's Curva Nord supporting right-wing Italian politics.
+		R4
 			THS a widespread adoption of debt-fornature swaps in financially distressed developing countries
 				Debt-for-nature swaps refer to a transaction in which an amount of debt owed by a developing country government is cancelled or reduced by a creditor, in exchange for the debtor making financial commitments to conservation.
 			THO Olive finance
@@ -18,11 +30,23 @@ United Asia Debating Championship
 			TH, as a prominent sustainability-focused hedge fund, would pursue an aggressive short-selling strategy against carbonintensive stocks (for example, fossil fuels/energy companies etc.)
 				I) A sustainablity-focused hedge fund pools investor money and uses multiple strategies to maximize the environmental impact of their investments while trying to provide high returns to investors
 				II) Short selling is the act of borrowing shares from others and selling them in the market with a hope that they can be bought cheaper later. It is a strategy that speculates on the decline of the stock's price in order to make a profit.
-		R4
 		R5
+			THO the romanticization of youth
+			THR the narrative that individuals should be wholly resilient against other people's judgements in interpersonal relationships
+			TH, as a working class individual, would choose to live with a passively nihilistic disposition
+				For the purpose of this debate, "passive nihilism" refers to an attitude where an individual does not have or believes in hopes and aspirations and rather leaves themselves content with simple pleasures.
 		R6
+			THBT all large data AI repositories should be forced to pay companies for training data skimmed from the internet, even in instances where they are typically free for users (e.g. youtube, Reddit, Facebook, CNN, BBC, etc.)
+			TH, as Roscosmos, would withdraw participation from the International Space Station
+				The International Space Station (ISS) is a multinational cooperative project involving the United States, Russia, Canada, Europe, and Japan. The construction of the ISS began in 1998, and it has been continuously inhabited since November 2000.
+				Roscosmos, Russia's space agency, has played a key role in starting the station. Examples of their contributions are: the Zarya module, the first module launched by the ISS that provided electrical power, storage, and guidance to the ISS during the initial stages of construction; the Zvezda service module, which serves as a key control center, living quarters, and life support system on board; and Russian research and laboratory modules.
+				In July 2022, Roscomos' head, Yury Borisov, announced intent to withdraw from the ISS after 2024 to build their own Russian station. No formalized request has been sent to NASA.
+			THBT that Taiwan Semiconductor Manufacturing Company (TSMC) should aggressively aim for global expansion
+				The Taiwan Semiconductor Manufacturing Company (TSMC) is a Taiwanese private company that produces 80-90% of the world's most advanced semiconductor chips and currently supplies to major companies like Apple, Nvidia etc. While the central govt of Taiwan is its largest shareholder, the company is majority owned by multiple foreign investors. Since the late 2020s, TSMC has gradually opened chip factories in the US and Japan - although majority of the chip manufacturing continues to reside within Taiwan.
 		R7
+			TBA...
 		R8
+			TBA...
 	Malaysia UADC 2022
 		R1
 			THBT developing countries should implement the Digital Nomad Tax-Free Plan
