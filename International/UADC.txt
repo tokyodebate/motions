@@ -76,8 +76,13 @@ United Asia Debating Championship
 				Shortly after the opening of the Dam, the Taliban rose to power in Afghanistan. There was a recent exchange of gunfire in the border region, which further escalated the tension between the Taliban and Iran.
 			THBT the decision to normalize the relationship with Bashar al-Assad is in the interest of the Arab League
 				Ever since the start of the civil war in 2011, the authoritarian president of Syria, Bashar al-Assad, was isolated from Arab League. Recently, however, Assad attended the 32nd summit of the Arab League held in Saudi Arabia, where leaders of Middle East nations envisioned addressing the crises occurring in the region.
-		EFL GF
-			TBA...
+		EFL Final
+			THP a world where the dominant state ideology promotes Confucianism
+				Confuscianism refers to philosophical schools of thought that is mostly found in East Asian societies. It prioritizes humanistic values rather than metaphysical and spiritual values. It strongly emphasizes filial piety, respect for authority, and communitarian norms. While Confucianism presumes that individuals should refrain from deviating from social harmony, it also posits that the authorities should be assigned special societal responsibilities.
+			THR the demonization of Communism in the domestic political discourse of East Asian countries (e.g. Red Scare in Japan, Red Complex in South Korea, etc.)
+			Assuming that this prediction is true, THS the Western philanthropic foundations' recent diversion of funding from supporting grass-roots civil societies to pro-democracy movements in China
+				"Recently, several Western philanthropic foundations (e.g. National Endowment for Democracy, Open Society Foundation, etc.) experienced a series of restructuring of decision-making executives. After the restructuring, it was noticed that these foundations have been decreasing their funding for grass-roots civil organizations in East Asia (e.g. disability welfare institutions in South Korea).
+				Based on the political background of new executives, there is a prediction that these foundations are aggressively diverting their funding in East Asia exclusively for the pro-democracy and human rights movements in China. Although the diversion has not been explicitly confirmed, these foundations have been actively reaching out to activists and organizations that are radically critical of the Chinese government."
 		Open DO
 			TH, as the LGBTQ+ community in the developing world, would prioritize grassroots community building over seeking broad national and legislative changes
 			THBT the queer movements should stray away from emphasizing intra-community struggles towards fostering relateability outside the community (e.g. the message of "No One is Fully Straight")
@@ -104,7 +109,11 @@ United Asia Debating Championship
 				The Move Forward Party, led by Pita Limjaroenrat, is a social democratic and progressive political party that won the general elections held last May 14 in Thailand. Their campaign centers on promoting democracy in the country, dismantling monopolies, and promoting same-sex marriage, among others.
 				One of their main, and most controversial, push is the reformation of article 112, otherwise known as the ‘lese majesty’ law which makes it illegal to insult the monarch of Thailand. Despite winning the most votes this election, and forming a coalition with Pheu Thai, an opposition party affiliated with the former Prime Minister that garnered the second most seats in the election, and other parties, Move Forward is still short of the 376 votes needed from the 750-member bicameral legislature to vote in Pita as prime minister to form a government.
 		Open GF
-			TBA...
+			Assuming that God exists, THP a world where human beings were created without epistemic distance from God
+				Humans being created "epistemically distant" refers to the idea that humans were born in a world that was religiously ambigous with no conclusive evidence for or against God's existence. Because people were created with no knolwedge of God's existence they are given the choice on whether or not to find and believe in God.
+			Under the veil of ignorance, TH, as an individual, would choose to be born in a religious community with strong communal values as opposed to secular society
+			TH, as major religions, would preach that current global tragedies (e.g. climate change, war, etc.) are signs that we are currently in vicinity of the End Times
+				The End Times are defined as the days leading up to the Day of Judgement where god decides the fate of all human beings based on their deeds committed on earth. It is the time prophesized as the end of the world, wherein god inflicts his wrath on earth (e.g. the sun stops emitting heat, the sky turns black, catalyzing mass destruction that ultimately ends humanity).
 	Malaysia UADC 2022
 		R1
 			THBT developing countries should implement the Digital Nomad Tax-Free Plan
