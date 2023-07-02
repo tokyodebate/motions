@@ -1,5 +1,5 @@
 UT MARA
-	MARA Pre-UADC 2023
+	UT MARA Pre-UADC 2023
 		R1
 			THS the integration of sunset clauses into the constitution of a constitutional democracy
 				A sunset clause is a provision within a piece of legislation that sets an expiry date for a law. Unless further action is taken to extend the clause, the law will cease to have effect.
@@ -56,3 +56,74 @@ UT MARA
 			TH, as a parent belonging to a minority religion, would discourage their children from expressing their faith publicly
 			THR the rise of therapy culture
 				For the purposes of this debate, therapy culture refers to the societal emphasis and prioritization of opting into therapy as a form of self-care as opposed to other alternatives to self-care
+	UT MARA Novice 2023
+		R1
+			THW impose a cap on university endowments, in favor of directing the money towards grants given to individual professors/researchers
+			THW not allow colleges to award sports scholarships to students
+			THW make entrance to university based on a lottery after passing a basic high school exam
+		R2
+			TH, as the BLM, would advocate for prison reform over prison abolition
+			THW actively use precogs in the criminal justice system
+				Precogs are individuals who have the ability to predict a future and see potential crimes. However, the future seen may always have a 1/3 chance of not occuring
+			In areas with high crime rates, THW relax enforcement of privacy rights (allowing phone tapping, government surveillance, etc.)
+		R3
+			THR the recent dominance of transgenerational trauma in films and media depicting immigrant families and families of colour (i.e., Encanto, Turning Red, Everything Everywhere All At Once)
+			TH, as Oscar Wilde, Regrets publishing The Picture of Dorian Gray
+				The Picture of Dorian Gray was a novel published by Oscar Wilde in 1890, who was one of the most popular Irish playwrights in the 1890s, as well as a closeted homosexual. The novel includes themes of homosexuality and the implicit legitimisation of male prostitution, which caused wide scale controversy upon its publication. In 1895. Wilde was prosecuted on charges of sodomy, and passages from the novel were recited in court as proof of his immorality. Dorian Gray was Wilde's only novel, and his
+			TH, as a resident of the Seam, W volunteer for the Games
+				In the fictional country of Panem, the Hunger Games are a yearly, televised event, wherein a boy and a girl are randomly chosen from each of its 12 Districts to fight to the death. It is possible to volunteer in place of a randomly selected tribute. The winning tribute and their family receives food, fame and riches for the rest of their lives. There is a vast wealth inequality between the districts. Tributes from wealthy districts can afford to train for years prior to their games, while food shortages are common in poorer districts.
+				The Seam is the poorest region in District 12, Panem's poorest
+		R4
+			THBT developed countries should pay developing countries to preserve their forests
+			THW impose a sin tax on the consumption of meat
+				A sin tax is an tax on specific goods and services due to their ability, or perception, to be harmful or costly to society. The tax comes at the time of purchase. Some items that often have a sin tax include tobacco products, alcohol, and gambling.
+			THBT developed countries that were historically pollutive have a moral obligation to give up part of their land to nations that will sink due to climate change (e.g. the Seychelles and the Maldives)
+		R5
+			THR the trend of social media becoming a primary news source
+			THBT employers should be influenced by information on social networking sites when hiring and firing
+			THBT the media should be required to cap political advertising by candidates and parties during elections
+		POF
+			THS imposing a salary cap for e-sports teams
+				A salary cap is a limitation on the amount of money that a team can spend on players' salaries.
+			THR the shift towards the shift to the Code of Points in artistic sports (eg. figure skating, rhythmic & artistic gymnastics)
+				Over the past decade, figure skating and gymnastics have adopted the Code of Points system that assigns values to individual elements based on their difficulty. This replaced the previous scoring systems (from 2006 onwards) which awarded scores to routines holistically considering the technical merit of the routine and its artistic elements based on composition, originality, style, and expression.
+			THR the prevailing narrative of perseverance in sports (e.g. working hard, trusting the process, team loyalty)
+		OF
+			THP a benevolent dictatorship over a weak democracy
+			THW break up persistently dominant political parties in emerging/developing democracies
+			THBT vote spoiling is a legitimate political decision
+		QF
+			THW hold public figures accountable for reccomending failed financial ventures (Shaq & FTX)
+			THBT megacities should be run by multinational corporations
+				Megacities are typically cities with more than 10 million inhabitants, such as Tokyo and Lagos
+			THR the Fed's excessive use of interest rate to curb inflation
+		SF
+			TH, as South Korea, R the normalisation of relations with Japan
+			TH, as Taiwan, W actively distance themselves from the Quad
+				The Quad are a security alliance consisting of Australia, India, Japan and the United States. They first convened in 2017 with further meetings in the coming years and have regularly engaged in joint-military exercises, especially in the South China Sea. More countries have been looking to ally themselves and partner with the Quad, namely New Zealand and South Korea.
+				
+				China has actively condemned the actions of the Quad, citing it to be "NATO imperialist" and has responded with military exercises of their own.
+			THBT Ukraine should seek the help of private military contractors in their war with Russia
+		GF
+			TH, as a average person, W prefer to be Isekai'ed
+				An Isekai is a genre of anime where the main character (MC) is sent to a fantasy world to live out the rest of their lives, likely with no means of returning. The rules of these worlds vary immensely (some have magic, some are just 1400's Europe) and the MC will not know where they'll end up. The MC will face normal hardships throughout their new life and will have no forms of "plot armor". 
+				
+				Being Isekai'ed is a colloquial term which refers to "to be sent to a fantasy world".
+			THP to live by the phrase "ruthlessness is mercy upon ourselves" than "greet the world with open arms"
+			THP to live in a world where individuals don’t have the capacity to feel extreme emotions
+	MARA Pre-WUDC 2022
+		R1
+			THBT political displays at major international sporting events do more harm than good
+		R2
+			THO the idealisation of compromise in political discourse
+		R3
+			THBT social movements should focus on legislative rather than societal change
+		R4
+			THW prohibit provincial and local governments from offering tax credits and other incentives to attract large companies to open business in their region
+		SF
+			THP a world where there is one dominant interpretation/denomination of major religions, rather that separated and differentiated sets of doctrines and beliefs in the same major religion
+		GF
+			THP a world where individuals live in recognition of their moral flaws as opposed to a convenient morality.
+				Convenient morality refers to rationalizing your actions and justifying decisions to retroactively fit into your code of beliefs, i.e., an individual adapting their beliefs and morals to the actions as opposed to accepting that certain actions transgress your chosen set of morals.
+		Rookie GF
+			As a parent from a minority community, THW teach their children to pursue a mediocre but satisfactorily happy life over a life which involves a constant pursuit of excellence and the extraordinary
