@@ -1,0 +1,44 @@
+Intertext
+	Intertext Pre-UADC 2022
+		R1
+			TH, as a youth activist, would prioritize working in civil society as opposed to within the government
+			THW rank all charities based on their effectiveness and give tax breaks accordingly
+			THW aggressively divert development aid from international organizations to local NGOs
+		R2
+			THW abandon the narrative that the consequences of climate change are apocalyptic in nature
+			TH, as the environmental movement, supports pursuing criminalizing climate change denial
+			THBT environmental movements should frame the harms of climate change as primarily affecting the economy
+		R3
+			Assuming feasibility, THBT the state should fund the creation of, and access to, realistic androids that simulate romantic relationships
+			THR the premium placed on unconditional love
+			TH, as feminists, support the trend of normalizing open relationships
+		R4
+			THR the "move fast, break things" philosophy of the tech sector
+				"Move fast, break things" refers to the philosophy that making mistakes is a natural consequence of innovation in a highly competitive and complex environment.
+			THS the use of gamification in the workplace
+				Gamification refers to the application of typical elements of game playing (e.g. point scoring, leadership boards for certain skills, game based learning) to other areas of activity to encourage engagement.
+			THW allow workers in managerial positions to unionize
+		R5
+			THBT feminist movements in the developing world should campaign to reject masculinity rather than hijack masculinity to serve feminist goals
+				Attempting to reject masculinity refers to refusing to participate in masculine gender roles. On the other hand, hijacking masculinity refers to the attempt to using masculine gender roles to serve women's interests.
+			TH, as a prominent female leader offered a position in a "Glass Cliff" situation, would choose to accept the position
+				Glass Cliff refers to a phenomenon wherein women tend to be promoted to positions of power during times of crisis or downturn when the chance of failure is more likely.
+				
+				Examples of this include Marissa Meyer for Yahoo, Ellen Pao for Reddit, and Theresa May when she was elected as Prime Minister of the UK.
+			TH, as a working mother of multiple children in an Asian country, would prioritize their resources for their most talented children as opposed to distributing resources equally
+		QF
+			THR the "quantitative turn" in the social sciences
+				A quantitative turn refers to a trend in the social sciences of using quantitative research methods which emphasize objective assessments of data. This is in contrast to the once-predominant qualitative research which relies heavily on subjective experiences of individuals.
+			THP the holistic education model to systems of student choice
+				In the holistic education model, students are required to take courses from across a range of disciplines (STEM, business, humanities and social sciences etc); whereas in systems of student choice, students choose a subject area to focus on and take courses to specialise in this area.
+			THW allocate research funds to public universities purely on state-determined utility factors
+		SF, EFL GF
+			TH, as Japan, supports a shift in Biden's foreign policy away from 'strategic ambiguity' regarding Taiwan
+				Ever since the Third Taiwan Strait Crisis in 1995-1996, Japan has had taken different stances in regards to the crises surrounding Taiwan. In the past, Japan was more dormant in aligning themselves with like-minded crisis and also in criticizing China. As of recently, Japan is considering to take a bolder stance related to the crisis and its potential impacts on the island nation.
+			THBT it is in NATO's interest to reject Finland's and Sweden's applications to become member-states
+			THBT Southeast Asian nations should actively move towards the consolidation of a regional alliance at the expense of seeking stronger ties with non-regional allies (e.g. by forming closer intra-ASEAN defence ties, increasing ASEAN economic integration etc)
+		GF
+			THO the narrative that individuals should "see the best in others"
+			THO the demonization of nihilism in society
+			THW use the machine
+				You are an individual who has discovered a machine which allows individuals to access memories and skills from all their different multiversal selves. When an individual accesses memories and skills from all their alternate universe selves, they have access to all their alternative selves' memories and can view different ways their lives would have unfolded if they made different decisions. The more an individual uses the machine, the more overwhelmed the mental space of that individual would be in juggling different personas.
