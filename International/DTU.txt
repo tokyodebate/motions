@@ -1,0 +1,66 @@
+DTU (Delhi Technological University)
+	DTU Summers Pre-UADC 2023
+		R1
+			THBT the rise of productivity media i.e. self-help book, motivational videos, efficiency hacks etc. does more harm than good
+			THO the demonisation of selfishness
+			THR the narrative that we should derive meaning from work
+		R2
+			THBT the World Bank Group should adopt a one-country-one-vote system
+				Each member of the World Bank Group receives votes consisting of share votes (one vote for each share of the Bank's capital stock held by the member) plus basic votes. E.g - US currently yields 16.71% of total votes, Japan currently yields 7.62% of total votes
+			THBT that developing economies should prioritize transitioning into service heavy economies (developing sectors such as IT, warehousing, shipping etc.) as opposed to specializing in agriculture or manufacturing
+			THBT developing countries should adopt economic development policies that heavily disincentivise urbanisation
+		R3
+			TH (as a wealthy parent from a minority community) W opt for unschooling
+				Unschooling is an alternative approach to education that emphasizes self -directed learning & the belief that children learn best through real - life experiences & interests rather than traditional schooling. It is a form of homeschooling that allows children to explore their interests and passions at their own pace, rather than following a structured curriculum. Unschooling parents typically do not assign homework or grades, & they may not follow a set schedule or timetable for learning. Instead, they encourage their children to pursue their own interests & passions, & provide support & resources as needed.
+			THW require liberal arts universities to hire an equal proportion of professors representing various ends of the political spectrum* (left/right, liberal/conservative)
+				In an academic setting, political leanings can be assessed by the research papers/ articles published and greater academic involvement in confereneces, lectures etc.
+			THS the adoption of Promise programs
+				Promise programs allow students to attend an alternative school to avoid being charged with a misdemeanor for a non-violent offense. It allows students to enter the program in lieu of arrest and/or an out -of -school suspension. Students have the option to enroll in a set of schools that have chosen to opt into this program.
+		R4
+			THBT Ukraine should forgo recapturing Bakhmut from Russian forces and instead reallocate resources on launching the counter offensive
+				Bakhmut is Ukranian town in the Donbass region which has been a key point of interest for Russian forces. Previously heavily populated, the town has largely been evacuated after months of protracted conflict. Currently, the town is occupied by Russian forces. Ukraine's attempts at recapturing lost territory have been unsuccessful and they have instead focused efforts on fortifying the surrounding areas and launching a counter-offensive against Russia. Ukraine has yet to give up on losing Bakhmut
+			THBT China should aggressively position itself to broker peace in Sudan
+				1) Since April 2023, Sudan has been experiencing an armed conflict between two rival factions of the military government - the paramilitary Rapid Support Forces (RSF) and generals of the Sudanese army.
+				2) Previously, various regional actors such as Ethiopia, Turkey, Saudi Arabia etc. and the US have attempted to broker peace between both parties.
+				3) Traditionally, China has had a non-interference policy when dealing with civil strifes in strategic regions.
+			THS the rise of minilateral political arrangements
+				Minilateralism is forming arrangements that occupy the space between bilateral arrangements and the broader global multilateral arrangements (WTO, IMF, etc)
+		R5
+			THBT the feminist movement should actively resist the concept of marriage
+			THR the notion of "sisterhood" in feminism
+				The notion of sisterhood refers to a considerable degree of solidarity and loyalty that women have towards other women especially when it concerns challenging the patriarchy
+			THW legalize surrogacy
+		OF
+			THBT the Indian National Congress should seek to aggressively mobilize against historical revisionism at the expense of mobilizing for contemporary issues (Inflation, Covid, etc)
+				Historical revisionism refers to any reinterpretation of recorded history. E.g - Veer Savarkar's contribution to the freedom struggle and BJP's attempt to push him as a nationalist, removal of Mughal history from textbooks, remembrance of the martial law period as the "golden era" of the Philippines by attributing it to Marcos Sr.’s public programs and infra development, etc.
+			In countries with a history of ethnic violence, THBT ethnic minorities should campaign for economic reparations (e.g. direct payments, community investment, reappropriation of industry) over political reparations (e.g. additional vote-weighting, quotas in parliament, granting of autonomous control over land)
+			Assuming empathy could be accurately measured, THW restrict voting to individuals with a high level of empathy for those outside of their immediate circle
+		QF, Rookie QF
+			THR the rising trend of startups opting for Initial Coin Offerings (ICOs) as a primary source of funding
+				An initial coin offering (ICO) is a type of funding using cryptocurrencies where investors are offered units of crypto in exchange for funding.
+			THBT that all tech startups that became "unicorns" should be publicly traded
+				A unicorn is a term used in the venture capital industry to describe a privately held startup company with a value of over $1 billion. Examples of this include Gojek and SpaceX.
+			THR the rise in political consumerism
+				Political consumerism refers to people making choices about what to consume based on the politics of the company in question (e.g. boycotting Chick-Fil-A for its stance against abortion, not buying from Ben&Jerry because they advocated for gay marriage).
+		SF
+			THBT the GERD will do more harm than good
+				The Grand Ethiopian Renaissance Dam (GERD) is a gravity dam on the Blue Nile l River in Ethiopia under construction since 2011. The l primary purpose of the dam is electricity production to relieve Ethiopia’s acute energy shortage and for electricity export to neighboring countries.
+				However, the GERD is upstream of Egypt and has the potential to control the flow of water that the country almost entirely relies on - leading to potential droughts and unemployment. Egypt has also previously threatened armed conflict over the construction of the GERD.
+			THBT it is in the Biden Administration's interests to aggressively reset relations with China
+				Over the past few weeks, the US has attempted to engage on a range of military and commercial fields with China. This includes senior US secretaries announcing visits to China to discuss trade and tech, plans to meet senior Chinese defense personnel and diplomatic talks between the two countries in Vienna last month.
+			THBT the Pakistan Ruling Coalition should call for an early election
+				The Pakistan Tehreek-e-Insaf (PTI) led by Imran Khan has aggressively rallied and tried to build pressure for early elections since the past year. Imran Khan was recently arrested by the military on corruption charges leading to widespread rioting among his voter base. This was followed up by a heavy crackdown on PTI leaders by the ruling Pakistani Muslim League (PML-N) led by Shehbaz Sharif.
+				Meanwhile, the PML-N has made a simultaneous amendment to allow for appeals to take place against apex court (SC) rulings. This could potentially pave way for former prime minister Nawaz Sharif to appeal his lifelong ban on contesting elections handed down by the apex court in 2018. General elections are currently scheduled for October-November 2023.
+		Rookie SF
+			THW require university students from developing countries who obtained education in the West to work in their country of origin for a number of years after graduation
+				Bonded scholarship programmes in places like Singapore and Malaysia facilitate the ability of students to study abroad at elite universities. These programs are paid for by the state in return for the student being 'bonded' to work for the state for a given period of time (3, 5, 10 years). Students may be bonded to specific epartments or just bonded in general. It is possible for students to occasionally default on their bond and pay back the cost of education at a large premium.
+			THW legalise vigilantism in high crime areas
+				Vigilantism is the private enforcement of state laws. The legalisation of vigilantism would allow proportionate responses to crime by individuals and communities. For example, reasonable incapacitation to make a citizen's arrest (and taking them to a local police station); surrounding the home of a violent offender to enforce a house arrest; etc. Disproportionate responses (e.g. killing a drug dealer, not in self-defence) would not be encompassed under this policy.
+			THBT governments should aggressively prioritise encouraging commuters to use public transport (e.g. through infrastructural improvements, tax incentives) over subsidising the uptake of electric cars
+		GF, Rookie GF
+			THW activate this magical machine
+				You possess a magical machine that can bring everyone to a stimulation world where the harmful effect of climate change is reaching its peak. People in this simulation will feel the same thing (joy, physical pain, etc) as they do in the real world. Everyone in this world experiences the effects of climate change the same way a median person in the world would. The stimulation can only run for one day. But people in the stimulation would feel 10 years has passed. Assuming everything else in this stimulation world is the same, and the magical machine can only be activated once.
+			TH, as a 25-year old, would choose to use of technology PQR
+				PQR is a technology that, upon use, allows a person to experience guaranteed happiness for the next 5 years in exchange for a 20 year reduction in their overall lifespan.
+			THBT the widespread use of technology Fort Minor would bring more harm than good
+				Fort Minor is a technology that tells you what percentage of the outcomes in your life can be attributed to luck and what percentage due to your effort.
