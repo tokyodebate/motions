@@ -2,30 +2,30 @@ Nemophila Cup
 	Nemophila Cup 2023 お花部門
 		R1
 			THO radical action being taken by environmental activists (e.g., blocking roads, vandalism, blowing up pipelines)
-				$stats 3, 4
+				Balance $stats 3, 4
 		R2
 			THR the promotion of "cut-off" culture
 				Cut-off is a term that describes an act of ending one's relationship or friendship with someone without the will to interact or have any communication in the future. This act is most commonly done at, or after the point of conflict/ tension within a relationship.
-				$stats 3, 4
+				Balance $stats 3, 4
 		R3
 			Assuming the technology exists, THW allow schools to require their students to undergo calliagnosia
 				Calliagnosia is a reversible medical procedure that eliminates a person’s ability to perceive physical beauty. For example, people can tell the difference between a straight nose and a crooked one, clear skin and blemished skin, but simply don’t experience any aesthetic reaction to these differences. (Ted Chiang - Liking What You See: A Documentary)
-				$stats 5, 2
+				Balance $stats 5, 2
 		SF
 			THW ban spoilers
 				Spoilers: a description of an important plot development in a television show, film, or book which if previously known may reduce surprise or suspense for a first-time viewer or reader.
-				$stats 2, 1
+				Balance $stats 2, 1
 		GF
 			THBT Doctor L should press the button
 				After years of experimentation and research , Doctor L has invented a button that will give all pets the ability to speak. (Pushing the button will NOT give pets human levels of cognition, but only the ability to speak.)
-				$stats 1, 0
+				Balance $stats 1, 0
 	Nemophila Cup 2023 つぼみ部門
 		R1
 			THW prohibit anonymous writing on the Internet
-				$stats 7, 2
+				Balance $stats 7, 2
 		R2
 			THW ban all zoos
-				$stats 4, 5
+				Balance $stats 4, 5
 		R3
 			THBT parents should actively teach children that money leads to happiness
-				$stats 4, 5
+				Balance $stats 4, 5
