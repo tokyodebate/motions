@@ -1,29 +1,114 @@
 Australasian Intervarsity Debating Championships
+	Campbelltown Australs 2022
+		R1
+			That all scientific journals should move to a registered reports model of publication
+				The registered reports model has researchers submit detailed protocols for peer review before any experiments are conducted. The methods, hypothesis and background are peer reviewed prior to data collection. If the article is accepted, the journal guarantees the publication of the article irrespective of the significance of the results.
+			That all grant and scholarship funders should substantially outsource selection to third parties
+			That labour unions in the tertiary education sector should deprioritise strikes in favour of administration bans (i.e. continuing to teach but refusing to grade papers, oversee exams, answer emails, etc.)
+		R2
+			That the feminist movement should support the portrayal of women as the source of fear in films (ex. Miranda Priestly in the Devil Wears Prada, Carrie in Carrie, Dolores Umbridge in Harry Potter)
+			That it is better to have loved and lost than to never have loved at all
+			That we prefer a world where co-parenting is primarily non-romantic (ie. conducted by consenting partners who have no romantic or sexual relationship, eg. friends)
+		R3
+			That we regret the recent subsidisation of fossil fuels in Latin America to combat inflation
+				In 2022, countries in Latin America have engaged in significant subsidies of fossil fuels in response to inflation. For example, substantial subsidies have been implemented in Ecuador (worth 0.8% of GDP) and Mexico (worth 1% of GDP) and Peru has cut taxes on fuel (equal to around 0.9% of GDP).
+			That Latin American countries should form an economic and political bloc
+			That, as a developing country with a significant share of global rare earth minerals, we would adopt downstreaming
+				Downstreaming is where a country bans the export of raw materials to force global firms to invest and build factories within the country.
+		R4
+			That it is in the electoral interests of the national Republican Party to strongly oppose Donald Trump's primaries campaign
+			That, as the Australian Labor Party, we should aggressively compete with China to fund infrastructure in the Solomon Islands
+			That, as South Korea, we would pursue a close economic and diplomatic tie with Japan
+		R5
+			That we support the widespread use of Soulbound Tokens
+				Soulbound Tokens (SBTs) are digital identity tokens that represent the traits (eg, good communicator, dishonest), features, and achievements (eg, university degree) that make up a person or entity. SBTs are issued by "Souls," which represent blockchain accounts or wallets, and cannot be transferred.
+			That we support the advent of decentralised financial systems
+			That the US should attempt to aggressively contain China's capacity to build AI systems (e.g. by limiting China's ability to skill and retain computer scientists, attract US capital into Chinese AI companies, or access parts needed to build AI systems where the US has significant market share, such as semiconductors)
+		R6
+			That, as the captain, we would wear "One Love"
+				You are the captain of the Wales national team of football. Previously, you had publicly announced that you will be wearing the "One Love" armband in the World Cup against its rules, which exhibits support for the LGBTQ+ movement, in unity with 7 other nations in Europe. However, after FIFA's announcement that such an act may cause the player to be booked or sent off, all teams have reversed their previous decision. You will play your second game of the Group Stage in a couple of hours.
+			That, where a player of the national team is originally from a different country, nations should be required to pay compensation to their nation of origin
+			That we support all international sporting events (e.g. FIFA World Cup, the Olympics) having a permanent host nation
+		R7
+			That we regret Manne's Program in Economics for Federal Judges
+				Manne's Program in Economics for Federal Judges was a program offering economics instruction to federal judges so that they could incorporate economic reasoning into their judgements. This looks like understanding cost-benefit analyses in understanding incentives for committing crime and Coase's Theorem for the allocation of property rights. It was a 2-3 week course and often included lectures from world famous economists like Milton Friedman. Both conservative and liberal judges attended this program with notable attendees being Ruth Bader Ginsburg and Clarence Thomas.
+			That, as a foreign judge on the CFA, we would resign
+				The Hong Kong Court of Final Appeal (CFA) exercises ultimate judicial power over Hong Kong. However, the Chinese Government has previously, on rare occasion, overturned the CFA’s rulings.
+				The CFA appoints a number of top foreign judges from other common law jurisdictions (e.g. UK, Australia) to adjudicate cases alongside Hong Kong’s domestic judges. The foreign judges have historically exercised a large amount of influence over the development of Hong Kong Law.
+				Three foreign judges have recently resigned in response to China’s National Security Law. The majority of foreign judges remain.
+			That we support the widespread use of citizens assemblies in determining law reform in controversial policy areas (e.g., environment, criminal justice)
+				A citizens' assembly is a body consisting of randomly-selected citizens who conduct participatory deliberation on a given political issue. Citizens' assemblies are provided with specialist advice and are overseen to ensure they remain independent. In 2019 and 2020, France conducted a citizens' assembly, termed the Citizens' Convention for Climate, where 150 randomly-selected, demographically-representative citizens were tasked with crafting climate policy, which Emanuel Macron largely committed to implement.
+		R8
+			That the media should disseminate the idea of a "pandemic amnesty"
+				A "pandemic amnesty" is a call to move on from the debates that occurred during the pandemic and to no longer place blame for policies implemented (eg, school closures, vaccine rollouts).
+			That we, as a centre-left party in a liberal democracy, would explicitly seek electoral gains among less-educated voters
+				Since roughly the 1960s, there has been a gradual shift in the average education level of voter demographics for different political parties in democracies across the world. In the mid-twentieth century, the richest and most educated voters typically voted conservative while poorer, less educated voters tended to vote for social democratic/labour parties. While it is still true that the richest voters vote conservative and poorer voters vote progressive, more highly educated voters now tend to be more left-wing. One explanation for this trend is that rates of education attainment have gone up, meaning that education is no longer closely associated with elite voters. This trend has seen relatively less-educated voters vote in increased numbers for right-wing populists like Donald Trump.
+			That Western operated technology and social media companies (e.g. Facebook, Apple, Twitter) should not give into requests by non-democratic actors to block certain apps or users
+		ESL SF, Pre QF
+			That we prefer the three cities approach to the CBD approach
+				There are two general approaches to urban planning with respect to peripheral areas of large cities (e.g. Campbelltown ❤). The 'three cities' approach involves developing peripheral areas to be their own, separate hubs, with most people within the area working there. The 'CBD' approach involves investing in greater connectivity between peripheral areas and the true city centre.
+			That states should only use public housing when conducting social housing policy
+				There are two main types of social housing policies. Public housing involves the government directly owning and managing affordable housing. Community housing involves the subsidised provision of housing via non-government organisations, such as companies and community groups.
+			That developed countries should pursue a policy of degrowth
+				Degrowth involves a planned decrease in the size of economic production and consumption occurring within a given economy (often measured via GDP). It could involve the prioritisation of less emissions intense industries, heavy taxes or limits on emissions, shorter work weeks, and voluntary reductions in consumer spending.
+		QF
+			That we support the CBAM
+				The European Union has recently voted to establish the Carbon Border Adjustment Mechanism, which will place a levy on carbon-intense goods being imported from outside of the EU. It applies to the importation of various goods (e.g. cement, iron and steel, fertilisers, plastics, electricity) and will assess both the direct and indirect emissions embedded in the production process of the goods.
+			That governments should adopt competitive neutrality in the energy sector
+				Competitive neutrality is an economic policy which ensures state owned enterprises and infrastructure must compete on an equal regulatory level with private businesses. Australia implemented competitive neutrality in many sectors throughout the 1990s, including the energy sector, which accompanied significant privatisation of state owned energy assets.
+			That the environmentalist movement should include a just transition away from the animal agriculture industry in its messaging
+				"Just transition" rhetoric refers to economic transitions away from emissions-intense industries that attempt to account for social justice, for example by providing guaranteed jobs for workers who lose their jobs due to decarbonisation. Currently, a just transition is conceived as a transition away from fossil fuels extraction and combustion.
+		SF
+			That, as the Houthi rebels, we would reject any negotiations with the Presidential Leadership Council
+				The Presidential Leadership Council is the executive body of Yemen's internationally-recognized government, formed in Riyadh, Saudi Arabia, by a presidential decree on 7 April 2022, to seek a "comprehensive political solution" to the Yemeni civil war. It is headed by Rashad Muhammad Al-Alimi and has a membership of eight members after having Abdrabbuh Mansur Hadi’s resignation.
+			That Western states should support local rebel groups (e.g. by funding them and giving them intel) as opposed to direct military intervention in other states
+			That the IMF's bail-out of Sri Lanka should be contingent on political reform
+		EFL GF
+			That we would prefer a world where all people believe in Afterlife A to Afterlife B
+				'Afterlife A': After a life well lived, the 'ethereal soul' is separated from the 'physical body' and joins an eternal, blissful community of souls and 'God' (no physical body) 
+				'Afterlife B': After a life well lived the 'ethereal soul' is separated from the 'physical body' and leads a second life with rewards from the previous life carrying into the next
+			That it is in the interests of the Catholic church for an 'extrovert' pope to succeed Pope Francis
+				Introvert' Catholics believe that the Church should remain discrete from the modern, secular world, keeping as close to tradition as possible, and being actively-countercultural. 'Extrovert' Catholics see the Church as responding to the needs of the world, and are more tolerant of making doctrinal change to align with changing social values. Pope Francis is very much an 'extrovert'.
+			That secular democracies with substantial religious communities should allow a separate legal system for those communities (e.g. Syariah Law, Canon Law)
+		ESL GF
+			That we would allow doctors to override advance care directives
+				An Advance Care Directive (ACD) is a legal document in which a person of sound mind specifies what actions should be taken for their health if they are no longer able to make decisions for themselves (because of illness or incapacity). Doctors are legally required to uphold the instructions of an ACD, irrespective of their professional medical opinions.
+			That western liberal democracies should allow the experimentation and creation of animal-human hybrids
+				Japan has lifted a ban on the creation of animal-human hybrids by allowing scientists to conduct stem-cell experiments to grow human organs inside animals. China has also been experimenting with the transplant of human brain cells into animal subjects to achieve advanced cognition.
+			That we believe people are more moral today than in the past
+		GF
+			That we regret the prevalence of malevolent AI in popular culture (eg-Skynet in Terminator, Ultron in the Avengers, etc)
+			That we support the Campbelltown value system
+				Traditionally in Japan, virtuous losses tend to gain significantly more popular support than victories. This value system manifests in various contexts including sports, popular culture, education, the veneration of historical figures, and… just about anywhere else. We decided to call this the Campbelltown value system.
+			Assuming the technology exists, that it is immoral to create simulated high-fidelity alternate universes
+				"In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move."
+				- Hitchhiker's Guide to the Galaxy
+
 	Nepal Australs 2021
 		R1
-			A: That we support this trend in progressive discourse. (Progressive Discourse)
+			That we support this trend in progressive discourse. (Progressive Discourse)
 				In progressive discourse, there is a trend to defend behaviours and norms on the grounds that all of the participants have consented (for example, in defences of the production and consumption of pornography).
-			B: That we regret the trend of describing regressive views or speech as violent. (Violent Views)
-			C: That, as a new media company, we would choose to have a cohesive voice without consistent attribution of any particular writers (for example, the Economist) rather than individuals writers having their own independent, recognisable voices (for example, the Atlantic) (Writer Attribution)
+			That we regret the trend of describing regressive views or speech as violent. (Violent Views)
+			That, as a new media company, we would choose to have a cohesive voice without consistent attribution of any particular writers (for example, the Economist) rather than individuals writers having their own independent, recognisable voices (for example, the Atlantic) (Writer Attribution)
 		R2
-			A: That we, as the judge, would rule the crack down legal. (Legal Crackdown)
+			That we, as the judge, would rule the crack down legal. (Legal Crackdown)
 				You are a judge in a country with an established democracy, but which has experienced a weakening of its democratic institutions. The Parliament has passed an unconstitutional bill with popular support declaring martial law and repealing all statutory guarantees for elections. The legality of this has gone to court. You have the deciding vote in this case.
-			B: That, as New Zealand, we would refuse to extradite Mr Kim to China. (Kyung Yup Kim)
+			That, as New Zealand, we would refuse to extradite Mr Kim to China. (Kyung Yup Kim)
 				Kyung Yup Kim is a 46-year-old New Zealand permanent resident, having moved to New Zealand from Korea at the age of 16. There is strong forensic and circumstantial evidence linking Mr Kim to the recent murder in China of a Chinese woman, and he has been arrested and detained by the New Zealand police on the strength of that evidence. China has requested that New Zealand extradite Mr Kim to China, and has guaranteed that Mr Kim will not be executed should he be found guilty. China is also New Zealand's largest trade partner. However, China's courts and prison system have been often criticised as arbitrary and inhumane.
-			C: That we would allow a substantially lower minimum wage for prisoner labour. (Prisoner Labour)
+			That we would allow a substantially lower minimum wage for prisoner labour. (Prisoner Labour)
 		R3
-			A: That we prefer the separate model to the concurrent model of women's sports. (Women's Sports)
-				A: There are broadly two models of women's sport. The first is the separate model, where women's seasons run at a completely separate time to the men's seasons. Examples include the men's and women's Australian Football League and Big Bash League.
+			That we prefer the separate model to the concurrent model of women's sports. (Women's Sports)
+				There are broadly two models of women's sport. The first is the separate model, where women's seasons run at a completely separate time to the men's seasons. Examples include the men's and women's Australian Football League and Big Bash League.
 				The second model is the concurrent model, where all/the majority of women's and men's games happening one after the other at the same ground on the same day. Examples include the HockeyOne League in Australia.
-			B: That student sports should be completely de-professionalised. (Student Sports)
-				B: Deprofessionalising student sports may include barring all staff including coaches and associated administrators from receiving more than a living wage, pooling all revenue in the league to cover reasonable costs, and donating any profit to a range of non-sports charities.
-			C: That sports players should not be punished by sports leagues or clubs for private acts that are not illegal, but may be considered immoral by society (e.g. extra-marital affairs etc.) (Private Sports)
+			That student sports should be completely de-professionalised. (Student Sports)
+				Deprofessionalising student sports may include barring all staff including coaches and associated administrators from receiving more than a living wage, pooling all revenue in the league to cover reasonable costs, and donating any profit to a range of non-sports charities.
+			That sports players should not be punished by sports leagues or clubs for private acts that are not illegal, but may be considered immoral by society (e.g. extra-marital affairs etc.) (Private Sports)
 		R4
-			A: That NATO should vote to expel Turkey. (Expel Turkey)
-				A: Turkey is a member of NATO, the North Atlantic Treaty Organisation, a collective defence agreement. In recent years, Turkey has deepened its relationship with Russia, including purchasing missile systems from them, in addition to other acts which have created tensions between Turkey and some other NATO members.
-			B: That, if the final Noumea Accord referendum fails, New Caledonia should not conduct regular referenda on independence. (Caledonian Independence)
-				B: New Caledonia is a set of islands in the Pacific and is currently a part of France. The Noumea Accord is an agreement between France and New Caledonia which provides for up to three referendums on New Caledonian self-determination. The first in 2018 and the second in 2020 were both won by “loyalists” who voted to remain a part of France. The first two referendums showed 43.3 percent support for independence in 2018 and 46.7 percent support in 2020. A "third referendum" has been held, but it was heavily disrupted by Covid-19 and it is expected that a make up Noumea Accord referendum will be held once the pandemic has subsided. The pro-independence faction is pushing for regular referendums to be continued to be held regardless of the result of the make up referendum.
-			C: That it is in the best interests of the Chinese Communist Party (CCP) to quietly abandon its attempt to reunify with Taiwan. (Taiwan Reunification)
+			That NATO should vote to expel Turkey. (Expel Turkey)
+				Turkey is a member of NATO, the North Atlantic Treaty Organisation, a collective defence agreement. In recent years, Turkey has deepened its relationship with Russia, including purchasing missile systems from them, in addition to other acts which have created tensions between Turkey and some other NATO members.
+			That, if the final Noumea Accord referendum fails, New Caledonia should not conduct regular referenda on independence. (Caledonian Independence)
+				New Caledonia is a set of islands in the Pacific and is currently a part of France. The Noumea Accord is an agreement between France and New Caledonia which provides for up to three referendums on New Caledonian self-determination. The first in 2018 and the second in 2020 were both won by “loyalists” who voted to remain a part of France. The first two referendums showed 43.3 percent support for independence in 2018 and 46.7 percent support in 2020. A "third referendum" has been held, but it was heavily disrupted by Covid-19 and it is expected that a make up Noumea Accord referendum will be held once the pandemic has subsided. The pro-independence faction is pushing for regular referendums to be continued to be held regardless of the result of the make up referendum.
+			That it is in the best interests of the Chinese Communist Party (CCP) to quietly abandon its attempt to reunify with Taiwan. (Taiwan Reunification)
 		R5
 			A: That we prefer a world where god judges people on the purity of their intentions, rather than the consequences of their actions. (God's Judgment)
 				A: In both worlds, people are aware of god's method of judgment.

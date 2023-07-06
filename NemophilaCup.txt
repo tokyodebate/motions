@@ -2,6 +2,7 @@ Nemophila Cup
 	Nemophila Cup 2023 お花部門
 		R1
 			THO radical action being taken by environmental activists (e.g., blocking roads, vandalism, blowing up pipelines)
+			$motionstats NA 3 4
 		R2
 			THR the promotion of "cut-off" culture
 				Cut-off is a term that describes an act of ending one's relationship or friendship with someone without the will to interact or have any communication in the future. This act is most commonly done at, or after the point of conflict/ tension within a relationship.
