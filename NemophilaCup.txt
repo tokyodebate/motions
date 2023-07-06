@@ -22,7 +22,10 @@ Nemophila Cup
 	Nemophila Cup 2023 つぼみ部門
 		R1
 			THW prohibit anonymous writing on the Internet
+			$stats 7, 2
 		R2
 			THW ban all zoos
+			$stats 4, 5
 		R3
 			THBT parents should actively teach children that money leads to happiness
+			$stats 4, 5
