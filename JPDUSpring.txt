@@ -3,9 +3,15 @@ JPDU Spring Tournament
 		R1: They'd say I hustled, put in the work, they wouldn't shake their heads and question how much of this I deserve
 			THS the gamification in the workplace
 				Gamification in the workplace is the use of game techniques in a non-game context. Companies create internal competitions to engage employees and incorporate scores, levels, and prizes, as extra motivation.
+				Balance $stats 3, 0, 12
+				Veto $stats 1, 8, 24
 			THO the rise of the "Rent a Girlfriend" industry
 				In the "Rent a Girlfriend" industry, men are able to hire willing women to act as their girlfriends in return for an agreed upon amount of money. Depending on the agreement, the “girlfriend” may offer services to meet the client’s family and pretend to be in a serious relationship or to offer additional “physical services” to the client.
+				Balance $stats 1, 4, 12
+				Veto $stats 6, 2, 24
 			THBT labour unions should primarily pursue legislative change as a means of achieving workers' rights, instead of directly negotiating with companies
+				Balance $stats 2, 2, 12
+				Veto $stats 5, 2, 24
 		R2: Never take advice from someone who's falling apart
 			THO the proliferation of the narrative "What doesn't kill you makes you stronger"
 				The narrative of "What doesn't kill you makes you stronger" refers to the idea that by going through difficult experiences, people can build up their strength for the next, possibly more painful event that may occur.
