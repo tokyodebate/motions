@@ -9,9 +9,17 @@ World Universities Debating Championships
 				CO $stats 9, 19, 16, 20
 		R2
 			THP the quality of art being viewed as predominantly subjective as opposed to predominantly objective
+				OG $stats 18, 12, 24, 10
+				OO $stats 11, 21, 13, 19
+				CG $stats 19, 19, 12, 14
+				CO $stats 16, 12, 15, 21
 		R3
 			THBT The Pacific Alliance should introduce a common currency
 				The Pacific Alliance (Spanish: Alianza del Pacífico) is a Latin American trade bloc, formed by Chile, Colombia, Mexico and Peru.
+				OG $stats 9, 15, 23, 17
+				OO $stats 20, 22, 9, 13
+				CG $stats 15, 10, 23, 16
+				CO $stats 20, 17, 9, 18
 		R4
 			THBT governments, when determining housing policy, should heavily prioritise supporting renters over home owners
 		R5
