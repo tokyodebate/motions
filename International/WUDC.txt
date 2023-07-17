@@ -255,7 +255,7 @@ World Universities Debating Championships
 				OO $stats 0, 1
 				CG $stats 1, 0
 				CO $stats 0, 1
-	Korea WUDC (2021)
+	Korea WUDC 2021
 		R1
 			TH, as South Korea, would aim to significantly increase its cross-border economic cooperation with North Korea
 				OG $stats 17, 24, 33, 19
@@ -385,51 +385,138 @@ World Universities Debating Championships
 		Masters GF:
 			TH loves online debating and supports all competitive debating being held exclusively online indefinitely regardless of external factors (e.g pandemic)
 	Thailand WUDC (2020)
-		R1:
-			This House would impose a BBC-style impartiality requirement on all news platforms.
-				The BBC (British Broadcasting Corporation) is legally required to cover the news impartially. This means: 1. It cannot take sides on controversial issues. 2. The amount of coverage each viewpoint gets should roughly reflect the level of support that viewpoint has in society. 3. It is not required to be neutral on certain fundamental issues like the rule of law and the legitimacy of the democratic process.
-		R2:
-			This House supports the rapid global elimination of both tariff and non-tariff barriers to free trade.
-		R3:
-			This House would allow children to sue their parents for religious indoctrination.
+		R1
+			THW impose a BBC-style impartiality requirement on all news platforms
+				OG $stats 26, 21, 26, 15
+				OO $stats 17, 34, 20, 17
+				CG $stats 28, 16, 22, 22
+				CO $stats 17, 17, 20, 34
+				The BBC (British Broadcasting Corporation) is legally required to cover the news impartially. This means:
+				1. It cannot take sides on controversial issues.
+				2. The amount of coverage each viewpoint gets should roughly reflect the level of support that viewpoint has in society.
+				3. It is not required to be neutral on certain fundamental issues like the rule of law and the legitimacy of the democratic process.
+		R2
+			THS the rapid global elimination of both tariff and non-tariff barriers to free trade
+				OG $stats 10, 31, 23, 24
+				OO $stats 16, 24, 28, 20
+				CG $stats 30, 15, 17, 26
+				CO $stats 32, 18, 20, 18
+		R3
+			THW allow children to sue their parents for religious indoctrination
+				OG $stats 28, 17, 28, 14
+				OO $stats 25, 21, 25, 16
+				CG $stats 21, 29, 17, 20
+				CO $stats 13, 20, 17, 37
 				Indoctrination means teaching someone to accept beliefs uncritically. In the case of religion, this can include (but is not limited to) emphasising strict adherence to religious teachings and not presenting alternative viewpoints.
-		R4:
-			This House would abolish the Olympic Games.
-		R5:
-			This House believes that the Mexican government should adopt measures that enable one cartel to monopolise the drug market. (These measures can include but are not limited to: targeting enemy cartels; selective arrests; stopping military deployments to areas controlled by this cartel; and renouncing the headhunt on its current leaders.)
-		R6:
-			In liberal democracies, This House would implement a Social Credit System.
-				A Social Credit System is a national government-facilitated rating system that rewards citizens for good behaviour and sanctions them for bad behaviour. 1. It evaluates a defined set of actions that includes but goes beyond illegal or legally-obligatory acts (e.g., charitable donations, recycling, volunteer work; or jaywalking, and littering). 2. Scores can be given by members of the public, corporations, NGOs, and the government. 3. Based on these scores, the government applies rewards and sanctions (e.g., fast-track through airport security, government-subsidised mortgages, free public transportation; or higher tax, slower document-processing times, and increased barriers to public sector jobs).
-		R7:
-			This House believes that ASEAN should abandon "the ASEAN Way".
-				The Association of Southeast Asian Nations (ASEAN) comprises Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam. At its formation, ASEAN adopted principles that have come to be known as “the ASEAN Way.” These principles place strong emphasis on national sovereignty, and a commitment to non-intervention in the affairs of member states. All ASEAN decisions are made unanimously.
-		R8:
-			This House believes that the feminist movement should support the narrative that "beauty does not matter" over the narrative that "all bodies are beautiful".
-		R9:
-			This House would abolish primary and secondary school grades/years that group children based on age, and instead group them by competency and intelligence.
-		EFL_Semis
-			This House prefers a world where, starting today, all humans have identical intellectual abilities (equivalent to the current global average).
-		EFL_Final
-			This House would abolish the private ownership of (housing) property in major metropolitan areas.
-		ESL_Quarters
-			In a relatively equal society where the "protected sphere model" is the norm, This House, as a parent, would raise their children according to the "deferred happiness model".
-				Under the "deferred happiness model" of parenting, there is strong emphasis on setting children up for a successful adulthood, including through a focus on academic or extracurricular achievement, structure, and discipline. Under the "protected sphere model" of parenting, there is strong emphasis on "letting children be children", including through a focus on playtime and personal enjoyment.
-		ESL_Semis
-			This House prefers a world without the Neuralink.
+		R4
+			THW abolish the Olympic Games
+				OG $stats 25, 26, 23, 13
+				OO $stats 28, 26, 21, 12
+				CG $stats 18, 18, 22, 29
+				CO $stats 16, 17, 21, 33
+		R5
+			THBT the Mexican government should adopt measures that enable one cartel to monopolise the drug market. (These measures can include but are not limited to: targeting enemy cartels; selective arrests; stopping military deployments to areas controlled by this cartel; and renouncing the headhunt on its current leaders.)
+				OG $stats 17, 20, 24, 26
+				OO $stats 23, 33, 21, 10
+				CG $stats 17, 18, 21, 31
+				CO $stats 30, 16, 21, 20
+		R6
+			In liberal democracies, THW implement a Social Credit System
+				OG $stats 14, 21, 28, 24
+				OO $stats 32, 25, 19, 11
+				CG $stats 10, 22, 22, 33
+				CO $stats 31, 19, 18, 19
+				A Social Credit System is a national government-facilitated rating system that rewards citizens for good behaviour and sanctions them for bad behaviour.
+				1. It evaluates a defined set of actions that includes but goes beyond illegal or legally-obligatory acts (e.g., charitable donations, recycling, volunteer work; or jaywalking, and littering).
+				2. Scores can be given by members of the public, corporations, NGOs, and the government.
+				3. Based on these scores, the government applies rewards and sanctions (e.g., fast-track through airport security, government-subsidised mortgages, free public transportation; or higher tax, slower document-processing times, and increased barriers to public sector jobs).
+		R7
+			THBT ASEAN should abandon "the ASEAN Way"
+				OG $stats 13, 19, 25, 30
+				OO $stats 37, 18, 20, 12
+				CG $stats 13, 21, 29, 24
+				CO $stats 24, 29, 13, 21
+				The Association of Southeast Asian Nations (ASEAN) comprises Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam. 
+				At its formation, ASEAN adopted principles that have come to be known as "the ASEAN Way." These principles place strong emphasis on national sovereignty, and a commitment to non-intervention in the affairs of member states. All ASEAN decisions are made unanimously.
+		R8
+			THBT the feminist movement should support the narrative that "beauty does not matter" over the narrative that "all bodies are beautiful"
+				OG $stats 10, 17, 35, 25
+				OO $stats 36, 29, 13, 9
+				CG $stats 20, 13, 28, 26
+				CO $stats 21, 28, 11, 27
+		R9
+			THW abolish primary and secondary school grades/years that group children based on age, and instead group them by competency and intelligence
+				OG $stats 21, 29, 25, 12
+				OO $stats 31, 18, 20, 18
+				CG $stats 14, 15, 26, 32
+				CO $stats 21, 25, 16, 25
+		PDO
+			THP religions in which all individuals have roughly equal religious obligations and are encouraged to develop a personal connection with the divine, over religions in which religious obligation and access to the divine are concentrated in religious authority figures
+				OG $stats 5, 3
+				OO $stats 6, 2
+				CG $stats 2, 6
+				CO $stats 3, 5
+		OF
+			THP a cynical and pessimistic perception of democratic politics to an idealistic and optimistic one
+				OG $stats 3, 5
+				OO $stats 7, 1
+				CG $stats 2, 6
+				CO $stats 4, 4
+		QF
+			THBT developing countries should acquire, on the open market, large stakes in major publicly-traded global corporations (eg. Google, JP Morgan, Shell, and Pfizer)
+				OG $stats 1, 3
+				OO $stats 2, 2
+				CG $stats 2, 2
+				CO $stats 3, 1
+		SF
+			THP a "Brave New World" to the status quo in Western Liberal Democracies
+				OG $stats 2, 0
+				OO $stats 2, 0
+				CG $stats 0, 2
+				CO $stats 0, 2
+				A "Brave New World" has these characteristics:
+				1. People are genetically engineered and socially conditioned by the state for specific societal roles.
+				2. People's material and physical needs are unfailingly met.
+				3. There is no possibility of changing the social order.
+		GF
+			TH, as China, would grant universal suffrage to Hong Kong
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+		ESL QF
+			In a relatively equal society where the "protected sphere model" is the norm, TH, as a parent, would raise their children according to the "deferred happiness model"
+				OG $stats 2, 2
+				OO $stats 2, 2
+				CG $stats 3, 1
+				CO $stats 1, 3
+				Under the "deferred happiness model" of parenting, there is strong emphasis on setting children up for a successful adulthood, including through a focus on academic or extracurricular achievement, structure, and discipline.
+				Under the "protected sphere model" of parenting, there is strong emphasis on "letting children be children", including through a focus on playtime and personal enjoyment.
+		ESL SF
+			THP a world without the Neuralink
+				OG $stats 0, 2
+				OO $stats 1, 1
+				CG $stats 2, 0
+				CO $stats 1, 1
 				A highly-valued startup has invented Neuralink technology, which allows people's consciousnesses to be irreversibly uploaded into a powerful supercomputer and maintained indefinitely.
-		ESL_Final
-			This House believes that the United States government should cede the authority to prosecute criminal trials involving African Americans (as either victims or alleged perpetrators) to African American interest groups, and allocate funding for this.
-		Open_Partial_Double_Octos
-			This House prefers religions in which all individuals have roughly equal religious obligations and are encouraged to develop a personal connection with the divine, over religions in which religious obligation and access to the divine are concentrated in religious authority figures.
-		Open_Octos
-			This House prefers a cynical and pessimistic perception of democratic politics to an idealistic and optimistic one.
-		Open_Quarters
-			This House believes that developing countries should acquire, on the open market, large stakes in major publicly-traded global corporations (eg. Google, JP Morgan, Shell, and Pfizer).
-		Open_Semis
-			This House prefers a "Brave New World" to the status quo in Western Liberal Democracies.
-				A “Brave New World” has these characteristics: 1. People are genetically engineered and socially conditioned by the state for specific societal roles. 2. People's material and physical needs are unfailingly met. 3. There is no possibility of changing the social order.
-		Open_Final
-			This House, as China, would grant universal suffrage to Hong Kong.
+		ESL GF
+			THBT the United States government should cede the authority to prosecute criminal trials involving African Americans (as either victims or alleged perpetrators) to African American interest groups, and allocate funding for this
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+		EFL SF
+			THP a world where, starting today, all humans have identical intellectual abilities (equivalent to the current global average)
+				OG $stats 1, 1
+				OO $stats 2, 0
+				CG $stats 0, 2
+				CO $stats 1, 1
+		EFL GF
+			THW abolish the private ownership of (housing) property in major metropolitan areas
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
 	Cape Town Worlds (2019)
 		R1
 			TH, as South Africa, would forcibly break up exclusive Afrikaner* enclaves. *Afrikaners are a white South African ethnic group descended from predominantly Dutch settlers
