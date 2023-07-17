@@ -213,87 +213,179 @@ United Asia Debating Championship
 	Malaysia UADC 2022
 		R1
 			THBT developing countries should implement the Digital Nomad Tax-Free Plan
+				Balance $stats 4, 10, 54
+				Veto $stats 33, 18, 108
 				For the purpose of this debate, Digital Nomad Tax-Free Plan is defined as a taxation system where foreign freelancers are allowed to live and work in particular areas without having to pay any taxes to the country/region they are currently based, provided that their employer is based out of the border of the implementing country/region.
-			As an aspiring entrepreneur, TH would abandon the pursuit of building an enterprise in favor of working in corporate
+			As an aspiring entrepreneur, THW abandon the pursuit of building an enterprise in favor of working in corporate
+				Balance $stats 13, 10, 54
+				Veto $stats 18, 7, 108
 			THS the rise of quiet quitting
+				Balance $stats 14, 3, 54
+				Veto $stats 3, 29, 108
 				Quiet quitting is where employees work within defined work hours and engage solely in activities related to their job within those hours. Despite the name, quiet quitting is not necessarily related to quitting a job outright, but rather not going beyond what is required.
 		R2
 			TH, as a politician from a minority community in the USA, would prioritize reforming economic policies over social policies
+				Balance $stats 15, 20, 53
+				Veto $stats 5, 8, 106
 			As an up and coming young Republican politician, THO the repealing of Roe vs Wade
+				Balance $stats 3, 7, 53
+				Veto $stats 25, 23, 106
 			THBT the Biden administration has done more harm than good for the Democratic Party
+				Balance $stats 2, 6, 53
+				Veto $stats 23, 22, 106
 		R3
 			THBT educational models should prioritize intrinsic over extrinsic motivation
+				Balance $stats 16, 19, 54
+				Veto $stats 1, 16, 107
 				Educational models prioritizing extrinsic motivation are models which reward or punish students with the intent of having them behave accordingly, e.g. grades and school punishments. Educational models which prioritize intrinsic motivation are models which focus on increasing inherent satisfaction in learning an activity separate from any consequence, e.g. enjoying the subject.
 			THBT newly-established democracies should have laws restricting academic freedom
+				Balance $stats 3, 2, 54
+				Veto $stats 40, 3, 107
 			THS Kathmandu Metropolitan City's decision to mandate Nepal Bhasa classes in school
+				Balance $stats 8, 6, 54
+				Veto $stats 13, 34, 107
 				The Kathmandu Metropolitan City has made Nepal Bhasa (Newari language) compulsory in the school curriculum from Grade I to VIII. With this new rule, all private and public schools inside the Kathmandu metropolis will now have to teach Nepal Bhasa (Newari language). The policy has been seen as an extension of the constitutional provision that all local governments should incorporate one subject that reflects the identity of the local government in one or the other way. Kathmandu is the capital of Nepal and Newari people have historically inhabited the valley. Currently, Kathmandu has the highest population density of any city in Nepal, and there are and have been, high rates of rural to urban migration into the city.
 		R4
 			TH, as the Indian trans community, would choose to actively disassociate from the mainstream LGBTQ+ movement in India
+				Balance $stats 6, 8, 53
+				Veto $stats 30, 18, 106
 			As Black and Latinx queer community, THR the resurgence of house music in modern pop culture
+				Balance $stats 5, 8, 53
+				Veto $stats 16, 18, 106
 				House music refers to a genre that is birthed in the Black & Latinx queer communities underground scene (i.e. bars, clubs, ballroom culture, etc.) that has gained massive resurgence predominantly due to Drake's and Beyonce's most recent album releases.
 			As an Asian LGBTQ+ individual, THR the portrayals of the BL genre in Asian media
+				Balance $stats 11, 15, 53
+				Veto $stats 7, 17, 106
 				BL or Boys' Love is a genre of fictional media that features homoerotic relationships between male characters. Though it is typically created by women for women and is distinct from homoerotic media marketed to gay men, it does also attract a male audience and can be produced by male creators.
 		R5
 			THS the rise of all-female e-sports teams
+				Balance $stats 11, 5, 53
+				Veto $stats 6, 31, 104
 			THR the prioritization of customary practice in sports
-				Customary practice in sport are rules that are not imposed by the laws of the game, but are commonly adhered to in the the spirit of sportsmanship. There is significant backlash when there is a breach of customary practice. For example: looking down upon mankading in cricket, keep winning margins small in football when national sentiments are likely to get hurt, and avoiding boisterous celebrations when winning matches.
+				Balance $stats 6, 10, 53
+				Veto $stats 28, 7, 104
+				B: Customary practice in sport are rules that are not imposed by the laws of the game, but are commonly adhered to in the the spirit of sportsmanship. There is significant backlash when there is a breach of customary practice. For example: looking down upon mankading in cricket, keep winning margins small in football when national sentiments are likely to get hurt, and avoiding boisterous celebrations when winning matches.
 			TH, as Daniel Ricciardo, would choose to renew his contract with Red Bull
-				All F1 teams have 2 drivers that compete together for the team championship, while competing against each other and drivers from other teams to win the driver’s championship. Red Bull, one of the leading teams in F1, discovered Daniel Ricciardo and trained him in their junior talent programme. He raced for Red Bull and its subsidiary team for seven years. During this time, Max Verstappen, an 18 year old, joined Red Bull and quickly became F1’s rising star. Over time, Red Bull made it evident that they favored Max over Daniel as their number one driver. This caused tension between the young, rising star Verstappen and the experienced Ricciardo despite the latter’s longer tenure with the team.
+				Balance $stats 14, 7, 53
+				Veto $stats 18, 14, 104
+				C: All F1 teams have 2 drivers that compete together for the team championship, while competing against each other and drivers from other teams to win the driver’s championship.
+				Red Bull, one of the leading teams in F1, discovered Daniel Ricciardo and trained him in their junior talent programme. He raced for Red Bull and its subsidiary team for seven years. During this time, Max Verstappen, an 18 year old, joined Red Bull and quickly became F1’s rising star. Over time, Red Bull made it evident that they favored Max over Daniel as their number one driver. This caused tension between the young, rising star Verstappen and the experienced Ricciardo despite the latter’s longer tenure with the team.
 		R6
 			THBT corporations' focus on ESG has done more harm than good to the environment
+				Balance $stats 5, 8, 52
+				Veto $stats 33, 5, 104
 				ESG stands for environmental, social, and governance, which are factors used to evaluate companies on how far advanced they are with sustainability.
 			THBT environmental movements should denounce green energy that harms the environment as opposed to supporting all green energy
+				Balance $stats 4, 6, 52
+				Veto $stats 10, 30, 104
 			THBT Green Parties in Europe should shift to actively supporting the use of nuclear energy
+				Balance $stats 10, 19, 52
+				Veto $stats 9, 17, 104
 		R7
 			THS a transition to a federalist government in the Phillippines
+				Balance $stats 10, 2, 52
+				Veto $stats 16, 24, 102
 				Currently, the Philippines is a unitary state with a central government made up of the executive, legislative, and judiciary. The central government based in Metro Manila has supreme authority to make decisions for the entire country under a unitary system of governance. Federalism has been proposed by multiple politicians in the Philippines in the past few decades, which would grant regional governments autonomous power to make decisions.
 			THW require a significant portion of Ministers pay in Singapore to be based on their ministerial performance as determined by the citizenry
+				Balance $stats 7, 16, 52
+				Veto $stats 9, 16, 102
 				In Singapore, the ruling party holds a supermajority in the parliament. Ministerial salaries are also paid a high salary starting from approximately 1 million dollars a year, with the broad assumption of attracting talent into the public service.
 			THO the Malaysian Parliament's decision to pass the anti-party hopping law
+				Balance $stats 3, 14, 52
+				Veto $stats 26, 11, 102
 				According to the anti-party hopping law passed in Parliament on July 28, Members of Parliament (MPs) who defect from the party they represented as election candidates, or those who became independents, would have to vacate their seats. However, MPs sacked by their party would not lose their seats and MPs who voted against their party’s wishes in Parliament would not be affected.
 		R8
 			THS Relationship Minimalism
+				Balance $stats 8, 5, 52
+				Veto $stats 23, 17, 101
 				Relationship Minimalism refers to the practice of regularly purging friendships and/or relationships. This act seeks to declutter an individuals social life based on what the perceived value of the relationship with/without explanation.
 			TH, as a person seeking a long term relationship, would refuse to use dating apps
+				Balance $stats 11, 11, 52
+				Veto $stats 18, 10, 101
 			THS the rising trend of intellectualizing emotions
+				Balance $stats 5, 12, 52
+				Veto $stats 9, 24, 101
 				Intellectualization is the use of rational reasoning when faced with emotional situations, as opposed to 'feeling' your emotions.
-		Open Double Octos
+		DO
 			THS a norm where parents are financially transparent to their children
+				Balance $stats 3, 1, 16
+				Veto $stats 3, 7, 32
 			TH, as parents in Hong Kong, would encourage their children to develop support for the Chinese government (e.g. enrolling in Mandarin classes, attend universities in the mainland, take part in Chinese cultural celebrations)
+				Balance $stats 2, 0, 16
+				Veto $stats 12, 7, 32
 			THBT minority parents should primarily practice free range parenting as opposed to helicopter parenting
-				Free-range parenting is the concept of raising children in the spirit of encouraging them to function independently and with limited parental supervision, in accordance of their age of development and with a reasonable acceptance of realistic personal risks. Helicopter parenting refers to a style of parenting where parents are overly focused on their children and typically take much responsibility for their children's experiences and their successes or failures.
-		Open OF
+				Balance $stats 5, 5, 16
+				Veto $stats 1, 2, 32
+				Free-range parenting is the concept of raising children in the spirit of encouraging them to function independently and with limited parental supervision, in accordance of their age of development and with a reasonable acceptance of realistic personal risks
+				Helicopter parenting refers to a style of parenting where parents are overly focused on their children and typically take much responsibility for their children's experiences and their successes or failures.
+		OF
 			THR feminine anger being seen as justified only in the cases where it is socially productive (e.g. anger during protests), as opposed to being inherently justified independent of outcome
+				Balance $stats 0, 2, 8
+				Veto $stats 1, 4, 16
 			THBT feminist movements should support femcels
+				Balance $stats 3, 0, 8
+				Veto $stats 2, 4, 16
 				Femcel stands for female involuntary celibate which refers to women who feel excluded from romantic relationships, often because of beauty standards and misogyny which therefore disadvantage them romantically, socially, and economically.
 			THBT Western feminists' engagement with protests in Iran has done more harm than good
+				Balance $stats 1, 2, 8
+				Veto $stats 5, 0, 16
 				An ongoing series of protests and civil unrest against the government of Iran began in Tehran on 16 September 2022 as a reaction to the death of 22-year-old Mahsa Amini, who was arrested by the Guidance Patrol for wearing an "improper" hijab.
-		Open QF + EFL QF
+		QF, EFL QF
 			THBT Japan should actively oppose future iterations of the Ulchi-Freedom Shield initiative
+				QF Balance $stats 0, 0, 4
+				QF Veto $stats 4, 0, 8
+				EFL QF Balance $stats 2, 2, 4
+				EFL QF Veto $stats 0, 0, 8
 				The Ulchi-Freedom Shield is an annual joint military program between South Korea and USA. The exercise is the world's largest computerized command and control implementation. The 2022 joint drill is particularly much larger in terms of operations and logistics compared to prior years.
 			As Hamas, THW actively oppose the PIJ
+				QF Balance $stats 0, 1, 4
+				QF Veto $stats 0, 3, 8
+				EFL QF Balance $stats 0, 0, 4
 				The Palestinian Islamic Jihad (PIJ) is an organization labeled as terrorists by Western countries that is much smaller than Hamas, but much more organized. Founded in the late ’70s and early ’80s, the PIJ renounces negotiations with Israel, opting instead for armed struggle. Its goal is to create an Islamic Palestinian state that encompasses not only the occupied territories, but all of what is now Israel. However, unlike Hamas, it’s not part of the political leadership in Gaza or the West Bank and makes no effort toward political activity within the occupied territories.
 			THBT it is in the interest of Saudi Arabia to align with China as opposed to the US
-		Open SF + EFL SF
+				QF Balance $stats 0, 3, 4
+				QF Veto $stats 0, 1, 8
+				EFL QF Balance $stats 0, 0, 4
+		SF, EFL SF
 			THS a widespread adoption of intellectual property rights as loan collateral
+				SF Balance $stats 1, 0, 2
+				SF Veto $stats 1, 0, 4
+				EFL SF Balance $stats 1, 0, 2
+				EFL SF Veto $stats 1, 0, 4
 				Collateral is an asset that a lender accepts as security for extending a loan. If the borrower defaults, then the lender may seize the collateral.
 			In light of recent increase in energy prices, THBT GCC states should aggressively increase government spending
+				SF Balance $stats 0, 1, 2
+				SF Veto $stats 0, 1, 4
+				EFL SF Balance $stats 0, 0, 2
+				EFL SF Veto $stats 0, 1, 4
 				The world economy’s recovery from covid-19, and Russia’s invasion of Ukraine, have pushed up oil prices, triggering a transfer of wealth from global consumers to fuel-exporting countries. The IMF estimates that energy exporters in Gulf States will this year net $320bn more in oil revenues than it had previously expected.
 			THS Dubai's rise as a global financial hub
+				SF Balance $stats 0, 0, 2
+				SF Veto $stats 1, 1, 4
+				EFL SF Balance $stats 1, 0, 2
+				EFL SF Veto $stats 1, 1, 4
 				Dubai's position as a global financial hub has recently improved and its stock market has grown by 9%. Multinational and commodity firms have shifted to Dubai, the city's tax regulations also attract businesses from Asian and African markets.
-		EFL GF
-			THS expanding the number of permanent members in the UN Security Council
-				There are currently 5 permanent members of the UNSC: China, France, Russia, United Kingdom, and the United States.
-			THS the recent resurgence of the 'pink wave' in Latin America
-				Pink wave is a recent resurgence of left-wing governments in Latin American democracies, with Mexico, Argentina, Bolivia, Peru, Honduras, Chile, and Colombia electing left-wing governments in the past few years.
-			THP a world where political philosophy is predominantly based on pragmatism as opposed to predominantly being based on egalitarianism
-		Open GF
-			THO the Arctic Council's decision to suspend joint activities, including scientific and technological research exchanges, with Russia.
+		GF
+			THO the Arctic Council's decision to suspend joint activities, including scientific and technological research exchanges, with Russia
+				Balance $stats 0, 0, 1
 				The Arctic Council was established on 19 September 1996 when the governments of Canada, the Kingdom of Denmark, Finland, Iceland, Norway, the Russian Federation, Sweden, and the United States signed the Ottawa Declaration. The Arctic Council is the leading intergovernmental forum promoting cooperation, coordination and interaction among the Arctic States, Arctic Indigenous peoples and other Arctic inhabitants on common Arctic issues, in particular on research of sustainable development and environmental protection in the Arctic.
 			THO "Sanas"
+				Balance $stats 0, 0, 1
 				Sanas is an accent translation tech device, designed primarily to be used by employees of international call centers. Its use would, for example, transform the Indian accent of a call center employee from India to an American accent, when they are engaging with a caller from the US.
 			THS the concept of a Network State
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
 				For the purposes of this debate, a network state is a group of people who get together on the internet and decide to start a country. With a social network to connect them, a leader to unite them, and a cryptocurrency to protect their assets, the concept of a network state creates a country that can be born with laws, social services and all.
+		EFL GF
+			THS expanding the number of permanent members in the UN Security Council
+				Balance $stats 0, 0, 1
+				There are currently 5 permanent members of the UNSC: China, France, Russia, United Kingdom, and the United States.
+			THS the recent resurgence of the 'pink wave' in Latin America
+				Balance $stats 0, 0, 1
+				Pink wave is a recent resurgence of left-wing governments in Latin American democracies, with Mexico, Argentina, Bolivia, Peru, Honduras, Chile, and Colombia electing left-wing governments in the past few years.
+			THP a world where political philosophy is predominantly based on pragmatism as opposed to predominantly being based on egalitarianism
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
 	Bali online UADC 2021
 		R1
 			This house regrets the increasing trend of universities in Asia partnering with global western universities (e.g. Yale-Nus, MIT-SUTD)
@@ -360,69 +452,176 @@ United Asia Debating Championship
 			This house believes that moderate Muslims should refrain from attempting to reclaim the term jihad in the aftermath of terrorist attacks
 			This house believes that religious leaders should abandon the narrative that difficulties in life are "tests of God"United Asia Debating Championship
 	Bangladesh UADC 2020
-		R1: Environment
-			In developed countries, THW increase the tax on the use of non-renewable energy sources to be equivalent to the cost of the closest renewable energy source.
-			THBT human beings have a moral responsiblity to preserve the ecology of earth, even at the expense of their own survival.
-			TH, as a developing country, would choose to deprioritise economic modernisation in favour of the Gross National Happiness Index.
-				The Gross National Happiness Index was created by Bhutan. The GNH Index argues that sustainable develpment should take a holistic approach towardds notions of progress and give equal importance to non-economic aspects of wellbeing. The GNH Index includes both traditional areas of socio-economic concern such as living standards, health and education and less traditional aspects of culture and psychological wellbeing, It is a holistic reflection of the general wellbeing of the Bhutanese population rather than a subjective psychological ranking of “happiness” alone.
-		R2: Education
-			THW make entry into university based on a lottery after passing a basic high school exam.
-			THW not allow colleges to recruit students using sports scholarships.
-			THW impose a cap on university endowments, in favour of directing the money towards grants given to individual professors/researchers.
-		R3: The Subcontinent
-			THR India’s withdrawal from RCEP.
-				Launched in 2012, the Regional Comprehensive Economic Partnership (RCEP) is a trade pact between the 10-member ASEAN bloc, along with China, Japan, South Korea, Australia and New Zealand. India had been due to sign but pulled out last year. The deal includes 2.1 billion people, with RCEP’s members accounting for around 30 percent of global GDP. Its aim is to lower tariffs, open up trade in services and promote investment to help emerging economies catch up with the rest of the world.
-			TH, as India, would aggressively fund the Pakistan Democratic Movement.
-				The Pakistan Democratic Movement (PDM) was formed in September 2020 by the leader of the Jamiat Ulema-e-Islam, and is mae of 11 political parties, with the main goal of opposing Imran Khan’s Tehreek-e-Insaf party. It represents almost the entirety of the Pakistani political spectrum and has brought together the two mainstream but rival political parties, the Pakistan People’s Party (PPP) led by Bilawal Bhutto and the Pakistan Muslim League (PML) led by the exiled Nawaz Sharif, but currently headed by his daughter Maryam.
-			TH, as the Hijra community, would embrace the mythology surrounding them.
-				Hijra mythology believes that hijras have the power to bless or currse. This has resulted in fear of the hijra community, as in some areas they are hired as tax collectors to ensure compliance. They often force themselves into special occasions, such as weddings or the birth of a child, to demand payment in exchange for blessings. As a result, Hijra communities often live in close-knit communities, isolated from mainstream society.
-		R4: US Politics
-			THBT the Democrats in the United States should focus their political efforts into swinging moderate and conservative voters in traditionally ‘Red’ states (e.g. Arkansas, Utah, Mississippi etc.), as opposed to galvanizing their existing voter bases.
+		R1
+			In developed countries, THW increase the tax on the use of non-renewable energy sources to be equivalent to the cost of the closest renewable energy source
+				Balance $stats 5, 4, 53
+				Veto $stats 9, 28, 88
+			THBT human beings have a moral responsibility to preserve the ecology of earth, even at the expense of their own survival
+				Balance $stats 10, 9, 53
+				Veto $stats 24, 11, 88
+			TH, as a developing country, would choose to deprioritise economic modernisation in favour of the Gross National Happiness Index
+				Balance $stats 13, 12, 53
+				Veto $stats 11, 5, 88
+				The Gross National Happiness Index was created by Bhutan. The GNH Index argues that sustainable development should take a holistic approach towards notions of progress and give equal importance to non-economic aspects of wellbeing. The GNH Index includes both traditional areas of socio-economic concern such as living standards, health and education and less traditional aspects of culture and psychological wellbeing. It is a holistic reflection of the general wellbeing of the Bhutanese population rather than a subjective psychological ranking of ‘happiness’ alone.
+		R2
+			THW make entry into university based on a lottery after passing a basic high school exam
+				Balance $stats 8, 14, 53
+				Veto $stats 23, 4, 104
+			THW not allow colleges to recruit students using sports scholarships
+				Balance $stats 10, 13, 53
+				Veto $stats 14, 10, 104
+			THW impose a cap on university endowments, in favour of directing the money towards grants given to individual professors/researchers
+				Balance $stats 4, 4, 53
+				Veto $stats 15, 38, 104
+		R3
+			THR India's withdrawal from the RCEP
+				Balance $stats 10, 9, 53
+				Veto $stats 11, 22, 104
+				Launched in 2012, the Regional Comprehensive Economic Partnership (RCEP) is a trade pact between the 10-member ASEAN bloc, along with China, Japan, South Korea, Australia and New Zealand. India had been due to sign but pulled out last year. The deal includes 2.1 billion people, with RCEP's members accounting for around 30 percent of global GDP. Its aim is to lower tariffs, open-up trade in services and promote investment to help emerging economies catch up with the rest of the world.
+			TH, as India, would aggressively fund the Pakistan Democratic Movement
+				Balance $stats 3, 1, 53
+				Veto $stats 36, 19, 104
+				The Pakistan Democratic Movement (PDM) was formed in September 2020 by the leader of the Jamiat Ulema-e-Islam, and is made of 11 political parties, with the main goal of opposing Imran Khan's Tehreek-e-Insaf party. It represents almost the entirety of the Pakistani political spectrum and has brought together the two mainstream but rival political parties, the Pakistan People’s Party (PPP) led by Bilawal Bhutto and the Pakistan Muslim League (PML) led by the exiled Nawaz Sharif, but currently headed by his daughter Maryam.
+			TH, as the Hijra community, would embrace the mythology surrounding them
+				Balance $stats 16, 14, 53
+				Veto $stats 5, 11, 104
+				Hijra mythology believes that hijras have the power to bless or curse. This has resulted in fear of the hijra community, as in some areas they are hired as tax collectors to ensure compliance. They often force themselves into special occasions, such as weddings or the birth of a child, to demand payment in exchange for blessings. As a result, Hijra communities often live-in close-knit communities, isolated from mainstream society.
+		R4
+			THBT the Democrats in the United States should focus their political efforts into swinging moderate and conservative voters in traditionally 'Red' states (e.g. Arkansas, Utah, Mississippi etc.), as opposed to galvanising their existing voter bases
+				Balance $stats 6, 6, 53
+				Veto $stats 12, 32, 102
 			TH, as the Biden Administration, would continue the trade war with China
-			TH, as the Justice Democrarts, would leave the Democrat Party and make their own party.
-				The Justice Democrats for the purposes of this debate are a faction of the Democrats that want the party to move further left and stand of for universal healthcare, banning on corporate donotions in politics, and the Green New Deal. This includes, but not limited to Bernie Sanders and members of “The Squad” (Ilhan Omar, Alexandria Ocasio-Cortez, Rashida Tlaib, and Ayanna Pressley).
-		R5: Drugs
-			THW subsidize the use and development of psychedelics-based therapy as a treatment to those with prolongs PTSD and depressive symptoms.
-				Psychedelics (serotonergic hallucinogens) are powerful psychoactive substances that alter mood, induce hallucinations and cause perceptual anomalies. They are also known to stimulate/encourage introspecttion.
-			TH, as religious organisations, would actively encourage followers to consume hallucinogens and psychedelics for religious/spiritual/mystical events.
-			In areas with significant amount of illegal trade and production of drugs, TH believes that the state should legalize and aggressively produce and sell drugs.
-		R6: International Relations
-			TH, as Aby Ahmed, would abandon attempts at creating the proposed Prosperity Party and reinstate the Ethiopian People’s Revolutionary Democratic Front (EPRDF).
-				Ethnic federalism in Ethiopia divides governance along ethnic lines into nine regional states and two multiethnic “chartered administrations”. The Ethiopian People’s Revolutionary Democratic Front (EPRDF) was an ethnic federalist political coalition in Ethiopia. The Prosperity Party was established as a national party and successor to the EPRDF by Prime Minister Abiy Ahmed and it will run for the first time in the 2021 election.
-			THR Juan Guaidó’s decision to boycott the Venezuelan elections.
-				President Nicolás Maduro won control ov Venezuela’s National Assembly recently in an election that the opposition, Juan Guaidó urged voters to boycott. National Assembly President Juan Guaidó and his allies decliend to seek reelection, saying they didn’t trust the authoritarian Maduro to hold a fair vote,. In their absence, most of the candidates were Maduro allies or supporters.
-			THR the rise of the Thurkish Pan-Islamist Media.
-				Turkish Pan-Islamist Media refers to state-funded media that portrays Ottoman history in a glorious light, crafting fictional stories surrounding historical figures. These shows have been very popular among the Turkish public as well as Muslim audiences abroad.
-		R7: Gender
-			THR the feminist cult of personality surrounding female leaders from prominent political families in developing countries.
-			TH, as a female executive in a male-dominated industry, would give preferential treatment to female subordinates.
-			THR the de-politicizaion of the drag culture
-				De-politicization means, for the purposes of this debate, the refocusing of activities away from political advocacy, protests, and social changes onto other apolitical activities centered around a culture's art form and entertainment aspects.
-		R8: Economics
-			THBT the World Bank should hold major government enterprises as collateral while issuing loans to countries who have a track record of corruption.
-			THBT the post-COVID economic resuscitation plans of Asian countries in weaker economic positions should heavily focus on local production of real secor goods (agriculture and manufacture) instead of on services or international trade.
-			In countries with large agricultural sectors, THBT the state should impose strict regulations tot determine the output and best practies for local farmers.
-		Partial Double OF: Social Media
-			THW compel giant social media and instant messaging platforms (Facebook, Twitter, WhatsApp, etc.) to demand a much higher threshold of identification and verifiablity from their users.
+				Balance $stats 6, 17, 53
+				Veto $stats 15, 11, 102
+			TH, as the Justice Democrats, would leave the Democrat Party and make their own party
+				Balance $stats 5, 13, 53
+				Veto $stats 24, 8, 102
+				The Justice Democrats for the purposes of this debate are a faction of the Democrats that want the party to move further left and stand fof for universal healthcare, banning on corporate donations in politics, and the Green New Deal. This includes, but is not limited to, Bernie Sanders and members of "The Squad" (Ilhan Omar, Alexandria Ocasio-Cortez, Rashida Tlaib, and Ayanna Pressley).
+		R5
+			THW subsidize the use and development of psychedelics-based therapy as a treatment to those with prolonged PTSD and depressive symptoms
+				Balance $stats 12, 13, 52
+				Veto $stats 7, 20, 101
+				Psychedelics (serotonergic hallucinogens) are powerful psychoactive substances that alter mood, induce hallucinations and cause perceptual anomalies. They are also known to stimulate/encourage introspection.
+			TH, as religious organisations, would actively encourage followers to consume hallucinogens and psychedelics for religious/spiritual/mystical events
+				Balance $stats 1, 3, 52
+				Veto $stats 40, 8, 101
+				Psychedelics (serotonergic hallucinogens) are powerful psychoactive substances that alter mood, induce hallucinations and cause perceptual anomalies. They are also known to stimulate/encourage introspection.
+			In areas with significant amount of illegal trade and production of drugs, THBT the state should legalise and aggressively produce and sell drugs
+				Balance $stats 15, 8, 52
+				Veto $stats 4, 22, 101
+		R6
+			TH, as Abiy Ahmed, would abandon attempts at creating the proposed Prosperity Party and reinstate the Ethiopian Peoples' Revolutionary Democratic Front (EPRDF)
+				Balance $stats 2, 5, 52
+				Veto $stats 37, 25, 100
+				Ethnic federalism in Ethiopia divides governance along ethnic lines into nine regional states and two multiethnic "chartered administrations." The Ethiopian People's Revolutionary Democratic Front (EPRDF) was an ethnic federalist political coalition in Ethiopia. The Prosperity Party was established as a national party and successor to the EPRDF by Prime Minister Abiy Ahmed and it will run for the first time in the 2021 election.
+			THR Juan Guaidó's decision to boycott the Venezuelan elections
+				Balance $stats 10, 8, 52
+				Veto $stats 9, 8, 100
+				President Nicolás Maduro won control of Venezuela's National Assembly recently in an election that the opposition, Juan Guaidó, urged voters to boycott. National Assembly President Juan Guaidó and his allies declined to seek reelection, saying they didn't trust the authoritarian Maduro to hold a fair vote. In their absence, most of the candidates were Maduro allies or supporters.
+			THR the rise of the Turkish Pan-Islamist Media
+				Balance $stats 17, 10, 52
+				Veto $stats 4, 17, 100
+				Turkish Pan-Islamist Media refers to state-funded media that portrays Ottoman history in a glorious light, crafting fictional stories surrounding historical figures. These shows have been very popular among the Turkish public as well as Muslim audiences abroad
+		R7
+			THR the feminist cult of personality surrounding female leaders from prominent political families in developing countries
+				Balance $stats 7, 8, 52
+				Veto $stats 17, 15, 100
+			TH, as a female executive in a male-dominated industry, would give preferential treatment to female subordinates
+				Balance $stats 12, 12, 52
+				Veto $stats 12, 11, 100
+			THR the de-politicization of the drag culture
+				Balance $stats 5, 8, 52
+				Veto $stats 21, 24, 100
+				De-politicization means, for the purposes of this debate, the refocusing of activities away from political advocacy, protests, and social changes onto other apolitical activities centered around a culture’s art form and entertainment aspects.
+		R8
+			THBT the World Bank should hold major government enterprises as collateral while issuing loans to countries who have a track record of corruption
+				Balance $stats 3, 2, 52
+				Veto $stats 29, 23, 100
+			THBT the post-COVID economic resuscitation plans of Asian countries in weaker economic positions should heavily focus on local production of real sector goods (agriculture and manufacture) instead of on services or international trade
+				Balance $stats 10, 10, 52
+				Veto $stats 9, 16, 100
+			In countries with large agricultural sectors, THBT the state should impose strict regulations to determine the output and best practices for local farmers
+				Balance $stats 14, 13, 52
+				Veto $stats 12, 11, 100
+		PDO
+			THW compel giant social media and instant messaging platforms (Facebook, Twitter, WhatsApp, etc.) to demand a much higher threshold of identification and verifiability from their users
+				Balance $stats 2, 1, 12
+				Veto $stats 2, 9, 24
 			THR the rise of the influencer business model
-				An incluencer is someone who uses their social capital gained from content creation to affect the purchasing decision of others. They have a following in a disinct niche, with whom they actively engage. The influencer business model is one in which influencers create branded content on a variety of product and/or services in exchange for monetary or other forms of compensation.
+				Balance $stats 1, 2, 12
+				Veto $stats 6, 2, 24
+				An influencer is someone who uses their social capital gained from content creation to affect the purchasing decisions of others. They have a following in a distinct niche, with whom they actively engage. The influencer business model is one in which influencers create branded content on a variety of product and/or services in exchange for monetary or other forms of compensation.
 			THR social-media-based self-disclosure groups for mental health
-				Self-disclosure refers a phenomenon in which individuals choose to reveal personal information about themselves to others. Self-disclosure groups encourage members to share personal and community-based experiences to diagnose and give advice to each other on mental health.
-		Open OF:
-			TH, as Soudi Arabia, would like for stronger ties with China at the expense of USA.
-			THBT closer Arab-Israeli ties are in the best interest of Palestinians.
-				Very recently, Israel and UAE began diplomatic relations, allowing both countries to engage in trade, information sharing, and tourism. As part of the deal, Israel agreed to postpone their annexaion of a part of the West Bank. Following UAE's footsteps, Bahrain too has normalized relations with Israel. Before the UAE and Bahrain, Egypt and Jordan were the only Arab countries to recognize Israel.
-			TH, as the Likud Party, would not field Benjamin Netanyahu in the event of an upcoming election.
-		Open QF / EFL QF: Religion
-			TH, as a ordinary believer of a monotheistic religion, would choose to believe in religious pluralism over religious inclusivism.
-				Religious pluralism, for the purpose of this debate, is the belief that the devine is transcendental and unknownable to individuals, and hence all religions are merely equally valid interpretations of the unknownable.
-				Religious inclusivism is the belief that only one religion is correct and true, but individuals who did not have the opportunity to be converted into the one true faith can still attain salvation, if they abide by the moral codes they have.
-			THBT left-wing political movements should heavily support the re-interpretation of religious stories (of prophets, miracles, parables and verses) to justifiy pragmatic economic goals such as wealth redistribution.
-			TH prefers a world in which the conception of sin in Abrahamic religions is entirely a result of human agency as opposed to temptation of the devil.
+				Balance $stats 3, 3, 12
+				Veto $stats 4, 1, 24
+				Self-disclosure refers a phenomenon in which individuals choose to reveal personal information about themself to others. Self-disclosure groups encourage members to share personal and community-based experiences to diagnose and give advice to each other on mental health.
+		OF
+			TH, as Saudi Arabia, would look for stronger ties with China at the expense of USA
+				Balance $stats 2, 3, 8
+				Veto $stats 2, 0, 16
+			THBT closer Arab-Israeli ties are in the best interest of Palestinians
+				Balance $stats 0, 1, 8
+				Veto $stats 4, 5, 16
+				Very recently, Israel and UAE began diplomatic relations, allowing both countries to engage in trade, information sharing, and tourism. As part of the deal, Israel agreed to postpone their annexation of a part of the West Bank. Following UAE's footsteps, Bahrain too has normalized relations with Israel. Before the UAE and Bahrain, Egypt and Jordan were the only Arab countries to recognize Israel.
+			TH, as the Likud Party, would not field Benjamin Netanyahu in the event of an upcoming election
+				Balance $stats 1, 1, 8
+				Veto $stats 2, 3, 16
+		EFL QF, QF
+			TH, as an ordinary believer of a monotheistic religion, would choose to believe in religious pluralism over religious inclusivism
+				EFL QF Balance $stats 2, 0, 4
+				EFL QF Veto $stats 0, 0, 6
+				QF Balance $stats 0, 0, 4
+				Religious pluralism, for the purposes of this debate, is the belief that the divine is transcendental and unknowable to individuals, and hence all religions are merely equally valid interpretations of the unknowable.
+				Religious inclusivism is the belief that only one religion is correct and true, but individuals who did not have to opportunity to be converted into the one true faith can still attain salvation, if they abide by the moral codes they have.
+			THBT left-wing political movements should heavily support the re-interpretation of religious stories (of prophets, miracles, parables, and verses) to justify pragmatic economic goals such as wealth redistribution
+				EFL QF Balance $stats 1, 0, 4
+				EFL QF Veto $stats 2, 2, 6
+				QF Balance $stats 0, 0, 4
+			THP a world in which the conception of sin in Abrahamic religions is entirely a result of human agency as opposed to temptation of the devil
+				EFL QF Balance $stats 1, 0, 4
+				EFL QF Veto $stats 1, 1, 6
+				QF Balance $stats 1, 3, 4
+				QF Veto $stats 0, 0, 8
+		EFL SF, SF
+			THP that the main opposition leader in authoritarian countries to be individuals with a strong background in politics and governance over working class commoners
+				EFL SF Balance $stats 0, 1, 2
+				EFL SF Veto $stats 0, 1, 4
+				SF Balance $stats 0, 1, 2
+				SF Veto $stats 0, 0, 4
+			THR the use of the narrative of successful colonial resistance by political parties for political gain
+				EFL SF Balance $stats 0, 1, 2
+				EFL SF Veto $stats 1, 0, 4
+				SF Balance $stats 0, 1, 2
+				SF Veto $stats 0, 0, 4
+			THBT opposition parties in authoritarian democracies should actively prioritise their militant wings over their political wings
+				EFL SF Balance $stats 0, 0, 2
+				EFL SF Veto $stats 1, 1, 4
+				SF Balance $stats 0, 0, 2
+				SF Veto $stats 2, 2, 4
+				An authoritarian democracy is one in which democratic institutions exist but may be manipulated or heavily influenced by the ruling party or certain members of the society.
+		GF
+			In developing countries with weak civil-military control, THS the use of mandatory conscription
+				Balance $stats 0, 0, 1
+				Civilian control of the military is a doctrine in military and political science that places ultimate responsibility for a country's strategic decision-making in the hands of the civilian political leadership, rather than professional military officers.
+				In reality, most countries do not have perfect civilian control over the military. However, in countries with strong civil-military control, civilian governments exercise sufficient oversight that they are able to control the majority of military decisions.
+				Countries with weak civil-military control often see the military able to exercise significant autonomy over society, including but not limited to expanding their corporate and political interests, and carrying out military operations without oversight from the government.
+			In post-colonial states, THS militaries with strong nationalist ideologies over militaries that see themselves as autonomous, professional bodies
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+			In countries with weak central governance, THP urban-based civil society-supported military coups
+				Balance $stats 0, 0, 1
 		EFL GF
-			TH prefers guilt society over shame society.
-		Open GF
-			In post-colonial states, THS militaries with strong nationalist ideologies over militaries that see themselves as autonomous, professional bodies.
+			THBT progressive movements should opt to aggressively fund think-tanks with the explicit goal of shifting the Overton Window, at the expense of grassroots mobilisation in the form of protests and riots
+				Balance $stats 0, 0, 1
+			THP guilt society over shame society
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
+				Guilt society and shame society are terminology for different categories of culture. 
+				In a guilt society, behavior is guided by the internal self-reinforcement of the feeling of guilt for certain proscribed behaviors. This type of culture also emphasizes individual conscience, faith, and values. A person in this type of culture may ask, "Do I feel that my behavior fair or unfair?" 
+				In a shame society, behavior is guided by the inculcation of external shame (and the complementary threat of ostracism) by the society. Shame cultures are typically based on the concepts of pride and honor; appearances are what count. A person in this type of culture may ask, "How would people perceive me if I do X?"
+			THR the pervasiveness of colonial determinism in discourse surrounding African development and politics
+				Balance $stats 0, 0, 1
+				Colonial determinism refers to the view that postcolonial states are irredeemably influenced by the structures of colonialism, and that these structures are primarily responsible for the economic, political and social contexts these states find themselves in.
 	Vietnam UADC 2019
 		R1
 			THBT all decisions about children’s health should be made by medical professionals and not their parents
