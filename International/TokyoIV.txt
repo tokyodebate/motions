@@ -2,29 +2,73 @@ Tokyo IV
 	Tokyo IV 2023
 		R1
 			THW only allow university admission on the basis of standardized testing (e.g. SAT, gaokao) as opposed to non-quantitative methods (e.g. essays, interviews)
+				OG $stats 9, 6, 5, 3
+				OO $stats 4, 7, 9, 3
+				CG $stats 6, 4, 4, 9
+				CO $stats 4, 6, 5, 8
 		R2
 			THR the rise of "cut-off culture"
+				OG $stats 4, 7, 7, 5
+				OO $stats 7, 5, 5, 6
+				CG $stats 8, 6, 4, 5
+				CO $stats 4, 5, 7, 7
 				For the purpose of this debate, "cut-off culture" refers to the social phenomenon of figuratively cutting people out of one's life. Anyone from acquaintances to significant figures which may include, but are not limited to, close friends and family members are capable of being cut-off from one's life. This act is most commonly, though not exclusively, done at or after the point of conflict/tension within a relationship.
 		R3
 			THS the use of economic warfare (eg. tariffs, targeted sanctions, etc.) against belligerent states in order to force compliance with the rules of the global economic order (eg. opening up the economy, protecting intellectual property, not engaging in currency manipulation, etc.)
+				OG $stats 2, 7, 9, 5
+				OO $stats 8, 5, 6, 4
+				CG $stats 3, 9, 1, 10
+				CO $stats 10, 2, 7, 4
 		R4
 			THP a world with a dominant norm of spiritual fluidity
+				OG $stats 7, 5, 6, 4
+				OO $stats 4, 8, 2, 8
+				CG $stats 9, 2, 7, 4
+				CO $stats 2, 7, 7, 6
 				To be spiritually fluid means to have the experience of being shaped by or maintaining bonds to more than one spiritual or religious community at the same time. To illustrate an example, many Japanese people go in droves to Shinto shrines during New Year, learn morality based on Confucianism, host Christian weddings, and die in Buddhist temples.
 		R5
 			THR the glorification of authenticity of lived experiences in the creation of art
-		Novice SF
-			THBT queer movements in developing nations should attempt to cooperate with religious institutions in pushing for their cause
-		Novice GF
-			THR the dominant narrative that one owes a duty to sacrifice one's self for their community
+				OG $stats 2, 6, 6, 8
+				OO $stats 10, 3, 7, 2
+				CG $stats 5, 8, 3, 6
+				CO $stats 5, 5, 6, 6
 		Pre QF
 			THS states in ongoing civil conflict offering amnesty to defectors of insurgent groups in exchange for them agreeing to serve in the military
+				OG $stats 1, 3
+				OO $stats 2, 2
+				CG $stats 3, 1
+				CO $stats 2, 2
 		QF
 			THO the culture of mythicising the Hijras
+				OG $stats 1, 3
+				OO $stats 4, 0
+				CG $stats 1, 3
+				CO $stats 2, 2
 				In the Indian subcontinent, the Hijras are a socio-religious group of third gender people. They are commonly either eunuchs, intersex people, and/or transgender people. The members of the Hijra comnunity are often seen as mythological beings that have the special powers to bless, and place hexes. They tend to live in well-defined areas, with most living on the margins of society.
 		SF
 			THBT emerging markets should de-dollarize their economies
+				OG $stats 1, 1
+				OO $stats 2, 0
+				CG $stats 0, 2
+				CO $stats 1, 1
 				De-dollarization refers to a range of policies countries can take to reduce their reliance on the US dollar. Examples include issuing national debt in local currency instead of in the dollar, having central banks hold gold instead of US Treasury Bonds as reserves, pushing companies to invoice trade in currencies other than the dollar (e.g. most commodities are priced in dollar terms), etc.
 		GF
 			THBT the Japanese government should break up the LDP
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
 				The Liberal Democratic Party (LDP) has dominated the Japanese political landscape since its inception in 1955. At the moment, the LDP, with massive funding, has no real opposition. It alone currently has 276 seats in the House of Representatives of 465 seats and forms a coalition with Komei Party which has 29 seats. 
 				Its political ideology is often seen as more conservative than the people: it opposes legalising gay marriage and immigration, it emphasises on traditional family values and nationalism, and it advocates strongly for strengthening Japan’s relationship with the US and further militarisation of Japan.
+		Rookie SF
+			THBT queer movements in developing nations should attempt to cooperate with religious institutions in pushing for their cause
+				OG $stats 0, 2
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 2, 0
+		Rookie GF
+			THR the dominant narrative that one owes a duty to sacrifice one's self for their community
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
