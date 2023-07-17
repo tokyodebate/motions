@@ -2,11 +2,11 @@ World Universities Debating Championships
 	Madrid WUDC 2023
 		R1
 			THBT it's in the interest of the team for the player to be excluded from the World Cup finals squad
-				A team that’s recently gained prominence after great performances at the World Cup has advanced to World Cup finals for the first time. After the semi final, the team's top scorer and most important player, while drunk at a bar, publicly instigated a physical fight against another member of the team. When asked to calm down they continued to double down, causing more of a public disruption and seemingly irreconcilable differences with other members of the team.
 				OG $stats 8, 19, 23, 14
 				OO $stats 34, 16, 8, 6
 				CG $stats 13, 10, 17, 24
 				CO $stats 9, 19, 16, 20
+				A team that’s recently gained prominence after great performances at the World Cup has advanced to World Cup finals for the first time. After the semi final, the team's top scorer and most important player, while drunk at a bar, publicly instigated a physical fight against another member of the team. When asked to calm down they continued to double down, causing more of a public disruption and seemingly irreconcilable differences with other members of the team.
 		R2
 			THP the quality of art being viewed as predominantly subjective as opposed to predominantly objective
 				OG $stats 18, 12, 24, 10
@@ -15,51 +15,109 @@ World Universities Debating Championships
 				CO $stats 16, 12, 15, 21
 		R3
 			THBT The Pacific Alliance should introduce a common currency
-				The Pacific Alliance (Spanish: Alianza del Pacífico) is a Latin American trade bloc, formed by Chile, Colombia, Mexico and Peru.
 				OG $stats 9, 15, 23, 17
 				OO $stats 20, 22, 9, 13
 				CG $stats 15, 10, 23, 16
 				CO $stats 20, 17, 9, 18
+				The Pacific Alliance (Spanish: Alianza del Pacífico) is a Latin American trade bloc, formed by Chile, Colombia, Mexico and Peru.
 		R4
 			THBT governments, when determining housing policy, should heavily prioritise supporting renters over home owners
+				OG $stats 27, 14, 13, 10
+				OO $stats 11, 16, 24, 13
+				CG $stats 9, 19, 14, 22
+				CO $stats 17, 15, 13, 19
 		R5
 			THS the increasing prominence of data journalism at the expense of qualitative journalism
+				OG $stats 9, 16, 32, 7
+				OO $stats 23, 17, 17, 7
+				CG $stats 18, 12, 8, 26
+				CO $stats 14, 19, 7, 24
 				Data journalism is a type of journalism reflecting the increased role that numerical data has in the production and distribution of information in the digital era. It reflects the increased interaction between content producers (journalists) and several other fields such as design, computer science and statistics. On the flip side, more traditional forms of journalism are qualitative in approach, focusing more on interpretation and contextualisation.
 		R6
 			In developing countries with a history of ethnic, racial and/or religious tensions, THP a change of power from dominant political parties
+				OG $stats 17, 15, 20, 12
+				OO $stats 18, 16, 16, 14
+				CG $stats 17, 12, 14, 21
+				CO $stats 12, 21, 14, 17
 				For the purposes of this debate, dominant political parties are ones that have won multiple elections and have been in power for a long time. We will assume power can be handed over in a fair election.
 		R7
 			THBT it is in the interests of Taiwan to pursue friendlier ties with China (e.g. economic, political and cultural ties)
+				OG $stats 3, 16, 29, 16
+				OO $stats 33, 12, 11, 8
+				CG $stats 10, 12, 14, 28
+				CO $stats 18, 24, 10, 12
 		R8
 			TH, as an average individual in the world today, would prefer to be immortal
+				OG $stats 12, 16, 23, 13
+				OO $stats 23, 19, 10, 12
+				CG $stats 10, 17, 13, 24
+				CO $stats 19, 12, 18, 15
 		R9
 			THBT the internationalisation of intellectual property law brings more harm than good
-				Intellectual property is a category of property that includes ‘intangible’ creations of human intellect. There are many types of intellectual property including patents, copyrights and trademarks. The ‘internationalisation’ of intellectual property law refers to efforts to make intellectual property rights universally applicable, including the widespread use of treaties to recognise intellectual property rights across different jurisdictions, the creation of the World Intellectual Property Organisation, etc.
-		EFL Finals
-			THBT religious organisations should syncretise over remaining independent
-		ESL Semi Finals
-			THBT education systems in Africa should emphasise pan-African history and identities rather than national ones
-		ESL Finals
-			When they are not part of that religion, THBT feminists should refrain from critiquing widespread religious practices that have different rules based on gender (e.g. wearing of veils, separate prayer spaces, women on their period being forbidden from fasting, Iddah (waiting) period after divorce/death of a husband, etc.)
-		Open Partial Double-Octofinals
+				OG $stats 20, 18, 13, 13
+				OO $stats 17, 17, 18, 12
+				CG $stats 12, 18, 18, 16
+				CO $stats 15, 11, 15, 23
+				Intellectual property is a category of property that includes ‘intangible’ creations of human intellect. There are many types of intellectual property including patents, copyrights and trademarks.
+				The ‘internationalisation’ of intellectual property law refers to efforts to make intellectual property rights universally applicable, including the widespread use of treaties to recognise intellectual property rights across different jurisdictions, the creation of the World Intellectual Property Organisation, etc.
+		PDO
 			THW allow democratic governments to overturn supreme court/constitutional court decisions with a simple majority in the legislature
-		Open Octo Finals
+				OG $stats 4, 4
+				OO $stats 4, 4
+				CG $stats 2, 6
+				CO $stats 6, 2
+		OF
 			THP a focus on societal factors (e.g. socioeconomic factors) as opposed to individual factors (e.g. personal history) when addressing the causes and consequences of mental health issues
-		Open Quarter Finals
+				OG $stats 1, 7
+				OO $stats 2, 6
+				CG $stats 7, 1
+				CO $stats 6, 2
+		QF
 			THBT the IMF removing all conditions on these loans, except for explicit anti corruption provisions, is preferable to the recent conditions to developing countries
+				OG $stats 0, 4
+				OO $stats 3, 1
+				CG $stats 1, 3
+				CO $stats 4, 0
 				During the recent economic crisis, the International Monetary Fund (IMF) has provided certain conditions to developing countries for receiving loans. These conditions require governments to adopt more market based economic policies. Targets include reducing government budget deficits and increasing international currency reserves. The policy conditions provided by the IMF include 1) reducing or eliminating fuel subsidies and fertiliser subsidies; 2) setting the currency exchange rate to international market rates; 3) implementing market-based interest rates; 4) anti corruption provisions.
-		Open Semi Finals
+		SF
 			THR the dominance of left/liberal views at universities
-		Open Grand Final
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 1, 1
+		GF
 			THP a world where all individuals have a strong belief in Ubuntu
-				Ubuntu (“I am because we are”) is a philosophical belief that asserts that people's identities should be shaped by, and their obligations should primarily be owed to, their communities.
-		Masters R1:
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				Ubuntu ("I am because we are") is a philosophical belief that asserts that people's identities should be shaped by, and their obligations should primarily be owed to, their communities.
+		ESL SF
+			THBT education systems in Africa should emphasise pan-African history and identities rather than national ones
+				OG $stats 1, 1
+				OO $stats 0, 2
+				CG $stats 1, 1
+				CO $stats 2, 0
+		ESL GF
+			When they are not part of that religion, THBT feminists should refrain from critiquing widespread religious practices that have different rules based on gender (e.g. wearing of veils, separate prayer spaces, women on their period being forbidden from fasting, Iddah (waiting) period after divorce/death of a husband, etc.)
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+		EFL GF
+			THBT religious organisations should syncretise over remaining independent
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+				Religious Syncretism is the practice of blending cultural/religious indigenous practices with different religious beliefs (for example, the Catholic Church merging traditional saints with local deities in Latin America). Religious Independence is the belief that one's religion must remain tied to a unique set of religious teachings that contain the truth about humanity and divinity.
+		Masters R1
 			THP to live as a cowboy rather than as an astronaut
-		Masters R2:
+		Masters R2
 			THP an absent god to an attentive devil
-		Masters Semi Finals:
+		Masters Semi Finals
 			THS the enforced "retirement" of all dinosaur debaters
-		Masters Grand Final:
+		Masters Grand Final
 			TH, as a debater in the masters final, would rather be doing something else
 	Belgrade WUDC 2022
 		R1:
