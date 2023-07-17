@@ -14,6 +14,7 @@ JPDU Spring Tournament
 				Veto $stats 5, 2, 24
 		R2: Never take advice from someone who's falling apart
 			THO the proliferation of the narrative "What doesn't kill you makes you stronger"
+				Veto $stats 3, 2, 5
 				The narrative of "What doesn't kill you makes you stronger" refers to the idea that by going through difficult experiences, people can build up their strength for the next, possibly more painful event that may occur.
 			THR the dominant narrative of the "Defining Decade"
 				The notion of the "Defining Decade" is one that proposes that your 20s are a crucial time period in one's life that defines the remainder of your life.
