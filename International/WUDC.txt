@@ -120,109 +120,270 @@ World Universities Debating Championships
 		Masters Grand Final
 			TH, as a debater in the masters final, would rather be doing something else
 	Belgrade WUDC 2022
-		R1:
-			In disaster-prone areas, THW replace all state rebuilding and reconstruction efforts with direct cash transfers to affected citizens.
-		R2:
-			THP the Franchise Model to the Qualifier Model for E-Sports leagues.
+		R1
+			In disaster-prone areas, THW replace all state rebuilding and reconstruction efforts with direct cash transfers to affected citizens
+				OG $stats 17, 26, 25, 23
+				OO $stats 38, 19, 22, 12
+				CG $stats 15, 21, 22, 33
+				CO $stats 21, 25, 22, 23
+		R2
+			THP the Franchise Model to the Qualifier Model for E-Sports leagues
+				OG $stats 7, 33, 32, 20
+				OO $stats 27, 26, 24, 15
+				CG $stats 27, 14, 21, 30
+				CO $stats 31, 19, 15, 27
 				There are two dominant models of E-Sports Leagues:
-				The Franchise Model sets up regional leagues, where private groups buy teams which cannot be relegated from the league. Each league is overseen by their own central authority and the league is owned by the teams and game developer. Teams compete in matches throughout a season, at the end of which an eventual champion is named for that league. Prominent examples of E-Sports using this system are League of Legends, Valorant, Overwatch etc.
+				The Franchise Model sets up regional leagues, where private groups buy teams which cannot be relegated from the league. Each league is overseen by their own central authority and the league is owned by the teams and game developer. Teams compete in matches throughout a season, at the end of which an eventual champion is named for that league. Prominent examples of E-Sports using this system are League of Legends, Valorant, Overwatch etc. 
 				The Qualifier Model involves a set of independently run tournaments ranging from smaller regional events to major tournaments that require qualification or invitation based on success at previous tournaments. All of the tournaments are run by different organizations or actors, which can have different criteria for inviting or allowing teams to participate. Prominent examples of E-Sports using this system are CS:GO, Dota 2 etc.
-		R3:
-			THBT LGBTQ+ movements in developing countries should integrate patriotism into their messaging*
-				*including actions such as celebrating LGBTQ+ soldiers, talking openly about being "queer and a patriot", displaying the pride flag with the national symbol, and avoiding actions such as supporting independence movements within the country or publicly criticizing nationalism.
-		R4:
-			THW prohibit companies from regulating the private behaviors of their employees in employment contracts*
-				*e.g., mandatory drug tests, no smoking policies, regulating their employees' social media, prohibiting models/actors from dating etc.
-		R5:
-			THO the emphasis on the struggle against the Ottoman Empire in the history curriculum of Balkan countries.
-				In many Balkan countries that were under Ottoman rule from the 14th to the 19th century (e.g. Bulgaria, Greece, Serbia, etc.), the history curriculum focuses heavily on the national struggle against the Ottoman Empire as well as the crimes of the Ottomans against the local population (e.g. forcibly taking children to join the Janissary military corps, forcible conversions from Orthodox Christianity to Islam, murder and torture of local population etc.). In these countries, the Ottoman Empire is viewed as a colonizer, and those who led national uprisings fighting for independence are revered as national heroes.
-		R6:
-			In times of economic crisis, THW implement fiscal central banking.
-				For the purposes of this debate, "fiscal central banking" refers to an economic system that grants central banks the mandate to control circulation of money in the economy through fiscal policy in addition to monetary policy. Under this system central banks can define limitations for the size of the budget, but not its distribution. i.e. they can decide rates for various taxes and limit or increase overall government spending, but can't decide what the money is spent on.
-		R7:
-			THO the popularization of therapy speak.
-				"Therapy speak" refers to the significant expansion of psychological and medical language and concepts to daily life, outside of the academic context. This could include but is not limited to: - using terms like "toxic" or "gaslighting" when talking about interactions, friendships, or relationships in situations that do not meet the academic definition of these terms - referring to the urge to tidy up as "OCD", or a temporary inability to focus as "ADHD" - partaking in speculative psychiatric diagnoses of others, including public figures
-		R8:
-			THP that the Eastern bloc countries had formed their own Union instead of joining the European Union (EU).
-				In 2004, Poland, Czech Republic, Slovakia, Hungary, Slovenia, Latvia, Lithuania, and Estonia joined the European Union (EU), followed by Bulgaria and Romania in 2007, and Croatia in 2013. For the purposes of this debate, the above countries are 'the Eastern bloc'. Serbia, Bosnia, and Northern Macedonia, along with other countries, are not currently part of the EU, but are aspiring to join the EU.
-		R9:
-			THO the pressure to focus on promoting one's career at the expense of forming a family.
-		EFL Semi Finals:
-			THW grant the power to pardon convicted criminals to pardoning committees instead of government executives (e.g. presidents, governors etc.).
-				For the purposes of this debate, pardoning committees are made up of random citizens from the local community, similar to how jury panels are constructed. Convicted criminals can apply for a pardon, to be reviewed by the pardoning committee.
-		EFL Grand Finals:
-			THP a world in which humans cannot experience nostalgia*
-				*Nostalgia is a sentimental longing or wistful affection for something in the past, typically for a period or place with happy personal associations.
-		ESL Quarter Finals:
-			THO the rise in anti-establishment discourse.
-		ESL Semi Finals:
-			Behind a veil of ignorance, THP to be born with an exceptionally high sense of self-awareness*
-				*Self-awareness is one's innate ability to consciously know and understand their own character, feelings, motives, and desires.
-		ESL Grand Finals:
-			THS the 10 pilots flying to their death.
-				It is the 6th of April, 1941. The bombing of Belgrade by Nazi Germany began at dawn. The air force of Belgrade consists of 10 airplanes and 10 pilots to operate the airplanes. Knowing that they are going into certain death, and that they are unlikely to change the outcome of the bombing, the 10 pilots decide to take to the skies to take down as many Nazi airplanes as they can before dying.
-		Open Partial Double Octo Finals:
-			THBT the environmental movement should take more radical action in the fight against climate change (e.g., blocking roads, vandalism, blowing up pipelines etc.).
-		Open Octo Finals:
-			THW ban corporate residential landlords*
-				*Corporate residential landlords refers to corporations that own and maintain multiple apartments for the purpose of renting them out for residential use.
-		Open Quarter Finals:
-			THW ban the use of advanced analytics in political campaigns.
-				Advanced Analytics is the autonomous or semi-autonomous examination of data or content. It involves using sophisticated techniques such as machine learning algorithms, deep learning, predictive modelling, or other tools to discover deeper insights, make predictions, or generate recommendations. Advanced Analytics can be used for political microtargeting, which involves identifying the detailed profile of individual voters and voter groups, testing the most persuasive messages, and tailoring campaign strategy to target different voter profiles.
-		Open Semi Finals:
-			THP religions that "center the self" to religions that "reject the self".
-				For the purposes of this debate, religions that "center the self" embrace human existence and individual experiences as special. Believers are asked to consider their choices and experiences, struggles, and connection to God as uniquely important and a path to salvation. In contrast, religions that "reject the self" explicitly reject the idea that human existence and individual experiences are special. Believers are asked to accept individual experiences as temporary and unimportant, and individuality as an illusion that causes unhappiness.
-		Open Grand Finals:
-			THS a decline in global reliance on the dollar.
+		R3
+			THBT LGBTQ+ movements in developing countries should integrate patriotism into their messaging* *including actions such as celebrating LGBTQ+ soldiers, talking openly about being "queer and a patriot", displaying the pride flag with the national symbol, and avoiding actions such as supporting independence movements within the country or publicly criticizing nationalism
+				OG $stats 19, 21, 27, 24
+				OO $stats 27, 19, 30, 15
+				CG $stats 19, 23, 15, 34
+				CO $stats 26, 28, 19, 18
+		R4
+			THW prohibit companies from regulating the private behaviors of their employees in employment contracts* *e.g., mandatory drug tests, no smoking policies, regulating their employees' social media, prohibiting models/actors from dating etc
+				OG $stats 21, 27, 22, 21
+				OO $stats 22, 19, 38, 12
+				CG $stats 20, 24, 16, 31
+				CO $stats 28, 21, 15, 27
+		R5
+			THO the emphasis on the struggle against the Ottoman Empire in the history curriculum of Balkan countries
+				OG $stats 22, 28, 21, 20
+				OO $stats 19, 25, 29, 18
+				CG $stats 25, 23, 19, 24
+				CO $stats 25, 15, 22, 29
+				In many Balkan countries that were under Ottoman rule from the 14th to the 19th century (e.g. Bulgaria, Greece, Serbia, etc.), the history curriculum focuses heavily on the national struggle against the Ottoman Empire as well as the crimes of the Ottomans against the local population (e.g. forcibly taking children to join the Janissary military corps, forcible conversions from Orthodox Christianity to Islam, murder and torture of local population etc.). 
+				In these countries, the Ottoman Empire is viewed as a colonizer, and those who led national uprisings fighting for independence are revered as national heroes.
+		R6
+			In times of economic crisis, THW implement fiscal central banking
+				OG $stats 27, 25, 21, 17
+				OO $stats 16, 26, 29, 19
+				CG $stats 23, 21, 20, 26
+				CO $stats 24, 18, 20, 28
+				For the purposes of this debate, "fiscal central banking" refers to an economic system that grants central banks the mandate to control circulation of money in the economy through fiscal policy in addition to monetary policy. Under this system central banks can define limitations for the size of the budget, but not its distribution. i.e. they can decide rates for various taxes and limit or increase overall government spending, but can't decide what the money is spent on
+		R7
+			THO the popularization of therapy speak
+				OG $stats 22, 24, 27, 16
+				OO $stats 28, 28, 19, 14
+				CG $stats 20, 18, 24, 27
+				CO $stats 19, 19, 19, 32
+				"Therapy speak" refers to the significant expansion of psychological and medical language and concepts to daily life, outside of the academic context.
+				This could include but is not limited to: 
+				- using terms like "toxic" or "gaslighting" when talking about interactions, friendships, or relationships in situations that do not meet the academic definition of these terms
+				- referring to the urge to tidy up as "OCD", or a temporary inability to focus as "ADHD"
+				- partaking in speculative psychiatric diagnoses of others, including public figures
+		R8
+			THP that the Eastern bloc countries had formed their own Union instead of joining the European Union (EU)
+				OG $stats 11, 21, 28, 29
+				OO $stats 40, 24, 16, 9
+				CG $stats 11, 21, 23, 34
+				CO $stats 27, 23, 22, 17
+				In 2004, Poland, Czech Republic, Slovakia, Hungary, Slovenia, Latvia, Lithuania, and Estonia joined the European Union (EU), followed by Bulgaria and Romania in 2007, and Croatia in 2013. For the purposes of this debate, the above countries are 'the Eastern bloc'.
+				Serbia, Bosnia, and Northern Macedonia, along with other countries, are not currently part of the EU, but are aspiring to join the EU.
+		R9
+			THO the pressure to focus on promoting one's career at the expense of forming a family
+				OG $stats 13, 17, 29, 28
+				OO $stats 35, 23, 19, 10
+				CG $stats 17, 19, 23, 28
+				CO $stats 22, 28, 16, 21
+		PDO
+			THBT the environmental movement should take more radical action in the fight against climate change (e.g., blocking roads, vandalism, blowing up pipelines etc.)
+				OG $stats 3, 5
+				OO $stats 6, 2
+				CG $stats 3, 5
+				CO $stats 4, 4
+		OF
+			THW ban corporate residential landlords* *Corporate residential landlords refers to corporations that own and maintain multiple apartments for the purpose of renting them out for residential use
+				OG $stats 3, 5
+				OO $stats 5, 3
+				CG $stats 2, 6
+				CO $stats 6, 2
+		QF
+			THW ban the use of advanced analytics in political campaigns
+				OG $stats 3, 1
+				OO $stats 2, 2
+				CG $stats 3, 1
+				CO $stats 0, 4
+				Advanced Analytics is the autonomous or semi-autonomous examination of data or content. It involves using sophisticated techniques such as machine learning algorithms, deep learning, predictive modelling, or other tools to discover deeper insights, make predictions, or generate recommendations. 
+				Advanced Analytics can be used for political microtargeting, which involves identifying the detailed profile of individual voters and voter groups, testing the most persuasive messages, and tailoring campaign strategy to target different voter profiles.
+		SF
+			THP religions that "center the self" to religions that "reject the self"
+				OG $stats 1, 1
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 0, 2
+				For the purposes of this debate, religions that "center the self" embrace human existence and individual experiences as special. Believers are asked to consider their choices and experiences, struggles, and connection to God as uniquely important and a path to salvation. 
+				In contrast, religions that "reject the self" explicitly reject the idea that human existence and individual experiences are special. Believers are asked to accept individual experiences as temporary and unimportant, and individuality as an illusion that causes unhappiness.
+		GF
+			THS a decline in global reliance on the dollar
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+		ESL QF
+			THO the rise in anti-establishment discourse
+				OG $stats 1, 3
+				OO $stats 3, 1
+				CG $stats 1, 3
+				CO $stats 3, 1
+		ESL SF
+			Behind a veil of ignorance, THP to be born with an exceptionally high sense of self-awareness* *Self-awareness is one's innate ability to consciously know and understand their own character, feelings, motives, and desires
+				OG $stats 2, 0
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 0, 2
+		ESL GF
+			THS the 10 pilots flying to their death
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+				It is the 6th of April, 1941. The bombing of Belgrade by Nazi Germany began at dawn. 
+				The air force of Belgrade consists of 10 airplanes and 10 pilots to operate the airplanes. Knowing that they are going into certain death, and that they are unlikely to change the outcome of the bombing, the 10 pilots decide to take to the skies to take down as many Nazi airplanes as they can before dying.
+		EFL SF
+			THW grant the power to pardon convicted criminals to pardoning committees instead of government executives (e.g. presidents, governors etc.)
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 1, 1
+				For the purposes of this debate, pardoning committees are made up of random citizens from the local community, similar to how jury panels are constructed.
+				Convicted criminals can apply for a pardon, to be reviewed by the pardoning committee.
+		EFL GF
+			THP a world in which humans cannot experience nostalgia* *Nostalgia is a sentimental longing or wistful affection for something in the past, typically for a period or place with happy personal associations
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
 	Korea WUDC (2021)
-		R1:
+		R1
 			TH, as South Korea, would aim to significantly increase its cross-border economic cooperation with North Korea
-		R2:
-			THW ban social media companies from independently deplatrforming politicians
-		R3:
+				OG $stats 17, 24, 33, 19
+				OO $stats 20, 24, 25, 24
+				CG $stats 31, 21, 17, 24
+				CO $stats 25, 24, 18, 26
+		R2
+			THW ban social media companies from independently deplatforming politicians
+				OG $stats 17, 29, 31, 16
+				OO $stats 35, 26, 13, 19
+				CG $stats 19, 21, 19, 34
+				CO $stats 21, 17, 29, 26
+		R3
 			THP environmental movements heavily prioritizing a local agenda over a global one (e.g., focusing on local pollution rather than climate change)
-		R4:
+				OG $stats 24, 32, 21, 16
+				OO $stats 26, 21, 24, 22
+				CG $stats 21, 19, 23, 30
+				CO $stats 22, 20, 25, 26
+		R4
 			THO the glorification of professional e-sports players
-		R5:
-			THO the general approach of companies to grow by massively sacrificing short-term profitability with the hope of gaining a large portion of the market*
-				*e.g. the original business model of companies such as Uber or Amazon
-		R6:
+				OG $stats 22, 14, 34, 23
+				OO $stats 19, 30, 33, 11
+				CG $stats 18, 27, 11, 37
+				CO $stats 33, 21, 15, 24
+		R5
+			THO the general approach of companies to grow by massively sacrificing short-term profitability with the hope of gaining a large portion of the market* *e.g. the original business model of companies such as Uber or Amazon
+				OG $stats 21, 26, 24, 21
+				OO $stats 28, 27, 21, 16
+				CG $stats 20, 20, 24, 28
+				CO $stats 23, 19, 23, 27
+		R6
 			THBT it is in the interest of the Catholic church to officially recognize Folk Saints
-				Folk Saints are dead people recognized by the general population as saints who were not officially acknowledged as saints by the Catholic church. Unlike regular saints, they lived lives that the church considers sinful. They are popular in many regions, especially in Latin America. Examples include Sarita Colonia that answers the prayers of sex workers & LGBT people; and Juan Soldado that answers the prayers of people who commit low-level crimes out of financial desperation.
-		R7:
-			THBT pursuing strong expansionist policies* in the Arctic region is in the Russian interest
-				*Including but not limited to: building artificial islands in order to claim additional territory, trying to significantly limit foreign presence, stationing warships and troops
-		R8:
-			THO the academisation* of social justice movements
-				*The increasingly significant presence of academics and academic terminology, processes and structures in many parts of the world
-		R9:
-			THBT states should classify organized crime syndicates as terrorist groups*
-				*classification as a terrorist group would legally allow law enforcement to pursue tactics such as targeted extra-judicial killings, reducing barriers to law enforcement gathering evidence, using military forces, criminalizing membership, etc
-		ESL_Quarters:
-			THW teach children to have a logical approach to life, even at the expense of reducing their emotional bandwidth (e.g. trying to react in less emotional ways, prioritising logic over emotions when approaching problem-solving, etc.)
-		ESL_Semis_finals:
-			THBT police commissioners should be directly elected by their local community.
-		ESL_Grand_finals:
-			THBT governments would be justified in heavily pursuing Longtermism
-				For the purposes of this debate, supporters of Longtermism believe that significantly more beings will be alive during the future, and that we should assign moral value to the unborn. Thus, they conclude that when evaluating our actions today, the largest consideration is how they affect the future. Potential examples of Longtermist policies can include encouraging people to dedicate their lives to reducing long-run existential risks, allocating a substantial portion of the budget to try and improve the welfare of future generations, or trying to expand humanity to other planets. Under a Longtermist view such policies are ethical even if they come at the very strong expense of more immediate and certain goals like poverty reduction, providing healthcare or increasing the happiness of the living.
-		Master's GF:
-			TH loves online debating and supports all competitive debating being held exclusively online indefinitely regardless of external factors (e.g pandemic)
-		EFL_Semis_finals:
-			THP a world in which the Resident Evil machine exists
-				Resident Evil is a VR machine. It leads its user through a set of scenarios aimed at testing whether the user would diverge from universal moral norms. These norms could include not killing, not stealing, not betraying others, or similar. While connected, the simulated scenarios feel completely real to the user. All adults are tested on Resident Evil and their results are publicly available.
-		EFL_Grand_finals:
-			THBT international discussion forums should not self-censor* in an attempt to increase inclusivity to people from countries with stringent freedom-of-speech rules.
-				*Examples of self-cenorship are: AI conferences avoiding discussions on the implications of the use of a certain technology by oppressive regimes; competitions censoring topics; moderators removing politically sensitive content from discussion boards
-		Open_Octos:
+				OG $stats 24, 27, 33, 8
+				OO $stats 27, 19, 24, 22
+				CG $stats 15, 24, 19, 34
+				CO $stats 25, 21, 16, 30
+				Folk Saints are dead people recognized by the general population as saints who were not officially acknowledged as saints by the Catholic church.
+				Unlike regular saints, they lived lives that the church considers sinful. They are popular in many regions, especially in Latin America. Examples include Sarita Colonia that answers the prayers of sex workers & LGBT people; and Juan Soldado that answers the prayers of people who commit low-level crimes out of financial desperation.
+		R7
+			THBT pursuing strong expansionist policies* in the Arctic region is in the Russian interest *Including but not limited to: building artificial islands in order to claim additional territory, trying to significantly limit foreign presence, stationing warships and troops
+				OG $stats 20, 25, 32, 15
+				OO $stats 20, 29, 21, 22
+				CG $stats 28, 18, 17, 29
+				CO $stats 23, 19, 22, 28
+		R8
+			THO the academisation* of social justice movements *The increasingly significant presence of academics and academic terminology, processes and structures in many parts of the world
+				OG $stats 12, 27, 29, 24
+				OO $stats 27, 32, 22, 11
+				CG $stats 21, 15, 16, 40
+				CO $stats 30, 17, 23, 22
+		R9
+			THBT states should classify organized crime syndicates as terrorist groups* *classification as a terrorist group would legally allow law enforcement to pursue tactics such as targeted extra-judicial killings, reducing barriers to law enforcement gathering evidence, using military forces, criminalizing membership, etc
+				OG $stats 17, 25, 28, 22
+				OO $stats 31, 21, 21, 19
+				CG $stats 18, 27, 16, 31
+				CO $stats 24, 17, 26, 25
+		PDO
+			THS developing states falsifying their history in order to create a unified national identity
+				OG $stats 3, 5
+				OO $stats 4, 4
+				CG $stats 5, 3
+				CO $stats 4, 4
+		OF
 			THS the rise of language-generating AI
-				For the purpose of this debate, 'language-generating AI' is AI that can generate fluent streams of text after processing billions of words from sources such as books, articles and websites. Language-generating AI could conceivably have the potential to write press releases, stories, debate speeches, guitar tabs, scientific hypotheses, technical manuals, code, and more. In limited contexts, the latest versions of the advanced language generating technology were found to be indistinguishable from human writing, however the technology as a whole is still error-prone. Language-generating AI already has commercial & research applications by large organizations, and the technology is expected to rapidly develop in versatility & scale in the near future.
-		Open_Quarters:
+				OG $stats 3, 5
+				OO $stats 5, 3
+				CG $stats 4, 4
+				CO $stats 4, 4
+				For the purpose of this debate, 'language-generating AI' is AI that can generate fluent streams of text after processing billions of words from sources such as books, articles and websites.
+				Language-generating AI could conceivably have the potential to write press releases, stories, debate speeches, guitar tabs, scientific hypotheses, technical manuals, code, and more.
+				In limited contexts, the latest versions of the advanced language generating technology were found to be indistinguishable from human writing, however the technology as a whole is still error-prone.
+				Language-generating AI already has commercial & research applications by large organizations, and the technology is expected to rapidly develop in versatility & scale in the near future.
+		QF
 			THO the Biden Administration plan to finance large scale governmental projects through multi-trillion dollar fiscal stimulus
-		Open_Semi_finals:
+				OG $stats 2, 2
+				OO $stats 4, 0
+				CG $stats 1, 3
+				CO $stats 1, 3
+		SF
 			THP to live an average anonymous life in South Korea over being a K-Pop star
-		Open_Grand_finals:
+				OG $stats 2, 0
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 0, 2
+		GF
 			THS the creation of an international court with a mandate to prosecute leaders for health crimes
-				For the purposes of this debate 'health crimes' are massive violations of the international health codes. For example, the unwillingness to comply with the WHO's regulations on dealing with pandemics, a significant violation of norms on the prescription of antibiotics, breaching the experimentation codes of ethics.
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				For the purposes of this debate 'health crimes' are massive violations of the international health codes.
+				For example, the unwillingness to comply with the WHO's regulations on dealing with pandemics, a significant violation of norms on the prescription of antibiotics, breaching the experimentation codes of ethics.
+		ESL QF
+			THW teach children to have a logical approach to life, even at the expense of reducing their emotional bandwidth (e.g. trying to react in less emotional ways, prioritising logic over emotions when approaching problem-solving, etc.)
+				OG $stats 1, 3
+				OO $stats 2, 2
+				CG $stats 2, 2
+				CO $stats 3, 1
+		ESL SF
+			THBT police commissioners should be directly elected by their local community
+				OG $stats 2, 0
+				OO $stats 0, 2
+				CG $stats 0, 2
+				CO $stats 2, 0
+		ESL GF
+			THBT governments would be justified in heavily pursuing Longtermism
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				For the purposes of this debate, supporters of Longtermism believe that significantly more beings will be alive during the future, and that we should assign moral value to the unborn. Thus, they conclude that when evaluating our actions today, the largest consideration is how they affect the future.
+				Potential examples of Longtermist policies can include encouraging people to dedicate their lives to reducing long-run existential risks, allocating a substantial portion of the budget to try and improve the welfare of future generations, or trying to expand humanity to other planets.
+				Under a Longtermist view such policies are ethical even if they come at the very strong expense of more immediate and certain goals like poverty reduction, providing healthcare or increasing the happiness of the living.
+		EFL SF
+			THP a world in which the Resident Evil machine exists
+				OG $stats 2, 0
+				OO $stats 0, 2
+				CG $stats 2, 0
+				CO $stats 0, 2
+				Resident Evil is a VR machine. It leads its user through a set of scenarios aimed at testing whether the user would diverge from universal moral norms. These norms could include not killing, not stealing, not betraying others, or similar. While connected, the simulated scenarios feel completely real to the user. All adults are tested on Resident Evil and their results are publicly available.
+		EFL GF
+			THBT international discussion forums should not self-censor* in an attempt to increase inclusivity to people from countries with stringent freedom-of-speech rules. *Examples of self-cenorship are: AI conferences avoiding discussions on the implications of the use of a certain technology by oppressive regimes; competitions censoring topics; moderators removing politically sensitive content from discussion boards
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+		Masters GF:
+			TH loves online debating and supports all competitive debating being held exclusively online indefinitely regardless of external factors (e.g pandemic)
 	Thailand WUDC (2020)
 		R1:
 			This House would impose a BBC-style impartiality requirement on all news platforms.
