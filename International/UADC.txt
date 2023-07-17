@@ -2,118 +2,214 @@ United Asia Debating Championship
 	Malaysia UADC 2023
 		R1
 			THP that schools in developing countries focus substantially on teaching pre-colonial history rather than the anti-colonial resistance in history classes
+				Balance $stats 8, 14, 58
+				Veto $stats 24, 8, 116
 			THS the media romanticization of Asian students' enrollment in Western universities
-			THBT liberal art courses in public universities should aggressively restructure their syllabus to prioritize the employability of their graduates, even at the expense of providing holistic and in-depth
+				Balance $stats 5, 13, 58
+				Veto $stats 22, 20, 116
+			THBT liberal art courses in public universities should aggressively restructure their syllabus to prioritize the employability of their graduates, even at the expense of providing holistic and in-depth learning to fulfil the students' academic interests
+				Balance $stats 13, 5, 58
+				Veto $stats 12, 30, 116
 		R2
 			THBT student unionism should prioritize engaging in the internal affairs of universities rather than mainstream political issues
+				Balance $stats 14, 3, 56
+				Veto $stats 14, 25, 112
 			In countries with emerging economies, TH, as the labour movement, W oppose efforts towards transitioning from an industrial structure centred on the manufacturing sector to one centred on the service sector
+				Balance $stats 6, 9, 56
+				Veto $stats 22, 28, 112
 			THBT feminist movements in the developing world should significantly prioritize being celebratory in their advocacy as opposed to being solemn
+				Balance $stats 15, 9, 56
+				Veto $stats 20, 3, 112
 				"Celebratory advocacy" embraces a positive and joyful approach to advocacy, utilizing music, dance, and art to inspire engagement and unity. It emphasizes celebrating achievements, fostering community, and highlighting the movement's successes.
 				On the other hand, "solemn advocacy" takes on a serious and reflective tone, drawing attention to challenges or injustices. It aims to evoke empathy, inspire deep reflection, and mobilize for change through emotional pleas and powerful expressions of dissatisfaction.
 		R3
 			THW introduce a luxury tax model on club level football salaries
-				The "luxury tax model" refers to imposing a "tax" if a club crosses the median total squad salary of clubs of that league. As per this tax, the club will have to pay the league association an equal mount for every dollar/pound/euro spent over the median value.
-				e.g. If the median total salary of a club in a league is 100 Million, and club X wants to have a total salary spending of 125 Million, then X will have to pay the league association luxury tax of 25 Million making their total cost 150 Million (125 M + 25 M).
+				Balance $stats 9, 4, 56
+				Veto $stats 23, 29, 112
+				The "luxury tax model" refers to imposing a "tax" if a club crosses the
+				median total squad salary of clubs of that league. As per this tax, the club
+				will have to pay the league association an equal amount for every dollar/pound/euro spent over the median value.
+				e.g. If the median total salary of a club in a league is 100 Million, and club X
+				wants to have a total salary spending of 125 Million, then X will have to pay
+				the league association luxury tax of 25 Million making their total cost 150 Million (125 M + 25 M).
 			THW choose to quit competitive chess and become a full-time chess streamer
+				Balance $stats 20, 9, 56
+				Veto $stats 10, 12, 112
 				I) Competitive chess follows a ranking system which divides players into tiers based on their rating. The 3 highest tiers of chess are Grandmaster (attained by roughly 1% of all chess players), followed by International Master (roughly 5%) and then FIDE Master (roughly 15% of all chess players).
 				II) You are a male professional chess player in your mid-thirties who has achieved FIDE Master status. Despite multiple attempts to advance further you have been unsuccessful in attaining an International Master (IM) status.
-				III) You also run a relatively well-known chess channel on social media platforms (Youtube, Twitch etc.) which has become increasingly hard to manage given your preparation for competitive chess.
+				III) You also run a relatively well-known chess channel on social media platforms
+				(Youtube, Twitch etc.) which has become increasingly hard to manage given your preparation for competitive chess.
 			THBT football clubs should actively disassociate from their 'Ultras'
+				Balance $stats 8, 6, 56
+				Veto $stats 23, 15, 112
 				I) In club football, 'Ultras' refer to a long-standing group of institutional fans renowned for their fanatical support. They are membership-based organizations that aim to create an atmosphere which intimidates opposing teams/fans through the use of verbal support, flares, banners etc. In some cases, Ultras have been associated with violent altercations with rival fans during games.
 				II) While Ultras are not directly associated with the football club, they organize meetings with the staff/coaches and have reserved seats in stadiums.
-				III) Many Ultras also engage in political activism across the spectrum. Examples include Indonesian club Persebaya's Ultras (the Bonek) campaigning against FIFA corruption, Turkish club Beşiktaş’ “Çarşı”protesting against president Erdogan's repression and Inter Milan's Curva Nord supporting right-wing Italian politics.
+				III) Many Ultras also engage in political activism across the spectrum. Examples include Indonesian club Persebaya's Ultras (the Bonek) campaigning against FIFA corruption, Turkish club Beşiktaş’ "Çarşı"protesting against president Erdogan's repression and Inter Milan's Curva Nord supporting right-wing Italian politics.
 		R4
-			THS a widespread adoption of debt-fornature swaps in financially distressed developing countries
-				Debt-for-nature swaps refer to a transaction in which an amount of debt owed by a developing country government is cancelled or reduced by a creditor, in exchange for the debtor making financial commitments to conservation.
+			THS widespread adoption of debt-for-nature swaps in financially distressed developing countries
+				Balance $stats 11, 16, 56
+				Veto $stats 4, 21, 112
+				Debt-for-nature swaps refer to a transaction in which an amount of debt owed by a developing country government is cancelled or reduced by a creditor in exchange for the debtor making financial commitments to conservation.
 			THO Olive finance
+				Balance $stats 5, 13, 56
+				Veto $stats 24, 5, 112
 				Olive finance refers to instances of private financial institutions funding renewable projects by companies that are heavily polluting in other parts of their operations i.e. companies that are gradually shifting from brown to green.
-			TH, as a prominent sustainability-focused hedge fund, would pursue an aggressive short-selling strategy against carbonintensive stocks (for example, fossil fuels/energy companies etc.)
-				I) A sustainablity-focused hedge fund pools investor money and uses multiple strategies to maximize the environmental impact of their investments while trying to provide high returns to investors
-				II) Short selling is the act of borrowing shares from others and selling them in the market with a hope that they can be bought cheaper later. It is a strategy that speculates on the decline of the stock's price in order to make a profit.
+			TH, as a prominent sustainability-focused hedge fund, W pursue an aggressive short-selling strategy against carbon-intensive stocks (for example, fossil fuels/energy companies etc.)
+				Balance $stats 2, 9, 56
+				Veto $stats 28, 30, 112
+				I) A sustainablity-focused hedge fund pools investor money and uses multiple strategies to maximize the environmental impact of their investments while trying to provide high returns to investors.
+				II) Short selling is the act of borrowing shares from others and selling them in the market with the hope that they can be bought cheaper later. It is a strategy that speculates on the decline of the stock's price in order to make a profit.
 		R5
 			THO the romanticization of youth
+				Balance $stats 8, 12, 56
+				Veto $stats 9, 14, 110
 			THR the narrative that individuals should be wholly resilient against other people's judgements in interpersonal relationships
-			TH, as a working class individual, would choose to live with a passively nihilistic disposition
+				Balance $stats 4, 7, 56
+				Veto $stats 33, 28, 110
+			TH, as a working class individual, W choose to live with a passively nihilistic disposition
+				Balance $stats 14, 11, 56
+				Veto $stats 13, 13, 110
 				For the purpose of this debate, "passive nihilism" refers to an attitude where an individual does not have or believes in hopes and aspirations and rather leaves themselves content with simple pleasures.
 		R6
 			THBT all large data AI repositories should be forced to pay companies for training data skimmed from the internet, even in instances where they are typically free for users (e.g. youtube, Reddit, Facebook, CNN, BBC, etc.)
-			TH, as Roscosmos, would withdraw participation from the International Space Station
+				Balance $stats 8, 6, 56
+				Veto $stats 26, 16, 112
+			TH, as Roscosmos, W withdraw participation from the International Space Station
+				Balance $stats 8, 11, 56
+				Veto $stats 22, 12, 112
 				The International Space Station (ISS) is a multinational cooperative project involving the United States, Russia, Canada, Europe, and Japan. The construction of the ISS began in 1998, and it has been continuously inhabited since November 2000.
 				Roscosmos, Russia's space agency, has played a key role in starting the station. Examples of their contributions are: the Zarya module, the first module launched by the ISS that provided electrical power, storage, and guidance to the ISS during the initial stages of construction; the Zvezda service module, which serves as a key control center, living quarters, and life support system on board; and Russian research and laboratory modules.
 				In July 2022, Roscomos' head, Yury Borisov, announced intent to withdraw from the ISS after 2024 to build their own Russian station. No formalized request has been sent to NASA.
 			THBT that Taiwan Semiconductor Manufacturing Company (TSMC) should aggressively aim for global expansion
+				Balance $stats 16, 7, 56
+				Veto $stats 8, 28, 112
 				The Taiwan Semiconductor Manufacturing Company (TSMC) is a Taiwanese private company that produces 80-90% of the world's most advanced semiconductor chips and currently supplies to major companies like Apple, Nvidia etc. While the central govt of Taiwan is its largest shareholder, the company is majority owned by multiple foreign investors. Since the late 2020s, TSMC has gradually opened chip factories in the US and Japan - although majority of the chip manufacturing continues to reside within Taiwan.
 		R7
 			THBT it is in the best interest of the Bangladesh government to dissolve the RAB
-				The Rapid Action Battalion (RAB) is an elite paramilitary force of Bangladesh formed in 2004, comprising members from various law enforcement agencies and is tasked with combatting crime, terrorism, and counter-narcotics.
+				Balance $stats 10, 12, 56
+				Veto $stats 11, 17, 112
+				The Rapid Action Battalion (RAB) is an elite paramilitary force of Bangladesh formed in 2004, comprising members from various law enforcement agencies and is tasked with combatting crime, terrorism, and counter-narcotics. 
 				While it has been credited with reducing crime rates, over the years RAB has received regular criticism from the international community on its lack accountability and alleged human rights violations, examples being the US sanctioning certain members and accusations from Human Rights Watch.
-				RAB has a mixed reception from the Bangladesh citizens with some crediting them for reducing crime and terrorism through their swift actions, and others showing concern about RAB enjoying impunity and becoming a political tool
+				RAB has a mixed reception from the Bangladesh citizens with some crediting them for reducing crime and terrorism through their swift actions, and others showing concern about RAB enjoying impunity and becoming a political tool.
 			THBT India should substantially ease restrictions on Chinese trade and investment
+				Balance $stats 11, 13, 56
+				Veto $stats 18, 7, 112
 				In late 2020, as a response to ongoing border skirmishes, India enacted a series of restrictions limiting Chinese FDI and imposed high import tariffs on Chinese goods and services.
 			TH, as the Pakistan Democratic Movement (PDM), regrets the Vote of No Confidence
+				Balance $stats 8, 2, 56
+				Veto $stats 27, 32, 112
 				In April 2022, a coalition of opposition parties in Pakistan called the Pakistan Democratic Movement (PDM) filed a motion of no confidence against Prime Minister Imran Khan, accusing him of poor governance and political victimization. As a result, Khan was removed from office as the country's prime minister and PDM came into power. Following the vote of no confidence, Khan's political party, the Pakistan Tehreek-e-Insaf (PTI), and his supporters initiated protests against state institutions, claiming that his removal was influenced by Western interference and the military establishment. Khan's PTI party won a significant victory in a by-election in Punjab province in July 2022, but despite this Khan was disqualified from running for public office by the election commission for five years -- resulting in protests to force early elections. Khan was shot in the leg during a protest in Lahore, and eventually was arrested by paramilitary security officials in a case filled by the anti-corruption body. This escalated PTI supporters to descend into violent riots, causing extensive damage to the government and military. Eventually Imran Khan was released on bail after a few days of the protests.
 		R8
 			THBT artists from minority groups, in order to depict the experiences of their community, should primarily rely on speculative art as opposed to representational art
+				Balance $stats 19, 7, 53
+				Veto $stats 15, 8, 102
 				Speculative art refers to a genre or category of artistic expression that explores and imagines alternative or future realities, often incorporating elements of science fiction, fantasy, or surrealism (e.g Get Out, Black Panther, The Handmaid's Tale).
 				Representational art strives to faithfully portray and capture the likeness and details of the observed world and real world experiences (Hidden Figures, Moonlight, The Namesake).
 			THR the rise of streaming shows at the expense of network shows
+				Balance $stats 4, 13, 53
+				Veto $stats 28, 11, 102
 				Network shows are broadcasted on traditional television networks, follow a scheduled release model, rely on advertising revenue and are subject to broadcasting regulations (Friends, Grey's Anatomy, The Walking Dead etc).
 				Streaming shows are distributed through online platforms, offer on-demand viewing with flexible release models, and generally have significantly fewer episodes per season (Stranger Things, Fleabag, The Crown etc).
-			TH, as an individual member of the group, would significantly prioritize pursuing solo careers over continuing group activities
+			TH, as an individual member of the group, W significantly prioritize pursuing solo careers over continuing group activities
+				Balance $stats 4, 6, 53
+				Veto $stats 8, 32, 102
 				You are part of a popular K-Pop idol group that has acquired significant popularity over the last couple of years. Your contract with your entertainment agency is coming to an end, and you will be contemplating whether to renew this contract. A few members of your group will also be expected to fulfil their mandatory 2-year military service soon.
+		DO
+			TH, as the LGBTQ+ community in the developing world, W prioritize grassroots community building over seeking broad national and legislative changes
+				Balance $stats 4, 7, 16
+				Veto $stats 0, 5, 32
+			THBT the queer movements should stray away from emphasizing intra-community struggles towards fostering relatability outside the community (e.g. the message of "No One is Fully Straight)
+				Balance $stats 1, 1, 16
+				Veto $stats 12, 3, 32
+			THBT the business gay performance in pop culture does more harm than good to the queer rights
+				Balance $stats 1, 2, 16
+				Veto $stats 4, 8, 32
+				"Business gay performance" refers to a form of queerbaiting done by male pop stars during their on stage performance, where they exhibit acts and conducts that make them resemble romantic relationship, such as close physical contact, mostly to please their female fanbase.
+		OF
+			TH, as NATO, supports Ukraine engaging in aggressive offensive special military operations in Russia (e.g. striking Russian air bases, intercepting infrastructure and logistics chains in sovereign Russian territory, and attempting to target high ranking members of the Russian state)
+				Balance $stats 2, 1, 8
+				Veto $stats 2, 3, 16
+			TH, as the Biden Administration, regrets the Public Service Loan Forgiveness (PSLF) program
+				Balance $stats 1, 2, 8
+				Veto $stats 2, 3, 16
+				The Public Service Loan Forgiveness (PSLF) program is an initiative taken by the Biden administration to ease the burden of repaying federal loans for eligible students by shouldering up to $20,000 in debt. As of the beginning of May 2023, the United States Department of Education has approved a total of $42 billion in PSLF for more than 615,000 borrowers since October 2021.
+			In liberal democracies with an incumbent right-wing populist government, THP that the left-wing coalition elect politician with a radical left-leaning ideology (e.g. Bernie Sanders, Elly Schlein, etc.) rather than centre-left politicians as the leader
+				Balance $stats 0, 2, 8
+				Veto $stats 4, 2, 16
+		QF
+			THBT Southeast Asian economies with a heavy reliance on low-value manufacturing (Vietnam, Indonesia etc.) should prioritize moving up the manufacturing value chain (for example, producing complex product parts as opposed to performing manual product assembly)
+				Balance $stats 2, 0, 4
+				Veto $stats 0, 1, 8
+			THBT that the Bank of Japan (BOJ) should pursue a strategy of monetary policy tightening
+				Balance $stats 0, 0, 4
+				Veto $stats 4, 3, 8
+				The Bank of Japan (BoJ) has traditionally pursued a range of 'loose monetary policy measures' such as maintaining negative interest rates, aggressive bond buying to control government bond yields etc. in order to control deflation in the Japanese economy. As of Jan 2023, Japan's inflation rate hit a 42-year high of 4.2%.
+			THBT Bhutan's efforts towards launching green cryptocurrency mining will do more harm than good
+				Balance $stats 1, 1, 4
+				Veto $stats 0, 0, 8
+				In 2023, the govt of Bhutan launched one of its largest economic ventures - a $500 million fund along with Nasdaq-listed company Bitdeer Technologies for starting green cryptocurrency mining operations in the country (i.e. cryptocurrency mining powered by hydroelectricity).
+		SF
+			THS the Philippines' proposal for creation of the Maharlika Investment Fund (MIF)
+				Balance $stats 0, 1, 2
+				Veto $stats 0, 1, 4
+				The Maharlika Investment Fund (MIF) is a sovereign wealth fund currently being pushed in the Philippines. Initial capital will be sourced from the Bangko Central ng Pilipinas, as well as other government financial institutions (GFIs) (e.g. Government Service Insurance System, Social Security System, Philippine Health Insurance Corp., etc.). The MIF is aimed to be used primarily for investment in outlets such as commercial real estate, and infrastructure projects, among others.
+			THBT Indonesia should implement a closed voting system for the 2024 elections
+				Balance $stats 0, 0, 2
+				Veto $stats 2, 1, 4
+				An open voting system is a method of voting where voters can directly elect the legislative candidates promoted by political parties. A closed voting system is a method where voters cast their votes for political parties instead of individual candidates. The final list of candidates is decided by political parties based on the seats they win.
+				In 2008, Indonesia passed a legislation to move away from a closed voting
+				system (which it had been following since 1955) to an open voting system. Since last year, there have been calls from the country's largest political faction, the PDIP to move back to a closed voting system for the 2024 elections.
+			TH, as the Move Forward Party, would abandon attempts to reform Article 112
+				Balance $stats 1, 0, 2
+				Veto $stats 0, 0, 4
+				The Move Forward Party, led by Pita Limjaroenrat, is a social democratic and progressive political party that won the general elections held last May 14 in Thailand. Their campaign centers on promoting democracy in the country, dismantling monopolies, and promoting same-sex marriage, among others.
+				One of their main, and most controversial, push is the reformation of article 112, otherwise known as the ‘lese majesty’ law which makes it illegal to insult the monarch of Thailand. Despite winning the most votes this election, and forming a coalition with Pheu Thai, an opposition party affiliated with the former Prime Minister that garneredthe second most seats in the election, and other parties, Move Forward is still short of the 376 votes needed from the 750-member bicameral legislature to vote in Pita as prime minister to form a government.
+		GF
+			Assuming that God exists, THP a world where human beings were created without epistemic distance from God
+				Balance $stats 0, 0, 1
+				Humans being created "epistemically distant" refers to the idea that humans were born in a world that was religiously ambigous with no conclusive evidence for or against God's existence. Because people were created with no knolwedge of God's existence they are given the choice on whether or not to find and believe in God.
+			Under the veil of ignorance, TH, as an individual, W choose to be born in a religious community with strong communal values as opposed to secular society
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+			TH, as major religions, W preach that current global tragedies (e.g. climate change, war, etc.) are signs that we are currently in vicinity of the End Times
+				Balance $stats 0, 0, 1
+				The End Times are defined as the days leading up to the Day of Judgement where god decides the fate of all human beings based on their deeds committed on earth. It is the time prophesized as the end of the world, wherein god inflicts his wrath on earth (e.g. the sun stops emitting heat, the sky turns black, catalyzing mass destruction that ultimately ends humanity).
 		EFL QF
 			THS the increased adoption of algorithm for the analysis of users' matching patterns (e.g. educational background, vocation, etc.) and suggestions of future matches in dating apps
+				Balance $stats 0, 0, 4
+				Veto $stats 0, 2, 8
 			THP a world where 'artificial encounter' is the dominant norm over 'natural encounter' as a method of starting a romantic relationship
+				Balance $stats 0, 3, 4
+				Veto $stats 1, 0, 8
 				For the purpose of the debate, 'artificial encounter' refers to getting to know someone else through specially arranged occasions with an explicit and primary purpose of evolving the relationship into a romantic one. Examples of artificial encounters include blind dates and using dating applications.
 				'Natural encounter' refers to starting a relationship even if there was no initial intention to do so when getting to know someone through a non-romantic setting without a particular intention for a relationship, but eventually falling in love with each other. Examples of natural encounters include starting a relationship with a friend you have known for a while or falling in love with your debate partner.
 			THR the rise of 'situationship' among GenZ
+				Balance $stats 0, 1, 4
+				Veto $stats 3, 2, 8
 				A situationship is an undefined relationship arrangement where two individuals engage in a combination of emotional and physical intimacy without clear commitment or expectations. It exists in a gray area between a casual hookup and a traditional romantic partnership, often lacking defined labels, exclusivity, or long-term goals.
-		EFL SF: Middle East
-			TH, as the Jordanian government, would actively attempt to incorporate refugees into its regular workforce
+		EFL SF
+			TH, as the Jordanian government, W actively attempt to incorporate refugees into its regular workforce
+				Balance $stats 0, 2, 2
+				Veto $stats 0, 0, 4
 				After the early 2010s, when multiple Arab nations experienced political conflict, Jordan saw a massive influx of refugees from nearby countries, such as Syria, Iraq, and Palestine. Some refugees are hosted in UNHCR refugee camps, but many reside in urban and rural areas. These refugees mainly depend on financial support from the international community or informal economy (e.g. daily construction works, small-scale home-based business, etc.) unless the Ministry of Labor issues them a work permit, which refugees hardly obtain.
 			THBT Taliban should decommission the Kamal Khan Dam
+				Balance $stats 0, 0, 2
 				Kamal Khan Dam is a hydroelectric and irrigation dam which opened in March 2021 on the Helmand River in southwestern Afghanistan, built to enhance the infrastructure and agriculture of the country. The Dam ignited tension between Afghanistan and Iran since the river feeds into the Hamun Lake, which provides the primary water resource of the Eastern provinces of Iran. Iran sees the Kamal Khan Dam's construction and operation as a violation of its water security.
 				Shortly after the opening of the Dam, the Taliban rose to power in Afghanistan. There was a recent exchange of gunfire in the border region, which further escalated the tension between the Taliban and Iran.
 			THBT the decision to normalize the relationship with Bashar al-Assad is in the interest of the Arab League
+				Balance $stats 0, 0, 2
 				Ever since the start of the civil war in 2011, the authoritarian president of Syria, Bashar al-Assad, was isolated from Arab League. Recently, however, Assad attended the 32nd summit of the Arab League held in Saudi Arabia, where leaders of Middle East nations envisioned addressing the crises occurring in the region.
-		EFL Final
+		EFL GF
 			THP a world where the dominant state ideology promotes Confucianism
+				Balance $stats 0, 0, 1
 				Confuscianism refers to philosophical schools of thought that is mostly found in East Asian societies. It prioritizes humanistic values rather than metaphysical and spiritual values. It strongly emphasizes filial piety, respect for authority, and communitarian norms. While Confucianism presumes that individuals should refrain from deviating from social harmony, it also posits that the authorities should be assigned special societal responsibilities.
 			THR the demonization of Communism in the domestic political discourse of East Asian countries (e.g. Red Scare in Japan, Red Complex in South Korea, etc.)
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
 			Assuming that this prediction is true, THS the Western philanthropic foundations' recent diversion of funding from supporting grass-roots civil societies to pro-democracy movements in China
-				"Recently, several Western philanthropic foundations (e.g. National Endowment for Democracy, Open Society Foundation, etc.) experienced a series of restructuring of decision-making executives. After the restructuring, it was noticed that these foundations have been decreasing their funding for grass-roots civil organizations in East Asia (e.g. disability welfare institutions in South Korea).
-				Based on the political background of new executives, there is a prediction that these foundations are aggressively diverting their funding in East Asia exclusively for the pro-democracy and human rights movements in China. Although the diversion has not been explicitly confirmed, these foundations have been actively reaching out to activists and organizations that are radically critical of the Chinese government."
-		Open DO
-			TH, as the LGBTQ+ community in the developing world, would prioritize grassroots community building over seeking broad national and legislative changes
-			THBT the queer movements should stray away from emphasizing intra-community struggles towards fostering relateability outside the community (e.g. the message of "No One is Fully Straight")
-			THBT the business gay performance in pop culture does more harm than good to the queer rights
-				"Business gay performance" refers to a form of queerbaiting done by male pop stars during their on stage performance, where they exhibit acts and conducts that make them resemble romantic relationship, such as close physical contact, mostly to please their female fanbase.
-		Open OF
-			TH, as NATO, supports Ukraine engaging in aggressive offensive special military operations in Russia (e.g. striking Russian air bases, intercepting infrastructure and logistics chains in sovereign Russian territory, and attempting to target high ranking members of the Russian state)
-			TH, as the Biden Administration, regrets the Public Service Loan Forgiveness (PSLF) program
-				The Public Service Loan Forgiveness (PSLF) program is an initiative taken by the Biden administration to ease the burden of repaying federal loans for eligible students by shouldering up to $20,000 in debt. As of the beginning of May 2023, the United States Department of Education has approved a total of $42 billion in PSLF for more than 615,000 borrowers since October 2021.
-			In liberal democracies with an incumbent right-wing populist government, THP that the left-wing coalition elect politician with a radical left-leaning ideology (e.g. Bernie Sanders, Elly Schlein, etc.) rather than centre-left politicians as the leader
-		Open QF
-			THBT Southeast Asian economies with a heavy reliance on low-value manufacturing (Vietnam, Indonesia etc.) should prioritize moving up the manufacturing value chain (for example, producing complex product parts as opposed to performing manual product assembly)
-			THBT that the Bank of Japan (BOJ) should pursue a strategy of monetary policy tightening
-				The Bank of Japan (BoJ) has traditionally pursued a range of 'loose monetary policy measures' such as maintaining negative interest rates, aggressive bond buying to control government bond yields etc. in order to control deflation in the Japanese economy. As of Jan 2023, Japan's inflation rate hit a 42-year high of 4.2%
-			THBT Bhutan's efforts towards launching green cryptocurrency mining will do more harm than good
-				In 2023, the govt of Bhutan launched one of its largest economic ventures - a $500 million fund along with Nasdaq-listed company Bitdeer Technologies for starting green cryptocurrency mining operations in the country (i.e. cryptocurrency mining powered by hydroelectricity)
-		Open SF
-			THS the Philippines' proposal for creation of the Maharlika Investment Fund (MIF)
-				The Maharlika Investment Fund (MIF) is a sovereign wealth fund currently being pushed in the Philippines. Initial capital will be sourced from the Bangko Central ng Pilipinas, as well as other government financial institutions (GFIs)(e.g. Government Service Insurance System, Social Security System, Philippine Health Insurance Corp., etc.). The MIF is aimed to be used primarily for investment in outlets such as commercial real estate, and infrastructure projects, among others.
-			THBT Indonesia should implement a closed voting system for the 2024 elections
-				An open voting system is a method of voting where voters can directly elect the legislative candidates promoted by political parties. A closed voting system is a method where voters cast their votes for political parties instead of individual candidates. The final list of candidates is decided by political parties based on the seats they win.
-				In 2008, Indonesia passed a legislation to move away from a closed voting system (which it had been following since 1955) to an open voting system. Since last year, there have been calls from the country's largest political faction, the PDIP to move back to a closed voting system for the 2024 elections.
-			TH, as the Move Forward Party, would abandon attempts to reform article 112
-				The Move Forward Party, led by Pita Limjaroenrat, is a social democratic and progressive political party that won the general elections held last May 14 in Thailand. Their campaign centers on promoting democracy in the country, dismantling monopolies, and promoting same-sex marriage, among others.
-				One of their main, and most controversial, push is the reformation of article 112, otherwise known as the ‘lese majesty’ law which makes it illegal to insult the monarch of Thailand. Despite winning the most votes this election, and forming a coalition with Pheu Thai, an opposition party affiliated with the former Prime Minister that garnered the second most seats in the election, and other parties, Move Forward is still short of the 376 votes needed from the 750-member bicameral legislature to vote in Pita as prime minister to form a government.
-		Open GF
-			Assuming that God exists, THP a world where human beings were created without epistemic distance from God
-				Humans being created "epistemically distant" refers to the idea that humans were born in a world that was religiously ambigous with no conclusive evidence for or against God's existence. Because people were created with no knolwedge of God's existence they are given the choice on whether or not to find and believe in God.
-			Under the veil of ignorance, TH, as an individual, would choose to be born in a religious community with strong communal values as opposed to secular society
-			TH, as major religions, would preach that current global tragedies (e.g. climate change, war, etc.) are signs that we are currently in vicinity of the End Times
-				The End Times are defined as the days leading up to the Day of Judgement where god decides the fate of all human beings based on their deeds committed on earth. It is the time prophesized as the end of the world, wherein god inflicts his wrath on earth (e.g. the sun stops emitting heat, the sky turns black, catalyzing mass destruction that ultimately ends humanity).
+				Balance $stats 0, 0, 1
+				Recently, several Western philanthropic foundations (e.g. National Endowment for Democracy, Open Society Foundation, etc.) experienced a series of restructuring of decision-making executives. After the restructuring, it was noticed that these foundations have been decreasing their funding for grass-roots civil organizations in East Asia (e.g. disability welfare institutions in South Korea).
+				Based on the political background of new executives, there is a prediction that these foundations are aggressively diverting their funding in East Asia exclusively for the pro-democracy and human rights movements in China. Although the diversion has not been explicitly confirmed, these foundations have been actively reaching out to activists and organizations that are radically critical of the Chinese government.
 	Malaysia UADC 2022
 		R1
 			THBT developing countries should implement the Digital Nomad Tax-Free Plan
