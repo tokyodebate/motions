@@ -1,182 +1,560 @@
 Australasian Intervarsity Debating Championships
+	Krabi Australs 2023
+		R1
+			That it is in the best interest of (Formula One) to continue pursuing aggressive commercial expansion even at the expense of sporting integrity
+				Balance $stats 4, 3, 29
+				Veto $stats 8, 14, 58
+				Formula 1 has been trying to aggressively expand commercially even at expense of sporting integrity. The commercial expansion strategy includes partnering with Netflix to produce the Drive to Survive documentary which has been known to overdramatize the events in the sport, prioritising commercially lucrative countries (such as the US - thrice in 2023) for hosting rights, making drivers do more fan service than they are comfortable, and interpreting and implementing regulations to get more viewership at the expense of precedence and norms.
+			That, as a (Manchester United) fan who grew up in Manchester, would prefer the Sheikh Thani bid
+				Balance $stats 6, 7, 29
+				Veto $stats 12, 4, 58
+				Manchester United is currently owned by the Glazers family, who are known to take out high amounts of dividends from the club, pile up more debt, and not invest much in club infrastructure. They have announced their interest in selling the club and there are currently two bids: one of Sheikh Jassim Al Thani from Qatar and Sir Jim Ratcliffe from England. Sheikh Jassim Al Thani promises to buy the entire club, get rid of its debts and invest heavily in facilities and player transfers. Sir Jim Ratcliffe wants to buy 51% of the club (while the rest of the shares stay publicly traded in NYSE and partially owned by the Glazers family) and has an experience of owning Nice Football Club in France and is a minority shareholder of Mercedes AMG Petronus Formula One team. He (Sir Jim Ratcliffe) also pledged a fan centric approach to governing the club.
+			That we should ban gambling companies sponsoring (esports) teams and leagues
+				Balance $stats 5, 4, 29
+				Veto $stats 9, 11, 58
+		R2
+			That we prefer the production of modernised traditional (fairytales) to the production of new original stories for the same audience
+				Balance $stats 8, 8, 29
+				Veto $stats 6, 3, 58
+				For the purposes of this debate, modernised fairytales refer to traditionally popularised fairytale stories that have been altered in order to appeal to modern social norms, such as through changing the plot, characters or moral of the story.
+			That we prefer works of (historical fiction) that overemphasize the roles of disadvantaged groups in a period of history (e.g. Django Unchained), to those that provide an accurate view of their circumstances (e.g. 12 Years a Slave)
+				Balance $stats 5, 8, 29
+				Veto $stats 8, 7, 58
+			That we regret (DGA)'s deal with the AMPTP
+				Balance $stats 0, 0, 29
+				Veto $stats 15, 19, 58
+				In May 2023, the Writers Guild of America launched a strike against the Alliance of Motion Picture and Television Producers (AMPTP), a trade association that represents over 350 American television and film production companies. The ongoing strike is the largest interruption to the American film and TV production since the COVID-19 pandemic. The guild, representing 11,500+ screenwriters, demands for the increase of wage and residuals (i.e. bonus/royalty) which have been decreasing due to the rise of streaming platforms and for the strict (and potentially regulated) boundaries of the use of AI technologies in the screenwriting process (i.e. as a complementary tool as opposed to a replacement tool). 
+				Following suit, the Directors Guild of America (DGA) launched an independent strike (i.e. not involving the WGA) focusing primarily on increase of wages and residuals, in which they managed to strike a deal with the AMPTP. This deal awarded higher compensation and more residuals for directors.
+		R3
+			That we support the dimensional approach to mental health diagnoses as opposed to the categorical approach
+				Balance $stats 2, 7, 29
+				Veto $stats 5, 12, 56
+				The Categorical Approach is the approach to classifying mental disorders involving assessment of whether an individual has a disorder on the basis of symptoms and characteristics that are described as typical of the disorder. The Dimensional approach is the approach to classifying mental disorders that quantifies a person’s symptoms or other characteristics of interest and represents them with numerical values on one or more scales or continuums, rather than assigning them to a mental disorder category. Diagnosis then becomes not a process of deciding the presence of a symptom or disorder but rather the degree to which a particular characteristic is present.
+			That we support the widespread adoption of AI chatbots for talk therapy
+				Balance $stats 3, 4, 29
+				Veto $stats 15, 13, 56
+				Talk therapy, also known as psychotherapy, is a type of mental health treatment that involves talking to a therapist about one's thoughts, feelings, and experiences. The therapist can help them understand and process their problems, develop coping skills, and make progress in their life.
+			That we oppose the focus on pharmacotherapy-based care in mental health treatment
+				Balance $stats 2, 11, 29
+				Veto $stats 8, 3, 56
+				Pharmacotherapy is the treatment of health conditions by using pharmaceutical products (drugs) as medication.
+		R4
+			That we support the NCCDA
+				Balance $stats 3, 3, 29
+				Veto $stats 12, 13, 57
+				The proposed National Critical Capabilities Defense Act (NCCDA) – would establish an interagency committee led by the Office of the US Trade Representative. This committee, according to the language in the current NCCDA proposal, would be able to review transactions by US businesses in 'countries of concern' and where 'national critical capabilities' are at stake The committee can then mandate for these transactions to be suspended should they be deemed as risky. 
+				Analysis suggests that up to 43% of US FDI to China over the past two decades would have been covered under the broad categories set out in the NCCDA. The NCCDA is also likely to focus on investments in three "force-multiplying" technologies: advanced semiconductors, Artificial Intelligence (AI) and quantum computing.
+			That, as South Korea, we would aggressively pursue the acquisition of nuclear weapons
+				Balance $stats 2, 16, 29
+				Veto $stats 8, 1, 57
+			That it is in the interest of Bangladesh to provide citizenship to Rohingya refugees
+				Balance $stats 3, 2, 29
+				Veto $stats 9, 14, 57
+				The Rohingya are an ethnic minority, primarily Muslim, originating from Rakhine State in Myanmar. They have faced decades of systematic discrimination and oppression in Myanmar, where they are denied citizenship and are considered illegal immigrants, even though their presence dates back centuries. Near one million Rohingya refugees have fled to Bangladesh with the largest influx happening in 2017.
+		R5
+			That, as the Ballroom community, we would welcome individuals with no Ballroom background to partake in traditionally Ballroom-exclusive acts.
+				Balance $stats 4, 6, 29
+				Veto $stats 6, 11, 58
+				The Ballroom community is an African-American and Latino underground LGBTQ+ subculture. Beginning in the late 20th century, Black and Latino drag queens began to organize their own pageants in opposition to racism experienced in established drag queen pageant circuits. In order to participate in a "ballroom", participants will compete in a "ball" arranged by the community across different categories such as voguing, walking through runways wearing fashion elements according to the set categories, etc. The community has been very vocal about non-Ballroom individuals partaking in those acts, such as shaming them for voguing by calling it as "no-guing", exclaiming that non-Ballroom individuals doing those acts have committed grave cultural appropriation, etc.
+			That the global success of the Drag Race franchise has done more harm than good to the art of drag.
+				Balance $stats 1, 5, 29
+				Veto $stats 20, 5, 58
+				"Drag Race" is a drag queen reality competition television franchise, created by American drag entertainer RuPaul, starting with its first season in 2009. The popularity of the original series led to the creation of a media franchise including spin-offs and international adaptations across more than 15 different countries.
+			That we regret the demonisation of prominent conservative-leaning queer figures by progressive queer communities.
+				Balance $stats 7, 6, 29
+				Veto $stats 3, 13, 58
+		R6
+			That governments should artificially inflate the wages of jobs that they believe will become significantly more socially utile in the event of future crises.
+				Balance $stats 7, 4, 29
+				Veto $stats 8, 13, 58
+			That we support governments financially incentivizing acts of friendship (e.g. making new friends, maintaining friendships, or rekindling old friendships).
+				Balance $stats 3, 6, 29
+				Veto $stats 7, 8, 58
+			That workers should be compensated based on output rather than the amount of hours worked.
+				Balance $stats 1, 8, 29
+				Veto $stats 14, 8, 58
+		R7
+			Assuming an initial agreement is possible, that it is the interest of DA to include EFF in its (DA's) coalition for the 2024 election.
+				Balance $stats 0, 6, 29
+				Veto $stats 13, 12, 58
+				The African National Congress (ANC) is a social democratic party that has been in power in South Africa since the apartheid ended in 1994. The Democratic Alliance is the biggest opposition party in South Africa based on previous election results and is a centrist party. The second largest opposition party is the Economic Freedom Fighters (EFF) which is a far left populist party. The DA and EFF have traditionally opposed each other. Currently, the DA is planning form a coalition of opposition parties against the ANC that excludes the EFF.
+			That the African Union should continue its policy of preservation of colonial era borders instead of recognizing secessionist movements fighting for autonomy.
+				Balance $stats 8, 5, 29
+				Veto $stats 9, 5, 58
+				The Cairo Declaration, released during the meeting of heads of state of the Organisation of African Unity (now African Union) in its first session in 1964, led to the development of an international practice of respecting and sustaining the territorial situation as it existed at independence. This later evolved as the rule of the status quo, which preserved the border arrangements left behind by colonial regimes.
+			That South African membership in an active BRICS is in the best interest of other African countries.
+				Balance $stats 7, 3, 29
+				Veto $stats 7, 12, 58
+				BRICS is an acronym for the geopolitical bloc of the countries Brazil, Russia, India, China and South Africa. Cooperation among BRICS countries spans across various sectors.
+		R8
+			That we regret the shift from long-cycle development into short-cycle development in technology and engineering.
+				Balance $stats 5, 8, 29
+				Veto $stats 8, 9, 58
+				In the 2000s, following the rise of the software industry, many industries shifted their development models to have far shorter cycles, reducing the timespan between the inception of a project to its completion where it would be launched or commercially available.
+			That, as Apple, we would significantly shift towards a more repairability-oriented business model.
+				Balance $stats 6, 6, 29
+				Veto $stats 16, 1, 58
+				The "Right to Repair" is a movement advocating for products to be designed for ease of repair by both owners and independent shops. Apple has a history of creating products that have low repairability by using non-standard components, requiring special tools for repairs, and voiding warranties if unauthorized repairs are attempted. This contrasts with some of Apple's industry competitors who favor more repairable designs.
+			That we prefer a world where all individuals had access to their own life statistics.
+				Balance $stats 2, 2, 29
+				Veto $stats 5, 19, 58
+				‘Life statistics’ is a technology that constantly tracks statistics about an individual's observable behavior and actions throughout their life. It requires no manual input or involvement from the individual and is consistently live, updating, and is aware of all actions an individual engages (e.g. time spent doing specific activities, number of instances an action has been done, and other trends in behavior).
+		Pre QF
+			That developed countries should all implement the CBAM.
+				Balance $stats 0, 0, 4
+				Veto $stats 1, 2, 8
+				Starting in 2023, the EU is introducing a policy called the Carbon Border Adjustment Mechanism (CBAM). This puts a tax on imports that aren't environmentally friendly. From 2026, this tax will be 20-35% on some goods. Importers will have to say how many goods they bring into the EU and how much these goods add to global warming each year. To balance out these emissions, importers must get CBAM certificates, which cost based on the amount of CO2 emissions and the EU's weekly average price for emissions.
+			That the World Bank should cease the Climate Co-benefits Approach and instead redirect an equivalent proportion of every project's budget towards the Climate Investment Fund.
+				Balance $stats 1, 0, 4
+				Veto $stats 2, 1, 8
+				The Climate Co-benefits Approach mandates that any World Bank project must have a percentage of that project's budget and activities directed towards climate adaptation or mitigation, regardless of its primary objective (e.g. including projects whose primary objectives are related to health, education, and social protection). The climate co-benefits connect climate action to the project's primary objectives. Examples of climate co-benefits would be adding solar panels to schools, hospitals and other infrastructure; actively directing funding towards more climate vulnerable areas; including training modules on climate adaptation etc.
+				The World Bank's Climate Investment Fund (CIF) is a dedicated climate fund for climate change related projects. The CIF exists independently of climate co-benefits and is funded separately.
+			That the environmental movement should heavily prioritise nuclear power in their energy advocacy.
+				Balance $stats 1, 2, 4
+				Veto $stats 1, 1, 8
+		QF
+			That we support a global ban on crypto currency
+				Balance $stats 0, 1, 4
+				Veto $stats 3, 2, 8
+			That we oppose captive loans.
+				Balance $stats 1, 0, 4
+				Veto $stats 1, 1, 8
+				Financial repression occurs when the government lowers the cost of their own borrowing, channeling funds to themselves that in a deregulated market would go elsewhere. In an era of cross-border capital mobility, financial repression policies such as interest rate caps and large-scale capital controls are expected to be less effective, and governments are typically more inclined to access funds from "captive audiences" such as pension funds, banks, and insurance companies which are mandated to provide loans to the government at significantly below market rates by various means (referrered to in this motion as "captive loans").
+			That we support the use of activist short-selling by Western investment firms on companies in the developing world.
+				Balance $stats 1, 1, 4
+				Veto $stats 0, 1, 8
+				Short-selling is the practice of selling a (borrowed) stock in the open market, and buying it later at a cheaper price. Activist short-sellers actively try to lower the price of a stock by directly influencing the perception of the market on a company commonly through investigative journalism. Activist short-sellers publish research reports which highlight deficiencies in the company’s management, overall corporate strategy, and any scandals the company may be involved in. In January 2023, the activist short-selling firm Hindenburg Research published a report on the Adani Group from India. The stock prices of seven Adani group companies have lost significant value, with Adani Total Gas shares taking the biggest plunge of 56%.
+		SF, ESL SF
+			That, as Prigozhin, we regret agreeing to the conditions of the deal brokered by Belarus.
+				SF Balance $stats 1, 0, 2
+				SF Veto $stats 1, 0, 8
+				ESL SF Balance $stats 1, 0, 2
+				ESL SF Veto $stats 1, 0, 8
+				Yevgeny Prigozhin is the founder of the Wagner Group, a paramilitary organization used by Russia in the invasion of Ukraine as a means of strengthening its forces and gaining plausible deniability. After disagreements regarding the Russian government's support to Wagner Group, Prigozhin publicly criticized the Russian Ministry of Defense (MoD) for mishandling the Russian offensive, attacking Wagner forces, and even called out Vladimir Putin and MoD Minister Sergei Shoigu for having lied to the Russian public regarding the justification for the invasion. Most controversially, the MoD suggested the integration of Wagner forces into the Russian army.
+				On June 23 2023, Prigozhin began an armed rebellion and attempted to march to Moscow with Wagner forces, even taking some territory and shooting down Russian aircraft. He had a wide range of demands from greater protections for Wagner troops, up to the ouster and replacement of Shoigu.
+				Prigozhin ended the coup after a deal brokered by Belarus. The deal involved halting the coup in exchange for immunity from prosecution, but required that Prigozhin relocated to Belarus. In addition, Wagner forces would also have to move to Belarus or sign defense contracts with Russia. Last night, Lukashenko stated that Prigozhin was in St. Petersburg, which would be in violation of the agreement.
+			That, as Japan's Liberal Democratic Party, we would introduce policies that significantly encourage foreign migration to Japan.
+				SF Balance $stats 1, 0, 2
+				SF Veto $stats 0, 2, 8
+				ESL SF Balance $stats 0, 0, 2
+				ESL SF Veto $stats 0, 2, 8
+			That, as Filipino progressives, we prefer Leni Robredo no longer run in future elections.
+				SF Balance $stats 0, 0, 2
+				SF Veto $stats 3, 2, 8
+				ESL SF Balance $stats 0, 1, 2
+				ESL SF Veto $stats 3, 2, 8
+				Leni Robredo is the leading opposition figure in the Phililpines and was formerly the Vice President from 2016 to 2022. She defeated Bongbong Marcos (aka BBM), son of former Philippine dictator Ferdinand Marcos, in the 2016 Vice Presidential election but lost to BBM in the May 2022 presidential election where she ran a campaign centered on good governance, transparency, democratic values, equitable development, and pandemic recovery. She has been unclear about her political future since. 
+				The day after, she started the Angat Buhay NGO which focuses on anti-poverty efforts and pandemic response through improving health, education, food security, and disaster risk response. Within the same year, the NGO had served 16,237 families and 12,541 individuals in 162 communities and is known for its large volunteer presence. She has also indicated her willingness to back other candidates from the opposition in future elections. 
+				The Philippine midterm election where some legislators and local officials are elected will occur in 2025, while the next general election (including the presidential and vice presidential election) will happen in 2028. BBM is no longer eligible for the presidency in 2028, but his current VP Sara Duterte and sister Senator Imee Marcos are currently eligible.
+		GF
+			That as a young woman with feminist beliefs, we would embrace a dissociative feminist persona
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
+				Dissociative feminism is a passive and detached approach to addressing feminine struggles, characterised by a jaded outlook on society. It contrasts with active forms of feminist resistance and acknowledges the emotional and physical toll of direct activism. Dissociative feminists also embrace choices that may not conform to mainstream feminist behaviours.
+			That we support social-punishment methods as a means of fighting gender inequality
+				Balance $stats 0, 0, 1
+				For the purposes of this debate, social-punishment methods are behaviours that are designed to disrupt or cost society as a negative consequence for norms and state behaviours that detriment women. Movements such as 4B (or "Four No’s"), which originated in South Korea in 2019, are based on the use of these methods. Its members renounce four activities; sex, child-rearing (giving birth), dating, and marriage with men.
+			That the feminist movement should strongly oppose divine femininity discourse
+				Balance $stats 0, 0, 1
+				"Divine femininity" discourse encourages women to live a ‘soft life’ by stepping into their ‘divine feminine energy’ and living more intuitively and authentically in line with their femininity. It also encourages the disengagement from tasks and socially-embedded behaviours that exude "masculine energy"; such as overexerting oneself to work, being assertive, repressing emotions, etc.
+		ESL GF
+			That we prefer a world where there is a strong social pressure to have an intellectual disposition
+				Balance $stats 0, 0, 1
+				For the purposes of this debate, an individual with an intellectual disposition has a strong willingness to seek information and prioritise reason over emotion.
+			That we prefer religious teachings that emphasise the belief that human beings are born good instead of born evil
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
+			That we prefer a world with a widespread belief in cosmic pluralism to one with a widespread belief in cosmic monism
+				Balance $stats 0, 0, 1
+				Cosmic pluralism is the belief that suggests the existence of multiple inhabited worlds, universes, and dimensions beyond our own.
+				Cosmic monism is the belief that the universe is a single, unified entity, and that there are no other worlds or beings beyond this universe.
+		EFL GF
+			That we would place a cap on the overall amount of wealth that parents can pass down to their children (e.g. inheritance, trust funds, gifts that are given after they turn 18, etc.)
+				Balance $stats 0, 0, 1
+			That we oppose the heightened animosity toward the rich
+				Balance $stats 0, 0, 1
+			That we prefer a world where the "mottainai" mentality is dominant
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
+				The "Mottainai" mentality is a Japanese concept that highlights and strongly grieves wastefulness. The notion has been adopted by environmental movements to promote positive actions such as recycling, but also is one that calls attention to wastefulness in every aspect of our lives, such as in how we spend our time, money, etc.
 	Campbelltown Australs 2022
 		R1
 			That all scientific journals should move to a registered reports model of publication
+				Balance $stats 4, 2, 22
+				Veto $stats 7, 8, 44
 				The registered reports model has researchers submit detailed protocols for peer review before any experiments are conducted. The methods, hypothesis and background are peer reviewed prior to data collection. If the article is accepted, the journal guarantees the publication of the article irrespective of the significance of the results.
 			That all grant and scholarship funders should substantially outsource selection to third parties
+				Balance $stats 2, 0, 22
+				Veto $stats 13, 8, 44
 			That labour unions in the tertiary education sector should deprioritise strikes in favour of administration bans (i.e. continuing to teach but refusing to grade papers, oversee exams, answer emails, etc.)
+				Balance $stats 4, 10, 22
+				Veto $stats 2, 6, 44
 		R2
 			That the feminist movement should support the portrayal of women as the source of fear in films (ex. Miranda Priestly in the Devil Wears Prada, Carrie in Carrie, Dolores Umbridge in Harry Potter)
+				Balance $stats 1, 1, 22
+				Veto $stats 17, 4, 44
 			That it is better to have loved and lost than to never have loved at all
+				Balance $stats 3, 3, 22
+				Veto $stats 2, 12, 44
 			That we prefer a world where co-parenting is primarily non-romantic (ie. conducted by consenting partners who have no romantic or sexual relationship, eg. friends)
+				Balance $stats 5, 9, 22
+				Veto $stats 3, 6, 44
 		R3
 			That we regret the recent subsidisation of fossil fuels in Latin America to combat inflation
+				Balance $stats 3, 3, 21
+				Veto $stats 14, 4, 43
 				In 2022, countries in Latin America have engaged in significant subsidies of fossil fuels in response to inflation. For example, substantial subsidies have been implemented in Ecuador (worth 0.8% of GDP) and Mexico (worth 1% of GDP) and Peru has cut taxes on fuel (equal to around 0.9% of GDP).
 			That Latin American countries should form an economic and political bloc
+				Balance $stats 2, 0, 21
+				Veto $stats 4, 14, 43
 			That, as a developing country with a significant share of global rare earth minerals, we would adopt downstreaming
+				Balance $stats 5, 8, 21
+				Veto $stats 3, 4, 43
 				Downstreaming is where a country bans the export of raw materials to force global firms to invest and build factories within the country.
 		R4
 			That it is in the electoral interests of the national Republican Party to strongly oppose Donald Trump's primaries campaign
+				Balance $stats 3, 5, 22
+				Veto $stats 6, 7, 44
 			That, as the Australian Labor Party, we should aggressively compete with China to fund infrastructure in the Solomon Islands
+				Balance $stats 2, 3, 22
+				Veto $stats 13, 5, 44
 			That, as South Korea, we would pursue a close economic and diplomatic tie with Japan
+				Balance $stats 5, 4, 22
+				Veto $stats 3, 10, 44
 		R5
 			That we support the widespread use of Soulbound Tokens
+				Balance $stats 1, 4, 22
+				Veto $stats 12, 7, 44
 				Soulbound Tokens (SBTs) are digital identity tokens that represent the traits (eg, good communicator, dishonest), features, and achievements (eg, university degree) that make up a person or entity. SBTs are issued by "Souls," which represent blockchain accounts or wallets, and cannot be transferred.
 			That we support the advent of decentralised financial systems
+				Balance $stats 3, 8, 22
+				Veto $stats 5, 3, 44
 			That the US should attempt to aggressively contain China's capacity to build AI systems (e.g. by limiting China's ability to skill and retain computer scientists, attract US capital into Chinese AI companies, or access parts needed to build AI systems where the US has significant market share, such as semiconductors)
+				Balance $stats 4, 2, 22
+				Veto $stats 5, 12, 44
 		R6
 			That, as the captain, we would wear "One Love"
+				Balance $stats 1, 8, 22
+				Veto $stats 7, 5, 44
 				You are the captain of the Wales national team of football. Previously, you had publicly announced that you will be wearing the "One Love" armband in the World Cup against its rules, which exhibits support for the LGBTQ+ movement, in unity with 7 other nations in Europe. However, after FIFA's announcement that such an act may cause the player to be booked or sent off, all teams have reversed their previous decision. You will play your second game of the Group Stage in a couple of hours.
 			That, where a player of the national team is originally from a different country, nations should be required to pay compensation to their nation of origin
+				Balance $stats 4, 2, 22
+				Veto $stats 3, 10, 44
 			That we support all international sporting events (e.g. FIFA World Cup, the Olympics) having a permanent host nation
+				Balance $stats 5, 2, 22
+				Veto $stats 12, 7, 44
 		R7
 			That we regret Manne's Program in Economics for Federal Judges
+				Balance $stats 2, 2, 22
+				Veto $stats 14, 5, 44
 				Manne's Program in Economics for Federal Judges was a program offering economics instruction to federal judges so that they could incorporate economic reasoning into their judgements. This looks like understanding cost-benefit analyses in understanding incentives for committing crime and Coase's Theorem for the allocation of property rights. It was a 2-3 week course and often included lectures from world famous economists like Milton Friedman. Both conservative and liberal judges attended this program with notable attendees being Ruth Bader Ginsburg and Clarence Thomas.
 			That, as a foreign judge on the CFA, we would resign
+				Balance $stats 3, 4, 22
+				Veto $stats 6, 9, 44
 				The Hong Kong Court of Final Appeal (CFA) exercises ultimate judicial power over Hong Kong. However, the Chinese Government has previously, on rare occasion, overturned the CFA’s rulings.
 				The CFA appoints a number of top foreign judges from other common law jurisdictions (e.g. UK, Australia) to adjudicate cases alongside Hong Kong’s domestic judges. The foreign judges have historically exercised a large amount of influence over the development of Hong Kong Law.
 				Three foreign judges have recently resigned in response to China’s National Security Law. The majority of foreign judges remain.
 			That we support the widespread use of citizens assemblies in determining law reform in controversial policy areas (e.g., environment, criminal justice)
+				Balance $stats 3, 8, 22
+				Veto $stats 2, 8, 44
 				A citizens' assembly is a body consisting of randomly-selected citizens who conduct participatory deliberation on a given political issue. Citizens' assemblies are provided with specialist advice and are overseen to ensure they remain independent. In 2019 and 2020, France conducted a citizens' assembly, termed the Citizens' Convention for Climate, where 150 randomly-selected, demographically-representative citizens were tasked with crafting climate policy, which Emanuel Macron largely committed to implement.
 		R8
 			That the media should disseminate the idea of a "pandemic amnesty"
+				Balance $stats 6, 1, 22
+				Veto $stats 14, 0, 44
 				A "pandemic amnesty" is a call to move on from the debates that occurred during the pandemic and to no longer place blame for policies implemented (eg, school closures, vaccine rollouts).
 			That we, as a centre-left party in a liberal democracy, would explicitly seek electoral gains among less-educated voters
+				Balance $stats 6, 6, 22
+				Veto $stats 4, 6, 44
 				Since roughly the 1960s, there has been a gradual shift in the average education level of voter demographics for different political parties in democracies across the world. In the mid-twentieth century, the richest and most educated voters typically voted conservative while poorer, less educated voters tended to vote for social democratic/labour parties. While it is still true that the richest voters vote conservative and poorer voters vote progressive, more highly educated voters now tend to be more left-wing. One explanation for this trend is that rates of education attainment have gone up, meaning that education is no longer closely associated with elite voters. This trend has seen relatively less-educated voters vote in increased numbers for right-wing populists like Donald Trump.
 			That Western operated technology and social media companies (e.g. Facebook, Apple, Twitter) should not give into requests by non-democratic actors to block certain apps or users
+				Balance $stats 0, 3, 22
+				Veto $stats 4, 16, 44
 		ESL SF, Pre QF
 			That we prefer the three cities approach to the CBD approach
+				ESL SF Balance $stats 0, 0, 2
+				ESL SF Veto $stats 1, 0, 4
+				Pre QF Balance $stats 0, 1, 4
+				Pre QF Veto $stats 0, 3, 8
 				There are two general approaches to urban planning with respect to peripheral areas of large cities (e.g. Campbelltown ❤). The 'three cities' approach involves developing peripheral areas to be their own, separate hubs, with most people within the area working there. The 'CBD' approach involves investing in greater connectivity between peripheral areas and the true city centre.
 			That states should only use public housing when conducting social housing policy
+				ESL SF Balance $stats 1, 0, 2
+				ESL SF Veto $stats 1, 1, 4
+				Pre QF Balance $stats 0, 0, 4
+				Pre QF Veto $stats 3, 1, 8
 				There are two main types of social housing policies. Public housing involves the government directly owning and managing affordable housing. Community housing involves the subsidised provision of housing via non-government organisations, such as companies and community groups.
 			That developed countries should pursue a policy of degrowth
+				ESL SF Balance $stats 1, 0, 2
+				ESL SF Veto $stats 0, 1, 4
+				Pre QF Balance $stats 0, 3, 4
+				Pre QF Veto $stats 1, 0, 8
 				Degrowth involves a planned decrease in the size of economic production and consumption occurring within a given economy (often measured via GDP). It could involve the prioritisation of less emissions intense industries, heavy taxes or limits on emissions, shorter work weeks, and voluntary reductions in consumer spending.
 		QF
 			That we support the CBAM
+				Balance $stats 2, 1, 4
+				Veto $stats 0, 0, 8
 				The European Union has recently voted to establish the Carbon Border Adjustment Mechanism, which will place a levy on carbon-intense goods being imported from outside of the EU. It applies to the importation of various goods (e.g. cement, iron and steel, fertilisers, plastics, electricity) and will assess both the direct and indirect emissions embedded in the production process of the goods.
 			That governments should adopt competitive neutrality in the energy sector
+				Balance $stats 0, 0, 4
+				Veto $stats 3, 1, 8
 				Competitive neutrality is an economic policy which ensures state owned enterprises and infrastructure must compete on an equal regulatory level with private businesses. Australia implemented competitive neutrality in many sectors throughout the 1990s, including the energy sector, which accompanied significant privatisation of state owned energy assets.
 			That the environmentalist movement should include a just transition away from the animal agriculture industry in its messaging
+				Balance $stats 1, 0, 4
+				Veto $stats 1, 3, 8
 				"Just transition" rhetoric refers to economic transitions away from emissions-intense industries that attempt to account for social justice, for example by providing guaranteed jobs for workers who lose their jobs due to decarbonisation. Currently, a just transition is conceived as a transition away from fossil fuels extraction and combustion.
 		SF
 			That, as the Houthi rebels, we would reject any negotiations with the Presidential Leadership Council
+				Balance $stats 0, 0, 2
 				The Presidential Leadership Council is the executive body of Yemen's internationally-recognized government, formed in Riyadh, Saudi Arabia, by a presidential decree on 7 April 2022, to seek a "comprehensive political solution" to the Yemeni civil war. It is headed by Rashad Muhammad Al-Alimi and has a membership of eight members after having Abdrabbuh Mansur Hadi’s resignation.
 			That Western states should support local rebel groups (e.g. by funding them and giving them intel) as opposed to direct military intervention in other states
+				Balance $stats 1, 1, 2
+				Veto $stats 0, 0, 4
 			That the IMF's bail-out of Sri Lanka should be contingent on political reform
+				Balance $stats 0, 0, 2
+		GF
+			That we regret the prevalence of malevolent AI in popular culture (eg-Skynet in Terminator, Ultron in the Avengers, etc)
+				Balance $stats 0, 0, 1
+			That we support the Campbelltown value system
+				Balance $stats 0, 0, 1
+				Traditionally in Japan, virtuous losses tend to gain significantly more popular support than victories. This value system manifests in various contexts including sports, popular culture, education, the veneration of historical figures, and… just about anywhere else. We decided to call this the Campbelltown value system.
+			Assuming the technology exists, that it is immoral to create simulated high-fidelity alternate universes
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+				"In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move."
+				- Hitchhiker's Guide to the Galaxy
+		ESL GF
+			That we would allow doctors to override advance care directives
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+				An Advance Care Directive (ACD) is a legal document in which a person of sound mind specifies what actions should be taken for their health if they are no longer able to make decisions for themselves (because of illness or incapacity). Doctors are legally required to uphold the instructions of an ACD, irrespective of their professional medical opinions.
+			That western liberal democracies should allow the experimentation and creation of animal-human hybrids
+				Balance $stats 0, 0, 1
+				Japan has lifted a ban on the creation of animal-human hybrids by allowing scientists to conduct stem-cell experiments to grow human organs inside animals. China has also been experimenting with the transplant of human brain cells into animal subjects to achieve advanced cognition.
+			That we believe people are more moral today than in the past
+				Balance $stats 0, 0, 1
 		EFL GF
 			That we would prefer a world where all people believe in Afterlife A to Afterlife B
+				Balance $stats 0, 0, 1
+				
 				'Afterlife A': After a life well lived, the 'ethereal soul' is separated from the 'physical body' and joins an eternal, blissful community of souls and 'God' (no physical body) 
 				'Afterlife B': After a life well lived the 'ethereal soul' is separated from the 'physical body' and leads a second life with rewards from the previous life carrying into the next
 			That it is in the interests of the Catholic church for an 'extrovert' pope to succeed Pope Francis
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
 				Introvert' Catholics believe that the Church should remain discrete from the modern, secular world, keeping as close to tradition as possible, and being actively-countercultural. 'Extrovert' Catholics see the Church as responding to the needs of the world, and are more tolerant of making doctrinal change to align with changing social values. Pope Francis is very much an 'extrovert'.
 			That secular democracies with substantial religious communities should allow a separate legal system for those communities (e.g. Syariah Law, Canon Law)
-		ESL GF
-			That we would allow doctors to override advance care directives
-				An Advance Care Directive (ACD) is a legal document in which a person of sound mind specifies what actions should be taken for their health if they are no longer able to make decisions for themselves (because of illness or incapacity). Doctors are legally required to uphold the instructions of an ACD, irrespective of their professional medical opinions.
-			That western liberal democracies should allow the experimentation and creation of animal-human hybrids
-				Japan has lifted a ban on the creation of animal-human hybrids by allowing scientists to conduct stem-cell experiments to grow human organs inside animals. China has also been experimenting with the transplant of human brain cells into animal subjects to achieve advanced cognition.
-			That we believe people are more moral today than in the past
-		GF
-			That we regret the prevalence of malevolent AI in popular culture (eg-Skynet in Terminator, Ultron in the Avengers, etc)
-			That we support the Campbelltown value system
-				Traditionally in Japan, virtuous losses tend to gain significantly more popular support than victories. This value system manifests in various contexts including sports, popular culture, education, the veneration of historical figures, and… just about anywhere else. We decided to call this the Campbelltown value system.
-			Assuming the technology exists, that it is immoral to create simulated high-fidelity alternate universes
-				"In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move."
-				- Hitchhiker's Guide to the Galaxy
-
+				Balance $stats 0, 0, 1
 	Nepal Australs 2021
 		R1
-			That we support this trend in progressive discourse. (Progressive Discourse)
+			That we support this trend in progressive discourse
+				Balance $stats 10, 6, 52
+				Veto $stats 16, 22, 104
 				In progressive discourse, there is a trend to defend behaviours and norms on the grounds that all of the participants have consented (for example, in defences of the production and consumption of pornography).
-			That we regret the trend of describing regressive views or speech as violent. (Violent Views)
-			That, as a new media company, we would choose to have a cohesive voice without consistent attribution of any particular writers (for example, the Economist) rather than individuals writers having their own independent, recognisable voices (for example, the Atlantic) (Writer Attribution)
+			That we regret the trend of describing regressive views or speech as violent
+				Balance $stats 3, 12, 52
+				Veto $stats 17, 19, 104
+			That, as a new media company, we would choose to have a cohesive voice without consistent attribution of any particular writers (for example, the Economist) rather than individuals writers having their own independent, recognisable voices (for example, the Atlantic)
+				Balance $stats 9, 12, 52
+				Veto $stats 19, 11, 104
 		R2
-			That we, as the judge, would rule the crack down legal. (Legal Crackdown)
+			That we, as the judge, would rule the crack down legal
+				Balance $stats 3, 7, 51
+				Veto $stats 26, 13, 102
 				You are a judge in a country with an established democracy, but which has experienced a weakening of its democratic institutions. The Parliament has passed an unconstitutional bill with popular support declaring martial law and repealing all statutory guarantees for elections. The legality of this has gone to court. You have the deciding vote in this case.
-			That, as New Zealand, we would refuse to extradite Mr Kim to China. (Kyung Yup Kim)
+			That, as New Zealand, we would refuse to extradite Mr Kim to China
+				Balance $stats 5, 12, 51
+				Veto $stats 8, 28, 102
 				Kyung Yup Kim is a 46-year-old New Zealand permanent resident, having moved to New Zealand from Korea at the age of 16. There is strong forensic and circumstantial evidence linking Mr Kim to the recent murder in China of a Chinese woman, and he has been arrested and detained by the New Zealand police on the strength of that evidence. China has requested that New Zealand extradite Mr Kim to China, and has guaranteed that Mr Kim will not be executed should he be found guilty. China is also New Zealand's largest trade partner. However, China's courts and prison system have been often criticised as arbitrary and inhumane.
-			That we would allow a substantially lower minimum wage for prisoner labour. (Prisoner Labour)
+			That we would allow a substantially lower minimum wage for prisoner labour
+				Balance $stats 11, 13, 51
+				Veto $stats 17, 10, 102
 		R3
-			That we prefer the separate model to the concurrent model of women's sports. (Women's Sports)
-				There are broadly two models of women's sport. The first is the separate model, where women's seasons run at a completely separate time to the men's seasons. Examples include the men's and women's Australian Football League and Big Bash League.
+			That we prefer the separate model to the concurrent model of women's sports
+				Balance $stats 6, 13, 52
+				Veto $stats 11, 19, 104
+				There are broadly two models of women's sport. The first is the separate model, where women's seasons run at a completely separate time to the men's seasons. Examples include the men's and women's Australian Football League and Big Bash League. 
 				The second model is the concurrent model, where all/the majority of women's and men's games happening one after the other at the same ground on the same day. Examples include the HockeyOne League in Australia.
-			That student sports should be completely de-professionalised. (Student Sports)
+			That student sports should be completely de-professionalised
+				Balance $stats 7, 9, 52
+				Veto $stats 29, 9, 104
 				Deprofessionalising student sports may include barring all staff including coaches and associated administrators from receiving more than a living wage, pooling all revenue in the league to cover reasonable costs, and donating any profit to a range of non-sports charities.
-			That sports players should not be punished by sports leagues or clubs for private acts that are not illegal, but may be considered immoral by society (e.g. extra-marital affairs etc.) (Private Sports)
+			That sports players should not be punished by sports leagues or clubs for private acts that are not illegal, but may be considered immoral by society (e.g. extra-marital affairs etc.)
+				Balance $stats 6, 11, 52
+				Veto $stats 12, 24, 104
 		R4
-			That NATO should vote to expel Turkey. (Expel Turkey)
+			That NATO should vote to expel Turkey
+				Balance $stats 5, 15, 52
+				Veto $stats 17, 14, 104
 				Turkey is a member of NATO, the North Atlantic Treaty Organisation, a collective defence agreement. In recent years, Turkey has deepened its relationship with Russia, including purchasing missile systems from them, in addition to other acts which have created tensions between Turkey and some other NATO members.
-			That, if the final Noumea Accord referendum fails, New Caledonia should not conduct regular referenda on independence. (Caledonian Independence)
-				New Caledonia is a set of islands in the Pacific and is currently a part of France. The Noumea Accord is an agreement between France and New Caledonia which provides for up to three referendums on New Caledonian self-determination. The first in 2018 and the second in 2020 were both won by “loyalists” who voted to remain a part of France. The first two referendums showed 43.3 percent support for independence in 2018 and 46.7 percent support in 2020. A "third referendum" has been held, but it was heavily disrupted by Covid-19 and it is expected that a make up Noumea Accord referendum will be held once the pandemic has subsided. The pro-independence faction is pushing for regular referendums to be continued to be held regardless of the result of the make up referendum.
-			That it is in the best interests of the Chinese Communist Party (CCP) to quietly abandon its attempt to reunify with Taiwan. (Taiwan Reunification)
+			That, if the final Noumea Accord referendum fails, New Caledonia should not conduct regular referenda on independence
+				Balance $stats 7, 2, 52
+				Veto $stats 24, 25, 104
+				New Caledonia is a set of islands in the Pacific and is currently a part of France. The Noumea Accord is an agreement between France and New Caledonia which provides for up to three referendums on New Caledonian self-determination. The first in 2018 and the second in 2020 were both won by "loyalists" who voted to remain a part of France. The first two referendums showed 43.3 percent support for independence in 2018 and 46.7 percent support in 2020. A "third referendum" has been held, but it was heavily disrupted by Covid-19 and it is expected that a make up Noumea Accord referendum will be held once the pandemic has subsided. The pro-independence faction is pushing for regular referendums to be continued to be held regardless of the result of the make up referendum.
+			That it is in the best interests of the Chinese Communist Party (CCP) to quietly abandon its attempt to reunify with Taiwan
+				Balance $stats 8, 15, 52
+				Veto $stats 11, 13, 104
 		R5
-			A: That we prefer a world where god judges people on the purity of their intentions, rather than the consequences of their actions. (God's Judgment)
-				A: In both worlds, people are aware of god's method of judgment.
-			B: That we prefer a world where hypocrisy is completely de-stigmatised. (De-stigmatising Hypocrisy)
-				B: For the purpose of this debate, hypocrisy means to act in a way that is inconsistent with your publicly stated positions and values. The inconsistency between action and position is key - hypocrisy is perceived as a moral flaw above mere dishonesty about one’s beliefs or the performance of immoral acts.
-			C: That we oppose self help narratives that instruct people to reduce their reliance on external validation. (Self-Validation)
+			That we prefer a world where god judges people on the purity of their intentions, rather than the consequences of their actions
+				Balance $stats 7, 12, 52
+				Veto $stats 10, 25, 103
+				In both worlds, people are aware of god's method of judgment.
+			That we prefer a world where hypocrisy is completely de-stigmatised
+				Balance $stats 3, 6, 52
+				Veto $stats 34, 12, 103
+				For the purpose of this debate, hypocrisy means to act in a way that is inconsistent with your publicly stated positions and values. The inconsistency between action and position is key - hypocrisy is perceived as a moral flaw above mere dishonesty about one’s beliefs or the performance of immoral acts.
+			That we oppose self help narratives that instruct people to reduce their reliance on external validation
+				Balance $stats 8, 16, 52
+				Veto $stats 8, 14, 103
 		R6
-			A: That we support a rise in income-selective dating apps. (Income-Selective Dating)
-				A: Income-selective dating apps require people to verify that they have a certain level of income or wealth in order to sign up to the app.
-			B: That we support the commodification of close and intimate relationships. (Commodifying Relationships)
-				B: Commodification is the transformation of things that normally exist outside the market into commodities or objects of trade. Commodification of intimacy includes but is not limited to hiring actors to play your family members; commercial hugging; rent-a-girlfriend.
-			C: That, in a world where both men and women were equally likely to do it, we would prefer a return to the norm of families in which one parent works and the other remains at home. (Parental Roles)
+			That we support a rise in income-selective dating apps
+				Balance $stats 5, 6, 50
+				Veto $stats 23, 17, 98
+				Income-selective dating apps require people to verify that they have a certain level of income or wealth in order to sign up to the app.
+			That we support the commodification of close and intimate relationships
+				Balance $stats 3, 9, 50
+				Veto $stats 16, 21, 98
+				Commodification is the transformation of things that normally exist outside the market into commodities or objects of trade. Commodification of intimacy includes but is not limited to hiring actors to play your family members; commercial hugging; rent-a-girlfriend.
+			That, in a world where both men and women were equally likely to do it, we would prefer a return to the norm of families in which one parent works and the other remains at home
+				Balance $stats 9, 18, 50
+				Veto $stats 10, 11, 98
 		R7
-			A: That we, as Belarus, regret manufacturing the border crisis with Poland. (Belarus v. Poland)
-				A: Belarus has artificially created a border crisis with Poland by bringing in a significant number of migrants and asylum seekers – mostly from the Middle East – and taking them to the border with promises of an easy crossing into the European Union. Poland is a member of the European Union while Belarus is not
-			B: That Western powers should pressure Ethiopia to allow Tigray to secede. (Ethiopia v. Tigray)
-				B: Tigray is a region of Ethiopia. The Tigray People's Liberation Front is a political party with a military wing from the region which dominated Ethiopian national politics for decades. The TPLF had been in conflict with the federal Ethiopian government over proposed political reforms, and the postponement of the federal election. In response, Tigray held its own elections, and the Tigrayan and federal governments each deemed the other illegitimate. Military conflict began in Tigray in November 2020 after Ethiopia's Prime Minister Abiy Ahmed sent troops to topple the Tigray People's Liberation Front, which dominated national politics before he took office in 2018.
+			That we, as Belarus, regret manufacturing the border crisis with Poland
+				Balance $stats 5, 10, 50
+				Veto $stats 19, 22, 100
+				Belarus has artificially created a border crisis with Poland by bringing in a significant number of migrants and asylum seekers – mostly from the Middle East – and taking them to the border with promises of an easy crossing into the European Union. Poland is a member of the European Union while Belarus is not.
+			That Western powers should pressure Ethiopia to allow Tigray to secede
+				Balance $stats 7, 8, 50
+				Veto $stats 14, 16, 100
+				Tigray is a region of Ethiopia. The Tigray People's Liberation Front is a political party with a military wing from the region which dominated Ethiopian national politics for decades. The TPLF had been in conflict with the federal Ethiopian government over proposed political reforms, and the postponement of the federal election. In response, Tigray held its own elections, and the Tigrayan and federal governments each deemed the other illegitimate. Military conflict began in Tigray in November 2020 after Ethiopia's Prime Minister Abiy Ahmed sent troops to topple the Tigray People's Liberation Front, which dominated national politics before he took office in 2018.
 				This troop movement was allegedly in response to TPLF attacks on federal army camps. Government forces drove the TPLF from Tigray's cities and towns, but the rebels retook most of the region, including its capital, Mekele, by late June.
 				The war has soured relations between Ethiopia and Western powers, including the United States, long a critical ally.
-			C: That countries should never cooperate with Chinese "hostage diplomacy" (Hostages v. China)
-				C: Michael Kovrig and Michael Spavor are two Canadians who were detained by China (allegedly on charges of espionage) shortly after Canada’s arrest of the Huawei executive Meng Wanzhou. They were released after Meng Wanzhou was released in a deal with American prosecutors. This is widely percieved to have been an example of "hostage diplomacy", where a country's citizens are taken hostage as a way to exert pressure.
+			That countries should never cooperate with Chinese "hostage diplomacy"
+				Balance $stats 10, 10, 50
+				Veto $stats 17, 12, 100
+				Michael Kovrig and Michael Spavor are two Canadians who were detained by China (allegedly on charges of espionage) shortly after Canada’s arrest of the Huawei executive Meng Wanzhou. They were released after Meng Wanzhou was released in a deal with American prosecutors. This is widely percieved to have been an example of "hostage diplomacy", where a country's citizens are taken hostage as a way to exert pressure.
 		R8
-			A: That China should walk back its crack down on private education. (Chinese Education)
-				A: China has recently cracked down sharply on private tutoring companies, forcing these companies to register as non-profit organisations, banning approvals for new companies, and making it illegal for them to receive foreign investment.
-			B: That education systems should actively teach "Sticking it to the man". (Sticking It To The Man)
-				B: "Sticking it to the man" is an anarchic/punk sentiment of the 80s, which encouraged the youth to be politically aware, question and undermine political authority.
-			C: That small or developing countries should replace their school curriculums with a well-performing curriculum of another country. (Foreign Curriculum)
-		Partial Double Octofinals
-			A: That, as a mid-tier CCP official in a regional government openly opposed to Xi Jinping's property tax plan, we would obstruct rather than facilitate its implementation. (Xi's Property)
-				A: Local governments in China rely on land sales for at least 40% of their revenues. This has encouraged an aggressive sales policy, aided and abetted by property developers who have taken on heavy debts to buy the land and build large numbers apartment blocks for buyers who believe that the sector will continue to grow and provide them with capital gains on their investment.
+			That China should walk back its crack down on private education
+				Balance $stats 11, 5, 49
+				Veto $stats 18, 20, 98
+				China has recently cracked down sharply on private tutoring companies, forcing these companies to register as non-profit organisations, banning approvals for new companies, and making it illegal for them to receive foreign investment.
+			That education systems should actively teach "Sticking it to the man"
+				Balance $stats 10, 6, 49
+				Veto $stats 8, 22, 98
+				"Sticking it to the man" is an anarchic/punk sentiment of the 80s, which encouraged the youth to be politically aware, question and undermine political authority.
+			That small or developing countries should replace their school curriculums with a well-performing curriculum of another country
+				Balance $stats 7, 10, 49
+				Veto $stats 23, 7, 98
+		PDO
+			That, as a mid-tier CCP official in a regional government openly opposed to Xi Jinping's property tax plan, we would obstruct rather than facilitate its implementation
+				Balance $stats 1, 1, 8
+				Veto $stats 3, 5, 16
+				Local governments in China rely on land sales for at least 40% of their revenues. This has encouraged an aggressive sales policy, aided and abetted by property developers who have taken on heavy debts to buy the land and build large numbers apartment blocks for buyers who believe that the sector will continue to grow and provide them with capital gains on their investment. 
 				To curb what he perceives as excessive real-estate investment, Xi Jinping has announced a series of property tax pilot programs across different cities in China. These property taxes make it more expensive to own property, decreasing its attractiveness as an investment. This policy has seen significant opposition from local and regional governments.
-			B: That we regret the rise of retail investment. (Retail Investment)
-				B: Applications such as Robinhood have recently made it significantly easier for private individuals to invest in specific stocks and financial instruments. People use the app to purchase those stocks and financial instruments hoping the value will increase and they will turn a profit. This type of person is known as a "retail investor".
-			C: That we prefer a world without corporate tax. (Corporate Tax)
-				C: A corporate tax is a tax on the profits of a corporation.
-		ESL Quarterfinals
-			A: That the writer should write the first ending rather than the second ending. (1984 v. Fahrenheit 451)
-				A: A writer has just written one of the great works of dystopian fiction. They have two endings in mind. In one ending, the system prevails and the protagonist is consumed (for instance, in 1984, Winston's forbidden love for Julia is extinguished and he accepts Big Brother). In the other ending, the protagonist brings down the system and the seeds of a new society are sown (for instance, in Farenheit 451, Montag escapes and the dystopian city is destroyed).
-			C: That we regret the increasing number of movies made from existing intellectual property. (Existing IP Movies)
-		Octofinals
-			A: That we would ban the use of any reproductive technology (e.g. abortion, embryo selection) which alters the prevalence of any common disability (Prevalence Technology)
-				A: Prevalence describes how common a trait or medical condition is in the population.
-			B: That we regret the trend of left-wing media coverage of the deaths of individual prominent anti-vax activists from COVID-19. (Anti-Vax Coverage)
-			C: That, after receiving professional and science-based medical advice, patients should have the right to undergo treatments that are contrary to that advice and have not received regulatory approval for that usage (for instance, Ivermectin for Covid-19) (Contrary Treatments)
-		Quarterfinals
-			B: That, as a skilled worker, we would prefer a world where polywork was the norm. (Polywork)
-				B: Polywork means to have multiple jobs at multiple companies, rather than a single job at a single companies.
-			C: That, as a member of a minority community, we would actively discourage a child from that community from pursuing careers in state security apparatuses (military, police, immigration etc.) (Security Careers)
-		EFL Semifinals
-			A: That we would ban individuals from editing their own genomes. (Genome Editing)
-				A: At some point, gene editing technology will become sufficiently advanced to allow people to edit their own genomes. Gene editing may make someone smarter, more traditionally attractive, or have any other genetically expressed trait.
-			B: That we oppose Jeff Bezos' investment in anti-aging technology. (Anti-Aging Investment)
-				B: Amazon founder, Jeff Bezos, has invested in Altos Labs, a new anti-ageing start-up that hopes to prolong human life.
-		ESL Semifinals
-			B: That it is in the best interests of the Biden Administration to restore aid to Pakistan (Biden v. Pakistan)
-				B: During the Trump administration, the United States significantly reduced aid and support to Pakistan. The USA alleged Pakistan was failing to sufficiently counter terrorism in the region. In response, Pakistan has increased its economic relationship with China.
-			C: That it is in the interests of the EU to lift sanctions against the Taliban regime (EU v. Taliban)
-		Semifinals
-			A: That, in contexts where significant sectarian violence has recently given way to a increasingly stable unity government, we oppose measures that increase the public's awareness of the scale and details of atrocities (for instance, publishing evidence-gathering reports, Truth and Reconciliation Commissions). (Atrocity Awareness)
-			B: That we would prefer a world where Vladimir Putin died today suddenly of natural causes. (Putin's Death)
-		EFL Finals
-			A: That, assuming secure implementation and easy use, we would implement liquid democracy (Liquid Democracy)
-				A: Liquid democracy is a system where votes can be changed at any time. Individuals may change their votes as many times as they desire and the composition of Parliament updates weekly to reflect the new balance of votes. A vote is valid for three years before it must be re-cast.
-		ESL Finals
-			A: That we would ban plain clothes policing (Plain-Clothes Policing)
-				A: Plain clothes policing is routine policing where officials do not wear clothing that immediately identifies them as police. It does not refer to undercover policing, where police take on false identities to gather evidence.
-		Grand Final
-			B: That, in countries with a history of ethnic tensions, we would embrace cultural appropriation (Cultural Appropriation)
+			That we regret the rise of retail investment
+				Balance $stats 3, 1, 8
+				Veto $stats 2, 1, 16
+				Applications such as Robinhood have recently made it significantly easier for private individuals to invest in specific stocks and financial instruments. People use the app to purchase those stocks and financial instruments hoping the value will increase and they will turn a profit. This type of person is known as a "retail investor".
+			That we prefer a world without corporate tax
+				Balance $stats 0, 2, 8
+				Veto $stats 3, 2, 16
+				A corporate tax is a tax on the profits of a corporation.
+		OF
+			That we would ban the use of any reproductive technology (e.g. abortion, embryo selection) which alters the prevalence of any common disability
+				Balance $stats 1, 0, 8
+				Veto $stats 5, 2, 16
+				Prevalence describes how common a trait or medical condition is in the population.
+			That we regret the trend of left-wing media coverage of the deaths of individual prominent anti-vax activists from COVID-19
+				Balance $stats 2, 1, 8
+				Veto $stats 2, 4, 16
+			That, after receiving professional and science-based medical advice, patients should have the right to undergo treatments that are contrary to that advice and have not received regulatory approval for that usage (for instance, Ivermectin for Covid-19)
+				Balance $stats 0, 4, 8
+				Veto $stats 1, 2, 16
+		QF
+			That the Great Resignation Trend brings more harm than good
+				Balance $stats 0, 0, 4
+				Veto $stats 2, 2, 8
+				The Great Resignation is a trend seen in late 2021, in which millions of workers mostly in the West (including but not limited to those in the service/hospitality sector, those in entry-level jobs, those who have well-earning and highly-ranked corporate positions) are resigning from their formal employment.
+			That, as a skilled worker, we would prefer a world where polywork was the norm
+				Balance $stats 1, 1, 4
+				Veto $stats 2, 1, 8
+				Polywork means to have multiple jobs at multiple companies, rather than a single job at a single companies.
+			That, as a member of a minority community, we would actively discourage a child from that community from pursuing careers in state security apparatuses (military, police, immigration etc.)
+				Balance $stats 1, 1, 4
+				Veto $stats 0, 1, 8
+		SF
+			That, in contexts where significant sectarian violence has recently given way to a increasingly stable unity government, we oppose measures that increase the public's awareness of the scale and details of atrocities (for instance, publishing evidence-gathering reports, Truth and Reconciliation Commissions)
+				Balance $stats 1, 0, 2
+				Veto $stats 0, 0, 4
+			That we would prefer a world where Vladimir Putin died today suddenly of natural causes
+				Balance $stats 0, 1, 2
+				Veto $stats 0, 1, 4
+			That we regret Angela Merkel's decision to step down as German Chancellor
+				Balance $stats 0, 0, 2
+				Veto $stats 2, 1, 4
+		GF
+			That, as a person who emigrated from a poor nation to a wealthy nation and then becomes highly successful (for instance, Enis Kantor, Elon Musk, Isabel Allende, Chimamanda Ngozi Adichie, Salman Rushdie), we would vocally encourage other people from our homeland to also emigrate
+				Balance $stats 0, 0, 1
+			That, in countries with a history of ethnic tensions, we would embrace cultural appropriation
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+			That we should oppose the promotion and marketing of indigenous cultures for the purpose of tourism
+				Balance $stats 0, 0, 1
+		ESL QF
+			That the writer should write the first ending rather than the second ending
+				Balance $stats 1, 2, 4
+				Veto $stats 1, 1, 8
+				A writer has just written one of the great works of dystopian fiction. They have two endings in mind. In one ending, the system prevails and the protagonist is consumed (for instance, in 1984, Winston's forbidden love for Julia is extinguished and he accepts Big Brother). In the other ending, the protagonist brings down the system and the seeds of a new society are sown (for instance, in Farenheit 451, Montag escapes and the dystopian city is destroyed).
+			That we prefer the norm of fantasy/science fiction writers creating main characters with ordinary abilities as opposed to main characters with magical and never before seen powers and/or abilities
+				Balance $stats 0, 0, 4
+				Veto $stats 0, 2, 8
+			That we regret the increasing number of movies made from existing intellectual property
+				Balance $stats 1, 0, 4
+				Veto $stats 3, 1, 8
+		ESL SF
+			That authoritarianism will eventually triumph over liberal democracy globally
+				Balance $stats 0, 0, 2
+				Veto $stats 2, 0, 4
+				Authoritarianism is a form of government characterized by the rejection of political plurality, the use of a strong central power to preserve the political status quo, and reductions in the rule of law, separation of powers, and democratic voting. Liberal democracy is a democratic system of government in which individual rights and freedoms are officially recognized and protected, and the exercise of political power is limited by the rule of law.
+			That it is in the best interests of the Biden Administration to restore aid to Pakistan
+				Balance $stats 0, 1, 2
+				Veto $stats 0, 1, 4
+				During the Trump administration, the United States significantly reduced aid and support to Pakistan. The USA alleged Pakistan was failing to sufficiently counter terrorism in the region. In response, Pakistan has increased its economic relationship with China.
+			That it is in the interests of the EU to lift sanctions against the Taliban regime
+				Balance $stats 1, 0, 2
+				Veto $stats 0, 1, 4
+		ESL GF
+			That we would ban plain clothes policing
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
+				Plain clothes policing is routine policing where officials do not wear clothing that immediately identifies them as police. It does not refer to undercover policing, where police take on false identities to gather evidence.
+			That we prefer mandatory community service to be the ordinary and exclusive punishment for misdemeanours (for instance, traffic violations)
+				Balance $stats 0, 0, 1
+			That people who have suffered acute amnesia should not be punished for crimes they cannot remember
+				Balance $stats 0, 0, 1
+		EFL SF
+			That we would ban individuals from editing their own genomes
+				Balance $stats 1, 0, 2
+				Veto $stats 1, 0, 4
+				At some point, gene editing technology will become sufficiently advanced to allow people to edit their own genomes. Gene editing may make someone smarter, more traditionally attractive, or have any other genetically expressed trait.
+			That we oppose Jeff Bezos' investment in anti-aging technology
+				Balance $stats 0, 1, 2
+				Veto $stats 1, 1, 4
+				Amazon founder, Jeff Bezos, has invested in Altos Labs, a new anti-ageing start-up that hopes to prolong human life.
+			That we should support the creation of the Facebook Metaverse
+				Balance $stats 0, 0, 2
+				Veto $stats 0, 1, 4
+				Facebook, Inc. recently changed their name to Meta Platforms Inc. in alignment with Mark Zuckerberg's pivot towards transforming Facebook into a metaverse to actively replace social, work, and entertainment spaces. 
+				The metaverse uses augmented reality technology to create a virtual environment where users can be present with other users in digital spaces. These users are seemingly immersed in these spaces as opposed to just looking at them.
+		EFL GF
+			That, assuming secure implementation and easy use, we would implement liquid democracy
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+				Liquid democracy is a system where votes can be changed at any time. Individuals may change their votes as many times as they desire and the composition of Parliament updates weekly to reflect the new balance of votes. A vote is valid for three years before it must be re-cast.
+			That left-wing political campaigns should heavily prioritize forwarding "firebrand" political candidates
+				Balance $stats 0, 0, 1
+				A "firebrand" politician is one that focuses their political persona and campaign narrative on inciting great changes, extremely passionate, and one that wields huge personality, often polarizing and intentionally incendiary.
+			That progressives should aggressively but covertly invest in progressive "fake news"
+				Balance $stats 0, 0, 1
 	Australs 2020
 		R1
 			That, as Joe Biden, we would choose to run on a ‘Medicare-for-All’ platform.
