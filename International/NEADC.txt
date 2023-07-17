@@ -1,71 +1,181 @@
 North-East Asian Debate Championship
 	NEADC 2022
 		R1
-			THW abolish laws against price-gouging.
-				Price gouging occurs when a seller increases the prices of goods, services, or commodities to a level much higher than is considered reasonable or fair. Usually, this event occurs after a demand or supply shock. Common examples include price increases of basic necessities after natural disasters.   
-		R2 
-			THBT there are no immoral thoughts, merely immoral actions.
-		R3 
-			TH, as Nepal, prefers strengthening our long-term relationship with China rather than India.
-		R4 
-			In post-colonial states, THP education where strong emphasis is placed on multi-culturalism over similarities between different groups.
-		R5 
-			THW allow individuals to sue religious organizations for compensation for the harmful effects of choices made as a result of adherence to religious doctrine.
-		R6 
-			THBT states should be allowed to auction off the long-term right to govern bankrupt cities for profit.
-		Open PDO/EFL POF: 
-			THO the practice of vote buying.
-				Vote buying refers to practice where political parties or candidates provide goods or cash to voters in return for votes or ballot papers. 
-		Open OF/EFL QF: 
-			THW legally require all companies to adhere to a model of stakeholder capitalism.
+			THW abolish laws against price-gouging
+				OG $stats 6, 10, 9, 5
+				OO $stats 10, 8, 9, 3
+				CG $stats 4, 7, 5, 14
+				CO $stats 10, 5, 7, 8
+				Price gouging occurs when a seller increases the prices of goods, services, or commodities to a level much higher than is considered reasonable or fair. Usually, this event occurs after a demand or supply shock. Common examples include price increases of basic necessities after natural disasters.
+		R2
+			THBT there are no immoral thoughts, merely immoral actions
+				OG $stats 6, 8, 11, 5
+				OO $stats 10, 9, 7, 4
+				CG $stats 5, 3, 8, 14
+				CO $stats 9, 10, 4, 7
+		R3
+			TH, as Nepal, prefers strengthening our long-term relationship with China rather than India
+				OG $stats 7, 11, 9, 3
+				OO $stats 2, 9, 11, 8
+				CG $stats 13, 2, 7, 8
+				CO $stats 8, 8, 3, 11
+		R4
+			In post-colonial states, THP education where strong emphasis is placed on multi-culturalism over similarities between different groups
+				OG $stats 10, 7, 7, 6
+				OO $stats 5, 9, 7, 9
+				CG $stats 7, 8, 7, 8
+				CO $stats 8, 6, 9, 7
+		R5
+			THW allow individuals to sue religious organizations for compensation for the harmful effects of choices made as a result of adherence to religious doctrine
+				OG $stats 7, 8, 10, 5
+				OO $stats 4, 8, 10, 8
+				CG $stats 15, 4, 4, 7
+				CO $stats 4, 10, 6, 10
+		R6
+			THBT states should be allowed to auction off the long-term right to govern bankrupt cities for profit
+				OG $stats 10, 9, 8, 2
+				OO $stats 7, 8, 10, 4
+				CG $stats 5, 6, 5, 13
+				CO $stats 7, 6, 6, 10
+		PDO
+			THO the practice of vote buying
+				OG $stats 3, 1
+				OO $stats 1, 3
+				CG $stats 3, 1
+				CO $stats 1, 3
+				Vote buying refers to practice where political parties or candidates provide goods or cash to voters in return for votes or ballot papers.
+		EFL POF
+			THO the practice of vote buying
+				OG $stats 3, 1
+				OO $stats 1, 3
+				CG $stats 3, 1
+				CO $stats 1, 3
+				Vote buying refers to practice where political parties or candidates provide goods or cash to voters in return for votes or ballot papers.
+		OF, EFL QF
+			THW legally require all companies to adhere to a model of stakeholder capitalism
+				OF OG $stats 6, 2
+				OF OO $stats 1, 7
+				OF CG $stats 6, 2
+				OF CO $stats 3, 5
+				EFL QF OG $stats 3, 1
+				EFL QF OO $stats 1, 3
+				EFL QF CG $stats 0, 4
+				EFL QF CO $stats 4, 0
 				Traditionally company executives have been required to maximise shareholder profits. Under stakeholder capitalism, company executives are instead obliged to serve the interests of all relevant stakeholders including shareholders, employees, customers, and vendors.
-		Open QF/EFL SF: 
-			THBT social movements should prioritise blaming the structure over particular public figures.       
-		Open SF: 
-			THBT the world should recognise the Tatmadaw as the legitimate government of Myanmar.
-				The Tatmadaw (Myanmar's army) led a coup in 2021 that overthrew the popularly elected government of Aung San Suu Kyi. Reception to the coup has been broadly negative both domestically and internationally.
-		Open GF: 
-			THBT governments should set up a department dedicated to producing and submitting ‘Sokal papers’ to academic journals, removing academics that admit Sokal papers and shutting down faculties that systemically admit ‘Sokal papers’.
-			A ‘Sokal paper’ refers to a fake academic paper that is submitted to a reputable academic journal that utilises the tropes and jargon of the journals field to write deliberately absurd articles and thesis’. The aim is to expose faculties and academics that accept these submissions.
-			An recent example was a re-write of Mein Kampf using feminist tropes titled “Our Struggle is my Struggle: Solidarity Feminism as an Intersectional Reply to Neoliberal and Choice Feminism.” (This got published)
-		EFL GF: 
-			THS disruptive climate protests by environmental movements. (e.g., blocking traffic)
-
+		QF, EFL SF
+			THBT social movements should prioritise blaming the structure over particular public figures
+				QF OG $stats 2, 2
+				QF OO $stats 3, 1
+				QF CG $stats 2, 2
+				QF CO $stats 1, 3
+				EFL SF OG $stats 0, 2
+				EFL SF OO $stats 2, 0
+				EFL SF CG $stats 0, 2
+				EFL SF CO $stats 2, 0
+		SF
+			THBT the world should recognise the Tatmadaw as the legitimate government of Myanmar
+				OG $stats 1, 1
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 0, 2
+				Info slide: The Tatmadaw (Myanmar's army) led a coup in 2021 that overthrew the popularly elected government of Aung San Suu Kyi. Reception to the coup has been broadly negative both domestically and internationally.
+		GF
+			THBT governments should set up a department dedicated to producing and submitting 'Sokal papers' to academic journals, removing academics that admit Sokal papers and shutting down faculties that systemically admit 'Sokal papers'
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				A ‘Sokal paper’ refers to a fake academic paper that is submitted to a reputable academic journal that utilises the tropes and jargon of the journals field to write deliberately absurd articles and thesis’. The aim is to expose faculties and academics that accept these submissions.
+				An recent example was a re-write of Mein Kampf using feminist tropes titled "Our Struggle is my Struggle: Solidarity Feminism as an Intersectional Reply to Neoliberal and Choice Feminism."
+		EFL GF
+			THS disruptive climate protests by environmental movements (e.g., blocking traffic)
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
 	Tokyo NEADC 2021
 		R1
-			Assuming feasibility, this house would pass all major legislation through direct referendum.
+			Assuming feasibility, THW pass all major legislation through direct referendum
+				OG $stats 3, 5, 11, 8
+				OO $stats 9, 10, 5, 3
+				CG $stats 8, 4, 9, 6
+				CO $stats 7, 8, 2, 10
 		R2
-			This house supports dating apps that are exclusive to members of particular ethnic communities (e.g. AsianDating.com, WhereWhitePeopleMeet, etc.)
+			THS dating apps that are exclusive to members of particular ethnic communities (e.g. AsianDating.com, WhereWhitePeopleMeet, etc.)
+				OG $stats 10, 9, 7, 1
+				OO $stats 9, 7, 8, 3
+				CG $stats 7, 8, 5, 7
+				CO $stats 1, 3, 7, 16
 		R3
-			This house believes that post-colonial nations should prioritise narratives of religion over quantitative outcomes when attempting to implement reconstruction policy.
+			THBT post-colonial nations should prioritise narratives of religion over quantitative outcomes when attempting to implement reconstruction policy
+				OG $stats 3, 7, 7, 10
+				OO $stats 14, 7, 3, 3
+				CG $stats 3, 7, 6, 11
+				CO $stats 7, 6, 11, 3
 		R4
-			This House Believes That all countries should impose a carbon import tax
+			THBT all countries should impose a carbon import tax
+				OG $stats 12, 2, 11, 2
+				OO $stats 8, 13, 3, 3
+				CG $stats 2, 6, 8, 11
+				CO $stats 5, 6, 5, 11
 				A "carbon import tax" applies domestic carbon taxes to the carbon emissions of an imported good. For instance, a bicycle made in Vietnam but imported to Cambodia would have to pay the same amount in carbon taxes to the Cambodian government as would have to be paid if that bicycle was produced in Cambodia.
 		R5
-			This House Believes That the insanity defence should extend to people with serious ASPD
+			THBT the insanity defence should extend to people with serious ASPD
+				OG $stats 5, 9, 6, 7
+				OO $stats 8, 4, 10, 5
+				CG $stats 5, 7, 8, 7
+				CO $stats 9, 7, 3, 8
 				Antisocial personality disorder (ASPD) is a mental health condition characterized by a long-term pattern of disregard for, or violation of, the interests of others. People with serious ASPD are commonly known as psychopaths or sociopaths.
 				The application of the insanity defence means that the perpetrator is not punished; rather, they are referred to psychiatric care and released as soon as it is deemed to be safe.
 		R6
-			This House Believes That diasporas should actively seek a connection with their ancestral heritage
+			THBT diasporas should actively seek a connection with their ancestral heritage
+				OG $stats 8, 9, 4, 6
+				OO $stats 10, 7, 5, 5
+				CG $stats 5, 7, 11, 4
+				CO $stats 4, 4, 7, 12
 		OF
 			TH, as the United States of America, would heavily prioritise countries under significant Chinese influence in the Build Back Better World project (e.g. Cambodia, Laos, and Pakistan)
+				OG $stats 4, 4
+				OO $stats 6, 2
+				CG $stats 4, 4
+				CO $stats 2, 6
 				Build Back Better World (B3W) is an initiative undertaken by G7 countries which is designed to provide an alternative to China’s Belt and Road Initiative for the infrastructure development of low and middle income countries.
 		QF
 			THP a world where Asia and Europe had a single common electrical grid
+				OG $stats 1, 3
+				OO $stats 2, 2
+				CG $stats 2, 2
+				CO $stats 3, 1
 				"An electrical grid is an interconnected network for electricity delivery from producers to consumers. Electrical grids vary in size and can cover whole countries or continents.
 				A common electrical grid allows electricity to flow between different countries with no restrictions or tariffs."
 		SF
-			THP a world in which individuals were judged upon their death based on the standards of their religion, and were punished or rewarded accordingly (e.g. heaven and hell, reincarnation, afterlife, etc.), as opposed to one in which there is no afterlife, though individuals remain unsure of that fact.
+			THP a world in which individuals were judged upon their death based on the standards of their religion, and were punished or rewarded accordingly (e.g. heaven and hell, reincarnation, afterlife, etc.), as opposed to one in which there is no afterlife, though individuals remain unsure of that fact
+				OG $stats 0, 2
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 2, 0
 		GF
 			THW require all marriages to stipulate specific expectations and obligations of spouses
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
 		EFL QF
-			This House Believes that Western tech companies should enter into authoritarian markets even at the expense of conforming to local laws and regulations
+			THBT Western tech companies should enter into authoritarian markets even at the expense of conforming to local laws and regulations
+				OG $stats 2, 2
+				OO $stats 2, 2
+				CG $stats 2, 2
+				CO $stats 2, 2
 		EFL SF
-			This House Opposes the practice of Tatemae
+			THO the practice of Tatemae
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 2, 0
+				CO $stats 0, 2
 				Honne" refers to a person's true feelings and desires, and "Tatemae" refers contrastingly to the behaviour and opinions one displays in public. In Japan, the rules around Tatemae are meant to minimise discord, and failing to observe Tatemae might be seen as insulting or aggressive. In many cases, Tatemae leads to outright telling of lies in order to avoid exposing the true inward feelings.
-		EFL Finals
+		EFL GF
 			THW deprioritise unvaccinated inidividuals from state medical services if they are infected with severe cases of COVID-19
-	Solbridge NEADC 2020
-		GF
-			You are a closeted gay teen in a fairly conservative neighbourhood. The local religious leader in your community is one of the most respected and admired members of your community. His sermons are traditional but not extreme. One day you find indisputable evidence that the religious leader is gay and has been in a relationship for X amount of years. THW out the religious leader.
-		
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
