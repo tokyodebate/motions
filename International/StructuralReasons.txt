@@ -1,0 +1,138 @@
+Structural Reasons
+	Structural Reasons: Volume 2 (2023)
+		R1
+			THBT the LGBTQIA+ movement should actively advocate for "lavender marriages" in culturally conservative societies
+				OG $stats 2, 9, 3, 9
+				OO $stats 4, 4, 8, 7
+				CG $stats 8, 4, 9, 2
+				CO $stats 9, 6, 3, 5
+				A lavender marriage is a marriage of convenience between a man and a woman undertaken to conceal the socially stigmatised sexual orientation of one or both partners.
+		R2
+			THS Nayib Bukele's anti-gang measures
+				OG $stats 4, 10, 5, 4
+				OO $stats 7, 4, 7, 5
+				CG $stats 6, 3, 4, 10
+				CO $stats 6, 6, 7, 4
+				Since he came to power in 2019, Nayib Bukele has launched strict anti-gang measures to deal with insecurity and gang violence in El Salvador. Such measures include, but are not limited to, tougher prison sentences, recruiting more police officers, further involving the military in domestic security, bringing in new "advanced" security technologies, and the use of state of emergency powers granted by the constitution to suspend human rights, such as the right to assembly.
+		R3
+			THO the glorification of grit in narratives of success
+				OG $stats 7, 5, 7, 4
+				OO $stats 6, 7, 7, 3
+				CG $stats 5, 6, 3, 9
+				CO $stats 5, 5, 6, 7
+				In psychology, 'grit' is a positive, non-cognitive trait based on an individual's perseverance of effort combined with passion and/or fixation for a particular long-term goal. Examples of grit in pop culture include: Queen's Gambit, Whiplash, Black Swan, etc.
+		R4
+			THBT government should prioritize place-based investment over people-based investment when pursuing upliftment in under-developed areas of the state
+				OG $stats 6, 7, 9, 1
+				OO $stats 6, 4, 5, 8
+				CG $stats 7, 6, 4, 6
+				CO $stats 4, 6, 5, 8
+				Placed-based investment by federal, state, and local governments builds the nation’s capital stock by devoting resources to the basic physical infrastructure (such as roads, bridges, rail lines, airports, and water distribution), innovative activity (basic research), and green investments (clean power sources and weatherization). While people-based investment heavily prioritizes the investment in the human resource and social welfare of the people living in the area (education, healthcare, skills training).
+		R5
+			THS the use of lustration in newly-formed democracies
+				OG $stats 3, 11, 8, 0
+				OO $stats 6, 4, 7, 5
+				CG $stats 3, 6, 6, 7
+				CO $stats 10, 1, 1, 10
+				"Lustration" is a policy which involves the temporary removal (usually a period of 20–30 years) and political exclusion, often without trial, of officials at all levels of the political system associated with former regimes and their political parties, e.g. officials associated with the communist parties in Central and Eastern Europe after the collapse of the Soviet Union. This process is normally conducted by the new, more democratic establishment.
+		QF, ESL SF
+			THBT Brazil should prioritize relations with China ahead of the USA
+				QF OG $stats 1, 3
+				QF OO $stats 3, 1
+				QF CG $stats 2, 2
+				QF CO $stats 2, 2
+				ESL SF OG $stats 1, 1
+				ESL SF OO $stats 2, 0
+				ESL SF CG $stats 1, 1
+				ESL SF CO $stats 0, 2
+		SF, ESL GF
+			Assuming MoD is widely available, TH, as an average 18-year old, W choose to remain ignorant of one's own fate
+				SF OG $stats 1, 1
+				SF OO $stats 1, 1
+				SF CG $stats 2, 0
+				SF CO $stats 0, 2
+				ESL GF OG $stats 0, 1
+				ESL GF OO $stats 1, 0
+				ESL GF CG $stats 0, 1
+				ESL GF CO $stats 0, 1
+				For the purpose of this debate, the "Machine of Death" (MoD) is a technology capable of telling the user exactly how and when they will die on the day of their 18th birthday. The MoD cannot be accessed a second time, and the information one learns cannot be shared with anyone else.
+		GF
+			THBT the EU should create a standing army
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+		Rookie GF
+			TH, as Jean Valjean, W turn himself in to the authorities and save the innocent man as opposed to letting the innocent man be incarcerated
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				Jean Valjean is a fugitive prisoner in late 18th-century France who is sent to jail for many years for stealing a loaf of bread and then has his sentence extended for his many escape attempts. After finally escaping from prison, he is saved by a priest and becomes a god-fearing man who dedicates himself to doing good. He adopts a fake identity and becomes a mayor and philanthropist who employs many poor people. Recently, he found out that an innocent man, whose only crime is that he looks similar to Valjean, is mistakenly believed to be Valjean himself and is about to be sent to prison for the rest of his life unless proven innocent.
+	Structural Reasons Pre-WUDC 2022
+		R1
+			THBT it is in the interest of the GOP to elect Donald Trump as the Republican candidate for the 2024 US Presidential Election
+				OG $stats 4, 4, 8, 3
+				OO $stats 3, 8, 2, 6
+				CG $stats 8, 2, 3, 6
+				CO $stats 4, 5, 6, 4
+		R2
+			THP a world with a widespread belief in Radical Freedom
+				OG $stats 5, 6, 3, 5
+				OO $stats 4, 5, 6, 4
+				CG $stats 2, 5, 5, 7
+				CO $stats 8, 3, 5, 3
+				For the purposes of this debate, "Radical Freedom" is the view that every person has the power to alter their fundamental beliefs, desires, and attitudes.
+		R3
+			THBT all startups that become unicorns should be publicly traded
+				OG $stats 2, 4, 6, 7
+				OO $stats 5, 6, 5, 3
+				CG $stats 6, 3, 5, 5
+				CO $stats 6, 6, 3, 4
+				In business, a unicorn is a privately held startup company valued at over US$1 billion
+		R4
+			Assuming at least a basic level of services are provided to citizens, THP to be born into a stable dictatorship where democratic expression is curtailed over a volatile democracy
+				OG $stats 7, 4, 5, 3
+				OO $stats 5, 5, 4, 5
+				CG $stats 4, 4, 5, 6
+				CO $stats 3, 6, 5, 5
+		R5
+			THBT governments should abandon the strategy of "decapitation" in fighting terrorism
+				OG $stats 3, 4, 9, 2
+				OO $stats 8, 5, 3, 2
+				CG $stats 3, 3, 2, 10
+				CO $stats 4, 6, 4, 4
+				In the context of anti-terrorism, "decapitation" refers to the strategy of targeting terrorist leaders for assassination.
+		QF
+			THO increased financialization
+				OG $stats 1, 3
+				OO $stats 2, 2
+				CG $stats 3, 1
+				CO $stats 2, 2
+				Financialization refers to the increase in size and importance of a country's financial sector relative to its overall economy.
+		SF
+			THS the promotion of mortal salience in media
+				OG $stats 2, 0
+				OO $stats 1, 1
+				CG $stats 0, 2
+				CO $stats 1, 1
+				‘Mortal salience’ refers to a state of conscious awareness of death and the inevitable conclusion of life.
+		GF
+			THBT it is immoral for resistance movements to engage in military tactics that are highly likely to result in retaliation against the civilian population
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+		ESL SF
+			THS the coalition's price cap on Russian oil prices
+				OG $stats 2, 0
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 0, 2
+				The G7, the European Union, and Australia have formed a coalition to set a price cap on seaborne Russian crude oil at $60. Other countries will only be able to access services such as insurance, shipping, and brokerage from coalition countries if they trade Russian oil at or below the cap. Moscow has said it won't supply oil to those that participate in the coalition.
+		ESL GF
+			TH, as a young talented worker, W choose to enter the workforce in a job that promises high stability and guaranteed, but slow, career and pay progression, over a more volatile job in which career and pay progression is entirely performance based
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
