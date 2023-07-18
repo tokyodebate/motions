@@ -31,3 +31,37 @@ Macau Asian Parliamentary Debate Open (Macau APDO)
 				The Eighth Amendment to the Irish constitutions bans abortion. There is a strong public pressure to repeal or relax this ban, but this would require a referendum, which the Irish government is currently considering calling.
 			THBT liberal democracies should abandon the use of referenda as a mechanism for significant social change.
 			THBT gay marriage proponents should prioritize legal battles over the mobilization of popular support for a referendum.
+	2nd Macau APDO 2016
+		R1: Education
+			THBT academic institutions should deny racist, sexist, or fascist individuals a platform for speech
+			THBT Macau should make English the primary language of instruction for all students
+			THW stream academically underperforming children into vocational schools
+				Vocational schools focus on practical job training. They typically offer relatively short, technical, career-focused programs that quickly prepare graduates for the workforce.
+		R2: Imagine
+			THP a world that is organized with cities and villages as governing and sovereign units instead of nation states
+			THS testing human augmentation technologies on animals with the intention of significantly enhancing their cognitive capacities
+			THW make ratification of peace agreements conditional on approval by a popular vote of women affected by the conflict
+		R3: Economics
+			THW allow individuals to legally occupy any building that has been unused for more than one year
+			THBT developing countries should cap the amount of money that their citizens can invest/transfer/move overseas
+			THBT income tax levels should be determined by the relative privilege of an individual's upbringing
+		R4: International Relations
+			THBT International Criminal Court should never prosecute heads of state that are currently in power
+			THBT European Union should require its member states to adopt socially progressive legislations (abortion, same-sex unions, etc.)
+			THW try the alleged abuses committed by foreign troops in local courts
+		R5: Minorities
+			THBT it is legitimate for members of minority groups to discriminate against people outside their groups
+			THBT the West should not portray "The Great Explorers" (e.g. Christopher Columbus, Vasco da Gama) as heroes
+			THBT states should not promote the idea that two-parent families are superior to single-parent households
+		QF: Criminal Justice System
+			THBT a criminal's social contribution should be a mitigating factor in their sentencing
+			TH, as the police house, would accept applicants with a criminal record
+			THBT individuals should be allowed to sell their right to sue to a third party
+		SF: Democracy
+			THW allow citizens of EU member states to petition for an EU-wide referendum on specific issues, the results of which are binding on all EU members
+			THBT democracies should waive all citizenship requirements for elected office
+			THBT the Republican National Committee should field an alternative candidate regardless of Donald Trump's presumptive nominee status
+		GF: Poverty
+			THW aggressively proselytise to the poor
+			THBT we should grant parenting licenses to biological parents based on the same criteria used for adoptive parents
+			THBT progressive individuals should work for corrupted governments or leaders with the intention of forwarding social welfare
