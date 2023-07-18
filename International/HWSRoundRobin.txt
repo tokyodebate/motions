@@ -1,5 +1,47 @@
 HWS Round Robin
-	HWS ROUND ROBIN (2022)
+	HWS Round Robin 2023
+		R1
+			In post conflict societies, THW actively suppress information and interpretations that portray any past dictator or tyrannical regime in a sympathetic light
+				OG $stats 1, 1, 4, 2
+				OO $stats 0, 2, 3, 3
+				CG $stats 5, 1, 1, 1
+				CO $stats 2, 4, 0, 2
+		R2
+			THBT it is in the interest of Saudi Arabia to develop closer ties with China, even if this will substantially weaken ties with the US
+				OG $stats 1, 2, 3, 2
+				OO $stats 3, 2, 1, 2
+				CG $stats 0, 1, 4, 3
+				CO $stats 4, 3, 0, 1
+		R3
+			THW legalize active non-voluntary euthanasia
+				OG $stats 1, 2, 3, 2
+				OO $stats 2, 4, 1, 1
+				CG $stats 2, 2, 2, 2
+				CO $stats 3, 0, 2, 3
+				Active euthanasia is where proactive steps are taken to hasten someone’s death with the aim of minimizing suffering.
+				Non-voluntary euthanasia involves patients not competent to consent (e.g., those in a coma, with dementia, etc.), where someone else consents to hastening their death.
+				If a patient has (while competent) officially filed an "advance directive" about hastening their death under their current health circumstances, then this is NOT a case of non-voluntary euthanasia.
+		R4
+			As a parent, THW raise their child to prefer being single
+				OG $stats 3, 4, 0, 1
+				OO $stats 1, 3, 3, 1
+				CG $stats 2, 1, 2, 3
+				CO $stats 2, 0, 3, 3
+		R5
+			THO the norm of company founders remaining in key C-suite roles in the company after its IPO
+				OG $stats 0, 5, 2, 1
+				OO $stats 5, 0, 1, 2
+				CG $stats 1, 2, 4, 1
+				CO $stats 2, 1, 1, 4
+				"IPO" = Initial Public Offering (when a company changes from private to public ownership by offering stocks to the public)
+				"C-suite" = a term used to describe high-ranking executive titles in an organization (e.g., chief executive officer, chief operating officer, etc.)
+		GF
+			THBT feminist movements in developing nations should prioritize the strategy of advocating for carceral feminism
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+	HWS Round Robin 2022
 		R1
 			As a charity successfully making the world better, this house would reject donations from immoral actors.
 		R2
@@ -13,7 +55,7 @@ HWS Round Robin
 			This house regrets major internet companies (e.g., Facebook, Google, etc.) operating on the basis of selling advertising as a business model.
 		GF 
 			THS increased military spending and rearmament plans announced by Germany and other EU countries."
-	HWS ROUND ROBIN (2021)
+	HWS Round Robin 2021
 		R1
 			THP a world where children are raised communally.
 		R2
@@ -30,7 +72,7 @@ HWS Round Robin
 				In the status quo, China allegedly sells arms to the Burmese military and has blocked an official condemnation of the coup at the U.N. Chinese investment, firms, and infrastructure have been targeted by protestors.
 		GF
 			THBT the legacy of historical figures should not suffer due to those figures' immoral actions, if those actions were generally seen as morally unproblematic by their own society.
-	HWS ROUND ROBIN (2020)
+	HWS Round Robin 2020
 		R1
 			THBT parents of minorities should encourage their children to embrace positive stereotypes about themselves.
 		R2
@@ -45,7 +87,7 @@ HWS Round Robin
 		GF 
 			THP a world where there exists a world government with sovereign power.
 				A world government with sovereign power would have effective power in the entirety of the world.  Such a government is characterized by a legislative system, a world court, and sufficient military power to enforce the laws created by such a government.
-	HWS ROUND ROBIN (2019)
+	HWS Round Robin 2019
 		R1
 			This House regrets the decline of the humanities in higher education.
 				In academic settings, “the humanities” is contrasted with the study of natural sciences, social sciences, and professional trainings. Core fields in the humanities include: literature, philosophy, history, religion, art.
@@ -62,7 +104,7 @@ HWS Round Robin
 		GF
 			This House believes that the Black Lives Matter movement should embrace open carry gun laws and engage in armed community patrols.
 				The Black Panthers began as a group of black citizens in Oakland, California who engaged in armed patrols of the city streets, specifically focusing on observing police behavior and arrests. In response, California enacted much stricter gun control legislation.
-	HWS Round Robin (2018)
+	HWS Round Robin 2018
 		R1
 			THBT the criminal justice system should not consider retribution as a factor in sentencing.
 		R2
@@ -75,7 +117,7 @@ HWS Round Robin
 			When responding to civilian casualties, this house believes that the military action taken does not have to meet the principle of proportionality.
 		Open GF
 			This house believes that the interests of the Chinese people would be better served by a peaceful transition into a democracy, rather than a continuation of one party rule.
-	HWS Round Robin (2017)
+	HWS Round Robin 2017
 		R1
 			This house supports the use of “eye in the sky” policing in urban areas with high crime rates.
 		R2
@@ -88,7 +130,7 @@ HWS Round Robin
 			This house believes that the US should issue guest worker visas, under which minimum wage laws would not apply.
 		Open GF
 			THBT governments should abandon the strategy of “decapitation” in fighting terrorism.
-	HWS Round Robin (2016)
+	HWS Round Robin 2016
 		R1
 			THW require the use of a draft by lottery when engaged in extended military interventions.
 		R2
@@ -102,7 +144,7 @@ HWS Round Robin
 			THBT Israel should set aside a certain percentage of seats in the Knesset to be elected by diaspora Jews.
 		Open GF
 			THS health insurance companies offering terminally ill patients the option of a lump sum payment to forgo expensive life-extending treatments.
-	HWS Round Robin (2015)
+	HWS Round Robin 2015
 		R1
 			THS establishing an independent state of Kurdistan.
 		R2
@@ -115,7 +157,7 @@ HWS Round Robin
 			THW prohibit religious institutions from considering applicants’ religious affiliation for any position whose primary function is not the performance of religious rites (e.g., administrators, teachers, fundraisers, etc.).
 		Open GF
 			THBT prominent civil society activists should choose not to run for public office.
-	HWS Round Robin (2014)
+	HWS Round Robin 2014
 		R1
 			THW measure the efficacy of charities and strip those with comparatively low social value of their charitable status.
 		R2
@@ -128,7 +170,7 @@ HWS Round Robin
 			THW permit parents to stunt physical development of their severely mentally disabled children.
 		Open GF
 			THBT, within broad budgetary constraints, environmental policy should be decided by unelected scientific experts selected by their peers.
-	HWS Round Robin (2013)
+	HWS Round Robin 2013
 		R1
 			THW allow legislation through voter initiated referenda.
 		R2

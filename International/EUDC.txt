@@ -1,40 +1,199 @@
 European Universities Debating Championships
-	EUDC 2021
+	Zagreb EUDC 2022
 		R1
-			THW prioritise means-based[1] rather than target-based[2] regulation [1] e.g of means-based regulations: setting standards that attempt to make the workplace more accessible or banning the use of polluting technologies [2] e.g of target-based regulations: setting hiring quotas for employees from one particular group, or making companies reduce carbon emissions to X under threat of fines
+			THW ban zoos
+				OG $stats 9, 9, 12, 8
+				OO $stats 10, 11, 10, 7
+				CG $stats 7, 10, 8, 13
+				CO $stats 12, 8, 8, 10
 		R2
-			TH, as a University scholarship fund targeted at marginalized identity groups, W prioritize allocating funds based on merit rather than economic necessity.
+			THO the Commanding Distance military approach
+				OG $stats 7, 13, 12, 6
+				OO $stats 13, 12, 10, 3
+				CG $stats 3, 6, 11, 18
+				CO $stats 15, 7, 5, 11
+				"Commanding Distance" is a military approach according to which commanders should actively maintain social and emotional distance from their subordinates. When interacting with their subordinates, commanders following this approach will typically: not express emotions or vulnerabilities, not share details from their personal lives, avoid social interactions and maintain a purely professional relationship.
+		R3
+			THBT large cities should adopt the Vienna Model
+				OG $stats 13, 14, 6, 5
+				OO $stats 10, 7, 11, 10
+				CG $stats 9, 12, 9, 8
+				CO $stats 6, 5, 12, 15
+				The "Vienna Model" of social housing requires developers that build new residential complexes to lease 25% of units at significantly reduced rates to tenants chosen by the municipal government.
+		R4
+			THBT small European national football leagues should merge into regional leagues (e.g. a Benelux league, a Yugoslavian league, a Scandinavian league, etc.)
+				OG $stats 7, 13, 10, 8
+				OO $stats 13, 7, 11, 7
+				CG $stats 6, 6, 10, 16
+				CO $stats 12, 12, 6, 8
+		R5
+			THBT it is in the interests of post-Soviet Central Asian states to pivot away from Russia and develop closer political and economic ties with China
+				OG $stats 16, 9, 7, 6
+				OO $stats 6, 13, 13, 6
+				CG $stats 7, 10, 8, 13
+				CO $stats 9, 6, 10, 13
+		R6
+			THBT the globalisation of art has done more harm than good
+				OG $stats 10, 13, 8, 7
+				OO $stats 11, 15, 7, 5
+				CG $stats 6, 5, 15, 12
+				CO $stats 11, 5, 8, 14
+				For the purposes of this debate, the "globalisation of art" refers to the significant increase in cross-border consumption of cultural products (e.g. movies, TV shows, music, etc.)
+		R7
+			THW dissolve the position of High Representative for Bosnia and Herzegovina
+				OG $stats 2, 4, 17, 14
+				OO $stats 18, 16, 2, 1
+				CG $stats 2, 4, 11, 20
+				CO $stats 15, 13, 6, 3
+				The High Representative for Bosnia and Herzegovina is a position that was created in 1995 as part of the Dayton Peace Agreement that ended the Bosnian War. The postholder is appointed by the United Nations Security Council.
+				The High Representative's powers, without judicial oversight, include introducing or repealing laws or constitutional amendments, removing public officials from office, and banning individuals from running in elections.
+				For example, in 2021 the outgoing High Representative, Austrian Valentin Inzko, amended existing criminal law to make genocide denial and the glorification of war criminals illegal.
+		R8
+			THO the trend toward freelance journalism at the expense of traditional employment in a singular media organisation
+				OG $stats 12, 9, 7, 9
+				OO $stats 6, 15, 11, 5
+				CG $stats 13, 4, 10, 10
+				CO $stats 6, 9, 9, 13
+		R9
+			THW break up the ABCDs
+				OG $stats 9, 11, 9, 8
+				OO $stats 16, 7, 8, 6
+				CG $stats 3, 10, 9, 15
+				CO $stats 9, 8, 11, 9
+				Known as the "ABCDs", the four largest global agricultural commodities traders (ADM, Bunge, Cargill and Louis Dreyfus) control an estimated 70-90% of the global trade in grains and oilseeds (e.g. wheat, corn, soybean, rapeseed, etc.)
+		ESL SF
+			THBT the EU should ban Pegasus and similar software
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 1, 1
+				Pegasus is spyware developed by the Israeli cyber-arms company NSO Group, which can be covertly installed on individual mobile devices. Its capabilities include: reading messages, tracking calls, collecting passwords, location tracking, and accessing the target device's microphone and camera.
+				NSO claims to sell the software exclusively to government branches such as police forces and intelligence agencies, and has known customers from at least 14 EU countries.
+		ESL GF
+			THW take the pill
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				You are an athiest living in a country with a significant (but not extreme) degree of religiosity. There exists a single pill that, if taken, will permanently make you genuinely and earnestly believe in the majority religion.
+		QF
+			THR the increased accessibility of the production and consumption of internet pornography
+				OG $stats 2, 2
+				OO $stats 2, 2
+				CG $stats 3, 1
+				CO $stats 1, 3
+		SF
+			THBT the significant rise in retail investing brings more harm than good
+				OG $stats 1, 1
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 0, 2
+				Retail investors are non-professional individual investors who buy and sell financial assets (e.g stocks, bonds, commodities, cryptocurrency etc.). The percentage of overall US equity trading volume conducted by retail investors in 2021 was more than double that of 2011.
+		GF
+			TH Hopes that intelligent extraterrestrial life exists
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				Humanity has invented a machine that will definitively determine whether intelligent life exists elsewhere in the universe. The results will be revealed publicly in Zagreb in 15 minutes.
+	Madrid EUDC 2021
+		R1
+			THW prioritise means-based[1] rather than target-based[2] regulation
+				OG $stats 8, 8, 11, 7
+				OO $stats 5, 18, 5, 6
+				CG $stats 11, 4, 9, 10
+				CO $stats 10, 4, 9, 11
+				[1] e.g of means-based regulations: setting standards that attempt to make the workplace more accessible or banning the use of polluting technologies [2] e.g of target-based regulations: setting hiring quotas for employees from one particular group, or making companies reduce carbon emissions to X under threat of fines
+		R2
+			TH, as a University scholarship fund targeted at marginalized identity groups, W prioritize allocating funds based on merit rather than economic necessity
+				OG $stats 7, 12, 10, 5
+				OO $stats 16, 8, 5, 5
+				CG $stats 6, 7, 6, 15
+				CO $stats 5, 7, 13, 9
 		R3
 			THO the narrative that love (romantic, familial, etc.) is about sacrifice
+				OG $stats 9, 9, 13, 3
+				OO $stats 11, 13, 7, 3
+				CG $stats 8, 7, 7, 12
+				CO $stats 6, 5, 7, 16
 		R4
 			THBT societal narratives about recovery during crisis should be transformative (attempt to radically change society) rather than restorative (attempt to stabilise current crisis)
+				OG $stats 4, 9, 13, 8
+				OO $stats 18, 11, 4, 1
+				CG $stats 4, 9, 4, 17
+				CO $stats 8, 5, 13, 8
 		R5
 			TH, as the Spanish government, would give Catalonia a chartered regime
-				In Spain there are two ways financial autonomy is exercised by autonomous regions: In the common regime the central government is in charge of setting and collecting most taxes, which it then redistributes between all the autonomous regions with the aim of reducing inequalities between regions. This implies that richer regions become net contributors to the system, while poorer ones become net recipients. Catalonia is currently under a common regime.The second regime is a chartered regime, where as long as regions pay a fixed amount to the central government, they are allowed full control over setting and collecting non-VAT taxes (including raising or lowering tax). Currently only Basque Country and Navarre have a chartered regime.
+				OG $stats 8, 10, 9, 7
+				OO $stats 12, 6, 10, 6
+				CG $stats 4, 9, 8, 13
+				CO $stats 10, 9, 7, 8
+				In Spain there are two ways financial autonomy is exercised by autonomous regions:
+				In the common regime the central government is in charge of setting and collecting most taxes, which it then redistributes between all the autonomous regions with the aim of reducing inequalities between regions. This implies that richer regions become net contributors to the system, while poorer ones become net recipients. Catalonia is currently under a common regime. 
+				The second regime is a chartered regime, where as long as regions pay a fixed amount to the central government, they are allowed full control over setting and collecting non-VAT taxes (including raising or lowering tax). Currently only Basque Country and Navarre have a chartered regime.
 		R6
 			THBT social movements should follow social marxism
+				OG $stats 4, 11, 9, 10
+				OO $stats 15, 9, 8, 2
+				CG $stats 4, 7, 9, 14
+				CO $stats 11, 7, 8, 8
 				For the purposes of this debate, "social marxism" is defined as the belief that members of all oppressed groups should unite and fight together. Social marxism states that you cannot support one group without also supporting all others.
 		R7
 			THR Germany's decision to go ahead with the Nord Stream 2 deal with Russia
+				OG $stats 9, 6, 14, 5
+				OO $stats 17, 7, 7, 3
+				CG $stats 3, 11, 8, 12
+				CO $stats 5, 10, 5, 14
 				Nord Stream 2 is a set of offshore natural gas pipelines directly linking Russia and Germany. It would double the amount of natural gas that Germany directly imports from Russia.
 		R8
 			THBT states should prioritise high employment rates at the expense of significantly slowing down technological advancement (e.g. taxing automation, setting a minimum quota for human employees, or banning/limiting use of certain technologies)
+				OG $stats 9, 10, 13, 2
+				OO $stats 13, 8, 5, 8
+				CG $stats 5, 5, 13, 11
+				CO $stats 7, 11, 3, 13
 		R9
-			In functioning democracies with one dominant political party, THP opposition parties to predominantly campaign on the basis of moral character (e.g. integrity, transparency, corruption) rather than predominantly on specific issues and policies (e.g. unemployment, education, the environment).
+			In functioning democracies with one dominant political party, THP opposition parties to predominantly campaign on the basis of moral character (e.g. integrity, transparency, corruption) rather than predominantly on specific issues and policies (e.g. unemployment, education, the environment)
+				OG $stats 6, 6, 13, 9
+				OO $stats 11, 11, 5, 7
+				CG $stats 8, 8, 8, 10
+				CO $stats 9, 9, 8, 8
 		QF
 			THS Green Central Banking
-				Green Central Banking refers to central banks deliberately using their monetary policy instruments to incentivise climate-friendly market activities. For instance, targeted green lending programmes, targeted green bond purchase programmes, ""brown penalties"" (higher interest rates for pollution-intensive banks or businesses), lowering the financing rate for banks that offer collateral with a smaller carbon footprint, and mandatory disclosures of climate risks. For the purposes of this debate, green central banking would support climate-friendly policies even at the expense of traditional monetary objectives such as targeting inflation rates, ensuring financial stability and market efficiency, as well as retaining neutrality of intervention.
+				OG $stats 4, 0
+				OO $stats 3, 1
+				CG $stats 0, 4
+				CO $stats 1, 3
+				Green Central Banking refers to central banks deliberately using their monetary policy instruments to incentivise climate-friendly market activities. For instance, targeted green lending programmes, targeted green bond purchase programmes, ""brown penalties"" (higher interest rates for pollution-intensive banks or businesses), lowering the financing rate for banks that offer collateral with a smaller carbon footprint, and mandatory disclosures of climate risks.
+				For the purposes of this debate, green central banking would support climate-friendly policies even at the expense of traditional monetary objectives such as targeting inflation rates, ensuring financial stability and market efficiency, as well as retaining neutrality of intervention.
 		SF
 			THP religious organisations to actively propagate the idea that faith in a higher power cannot be explained with logic, rather than attempt to explain faith rationally
+				OG $stats 0, 2
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 2, 0
 		GF
 			THS a Multi-Speed Europe
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
 				Multi-Speed Europe is a scenario where existing Member States in the European Union integrate at different paces, where certain Member States opt in doing more in specific policy areas, while others opt out. This would not apply retroactively, so existing policies would remain unified, but new policies would be differentially adopted. These may cover policies such as defence, internal security, taxation or social matters.
 		ESL SF
 			THBT the Myanmar opposition movement should prioritise demands for an immediate, internationally-observed election over demands for Aung San Suu Kyi to be freed
-		ESL Final
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 1, 1
+		ESL GF
 			THP humans to aquire memories* of their past lived experiences upon reaching adulthood rather than staying oblivious * memories of past lived experiences include events, interactions and emotions, but not skills
-				For the purposes of this debate reincaraction is real. It happens in human form only, in a random (not karmic) way, and doesn't have to follow immediately after death. This is known to all and considered an undisputable fact.Humans have inherent traits that consist of their core personality and preferences. These get transferred through reincarnations and do not change. People are a combination of their inherent traits and their environment.
-	EUDC 2020
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				For the purposes of this debate reincaraction is real. It happens in human form only, in a random (not karmic) way, and doesn't have to follow immediately after death. 
+				This is known to all and considered an undisputable fact. 
+				Humans have inherent traits that consist of their core personality and preferences. These get transferred through reincarnations and do not change. People are a combination of their inherent traits and their environment.
+	Solbridge EUDC 2020
 		R1:
 			THW only allow university admission on the basis of standardized testing, as opposed to non-quantitative methods (e.g. essays, alumni interviews)
 		R2:

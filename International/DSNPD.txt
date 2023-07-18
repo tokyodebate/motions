@@ -45,13 +45,13 @@ DSNPD
 		QF
 			THBT progressive individuals should have a Zero Tolerance Policy for people with regressive values in their social circle.
 				A 'Zero Tolerance Policy' in this debate refers to cutting contact with a person to as great of an extent as reasonably possible. In the case of family or essential co-workers, this can look like being civil with but never close to them. For a friend, it can mean cutting them off completely.
-		Novis SF
+		Novice SF
 			THBT left wing media should focus on "notable achievements" of immigrants, rather than instances of their exclusion, suffering, or vulnerabilities.
 		SF
 			THBT Hindu youth in West Bengal should choose to vote for the BJP come election season.
 				India follows a quasi-federal system of governance where the centre and state share powers with the central government often having more powers.
 				Mamata Banerjee (Trinamool Congress), the incumbent Chief Minister of West Bengal, has long been criticised for her politics due to her tendency to appease religious minorities in the historically, culturally, and ethnically diverse border state. Her soon to be 3 term long rule has also been criticised on the grounds of slow economic progress. BJP, the controversial ruling party at the centre made significant headway in the 2021 Bengal Elections, increasing its number of seats from just 3 to 77 in a mere five years. This progress is often credited to the strong never-done-before Hindutva narrative they pushed in the state alongside promises of swift economic development.
-		Novis GF
+		Novice GF
 			THW choose to not be born.
 		GF
 			THO the veil of ignorance.

@@ -1,4 +1,157 @@
-Korea Intervarsity Debate Association National Championship
+Korea Intervarsity Debate Association National Championship (KNC)
+	Spring Solbridge KNC 2020
+		R1: Education
+			THBT college entrance examinations should accept students only on the basis of their academic performance in secondary education
+			THS a world where the government gives cash that individuals can use to freely select their academic preference (including but not limited to school of choice, private academies, and tutoring) instead of funding for public education
+			THW abolish all requirements and evaluation criteria in higher education (i.e., attendance, exams, assignments)
+		R2: Sports
+			THBT having star players for team sports do more harm than good to the team
+			THR the emphasis on winning a medal in the Olympics as a core symbol of success
+			THP a world where sports serves purely entertainment purposes even at the expense of fair play
+		R3: Religion
+			THW, as a religious group/leader, cease attempts at increasing the number of believers and instead prioritize boosting loyalty amongst adherents to the religion
+			Assuming feasibility, THP a world where a panel of church leaders would create a universally accepted interpretation of the Bible that the believers would abide by
+			THW aggressively crackdown on megachurches
+		R4: Justice
+			In the case a human destroys the robot beyond repair, THW charge murder instead of property damage
+				In 2050, AI robots are able to replicate the appearance, conversation, and reaction to emotions of human beings. However, their intelligence still does not allow them to sense emotions and feelings such as pain, happiness, joy, and etc.
+			THP a world where the criminal justice system’s role is mainly for victim’s vengeance
+			THW allow prosecutors and victims to veto assigned judges
+		QF, Rookie QF: Pandemic
+			During a pandemic, THBT businesses that benefit from the pandemic should be additionally taxed
+			THW nullify the effect of medical patents in cases of medical emergencies
+			THW ban media content that denies the efficacy of the COVID-19 without substantial evidence
+		SF: Minority
+			THW disclose this information
+				A prominent member of the LGBT movement has discovered that a very influential politician helping the LGBT movement has been lying about their sexual orientation as being gay when they are straight. 
+			THBT the LGBTQIA+ movement should denounce the existence of marriage as opposed to fighting for equal marriage rights
+			THBT the LGBTQIA+ movement should condemn the consumption of movies and TV shows that cast straight actors/actresses in non-heterosexual identified roles
+		GF
+			THW destroy this tech
+				In X years later, a technology that could comprehensively evaluate and record individuals’ character traits (e.g. maliciousness, wittiness, benevolence, articulateness, etc.) has been developed. This tech can be used to rank and publicize each individual’s overall moral worth.
+			THR the emphasis on longevity in relationships
+			Assuming feasibility, THW choose to continuously relive the happiest moment of one’s life
+		Rookie SF: Politics
+			THR the ‘candle light will’ narrative in the political discourse of South Korea
+				The Candle Light Will (촛불민심) is a term derived from the symbolic candle-light protests for the impeachment of the late president Park Geun Hye, commonly used to mean the people’s will to fight against corrupt governments. The Moon administration has frequently referred to the Candle Light Will as the driving force behind its election that grants legitimacy to its policies.
+			THW impose a cap on the property and income of politicians
+			THW give the youth extra votes
+		Rookie GF
+			THW remove all laws that relate to filial responsibilities
+			THW require parents to receive approval from experts in relevant fields before making crucial decisions for their children
+			Assuming it is possible to measure the ‘societal danger’ of the fetus in the future, THBT the state should raise infants that pose high levels of threat 
+	Winter KUDC KNC 2020
+		R1: Criminal Justice System
+			THBT any upper limits on prison sentences for particularly heinous crimes should be abolished
+		R2: Relationship
+			THW require dating apps to anonymize profile pictures
+		R3: Economic
+			In times of financial crisis, THP that central banks directly absolve private debt held by the people rather than debt held by banks
+				During financial crises, major central banks can take measures to stabilize the financial markets by increasing money supply. In the past, they have essentially bought debt held by banks to do so (ex. open market purchases of MBS, Bonds, corporate bond ETFs).
+				Private debt refers to debt held by regular civilians such as mortgages, SME loans, etc.
+		R4: International Relation
+			TH, as the Biden Administration, would create a new climate deal instead of rejoining The Paris Agreement
+				The Paris Agreement is the first-ever universal, legally binding global climate change agreement. It sets out a global framework to limit the global temperature increase to well below 2°C by substantially reducing global greenhouse gas emissions. Countries make pledges to reduce their emissions within a specific time frame, but the ambition of those pledges is a matter for the country to decide.
+				As of 2020, there are 197 nations that have ratified this agreement. The Trump administration withdrew from the agreement in 2017.
+		R5: Education
+			THW adopt a Pass/Fail grading system for students who suffer from mental health problems (e.g. depression, bipolar disorder, etc.)
+		R6: Feminism
+			THBT South Korean feminist movements should reject feminist icons that are adversarial and embody violence
+		Open SF: Art
+			THR the narrative that eccentric personalities are essential to create art
+		Open GF: Freedom?
+			THBT freedom of speech should be considered obsolete
+		Rookie GF: Children
+			THS the creation of savior siblings
+				”Savior siblings” are children that are conceived after screening and genetically selecting an embryo in order to ‘create a perfect match’ sibling for their seriously ill child. When the savior child is born, its umbilical cord blood can be saved as a source of stem cells for the patient in need of a transplant, and the child may have to make monthly blood “donations” to its siblings until the illness is cured.
+		EFL GF: Children
+			THW allow parents of severely mentally disabled children to medically impede their children's physical growth
+	Spring ADS KNC 2019
+		R1: Schools
+			THW grant universities full autonomy on academic policies including but not limited to applications curriculum and faculty
+			TH, as South Korea, would merge all national universities into one
+			THR the decline of General Female Student Council in Korean Universities
+		R2: Military
+			THW allow military service members to engage in collective action
+			TH, as a partner staying behind, would not wait for ones lover
+				Your lover went to military during the relationship
+			THBT raising national prestige should not be a criterion for military exemption
+		R3: Korean Politics
+			THBT members of the South Korean National Assembly should not be granted political immunity
+			TH, as President Moon, would pardon Geun-Hye Park and Myung-Bak Lee
+			THBT all self-proclaimed conservatives should immediately join the Liberty Korea Party
+		R4: Family
+			THW ban parental surveillance programs, applications, and devices
+			THBT adolescents should be granted full autonomy to choose whom to be raised by
+			THW nullify surrogacy contracts in the cases where the surrogate mother requests to keep the child after giving birth
+				Surrogacy: legal arrangement, whereby a woman (the surrogate mother) becomes pregnant and gives birth to a child for another person(s) who is or will become the parent(s) of the child.
+		R5: North Korea
+			THP federalism over absorption as a model for Korean reunification
+			THBT the Moon government should openly criticize north Korean human rights violations
+			TH, as South Korea, would Resume operations of the Kaesong Industrial Complex
+		R6: CJS
+			THBT the treatment of prisoners in jail should not be better than the living condition of the lowest socioeconomic bracket of the society
+			THBT the defamation of the dead should not be punished
+				Defamation refers to statements that degrades reputation of a particular individuals or an organization
+			THW not punish crimes that were committed outside of its jurisdiction (i.e. overseas) upon return
+		R7: Economy
+			THW allow investors to sue owners of companies (i.e. Seungri of Aori Ramen, Elon Musk of Tesla, Jae-yong Lee of Samsung) in cases of owner-risk
+				Owner-Risk is a situation where illegal actions done by owner of a company creates negative outcome for the company in general, or franchise owners in certain cases
+			THW actively encourage the inheritance of family-owned small and medium-sized enterprises to family members
+			THW set different standards of minimum wage for each industry
+		Open OF: International Relations
+			TH, As the Saudi Arabian Government. Would push for demise of the Petro-dollar
+			TH, As the United States would deploy military to Venezuela
+			TH, as Europe, welcomes the increasing influence of China over its region
+		Open QF: Technology
+			THW not develop sentient artificial intelligence
+			THBT corporations should not sell technology to authoritarian regimes. When there is a credible reason to believe that their technology will be used to oppress its citizens
+			Assuming Feasibility, THS the technology that would allow individuals to delete, add or modify their memory
+		Open SF: Minority
+			THBT individuals who live in dwellings that are to be gentrified are justified to use force as means of resistance
+			THR creation of ethnic enclaves overseas of its ethnic origin (i.e. Korea Town, China town)
+			THBT members of dying cultures should aggressively engage in commodification of their culture
+		Open GF: History
+			THBT descendants of war criminals do not have an obligation to apologize for the acts of their ancestors
+			THBT post-dictatorial states that have achieved democracy should criminalize all denials of past democratization movements
+			THR historical education that emphasizes the role of the general mass than that of particular historical leaders regarding societal progress
+		Rookie SF, EFL SF: Culture
+			THW implement quota for domestic Korean movies
+			THW not consume arts created by criminals
+			THBT Feminist should boycott K-POP idol stars 
+		Rookie GF: Globalization
+			TH welcomes the rise of isolationism across western countries
+			THW tax individuals who chose to emigrate
+			TH, as South Korean government, would aggressively accept refugees
+		EFL GF: Media
+			THBT politicians should not be granted the right to be forgotten
+			When covering news regarding regions of conflicts, THBT journalists should assist victims of conflict even at the expense of coverage
+			THW mandate social media corporations to fact-check comments made by political leaders
+	Fall KMA KNC 2019
+		R1: Lifestyle
+			TH, as a millenial, would choose to be self-partnered
+				'Self-Partnership' focuses on the ideal of being happy and complete as a solo individual. 
+		R2: National Security
+			THBT South Korea should retract the decision to terminate GSOMIA with Japan
+		R3: Religion
+			Assuming God exists, THP a world where God takes a human form
+		R4: Criminal Justice System
+			In cases of suicide, THW hold individuals who have verbally and psychologically abused the victim, criminally liable for homicide
+		R5: Media
+			THR 'cancel culture' online
+				Cancel culture refers to the act of no longer morally, financially, and/or digitally supporting people usually celebrities- events, art works such as songs, films, or TV shows or things that many have deemed unacceptable or problematic.
+		Open QF, EFL SF: Business
+			THBT social entrepreneurs should not be allowed to make profits
+		Open SF: Philosophy
+			THBT detachment is the key to happiness
+		Open GF: Feminism
+			THBT democracy has failed women 
+		Rookie SF: Business
+			THS Twitter's decision to ban all political ads
+		Rookie GF: Philosophy
+			THR the narrative that inherent goodness exists
+		EFL GF: Philosophy
+			THW actively support the narrative that "nothing lasts forever"
 	4th Korea Intervarsity Debate Association National Championship 2008
 		Demo debate
 			THW not confiscate land from descendants of collaborators with Japan during its colonial rule.
