@@ -1144,63 +1144,63 @@ United Asia Debating Championship
 		Finals
 			TH would never offer amnesty to heads of state in the midst of possible regime change.
 	1st United Asian Debating Championship(2010)
-		R0 - Ban
+		R0: Ban
 			THW ban websites that do your assignments for you
 			THBT that governments should totally ban smoking
 			THW ban hymen reconstruction surgery
-		R1 - Religion
+		R1: Religion
 			THBT the right to free speech does not extend to offending religions
 			THBT religious organizations should pay taxes on donations received and assets owned
 			THBT the Pope should be prosecuted for the crimes of Roman Catholic priests
-		R2 – Medical Ethics
+		R2: Medical Ethics
 			THBT Doctors should be obligated to report suspected cases of domestic abuse
 			THBT Doctors should not be forced to perform medical procedures that are against their faith
 			THW Ban treatments that claim to cure homosexuality
-		R3 – Post Conflict
+		R3: Post Conflict
 			THBT post conflict societies should recruit rebel soldiers into state armies
 			THBT that it is justified to represent fallen regimes as absolutely evil in history textbooks
 			THW confiscate property of those who cooperated with oppressive regimes after the fall of the regime.
-		R4 – Big Cities
+		R4: Big Cities
 			THW pay youth to not move to urban centers
 			THW place a prohibitive tax on car ownership
 			THW impose curfews in high crimes areas
-		R5 – Media
+		R5: Media
 			THBT that western liberal democracies should ban online anonymity
 			THBT the willingness to participate in formal public election debates should be a pre-requisite for candidates running for national office
 			THW ban advertisements that use sex to sell products
-		R6 – Pop Culture / Art
+		R6: Pop Culture / Art
 			THBT Harry Potter has done more harm than good for literature
 			THBT that important characters in movies should be portrayed by actors of the same ethnicity
 			THW impose a minimum age for pop stars
-		R7 – International Relations
+		R7: International Relations
 			THBT it’s time the US recognize Hamas as a legitimate representative of Palestine
 			THBT the NLD should not boycott the elections in Burma.
 			THBT the leaders of nations that stockpile agricultural products for economic gain while global hunger persists should be charged with crimes against humanity
-		R8 – Social Dilemmas
+		R8: Social Dilemmas
 			THW compel children to care for their parents
 			THW allow minors to apply to be recognised as adults before they reach they age of majority
 			THBT individuals who have undergone cosmetic surgery should be required to disclose it to anyone whom they want to have children with.
-		Pre-Octos – WTO
+		Pre OF: WTO
 			THBT Russia should be admitted as a full member into the WTO now
 			THBT the WTO should hold all countries to uniform labour standards
 			THBT the WTO dispute regulation mechanism should allow disregarding intellectual property as a form of retaliation to unfair trade practices
-		Octofinals – Environment
+		OF: Environment
 			THW make environmental protection a legitimate defense in the prosecution of destruction of property
 			THBT The environmental movement should publish outright lies about the extent of environment harm to promote their cause.
 			THBT governments should only subcontract to environmentally friendly companies.
-		Quarters Finals and EFL Semifinals – Immigration
+		QF, EFL SF: Immigration
 			THBT ASEAN nations should accept Burmese refugees.
 			THS accept migrants even if they do not respect laws banning polygamy.
 			THW give asylum to sexual minorities.
-		Semis – Sexy Time
+		SF: Sexy Time
 			THBT gay parades do more harm than good to the gay community.
 			THW fund sex change operations.
 			THBT women should withhold sex with their partners to get them to end violent rebellion against the state.
-		EFL Finals – Crime and Punishment
+		EFL GF: Crime and Punishment
 			THW create a DNA registry of all criminals
 			THW physically castrate rapists
 			THBT prisoners sentence to life without parole should be allowed to choose the death penalty
-		Finals – Asia and Unity
+		GF: Asia and Unity
 			THW Abolish parties based on ethnicity
 			THW create an Asian Parliament
 			THBT China’s rise to power is in the best interest of Asia (Logan wanted to run, but didn’t)

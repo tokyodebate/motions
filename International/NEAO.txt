@@ -16,9 +16,9 @@ North East Asian Open
 				You are a doctor in the emergency unit of a hospital. One night, two critical cases come to you: a wealthy couple’s newborn baby and an extremely poor couple’s newborn baby are both diagnosed with a rare disease, which requires high maintenance. Despite hours of frantic efforts on your part to keep them alive, tragedy strikes by dawn and the wealthy couple’s baby dies.
 		R7
 			THBT governments should actively discourage consumerist lifestyles.
-		Open QF/FEL SF
+		Open QF, EFL SF
 			THBT it is in the interest of the Iranian government to immediately and unilaterally halt its nuclear weapons program
-		Open SF/High School GF
+		Open SF, High School GF
 			Assuming that humanity prior to the Industrial Revolution had knowledge of how industrialization led to widespread environmental destruction, THBT humanity, at that point in time, has a moral obligation to reject industrialization.
 		EFL GF
 			TH, as Northeast Asian parents, would raise their children as Third Culture Kids.
@@ -42,17 +42,17 @@ North East Asian Open
 		R6
 			THW ban Presidential Pardons
 				Presidential pardon refers to the President’s power to allow a person to be absolved of guilt for an alleged crime or other legal offense, as if the act never occurred.
-		OPEN Pre-QF/ EFL Pre-SF
+		Open Pre-QF, EFL Pre-SF
 			THW universally abolish CRBI(citizenship and residence by investment) schemes.
 				“Citizenship by Investment” (CBI) and “Residence by Investment” (RBI) schemes are offered by a substantial number of countries, such as Canada, Malaysia, UAE. The schemes allow foreigners to obtain citizenship and temporary/permanent residence rights on the basis of local investments or a flat fee.
-		OPEN QF/ EFL SF
+		Open QF, EFL SF
 			TH, as western liberal democracies, would impose sanctions on Saudi Arabia.
 		EFL GF
 			THR the imposition of the concept of universal human right
-		OPEN SF
+		Open SF
 			THR the South Korean Supreme Court decision to find conscientious objection to military conscription not guilty
 				Conscientious objector military refers to an individual who has claimed the right to refuse to perform military service on the grounds of freedom of thought, conscience, or religion. On October 26th, South Korean Supreme Court found a conscientious objection to mandatory military ser vice case not guilty for the first time.
-		OPEN GF
+		Open GF
 			TH, as the executive body would choose to eliminate based on utility over a random draw
 				In 2200, the world is unable to accommodate everyone. The only way for half the population to survive is to eliminate the other half. A confidential world body executive was formed in order to deal with this issue.
 	14th North East Asia Open 2017 (SolBridge, South Korea)
@@ -132,7 +132,7 @@ North East Asian Open
 		EFL GF
 			THBT people should be legally allowed to hurt themselves and others as much as they want, as long as there is legally established consent and there are no additional harms to third parties.
 		GF
-			THBT NGO’s which attempt to garner humanitarian support for post-colonial states should, in their campaigns, advertsing and brochures etc., link the States present suffering to past acts of Western colonialism.
+			THBT NGOs which attempt to garner humanitarian support for post-colonial states should, in their campaigns, advertsing and brochures etc., link the States present suffering to past acts of Western colonialism.
 	11th North East Asian Open 2014 (Taiwan)
 		R1
 			THW not keep drug addiction on one’s criminal record.
@@ -292,7 +292,7 @@ North East Asian Open
 			THW say NO to the U.S.-India Nuclear Agreement.
 			THW not meet with the leaders of Iran.
 			THBT supporting Georgia’s NATO bid is more important than maintaining good relations with Russia.
-		Quater GF+EFL GF: Nature
+		QF, EFL GF: Nature
 			THW not classify radical environmental groups as terrorist.
 			THS an international moratorium on commercial fishing of tuna.
 			THW abolish animal sports.

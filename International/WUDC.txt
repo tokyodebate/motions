@@ -584,7 +584,7 @@ World Universities Debating Championships
 			TH prefers a world in which all individuals who have achieved a middle class standard of living choose to pursue the highest level of achievement in their chosen career, rather than a wold in which those individuals priorities day-to-day enjoyment over work.
 		R9
 			THW not allow out of court settlements for workplace discrimination and harrasment.
-		PD-OF
+		PDO
 			THBT ASEAN should negotiate all investment deals with Chinese government entities as a bloc (with decisions made by majority vote of its members), so that no member state can enter into investment deals without the rest of the world
 			The Association of South East Asian Nations (ASEAN) is a regional intergovernmental organisation comprising of Southeast Asian states which promotes Pan-Asianism and greater economic integration within the ASEAN common market. There are 10 ASEAN member states, namely, Malaysia, Singapore, Myanmar, Thailand, Indonesia, Brunei, Philippines, Cambodia, Loas, & Vietnam.
 		ESL QF
@@ -666,7 +666,7 @@ World Universities Debating Championships
 		R9
 			THBT that criminal punishments should be based only on the offenders’ culpability rather than the damages caused by the criminal act or other outcomes derived from the punishment.
 				Culpability is a measure of the degree to which a person can be held morally responsible for an offense.
-		Open Partial Double
+		Open PDO
 			TH regrets mainstream commercial films that depict historical subjugation and/or crimes agains humanity.
 		Open OF
 			TH would nationalize all systemically important financial institutions such as banks and insurance companies.
@@ -709,7 +709,7 @@ World Universities Debating Championships
 			THBT the United States and the European Union should seek to promote peace by heavily subsidising Israeli businesses who invest in the Palestinian territories.
 		R9
 			TH, as a medical professional employed by the United States military or security services, would, and would encourage others, to refuse orders to provide medical treatment to individuals undergoing “Enhanced Interrogation Techniques”.
-		Open partial double OF
+		Open PDO
 			THW allow corporations to use hackers to retaliate against cyberattacks where the state seems unwilling or unable to do so.
 		Open OF
 			THBT disadvantaged groups should emphasise their conformity with, rather than distictiveness from dominant culture; as a strategy for improving their social position.
@@ -759,21 +759,21 @@ World Universities Debating Championships
 			THBT Pope Francis should publicly encourage Catholics to support radically redistributive government policies
 		ESL GF
 			THW allow countries to pay other countries to settle asylum-seekers who reach their borders
-		OPEN PARTIAL DOUBLE OF
+		Open PDO
 			THW abolish gated communities in the developing world
-		OPEN OF
+		Open OF
 			THBT Japan should shame its soldiers who participated in WWII, including those who did not commit war crimes themselves
-		OPEN QF
+		Open QF
 			THW auction off the long-term right to govern bankrupt cities for profit
-		OPEN SF
+		Open SF
 			THBT women should reject practices that alter the appearance of their genitalia, such as waxing and labiaplasty
-		OPEN GF
+		Open GF
 			THBT India should adopt aggressive free market policies, including but not limited to deregulating of labour markets, allowing foreign investment and privatising state owned enterprises
-		MASTERS R1
+		Masters R1
 			THB that the feminist movement should actively fight to liberate men from their prescribed gender roles
-		MASTERS R2
+		Masters R2
 			THW redraw the borders of Africa
-		MASTERS GF
+		Masters GF
 			THW never categorize people by their race
 	33rd Berlin Worlds (2013)
 		R1
@@ -806,7 +806,7 @@ World Universities Debating Championships
 			THBT the feminist movement should actively promote norms of stable monogamous relationships
 		ESL GF
 			THBT representative democracies with large numbers of foreigners living in their territory (on temporary or permanent basis) should create specific seats to represent them in parliament.
-		Partial Double OF
+		PDO
 			THBT universities should never prohibit research or teaching on the grounds of sexist, racist or otherwise discriminatory implications
 		OF
 			THBT the US should cut off military aid to Egypt
@@ -966,7 +966,7 @@ World Universities Debating Championships
 			THW ban the publication of political opinion polls.
 		OF
 			THW arm local militia to fight the Taliban in Afghanistan.
-		QF+ESL SF
+		QF, ESL SF
 			THBT the International Criminal Court should prosecute crimes against the democratic process.
 		EFL GF
 			THW prohibit all private health care.
@@ -1001,7 +1001,7 @@ World Universities Debating Championships
 			THW support the use of mercenaries by the United Nations.
 		OF
 			THBT governments in the developing world should invest in sex tourism.
-		QF+ESL OF
+		QF, ESL OF
 			THW force religious adoption agencies to place children with homosexual couples.
 		ESL SF
 			THW require doctors to report all cases of suspected domestic violence.

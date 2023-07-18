@@ -1,14 +1,110 @@
 Taylor's Debate Open
+	Taylor's Debate Open 2022
+		R1
+			THS the rise of anti-natalism
+				Balance $stats 1, 4, 21
+				Veto $stats 6, 5, 36
+				Anti-natalism is the ethical and moral view that procreation is wrong. Antinatalists argue that humans should abstain from procreation because it is morally wrong.
+			THW grant those diagnosed with terminal illnesses the right to access treatments that have not completed clinical testing
+				Balance $stats 8, 3, 21
+				Veto $stats 1, 6, 36
+			THW scale national health insurance premiums based on unhealthy lifestyle factors (e.g., obesity, smoking)
+				Balance $stats 1, 4, 21
+				Veto $stats 11, 7, 36
+		R2
+			THBT Western states should support local rebel groups (e.g. by funding them and giving them intel) as opposed to direct military intervention in other states
+				Balance $stats 8, 4, 21
+				Veto $stats 4, 5, 42
+			THS the use of lustration in countries transitioning from authoritarian regimes
+				Balance $stats 4, 5, 21
+				Veto $stats 4, 5, 42
+				Lustration is a policy which involves the systematic removal and political exclusion, often without trial, of officials at all levels of the political system associated with former regimes and their political parties, e.g. officials associated with the communist parties in Central and Eastern Europe after the collapse of the Soviet Union. This process is normally conducted by the new more democratic establishment.
+			TH as a Western European government, W recognise and establish ties with the Taliban government in Afghanistan
+				Balance $stats 0, 0, 21
+				Veto $stats 13, 11, 42
+		R3
+			THW allow individual workers to waive their labour rights (e.g., days off, hours limits, parental leave) in exchange for additional pay
+				Balance $stats 3, 5, 21
+				Veto $stats 6, 4, 36
+			THBT the IMF should require collateral for bailouts
+				Balance $stats 2, 0, 21
+				Veto $stats 10, 10, 36
+				The term collateral refers to an asset, e.g. real estate, that a lender accepts as security for a loan. If the borrower defaults on their loan payments, the lender can seize the collateral and sell it to recoup some or all of its losses.
+			THR the popularity of 'Buy now, pay later'
+				Balance $stats 6, 5, 21
+				Veto $stats 2, 4, 36
+				Buy Now, Pay Later (BNPL) is a type of short-term financing that allows consumers to make purchases and pay for them at a future date, often interest-free. Consumers typically make an upfront payment toward the purchase, then pay the remainder off in a predetermined number of installments. Non-payment is passed on to debt collectors and impacts the consumer’s credit score.
+		R4
+			THW allow parents to remove their children from specific classes at school (such as sports, religious studies, sex education and science) on moral, religious or political grounds
+				Balance $stats 0, 0, 21
+				Veto $stats 17, 9, 42
+			THBT parents of children from lower socio-economic backgrounds should actively discourage their children from pursuing liberal arts majors (e.g. sociology, art history, humanities)
+				Balance $stats 4, 6, 21
+				Veto $stats 1, 8, 42
+			TH, as a middle-class mother, would teach their daughter to devalue romantic relationships
+				Balance $stats 5, 6, 21
+				Veto $stats 3, 4, 42
+		QF, Rookie SF
+			THW ban corporate sponsorship of academic research
+				QF Balance $stats 1, 3, 4
+				QF Veto $stats 0, 0, 8
+				Rookie SF Balance $stats 1, 1, 2
+				Rookie SF Veto $stats 0, 0, 4
+			THW ban for-profit universities and colleges
+				QF Balance $stats 0, 0, 4
+				Rookie SF Balance $stats 0, 0, 2
+			In states with high unemployment, THBT governments should choose to make education for STEM fields free at the cost of increasing the tuition of humanities
+				QF Balance $stats 0, 0, 4
+				Rookie SF Balance $stats 0, 0, 2
+		SF, Rookie GF
+			THR the romanticisation of civil rights activists as pacifist and moderate
+				SF Balance $stats 0, 1, 2
+				SF Veto $stats 1, 0, 4
+				Rookie GF Balance $stats 1, 0, 1
+				Rookie GF Veto $stats 0, 0, 2
+			THBT the feminist movement should support female athletes who capitalise on their sexuality to increase the viewership of female sporting leagues
+				SF Balance $stats 0, 1, 2
+				SF Veto $stats 0, 0, 4
+			THBT LGBTQIA+ activists in post-colonial states should promote the narrative that their former colonisers have an obligation to victims of homophobia and queerphobia (e.g. pushing countries to open their borders to all LGBTQIA+ asylum claims and offer significant reparations)
+				SF Balance $stats 0, 0, 2
+				SF Veto $stats 1, 2, 4
+		GF
+			THR the decline of economic class as the primary organiser of political identity in mainstream left in western liberal democracies
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+			THR MUDA's decision to join the Pakatan Harapan coalition
+				Balance $stats 0, 0, 1
+				The Malaysian United Democratic Alliance (MUDA) is a multi-racial and youth-centric political party in Malaysia formed by Syed Saddiq Syed Abdul Rahman in September 2020. Pakatan Harapan is the coalition of centre-right and centre-left Opposition parties in Malaysia, including Parti Keadilan Rakyat (PKR) and Democratic Action Party (DAP), the two leading Opposition parties in Malaysia.
+			THBT the Republican and Democratic parties should select congressional, senate and presidential candidates through a vote by the party leadership rather than through primaries
+				Balance $stats 0, 0, 1
 	Taylor's Debate Open 2021
 		R1
 			TH, as a parent from a minority community, would raise their child to have a pessimistic outlook on life
 				For the purpose of this debate, a pessimistic outlook on life refers to an outlook whereby individuals have low expectations with regards to the success/happiness that one can acquire during their lifetime
-		R2
+		R2: Activism
 			THBT progressive activists in developing countries should integrate conservative rhetoric and religious institutions into their advocacy, rather than distancing from them
-		R3
+		R3: International Relations
 			TH, as the National unity government of Myanmar, would embrace a strategy of violent resistance against the military junta, including but not limited to cooperating with the rebel chin front and other militia groups
-		R4
-			TH Supports girlboss feminism
+				The National Unity Government of Myanmar refers to a government that is currently operating in exile. The National Unity Government is formed by the Committee Representing Pyidaungsu Hluttaw, a group of elected lawmakers and members of parliament ousted in the 2021 Myanmar coup coup d'état. The National Unity Government also includes Aung San Suu Kyi, as the state counsellor.
+				The military junta refers to the military government that gained power following the 2021 coup.
+				The Rebel Chin Front refers to one of the largest ethnic armed rebellion organizations in Myanmar.
+		R4: Feminism
+			THS girlboss feminism
+				Girlboss feminism is a form of feminism that glorifies the individual financial and professional success of women as the ultimate form of female empowerment.
+		Open Pre QF: LGBTQ+
+			TH, as the LGBTQ movement, would condemn prominent members of the community who conform with heteronormative ideals
+		Open QF
+			THBT post conflict socities should emphasize the narrative of the "banality of evil" when interpreting atrocities committed in the past
+				The concept of 'banality of evil' claims that most perpetrators of great acts of evil are ordinary people, with no motive other than promoting their own advancement in society. Under this concept, perpetrators do not have to be "radically evil" and can be responsible for atrocities through their common acts or omissions.
+		Open SF
+			THBT the establishment of the AfCFTA has done more harm than good for African nations
+				The African Continental Free Trade Area (AfCFTA) is a free trade area founded in 2018, with trade commencing as of 1 January 2021. The AfCFTA includes 54 of the 55 African Union nations, and is the largest free trade area in the world in terms of the number of participating countries since the formation of the WTO. The general objectives of the agreement include but are not limited to creating a single market to increase intra-African trade, establishing a liberalized market, and aiding the movement of capital and people.
+		Open GF
+			THO the dominant narrative that acquiring forgiveness is essential in order for a flawed person to achieve redemption
+		Novice SF: world
+			THP a world with one global superpower, rather than multiple international superpowers
+		Novice GF
+			THBT history education in post-conflict societies should focus on reconcilation, even at the cost of truth
 	Taylor's Debate Open 2020
 		R1
 			THBT feminists in India should attempt to infiltrate and reform the arranged marriage industry as opposed to fight for its abolishment
@@ -23,14 +119,7 @@ Taylor's Debate Open
 		Pre QF
 			TH, as the Catholic church, would prioritize impact investing over direct charity to communities
 				Impact investing refers to investments made into companies, organizations, and funds with the intention to generate a measurable, beneficial social or political impact alongside a financial gain.
-		Novice SF
-			TH, as the Catholic church, would prioritize impact investing over direct charity to communities
-				Impact investing refers to investments made into companies, organizations, and funds with the intention to generate a measurable, beneficial social or political impact alongside a financial gain.
 		QF
-			THBT the South Indian film industries should integrate with Bollywood
-				Bollywood is one the largest centres of film production in the world, surpassing Hollywood’s ticket sales by an estimated $1bn yearly. Bollywood movies are predominantly in the Hindi language. It is the only film industry in India that experiences significant global reach and popularity.
-				The South Indian film industry comprises of film industries of languages from the South of India, including but not limited to the Telugu (Tollywood), Tamil (Kollywood) and Malayalam (Mollywood) film industries. They are significantly smaller in terms of net box office revenues compared to Bollywood, however, combined they represent around 50% of the local Indian film revenues and are well liked in some parts of India, most notably the South.
-		Novice GF
 			THBT the South Indian film industries should integrate with Bollywood
 				Bollywood is one the largest centres of film production in the world, surpassing Hollywood’s ticket sales by an estimated $1bn yearly. Bollywood movies are predominantly in the Hindi language. It is the only film industry in India that experiences significant global reach and popularity.
 				The South Indian film industry comprises of film industries of languages from the South of India, including but not limited to the Telugu (Tollywood), Tamil (Kollywood) and Malayalam (Mollywood) film industries. They are significantly smaller in terms of net box office revenues compared to Bollywood, however, combined they represent around 50% of the local Indian film revenues and are well liked in some parts of India, most notably the South.
@@ -40,6 +129,13 @@ Taylor's Debate Open
 				The Hong Kong government has postponed September's parliamentary elections by a year, saying it is necessary amid a rise in coronavirus infections.
 		GF
 			In Western Liberal democracies, THR the queer movement's primary form of collectivization transitioning from riots/protests into pride celebrations/parades.
+		Novice SF
+			TH, as the Catholic church, would prioritize impact investing over direct charity to communities
+				Impact investing refers to investments made into companies, organizations, and funds with the intention to generate a measurable, beneficial social or political impact alongside a financial gain.
+		Novice GF
+			THBT the South Indian film industries should integrate with Bollywood
+				Bollywood is one the largest centres of film production in the world, surpassing Hollywood’s ticket sales by an estimated $1bn yearly. Bollywood movies are predominantly in the Hindi language. It is the only film industry in India that experiences significant global reach and popularity.
+				The South Indian film industry comprises of film industries of languages from the South of India, including but not limited to the Telugu (Tollywood), Tamil (Kollywood) and Malayalam (Mollywood) film industries. They are significantly smaller in terms of net box office revenues compared to Bollywood, however, combined they represent around 50% of the local Indian film revenues and are well liked in some parts of India, most notably the South.
 	Taylor's Debate Open 2019
 		R2
 			THR the romanticisation of committing to professional sports at a young age as a way out of poverty.

@@ -17,7 +17,7 @@ Sydney Mini
 		SF
 			THW reintroduce the Glass Steagall Act.
 		GF
-			THW .prohibit religious institutions from endorsing or promoting candidates for public office
+			THW prohibit religious institutions from endorsing or promoting candidates for public office
 	Sydney Mini 2010
 		R1
 			THW ban unpaid internships.
@@ -56,23 +56,23 @@ Sydney Mini
 			THBT the government should forcibly remove women and children from extremist religious communities
 	Sydney Mini 2008(多分)
 		R1: Religion (Ireland I)
-			That this house would compel priests to divulge the details of confessionals in criminal trials.
+			THW compel priests to divulge the details of confessionals in criminal trials.
 		R2: Economics
-			That this house supports bailing out failing financial icons
+			THS bailing out failing financial icons
 		R3: International Relations
-			That this house believes that Iraq has the right to freely prosecute all foreign soldiers for serious crimes committed in their nation.
+			THBT Iraq has the right to freely prosecute all foreign soldiers for serious crimes committed in their nation.
 		R4: Health
-			That this house believes that governments should provide a rebate for preventative health care measures.
+			THBT governments should provide a rebate for preventative health care measures.
 		R5: EU (or Ireland II)
-			That this house believes that EU member states should allow for domestic referendums on all constitutional changes to the EU.
+			THBT EU member states should allow for domestic referendums on all constitutional changes to the EU.
 		R6: Social Policy
-			That this house would grant the mentally ill and their families the right to refuse medical treatment.
+			THW grant the mentally ill and their families the right to refuse medical treatment.
 		R7: International Relations (II)
-			That this house believes the West should force South Africa to oust Mugabe.
+			THB the West should force South Africa to oust Mugabe.
 		SF
-			That this house would allow Bosnia to break up
+			THW allow Bosnia to break up
 		GF
-			That this house would allow potential parents to pay women to carry unwanted children to term.
+			THW allow potential parents to pay women to carry unwanted children to term.
 	Sydney Mini 2007
 		R1
 			TH supports an immediate transition to democracy in Pakistan.

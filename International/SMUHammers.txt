@@ -1,84 +1,84 @@
 SMU Hammers
 	2021 SMU Hammers
-		Round 1
+		R1
 			THS the use of harsh truths and realities over an idealistic approach in educating children about career aspirations
 			THR the politicisation of student unions in developing countries
 			THBT schools’ curriculums in developing countries should prioritize the students’ performance in STEM subjects even at the cost of students’ talents in non-STEM subjects
-		Round 2
+		R2
 			Assuming feasibility, TH, as the doctor would anonymously leak the information
 			THS 'No Marriage' movement (비혼주위자) in South Korea
 			THR the emphasis on "grit and tenacity" as traits women should possess to succeed
-		Round 3
+		R3
 			In asymmetric warfare THBT it is justified for the significantly weaker side to target the wealthy and aristocratic enemy civilians
 			THBT the African Union should implement a single currency for all its member states
 			TH, As the British Royal Family, will actively criticise the legacy of Winston Churchill
-		Round 4
+		R4
 			THBT the state should not fund any works of art or performances that the average citizen would not recognize as having artistic merit
 			THS the mainstream commercialisation of Asian culture and art in the West
 			THBT the state should ban the creation, distribution and displays of art which involve elements of self harm (e.g. "The Starving Artist", exhibitions which involve artists in uncomfortable positions for long periods of time, blood painting)
-		Novice_Semi
+		Novice SF
 			THP a world where religions place more emphasis on the performance of good deeds rather than acts of worship and piety
 			THBT the Queer community should push for separate religious spaces for the community
 			THBT religious preachers should abandon the notion of "God's Plan" when preaching to underprivileged communities
-		Novice_Final
+		Novice GF
 			This House would not allow serving politicians or their immediate families to use private services where public ones are available (i.e. education, healthcare)
 			THBT it is a legitimate tactic for activists to launch campaigns of personal attacks/insults at the family members of corrupt politicians
 			THO respectability politics
-		Open_Octa
+		Open OF
 			THR the glorification of long-term relationships
 			THW ban labeling of preferences in gay hookup and/or dating apps
 			THO the narrative that people should seek a sense of belonging
-		Open_Quarter
+		Open QF
 			THBT it is in the interests of China to formalise relations with the Taliban
 			THBT the West should fund Private Military Contractors for the National Unity Government in Myanmar to combat the Military Junta
 			With the benefit of hindsight THW have created a Jewish state in Germany, rather than a Jewish state in the British Mandate of Palestine
-		Open_Semi
+		Open SF
 			THBT progressive individuals should have a zero tolerance policy for people with bigoted views in their social circles
 			TH supports stronger collective bargaining rights and protections rather than legislated labor market regulations (e.g., wage levels and working conditions)
 			THBT it is justified for social activists in developing countries to work with socially regressive bodies and institutions in the state
-		Open_Final
+		Open GF
 			THP a world in which individuals do not possess a desire to compete with one another
 			THP a world without social validation as a motivating factor for peoples' decisionmaking
 			THR the narrative that one should maximise leisure over productivity in life
 	2013 SMU Hammers
-		Round 1 Religion
+		R1: Religion
 			THW ban any depiction of the Prophet Mohhammed.
 			THW remove all tax exemptions for religions, except to the extent they do conventional charitable work.
 			THBT Pope Francis should advocate for socialism.
 				(GO GO POPE FRANCIS!)
-		Round 2 The City
+		R2: The City
 			THBT developing countries should limit rural to urban migration.
 			THW limit the construction of high-value residential properties.
 			THBT public transport should be owned and operated by the state.
-		Round 3 Election
+		R3: Election
 			THBT Pakistan should withdraw support for the War on Terror.
 			THBT Libya should repeal the ban on senior members on Gaddafi Regime (including civil servant, military personnel, parliamentarians, financiers) from holding positions in government.
 			THBT the Philippines should ban political dynasties.
-		Round 4 Modern Culture
+		R4: Modern Culture
 			TH regrets Disney’s film continuation of the Star War Sage.
 			THBT the LGBTQ community should regret the rise of Macklemore (a heterosexual male, who raps about gay love).
 			TH regrets the rise of newly mega-rich football clubs, like Paris Saint German, Chelsea and Manchester City.
-		Round 5 Women
+		R5: Women
 			THBT feminist movement should discourage women from having and raising children.
 			TH supports affirmative action for women in Science, Technology, Engineering and Math.
 			THBT the democratic party should have selected Hilary Clinton rather than Barack Obama during the 2008 US presidential primaries.
-		Octo Finals
+		OF
 			TH supports corporate funding of Wikipedia.
 			THW nationalize all large social media websites.
 			THW bail out failing newspapers.
-		Quarters Economics
+		QF: Economics
 			THBT the WTO should allow developing countries to erect trade barriers against developed countries.
 			THW reverse austerity measures in Europe.
 			THW break up Goldman Sachs.
-		Semis Ideas
+		SF: Ideas
 			THW never die for country.
 			TH prefers a world without marriage.
 			TH regrets the decline of Marxist political ideologies.
-		JC Final Conflict
+		JC Final: Conflict
 			THW invade North Korea.
 			THR the militarization of the African Union.
 			THW end US extraterritorial drug enforcement operations in Latin America.
-		Main Break Final Legacy
+		GF: Legacy
 			TH celebrates the legacy of Margaret Thatcher.
 			TH does not regret the invasion of Iraq.
 			THBT the US should pay reparation to Japan for Hiroshima and Nagasaki.
@@ -127,7 +127,7 @@ SMU Hammers
 			THBT immigration laws and visa regimes that restrict the movement of people across borders are morally condemnable.
 			THBT self-harm is never a legitimate basis for any restrictive legislation.
 			THBT there can be no equality of opportunity without the equality of outcome.
-		Open Break Grand Finals: Choose Your Own Adventure (First Person Motions) Song: Final Fantasy IX – Boss Theme
+		Open Grand Finals: Choose Your Own Adventure (First Person Motions) Song: Final Fantasy IX – Boss Theme
 			(Iron Man) You are Tony Stark. THW turn over the Iron Man armor to the government.
 			(Passion of the Christ) You’re a religious leader living in Jerusalem around 32 A.D. with the ability to perform miracles and a large following. The Roman Empire has sent soldiers to arrest you ostensibly for inciting rebellion as The King of the Jews. Given a choice between actively resisting arrest and willingly going to your death, THW actively resist arrest.
 			(Were the World Mine) You’re Timothy, a gay university student secretly in love with your straight best friend, who is an LGBTQ supporter. He accepts your sexuality but does not reciprocate romantically. You find one dose of a magic potion with which you can spike his lunch soda to change his current orientation from heterosexual to homosexual. This is the only dose you will ever get, and no one will ever find out. THW use the potion.

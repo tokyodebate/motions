@@ -1,5 +1,5 @@
 North-East Asian Debate Championship
-	NEADC 2022
+	IDS NEADC 2022
 		R1
 			THW abolish laws against price-gouging
 				OG $stats 6, 10, 9, 5
@@ -146,8 +146,8 @@ North-East Asian Debate Championship
 				OO $stats 2, 2
 				CG $stats 2, 2
 				CO $stats 3, 1
-				"An electrical grid is an interconnected network for electricity delivery from producers to consumers. Electrical grids vary in size and can cover whole countries or continents.
-				A common electrical grid allows electricity to flow between different countries with no restrictions or tariffs."
+				An electrical grid is an interconnected network for electricity delivery from producers to consumers. Electrical grids vary in size and can cover whole countries or continents.
+				A common electrical grid allows electricity to flow between different countries with no restrictions or tariffs.
 		SF
 			THP a world in which individuals were judged upon their death based on the standards of their religion, and were punished or rewarded accordingly (e.g. heaven and hell, reincarnation, afterlife, etc.), as opposed to one in which there is no afterlife, though individuals remain unsure of that fact
 				OG $stats 0, 2
@@ -179,3 +179,7 @@ North-East Asian Debate Championship
 				OO $stats 1, 0
 				CG $stats 0, 1
 				CO $stats 0, 1
+	Solbridge NEADC 2020
+		GF
+			THW out the religious leader
+				You are a closeted gay teen in a fairly conservative neighbourhood. The local religious leader in your community is one of the most respected and admired members of your community. His sermons are traditional but not extreme. One day you find indisputable evidence that the religious leader is gay and has been in a relationship for X amount of years.

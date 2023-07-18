@@ -29,22 +29,22 @@ Malaysia Debate Open
 			THS the “Shitty Media Men” list.
 				The ‘Shitty Media Men” list is an open source list where women who work in media can share stories of harassment for the purposes of helping other women avoid these men.
 			TH, as a feminist from the developed world, would actively fund gender reassignment surgeries for women in deeply conservative societies.
-		Octofinals
+		OF
 			THW abolish solitary confinement
 				Solitary confinement is a form of imprisonment in which an inmate is isolated from any human contact, often with the exception of members of prison staff, for 22–24 hours a day, with a sentence possibly ranging from days to decades. It is employed as a form of punishment beyond incarceration for a dangerous prisoner
 			THW pardon members of militant groups who were recruited when they were children
 			THW punish bystanders who had the reasonable capacity to help and/or assist people who are injured and/or in danger but chose not to do so
-		Quarterfinals
-			THBT? moderate muslims have a moral duty to publicly criticise extreme interpretations
+		QF
+			THBT moderate muslims have a moral duty to publicly criticise extreme interpretations
 			THW elect muftis
 			TH regrets religious institutions use of practice/rituals to decide piety
-		Semifinals
+		SF
 			THR India’s decision to not take part in the One Belt One Road Initiative
 			THBT ‘Sunni’ Muslims States that disagree with Saudi Arabia’s attacks in Yemen, should assist/fund the Houthi Rebels.
 				The Yemeni Civil War is an ongoing conflict between two main factions. On one side is an alliance of the Zaidi-Shiite Houthis, a northern movement that has been fighting the government since 2004, along with troops and militias loyal to a former president, Ali Abdullah Saleh. On the other side are supporters of the government of President Abed Rabbo Mansour Hadi, who was overthrown by the Houthis in early 2015. The war intensified in March 2015 when a coalition of 10 states led by Saudi Arabia launched a campaign of airstrikes against the Houthi-Saleh coalition. Riyadh’s declared objectives are to roll back the Houthis and reinstate Hadi. The Houthis are reportedly an Iranian proxy, leading the intervention to be framed as an effort to counter Iran’s influence. Despite Saudi’s denial, the airstrikes have killed tens of thousands of civilians, and wounded and displaced millions.
 			TH celebrates ‘Fire and Fury’
 				Amidst a nuclear threat by North Korea, USA President Donald Trump has threatened North Korea with “fire and fury like the world has never seen” for any new provocations. “Fire and Fury” has been defined as USA’s foreign policy attitude and strategy to be confrontational and hostile/aggressive towards North Korea
-		EFL Semifinals
+		EFL SF
 			THBT moderate Muslims have a moral obligation to actively and publicly criticize extreme interpretations/practices of Islam.
 			THW elect the Muftis of a state
 			THR religious institutions using adherence to religious practices/rituals as the main metric of a believer’s piety.
@@ -54,9 +54,9 @@ Malaysia Debate Open
 			You discovered a world which has the conditions and the environment that indicate that a human race is about to begin and evolve. THW prevent the human race from existing.
 	8th Malaysia Debate Open 2016
 		R1
-			THW EXTEND LABOUR RIGHTS TO THOSE IN THE PRISON MANUFACTURING
-			THBT CONVENTIONAL COMPANIES
-			TH REGRETS THE CULTURE OF UNICORNS IN SILICON VALLEY
+			THW extend labour rights to those in the prison manufacturing
+			THBT conventional companies
+			THR the culture of unicorns in silicon valley
 		R2
 			THS the removal of school resource officers in the united states
 			THBT black lives matter should adopt a strategy of tempered political moderation as opposed to aggresive, unapologetic and confrontational approaches in order to achieve their outcomes
@@ -81,9 +81,9 @@ Malaysia Debate Open
 			TH supports new atheism
 		QF
 			THBT states with a large influx of refugees should demarcate special economic zones that only employ refugees
-		The EFL GF
+		EFL GF
 			THBT it is immoral for individuals to knowingly donate to children who are part of a begging syndicate.
-		The Open GF
+		Open GF
 			THW remove all physical manifestation of racist legacy from university campuses and public spaces.
 	7th Malaysia Debate Open 2015
 		R1
@@ -110,19 +110,19 @@ Malaysia Debate Open
 			THBT ICC should prosecute crimes against democracy
 			THBT top executive( Board of CEO) should be held criminally liable for corporate negligence( BP oil spill, Toyota airbag scandal)
 			THW break up Google
-		Pre-Quarters
+		Pre QF
 			THW ban transfer pricing.
 			THBT natural resources of the world should be equally distributed among all states.
 			THW require government-owned enterprises to conduct and publicly release audits on a regular basis.
-		Quarters
+		QF
 			THBT the T should leave the LGB and form their own movement.
 			THBT homosexuals in western liberal democracies should not commit themselves in civil unions before marriage equality is reached.
 			THW make tax exemption to religious organizations contingent upon them not discriminating (e.g: refusing to perform religious services, not allowing participation by homosexuals)
-		Open Semi Finals
+		Open SF
 			THW hold a referendum in the entire territory of Kashmir.
 			THBT Indonesia should grant clemency to Australian citizens convicted with death penalty, in exchange for the Australian government opening up their borders for refugees.
 			THBT Hamas should demilitarize in return for Israel lifting all sanctions on Gaza.
-		EFL Finals
+		EFL GF
 			THBT it is time for Japan to have a standing army.
 			THBT the Muslim Brotherhood should stop protests and riots, and focus on providing welfare services.
 			THBT UN Commission of Human Rights should consider the case of the Philippines ex-President Gloria Macapagal-Arroyo as political persecution.
@@ -151,19 +151,19 @@ Malaysia Debate Open
 			In post-conflict societies, THBT the government should mandate society diversity in community living (i.e. housing, schools, workplace, etc.)
 			In post-conflict societies, THBT the military and police power should be commanded by an international body and not the country’s government.
 			In post-conflict societies, THBT historical narrative should be owned by government.
-		Oct Final: Health Care
+		OF: Health Care
 			THBT the state, not parents, should make all medical decisions for children until they reach the age of consent.
 			THW deprioritize the eldely in allocating scarse medical resources.
 			Where a scientifically proven treatment has been approved for a condition, THW ban any alternative medication that aims to treat the same.
-		Quater Final: Development
+		QF: Development
 			THW make development aid contingent on recipient countries having aggressively socially redistributive policies.
 			THBT government contracts involving natural resources should be subjected to a referendum.
 			THBT governments should prioritize investing in populated areas where there is the least private and/or foreign capital investment.
-		Semi Final: Rights-ish
+		SF: Rights-ish
 			THW limit the amount of land people can own.
 			THW ban corrective treatment for the mentally ill.
 			THW abolish the constitutional privilege against self-incrimination.
-		Grand Final
+		GF
 			THBT the state has no right to request or demand its citizens to surrender their own lives.
 			THBT there is no state duty to protect people from themselves.
 			THBT the state should never pardon the crimes of individuals.
@@ -196,19 +196,19 @@ Malaysia Debate Open
 			THBT the Philippine government should not abandon the Sultanate of Sulu
 			THBT Singapore should continue importing high numbers of immigrants to combat the population deficit problem
 			THBT South Korean government should actively reduce the influence of chaebols (multinational business conglomerates like Samsung and Hyundai)
-		Octos: The Dismal Science
+		OF: The Dismal Science
 			TH supports China’s right to manipulate the Yuan for economic advantage
 			THBT government contracts in developing countries should only be given to domestic firms
 			THW impose a supertax on the rich even if it does not lead to more revenues for the state
-		Quarters: Geopol 2.0
+		QF: Geopol 2.0
 			THW, as Fatah, abandon the two-state solution to push for a one-state solution
 			THBT the international community should never support non-united opposition to dictatiorships
 			THBT the African Union should suspend the membership of countries with individuals in government who have been/are being indicted for war crimes
-		Semi: Dedicated to the Glasgow University Union
+		SF: Dedicated to the Glasgow University Union
 			THBT self-declared feminists must never take on the names of their husbands
 			THW financially incentivise men to either enter professions that are traditionally female dominated (eg pre-school teaching, nursing, nannies, etc) or become house-husbands
 			In a world with unwanted children, THBT fertility therapy should be condemned
-		Finals: Religion
+		GF: Religion
 			THBT the Catholic Church is a force for good in the world
 			THBT it is justified to present only the positive narrative of popular religious figures
 			THBT fear should not be used in proselytising or instilling religious beliefs
@@ -226,8 +226,8 @@ Malaysia Debate Open
 			THS the Occupy Movement
 			THW abolish vetos at the UN security council
 		R4: “1Malaysia”
-		1Education: THW abolish vernacular schools
-		1Party: THW not allow politicians to switch parties after the results are announced
+			1 Education: THW abolish vernacular schools
+			1 Party: THW not allow politicians to switch parties after the results are announced
 			THW say yes to Lynas
 		R5: “Africa”
 			THW stop supporting HIV medication and focus on prevention in Africa
@@ -241,19 +241,19 @@ Malaysia Debate Open
 			THW give terrorist organizations full amnesty if they give up arms and form political parties
 			THBT online hacktivists should be treated like terrorists
 			THW torture terrorists
-		Octos: “Media”
+		OF: “Media”
 			THBT states should support struggling major newspapers
 			THW allow realistic but animated pedophilic porn
 			THS quotas for locally produced media
-		Quarter: “ASEAN”
+		QF: “ASEAN”
 			THS an ASEAN court to prosecute transgressions of former leaders
 			THW create a common ASEAN history textbook
 			THS free movement of labour within ASEAN
-		Semis: “middle-ish east”
+		SF: “middle-ish east”
 			THS a one state solution for Palestine-Israel
 			THW Arm the Syrian Opposition
 			TH prefers autocratic to Islamic government (in the middle east)
-		Finals: “motions the adj core thought would be cool to see in the finals”
+		GF: “motions the adj core thought would be cool to see in the finals”
 			THW fund public education without imposing a national syllabus
 			TH believes in the welfare state
 			THW return to a pre-partitioned india
@@ -329,19 +329,19 @@ Malaysia Debate Open
 			THBT Southern Yemen should declare independence.
 			THW allow candidates linked to Saddam Hussein to run for the upcoming Iraqi election.
 			THW condemn Israel’s declaration of national heritage sites within the Palestinian Territories.
-		Octo Finals: Flora and Fauna
+		OF: Flora and Fauna
 			THW free Willy(the killer whale).
 			THW arm indigenous communities to fight illegal loggers.
 			THW allow Japan to commercialize whaling if they accept a moratorium on bluefin tuna.
-		Quarter Finals: Teenagers
+		QF: Teenagers
 			THW ban teenagers from undergoing surgery for the purpose of inducing weight loss.
 			THBT the state should financially support single teenage pregnant mothers.
 			THW force sperm banks to reveal the identity of sperm donors upon request of the offspring upon reaching the age of consent.
-		Semi Finals: Geo-Bloody-Politics
+		SF: Geo-Bloody-Politics
 			THW grant developmental aid to African countries on condition they nationalize natural resources.
 			THBT the EU should stop supporting US led wars until they ratify the ICC.
 			THW not sanction Iran until Israel’s Nuclear Program is subject to IAEA Inspections.
-		Grand Final
+		GF
 			THW completely ban smoking.
 	1st Malaysia Debate Open 2009
 		Test Debate
@@ -370,17 +370,17 @@ Malaysia Debate Open
 			THW bail out ailing foreign companies that have large local employment bases.
 			THW rather borrow money from individual companies than from the International Monetary Fund.
 			THW tax savings during times of economic recession.
-		Octo Finals: United States of Oh-Bum-Ah!
+		OF: United States of Oh-Bum-Ah!
 			THW support Obama’s stance on meeting hostile foreign leaders without pre-conditions.
 			THBT we should remove term limits for the presidency of the United States of America.
 			THBT President Obama should immediately conduct a full inquiry into the abuses of the Bush administration.
-		Quarter Finals: The Grey in Anatomy
+		QF: The Grey in Anatomy
 			THBT sex change operations should be covered under the National Health Policy.
 			THBT the pursuit of scientific knowledge ought to be limited by a concern for societal good.
 			THBT alternative medication and treatment should be included in medical insurance coverage.
-		Semi Finals: No Man is an Island
+		SF: No Man is an Island
 			THBT all states in the Middle East should recognise Israel unconditionally.
 			THW break up Sudan.
 			THBT the ICC should issue a warrant for the arrest of Robert Mugabe.
-		Grand Final
+		GF
 			THW sell nuclear weapons to countries in exchange for them terminating their nuclear weapons program.

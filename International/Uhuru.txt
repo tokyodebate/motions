@@ -2,24 +2,232 @@ Uhuru Worlds Debating Championships
 	Uhuru Worlds Debating Championships 2023
 		R1
 			THBT parents in liberal democracies should teach their children to be primarily responsible for the happiness of others instead of their own happiness
+				OG $stats 10, 18, 21, 14
+				OO $stats 16, 12, 16, 19
+				CG $stats 13, 17, 14, 19
+				CO $stats 24, 16, 12, 11
 		R2
 			THW reject doing the BLS in favour of doing an apprenticeship
+				OG $stats 9, 18, 18, 16
+				OO $stats 17, 15, 14, 15
+				CG $stats 20, 14, 11, 16
+				CO $stats 15, 14, 18, 14
 				You are an all-rounded high school graduate who performed well in your university entrance exams and extracurriculars. However, you’re unsure of what you wish to study in university and are only considering doing a Bachelor of Liberal Studies (BLS) or an apprenticeship. The purpose of the BLS degree is to provide students with a solid multidisciplinary preparation in the Humanities, Natural Sciences, Social Sciences and the Arts. An apprenticeship is where you learn how to do a specific job or trade in a real workplace while studying at a training provider. You can start one at any stage in your career or life. Completing an apprenticeship gives you a nationally recognised qualification. You can use your qualification to start your career or to do more training.
 		R3
 			THW not allow pharmaceutical companies to financially settle private lawsuits
+				OG $stats 13, 17, 15, 12
+				OO $stats 12, 21, 14, 10
+				CG $stats 18, 10, 14, 15
+				CO $stats 14, 9, 14, 20
 		R4
 			THBT that developing countries should also trade in their individual currencies with other countries like China, USA and Russia
+				OG $stats 8, 11, 18, 18
+				OO $stats 15, 15, 12, 13
+				CG $stats 10, 17, 15, 13
+				CO $stats 22, 12, 10, 11
 				Brazil and China signed a mandate on March 30th to trade in individual currencies. This is another step in the decline in use of the dollar by different countries.
 		R5
 			THR the rehabilitative approach of universities in their management of bullying and harassment incidents
+				OG $stats 12, 12, 16, 11
+				OO $stats 11, 15, 15, 10
+				CG $stats 16, 14, 10, 11
+				CO $stats 12, 10, 10, 19
 				In most universities, staff are trained in a rehabilitative approach that emphasize mediation and reconciliation in instances of bullying and harassment. This is usually the first step that is defaulted to and a prerequisite for escalating reports to a formal hearing at the university's disciplinary tribunal.
 		QF
 			TH, as WUDC Council, would ratify a constitutional amendment that allows composite teams to be eligible to break under extenuating circumstances rather than a blanket ban
-		SF + Rookie GF + Schools GF
+				OG $stats 2, 2
+				OO $stats 2, 2
+				CG $stats 2, 2
+				CO $stats 2, 2
+		SF, Rookie GF, Schools GF
 			THW provide significant campaign funding for congressmen and senators who score highly on bipartisan metrics in western liberal democracies
+				SF OG $stats 1, 1
+				SF OO $stats 0, 2
+				SF CG $stats 2, 0
+				SF CO $stats 1, 1
+				Rookie GF OG $stats 1, 0
+				Rookie GF OO $stats 0, 1
+				Rookie GF CG $stats 0, 1
+				Rookie GF CO $stats 0, 1
+				Schools GF OG $stats 0, 1
+				Schools GF OO $stats 0, 1
+				Schools GF CG $stats 1, 0
+				Schools GF CO $stats 0, 1
 				Bipartisan metrics are scores derived from instances of voting with the other party, co-sponsoring bills, etc., calculated by independent bodies
+		GF, ESL GF
+			THBT judges ought to interpret the constitution from an originalist perspective
+				GF OG $stats 0, 1
+				GF OO $stats 1, 0
+				GF CG $stats 0, 1
+				GF CO $stats 0, 1
+				ESL GF OG $stats 0, 1
+				ESL GF OO $stats 1, 0
+				ESL GF CG $stats 0, 1
+				ESL GF CO $stats 0, 1
+				Originalism is a way of interpreting the Constitution that understands it through either framer’s intent or what the public would’ve intended at the time of the Constitution’s ratification. Textualism refers to interpreting all legal texts by the ordinary meaning of the text, setting aside any different/nuanced meaning that could be given as a result of context.
 		ESL SF
 			THBT all debating majors should be rotationally convened by a global roster of nationally registered non-profit organisations
-		GF + ESL GF
-			THBT judges ought to interpret the constitution from an originalist perspective
-				Originalism is a way of interpreting the Constitution that understands it through either framer’s intent or what the public would’ve intended at the time of the Constitution’s ratification. Textualism refers to interpreting all legal texts by the ordinary meaning of the text, setting aside any different/nuanced meaning that could be given as a result of context.
+				OG $stats 0, 2
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 2, 0
+	Pan Uhuru Worlds Debating Championships 2022
+		R1
+			THW ban plea bargains
+				OG $stats 4, 7, 1, 4
+				OO $stats 3, 4, 7, 2
+				CG $stats 4, 3, 3, 6
+				CO $stats 5, 2, 5, 4
+				A plea bargain is an agreement in criminal law proceedings initiated by the prosecutor in which the defendant pleads guilty in exchange for a lighter sentence. This makes trials much quicker. A defendant does not have to accept a plea bargain.
+		R2
+			THBT environmental movements should advocate for carbon offsetting as a primary strategy for combatting climate change
+				OG $stats 5, 6, 6, 2
+				OO $stats 5, 3, 6, 5
+				CG $stats 3, 7, 3, 6
+				CO $stats 6, 3, 4, 6
+				Carbon offsetting involves people (corporations or individuals) paying extra to help compensate for the carbon emissions produced from their emission producing activities. The money is then invested in environmental projects, such as planting trees or installing solar panels.
+		R3
+			THBT the feminist movement should strongly encourage women to enter traditionally male sectors e.g. STEM, Finance, etc
+				OG $stats 5, 7, 3, 2
+				OO $stats 3, 7, 4, 3
+				CG $stats 4, 2, 4, 7
+				CO $stats 5, 1, 6, 5
+		R4
+			THBT major technology companies should make all their software open source
+				OG $stats 3, 8, 2, 4
+				OO $stats 3, 1, 9, 4
+				CG $stats 5, 2, 6, 4
+				CO $stats 6, 6, 0, 5
+				Open-source software is computer software that grants users the rights to use, study, change, and distribute the software and its source code to anyone and for any purpose.
+		R5
+			In countries where first-past-the-post is the voting system, THBT smaller political parties should focus their election campaigns on producing hung parliaments instead of campaigning on positive policy platforms
+				OG $stats 3, 4, 3, 7
+				OO $stats 6, 4, 7, 0
+				CG $stats 3, 3, 6, 5
+				CO $stats 5, 6, 1, 5
+				In a first-past-the-post voting system, countries are split into geographic, electoral districts. Voters cast their vote for one candidate of their choice, and the candidate who receives the most votes wins (even if the top candidate gets less than 50%).
+				A hung parliament describes a situation in which no particular political party has an absolute majority (i.e. holds less than 51% of the seats).
+		R6
+			THBT AUKUS is in the interest of ASEAN
+				OG $stats 4, 5, 3, 4
+				OO $stats 4, 3, 7, 2
+				CG $stats 4, 6, 1, 5
+				CO $stats 4, 2, 5, 5
+				AUKUS is a trilateral security pact between the US, the UK and Australia. The aim of this pact is cooperation on complex technology and defence which will primarly see the US and UK sending strategic and technical teams to Australia to help procure nuclear-powered submarines.
+		R7
+			THBT religious leaders should abandon the use of the narrative of "test of God" in religious preachings
+				OG $stats 4, 4, 3, 5
+				OO $stats 2, 6, 5, 3
+				CG $stats 5, 3, 4, 4
+				CO $stats 5, 3, 4, 4
+				For the purpose of this debate, the "test of God" refers to the narrative in which religious followers are taught that their difficulties in life (which may include but are not limited to personal struggles, relationship woes, economic difficulties, natural disasters) are tests of God through which their spiritual and emotional strengths are tested.
+	Loxodonta Uhuru Worlds Debating Championships 2022
+		R1
+			THBT the environmental movement should heavily prioritize funding geoengineering technologies as a solution to climate change
+				OG $stats 7, 10, 7, 3
+				OO $stats 7, 6, 9, 5
+				CG $stats 5, 3, 7, 12
+				CO $stats 8, 8, 4, 7
+				Geoengineering is the deliberate large-scale intervention in the Earth's natural systems to counteract climate change. The following are currently proposed techniques: solar radiation management, carbon dioxide removal, weather modification.
+		R2
+			THBT sports leagues facing declining viewership should heavily invest in the development of modified short-form versions of their games
+				OG $stats 9, 7, 7, 4
+				OO $stats 2, 8, 12, 5
+				CG $stats 7, 11, 5, 4
+				CO $stats 9, 1, 3, 14
+				In recent years, many sports leagues have overseen the creation or expansion of leagues and/or tournaments playing modified short-form versions of their respective sports. Often these short-form versions are characterised by a faster pace, shorter games, fewer players per side, and/or simpler rules. Examples include T20 and The Hundred (cricket), Rugby 7s and RugbyX (rugby), Fast4 Tennis, 3x3 Basketball, etc.
+		R3
+			THBT animal rights movements should actively advocate against traditional religious and cultural practices that harm animals (e.g. Halal slaughter, Indigenous whaling, animal sacrifices etc.)
+				OG $stats 3, 3, 5, 14
+				OO $stats 6, 11, 3, 5
+				CG $stats 6, 7, 10, 2
+				CO $stats 10, 4, 7, 4
+		R4
+			THS the Indonesian government's moves towards greater regional autonomy
+				OG $stats 7, 6, 4, 9
+				OO $stats 8, 7, 7, 4
+				CG $stats 6, 6, 7, 6
+				CO $stats 4, 7, 8, 7
+				Indonesia is an archipelago made up of provinces with diverse ethnic, religious and language groupings. In recent years there have been increasing pushes for regional autonomy and even secession in several regions of Indonesia that are religiously, culturally, or politically distinct from the Javanese majority (e.g. the Free Aceh Movement and the Free Papua Movement). In response to this, the Indonesian government has taken some steps towards devolution - for instance, the province of Aceh has been granted special autonomous status and is the only province in Indonesia to officially practice sharia law.
+		R5
+			THP a world where LGBTQ+ labels are widely believed to be descriptive rather than prescriptive
+				OG $stats 4, 7, 8, 7
+				OO $stats 6, 7, 7, 6
+				CG $stats 6, 8, 3, 9
+				CO $stats 10, 4, 8, 4
+				For the purposes of this debate, prescriptivism refers to the view that labels have specific, unchanging meanings and ought be used "correctly" (i.e. by those who fit the definition of that label). Descriptivism refers to the view that labels are flexible and can be used by anyone who feels comfortable with that term.
+		R6
+			THW allow rural communities to vote to enact community title
+				OG $stats 6, 4, 9, 6
+				OO $stats 5, 9, 8, 3
+				CG $stats 6, 6, 6, 7
+				CO $stats 8, 6, 2, 9
+				Uriarra Village is a town with a population of 349 that is located west of Canberra. It is the only town in Australia held under "community title"; this means that the village community owns and maintains services and infrastructure including roads, community lands, the village hall, and stormwater. The village receives minimal services from the state government and has a degree of independence in passing local regulations.
+		R7
+			THBT in areas with high crime, governments should pay gangs in return for reductions in violent crime in the areas they control
+				OG $stats 1, 9, 11, 4
+				OO $stats 9, 9, 5, 2
+				CG $stats 7, 4, 3, 11
+				CO $stats 8, 3, 6, 8
+	Uhuru Worlds Debating Championships 2022 Merged Outrounds
+		OF
+			THP the queering of popular literature/works of art over the promotion of new queer literature/works of art
+				OG $stats 3, 5
+				OO $stats 6, 2
+				CG $stats 4, 4
+				CO $stats 3, 5
+				Queering is the act of (re)interpreting/identifying elements of queerness within texts, based on contextual evidence available within texts (e.g. seeing Othello-Iago in Othello through homoerotic lenses).
+		QF
+			THS the adoption of Bitcoin as an additional legal legal tender
+				OG $stats 2, 2
+				OO $stats 2, 2
+				CG $stats 1, 3
+				CO $stats 3, 1
+				Legal tender is something which is acknowledged by the laws of a state as a mechanism to settle a private or public debt or in order to meet a fiscal responsibility which includes buying of goods and services, paying taxes, abiding by contracts, and finally damages or fines. Almost every country uses its national currency as legal tender i.e. USD EUR, GBP. A country could have more than one legal tender.
+		SF
+			TH, as the CCP, would abandon all restrictions on internal migration in China
+				OG $stats 0, 2
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 1, 1
+				China currently uses a system of household registration called the "hukou". This system links an individual’s household registration to a specific municipality and prevents them from permanently settling outside of their home city. Migrant workers without a local hukou cannot access public education, most welfare benefits, and some other services in their new cities. Individuals can apply to transfer their hukou, but must generally meet strict conditions such as home ownership or qualified employment. Conditions to apply for a local hukou have become lower in smaller cities in recent years but remain high in mid-sized and larger cities.
+		GF
+			THS a multi-speed integration of the African Union
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				Multi-speed integration is a scenario where existing member states integrate at different paces, where certain member states opt into greater integration in specific policy areas, while others opt out. This would not apply retroactively, so existing policies would remain unified, but new policies would be differentially adopted. 
+				In the African Union, salient policy issues include a common currency, common market, free movement of people, tariff harmonization, and a defence pact/consensual peacekeeping forces.
+		ESL QF
+			THP a world without political parties* *where all candidates run as independents
+				OG $stats 2, 2
+				OO $stats 2, 2
+				CG $stats 1, 3
+				CO $stats 3, 1
+		ESL SF
+			THBT international financial bodies should issue development bonds in low resource countries to fund development projects
+				OG $stats 2, 0
+				OO $stats 1, 1
+				CG $stats 0, 2
+				CO $stats 1, 1
+				For the purposes of this debate, development bonds are used to finance development programs in low resource countries. Investors (public and private) fund development programs, and if the program meets a set target, the investors gain a return on their capital with interest.
+		ESL GF
+			THBT the introduction of religion into the colony would do more good than harm
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				The year is 2050. The Earth is about to be rendered uninhabitable by climate change and there are intentions to establish a Mars colony.
+		Schools SF
+			THS companies (e.g. Google) offering pay cuts based on cost-of-living in exchange for remote working
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 2, 0
+				CO $stats 0, 2
+		Schools GF
+			THBT developing countries should adopt third world alternatives to current international institutions (e.g. African Criminal Court or BRICS Development Bank) instead of remaining in current international institutions (e.g. the International Criminal Court, World Trade Organization, World Intellectual Property Organization)
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1

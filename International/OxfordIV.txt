@@ -2,29 +2,147 @@ Oxford IV
 	Oxford IV 2022
 		R1
 			THW require all public primary and secondary schools to have significant quotas for all major ethnicites in their region
+				OG $stats 7, 8, 8, 4
+				OO $stats 7, 5, 8, 7
+				CG $stats 7, 9, 4, 7
+				CO $stats 6, 5, 7, 9
 		R2
 			THS states pursuing the goal of energy self sufficiency
+				OG $stats 9, 12, 5, 2
+				OO $stats 10, 8, 7, 3
+				CG $stats 4, 6, 9, 9
+				CO $stats 5, 2, 7, 14
 		R3
 			THP a world where the dominant norm is one where it is acceptable to talk about sex, sexual interests and advances with adults in all contexts (e.g. strangers, friends, work etc)
+				OG $stats 10, 8, 4, 5
+				OO $stats 5, 7, 9, 6
+				CG $stats 6, 7, 7, 7
+				CO $stats 6, 5, 7, 9
 		R4
 			THS mission command models in militaries
+				OG $stats 5, 11, 7, 4
+				OO $stats 10, 7, 7, 3
+				CG $stats 5, 2, 6, 14
+				CO $stats 7, 7, 7, 6
 				'Mission command' refers to granting large degrees of autonomy to individual military units and lower ranking officers. Rather than give concrete orders from the higher ranks and penalising soldiers for incompliance, under mission command model there are general guidelines and limitations that leave lower ranking officers a wide range of legitimate courses of action to choose from.
 		R5
 			THP sectoral bargaining to enterprise bargaining
+				OG $stats 8, 8, 7, 4
+				OO $stats 9, 6, 9, 3
+				CG $stats 5, 7, 5, 10
+				CO $stats 5, 6, 6, 10
 				Sectoral bargaining refers to large labour unions negotiating on behalf of a full sector of employees (e.g. teachers union, coal miners union). In contrast, Enterprise bargaining refers to smaller labour unions negotiating on behalf of employees of a single company (e.g. Amazon Labour union).
 		QF
 			THBT the US Federal Reserve should not continue to increase interest rates
-		Novice Final
+				OG $stats 1, 3
+				OO $stats 3, 1
+				CG $stats 3, 1
+				CO $stats 1, 3
+		Rookie GF
 			THBT childhood years are the best years of life
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
 		SF
 			In federations, THBT laws regarding individual rights should be regulated exclusively by the federal government
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 1, 1
 				'Laws regarding individual rights' are laws that have significant moral or principled implications on human rights and liberties, such as abortion rights, marriage rights etc., as opposed to legislations which are more practical in nature such as minimum wage levels, age of retirement etc.
-		ESL Final
-			THBT Gantz should enter a coalition with Netanyahu conditional that The Religious Zionist party is kept out of interest
-				The Religious Zionist Party is a far-right political party in Israel. The party supports annexation of west bank territories, opposes gay marriage and supports significant limitations on the Supreme court. In the recent Israeli elections, The Likud party, led by Benjamin Netanyahu, won the most seats.
-				Netanyahu will need The Religious Zionist Party to form a coalition, unless he gets support from the National Unity party lead by Benny Gantz, that is traditionally part of the center-left anti-Netanyahu block in the Knesset.
+		ESL GF
+			THBT Gantz should enter a coalition with Netanyahu conditional that The Religious Zionist party is kept out of it
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				The Religious Zionist Party is a far-right political party in Israel. The party supports annexation of west bank territories, opposes gay marriage and supports significant limitations on the Supreme court. In the recent Israeli elections, The Likud party, led by Benjamin Netanyahu, won the most seats. Netanyahu will need The Religious Zionist Party to form a coalition, unless he gets support from the National Unity party lead by Benny Gantz, that is traditionally part of the center-left anti-Netanyahu block in the Knesset.
 		GF
 			THBT it is in the interest of the Indian people for India to align with the West
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+	Oxford IV 2021
+		R1
+			THBT states should discourage the concentration of their country's economic and political power within a single city
+				OG $stats 7, 15, 10, 7
+				OO $stats 16, 5, 8, 10
+				CG $stats 6, 8, 12, 13
+				CO $stats 10, 11, 9, 9
+		R2
+			THW allow parents to give the Politeness Pill to their children under the age of 18, regardless of the children's consent
+				OG $stats 12, 7, 14, 6
+				OO $stats 11, 12, 11, 5
+				CG $stats 7, 13, 9, 10
+				CO $stats 9, 7, 5, 18
+				The Politeness Pill, when taken, temporarily permits only socially acceptable behavior, such as obedience, attendance at school, good manners, following the law, refraining from drugs and alcohol, etc.
+		R3
+			THBT Western liberal democracies should finance the creation and operation of "Recovery from Religion" organisations
+				OG $stats 5, 16, 10, 7
+				OO $stats 9, 12, 10, 7
+				CG $stats 13, 6, 10, 9
+				CO $stats 11, 4, 8, 15
+				"Recovery from Religion" organisations are nonprofit organisations that offer support to people who are trying to leave a religion. For example, they organise support groups, operate call centres where people can get support over the phone, and organise events that promote atheism and secularism.
+		R4
+			THS the current rise in energy prices
+				OG $stats 5, 16, 8, 8
+				OO $stats 16, 8, 9, 4
+				CG $stats 7, 5, 11, 14
+				CO $stats 9, 8, 9, 11
+		R5
+			THBT no-platforming movements* in universities have done more harm than good *No-platforming movements aim to deny certain individuals the opportunity to express their views publicly
+				OG $stats 12, 4, 15, 6
+				OO $stats 12, 13, 7, 5
+				CG $stats 7, 12, 3, 15
+				CO $stats 6, 8, 12, 11
+		POF, ESL PQF
+			THS all professional football* clubs requiring majority fan ownership *For this purpose of this debate (as it is in the real world) football refers to soccer not your other subpar handball games
+				POF OG $stats 1, 3
+				POF OO $stats 3, 1
+				POF CG $stats 1, 3
+				POF CO $stats 3, 1
+				ESL PQF OG $stats 1, 1
+				ESL PQF OO $stats 2, 0
+				ESL PQF CG $stats 0, 2
+				ESL PQF CO $stats 1, 1
+		QF, ESL SF
+			THBT NATO should significantly expedite the approval of Ukraine's NATO membership
+				QF OG $stats 1, 3
+				QF OO $stats 2, 2
+				QF CG $stats 2, 2
+				QF CO $stats 3, 1
+				ESL SF OG $stats 2, 0
+				ESL SF OO $stats 0, 2
+				ESL SF CG $stats 1, 1
+				ESL SF CO $stats 1, 1
+		SF
+			THBT proliferation of the Metaverse will bring more harm than good
+				OG $stats 1, 1
+				OO $stats 0, 2
+				CG $stats 1, 1
+				CO $stats 2, 0
+				Many major corporations like Facebook, Nike etc. have recently announced their intent to explore and invest in the 'Metaverse'. 'Metaverse' is a new technology concept currently in development that is trying to bridge the gap between interactions in the virtual and real world through technology such as augmented reality, VR, creating virtual worlds, etc.
+		GF
+			THO the dominant influence of popular culture on what constitutes good sex
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+		ESL GF
+			THO the increasing prevalance of nihilism among young people
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+		Rookie GF
+			THS the implemention of the 'Teacher Draft' program
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				The 'Teacher Draft' program would require university graduates from all disciplines, who finish in the top 5% of their cohort, to be employed and teach at a primary or secondary school in a low socio economic area in the country they went to university in, for at least 2 years after graduation. (In all other respects, this functions similarly to regular employment.)
 	Oxford Schools' 2021
 		R1
 			This House believes that schools should teach more life skills (e.g. cooking, driving, financial literacy) at the expense of academic subjects (e.g. Maths, Science, History).
@@ -57,7 +175,7 @@ Oxford IV
 			THW allow victims of violent crimes to veto the prosecution of their offender
 		R5
 			THBT governments in the developing world should limit migration to megacities
-		Octofinals
+		OF
 			THR the increasing emphasis upon publicity and performative expressivism in social movements.
 		QF
 			TH, as Saudi Arabia, W provide funding and support to Tigray People's Liberation Front (TPLF), and encourage their aggression against the Ethiopian federal government
@@ -67,16 +185,16 @@ Oxford IV
 				Hyperthymesia (HSAM) is a rare condition that leads people to be able to remember an abnormally large number of their life experiences in vivid detail.
 		GF
 			THR the narrative that there exists no objective truth
-		ESL Pre-Semis
+		ESL Pre-SF
 			TH prefers to live in a world where most individuals lead polyamorous relationships, as opposed to single-partner relationships.
-		ESL Semifinals
+		ESL SF
 			THW leave Dharma
 				You are a prominent leader of a religion called ""Dharma"". Similar to many other religions, most of Dharma's followers are conservatives or moderates, with some people being progressives, and a tiny portion being extremists. Upon years of studying scripture, you have come to the conclusion that Dharma is a radical religion. As such, you have lost your faith. You see yourself as having two options. Option A is leaving Dharma. You can speak your truth from a safe refuge and encourage people to leave the religion. Option B is staying. You would continue to serve as a leader and pretend that Dharma is a very progressive religion and attempt to convince your followers as such.
-		ESL Final
+		ESL GF
 			THR the Americanization of social justice debates, e.g. focus on police brutality as a result of BLM, use of english terms by social movements, rather than words in local languages and the focus on American icons such as MLK or RBG.
 		Novice SF
 			THW hold social media platforms liable for illegal content that is posted (fake news, defamation, etc.)
-		Novice Finals
+		Novice GF
 			TH opposes the glorification of career achievements as a basis of self-worth.
 	Oxford IV 2019
 		R1
@@ -100,17 +218,17 @@ Oxford IV
 			THR the depiction of the everyday life of people with disabilities as inspirational.
 		R5
 			THBT the South African government should incentivize the movement of people out of townships, rather than focus on policies that try to economically develop townships.
-		ESL Semis
+		ESL SF
 			THBT the US should cut all political, economic and military ties with Saudi Arabia.
-		ESL Final
+		ESL GF
 			THBT social movements should reject the glorification of political violence.
-		Novice Final
+		Novice GF
 			THBT post-conflict states should actively promote a unifying national narrative in the history curriculum.
-		Open Quarters
+		Open QF
 			THW allow city and local governments to be held civilly responsible for deaths that can be ascribed to homelessness.
-		Open Semis
+		Open SF
 			THBT the use of erotic capital by women does more harm than good.
-		Open Final
+		Open GF
 			THP a world where people believe you should maximize productivity to a world where people believe you should maximize leisure.
 	Oxford IV 2017
 		R1
@@ -123,17 +241,17 @@ Oxford IV
 			THBT investors should cease purchasing bonds issued by the Venezuelan government.
 		R5
 			THBT minority parents should shelter their children from the existence of racism for as long as possible.
-		ESL Semi
+		ESL SF
 			THBT that the EU should suspend the voting rights of Poland.
-		ESL Final
+		ESL GF
 			THW ban the creation of all artificial conscious beings.
-		Novice Final
+		Novice GF
 			THW require all sold products to clearly display their price in Dead Children Currency.
-		Open Quarter
+		Open QF
 			THR the creation and adoption of cryptocurrencies.
-		Open Semi
+		Open SF
 			THBT Mohammed bin Salman’s policies are in the interests of the ruling House of Saud.
-		Open Final
+		Open GF
 			Assuming it could be done peacefully, THW replace all existing governments with a single global democratic government.
 	Oxford IV 2016
 		R1
@@ -146,17 +264,17 @@ Oxford IV
 			THBT the state should promote the norm of the ‘single life’.
 		R5
 			THBT NATO should expel members that do not meet the organisation’s defence spending targets.
-		ESL Semi
+		ESL SF
 			THBT it is always morally wrong to buy sex.
-		ESL Final
+		ESL GF
 			THW prosecute leaders that have lied to their nation over the justification for going to war.
-		Novice Final
+		Novice GF
 			THBT the state should facilitate the creation of a new identity (complete with relocation and new government documents) for any citizen that requests it.
-		Open Quarter
+		Open QF
 			In 2008, instead of bailing out systematically important financial institutions, THW have bailed out homeowners directly.
-		Open Semi
+		Open SF
 			TH opposes the attempts to form a new Fatah-Hamas unity government.
-		Open Final
+		Open GF
 			THBT the Left should not celebrate the ideal of individuals climbing up the class ladder.
 	Oxford IV 2015
 		R1
@@ -169,17 +287,17 @@ Oxford IV
 			THBT Western Liberal Democracies should boycott the 2018 FIFA World Cup in Russia.
 		R5
 			THW allow opponents of abortion to sign legally-binding contracts with pregnant women, in which they pay those pregnant women not to have an abortion.
-		ESL Semi
+		ESL SF
 			THW accept ‘I was only following orders’ as a defence in war crimes trials.
-		ESL Final
+		ESL GF
 			THR the institutions of marriage and civil partnership.
-		Novice Final
+		Novice GF
 			THW create and enforce filial responsibility laws (mandating that people take care of their parents) – or words to that effect
-		Open Quarter
+		Open QF
 			THR the rise of mega-cities.
-		Open Semi
+		Open SF
 			THBT after 50 years of ownership the state should have the right to repossess all works of painting or sculpture for the purpose of public display.
-		Open Final
+		Open GF
 			A new planet has been discovered identical to Earth. 1 of 2 systems can be implemented on this planet (or words to that effect). THW implement communism over capitalism.
 	Oxford IV 2014
 		R1
@@ -192,9 +310,9 @@ Oxford IV
 			This house, as the gay community, regrets the existence of Grindr
 		R5
 			This house would deny public funding to parties with explicitly ethnic-based membership or platforms
-		FINAL
+		GF
 			THBT a world in which people were content and did not desire social mobility is preferable to one where people desired social mobility
-Oxford IV 2013
+	Oxford IV 2013
 		R1
 			THW provide mobile teachers for the compulsory education of the children of travelling communities (e.g. Roma and Irish Traveller)
 		R2
@@ -205,19 +323,19 @@ Oxford IV 2013
 			THW require major polluters to open their borders to environmental refugees
 		R5
 			THBT national war memorials should commemorate the casualties on all sides of the conflict
-		Novice Final
+		Novice GF
 			THBT when courts sentence offenders, they should give considerable weigh to the views of the victims
-		ESL Semi
+		ESL SF
 			THBT political parties should adopt non-hierarchical organisational structures
-		ESL Final
+		ESL GF
 			THBT liberal democracies should cut all economic and military ties with the Kingdom of Saudi Arabia
-		Open Quarter
+		Open QF
 			THW, as a liberal democracy, restrict coverage of small-scale terrorist attacks
-		Open Semi
+		Open SF
 			THBT identity-based social movements should not include in their movements allies who are not part of the identity group in question
-		Open Final
+		Open GF
 			THBT the United States should dissolve its offensive military capabilities
-Oxford IV 2012
+	Oxford IV 2012
 		R1
 			THBT Google, YouTube & Social Media websites should remove content which it deems to insult religions
 		R2
@@ -238,7 +356,7 @@ Oxford IV 2012
 			THBT States should forcibly reverse the transmigration policies of their former dictators
 		Open GF
 			THB in the right to bear arms.
-Oxford IV 2011
+	Oxford IV 2011
 		R1
 			This House Believes That Sex Education Classes in Schools Should Teach Techniques For Pure Sexual Gratification (including, but not limited to, anal sex, oral sex, mutual gratification and masturbation)
 		R2
@@ -259,7 +377,7 @@ Oxford IV 2011
 			This House Believes That the CEOs of the largest corporations should be chosen by national democratic elections.
 		Open GF
 			This house would establish geographical zones where the selling and consuming of any and all drugs are legal.
-Oxford IV 2010
+	Oxford IV 2010
 		R1
 			THBT Adoption Agencies that receive state funding should give priority to same sex couples and infertile couples.
 		R2
@@ -276,9 +394,9 @@ Oxford IV 2010
 			THBT a free market economy does not make the workers free.
 		GF
 			THS the use of a draft by lottery when engaged in extended military interventions.
-		GF(ESL)
+		ESL GF
 			THW allow poor countries to erect trade barriers against rich countries under the WTO.
-Oxford IV 2009
+	Oxford IV 2009
 		R1
 			THW allow deaf couples to use medical technology to ensure they have deaf offsprings.
 		R2
@@ -293,15 +411,15 @@ Oxford IV 2009
 			THBT universities should not license societies that define themselves by gender, race nationalhood or sexuality.
 		QF
 			THBT juidiciaries in nascent democracies should have the power to actively exercise judicial review on the basis of substantive judgments about social rights.
-		SF(ESL)
+		ESL SF
 			THW actively teach schoolchildren that people ought to be faithful to their partners.
 		SF
 			THW fund religious organisations to convert people in areas of social deprivation.
-		GF(ESL)
+		ESL GF
 			THW always offer governments ousted by military coups support in exchange for allowing us to arrange and oversee free and fair elections after their reinstatement.
 		GF
 			THBT terrorism is a legitimate mode of resistance for rebel groups with just causes.
-Oxford IV 2008
+	Oxford IV 2008
 		R1
 			THW not prosecute battered wives who kill their husbands.
 		R2
@@ -318,7 +436,7 @@ Oxford IV 2008
 			THW give African countries money to stop accepting aid from China.
 		GF
 			THW make voting power inversely proportional to wealth.
-Oxford IV 2007
+	Oxford IV 2007
 		R1
 			THW criminalise gang membership.
 		R2
@@ -335,7 +453,7 @@ Oxford IV 2007
 			THBT the US should match its military aid to Israel with an equal amount of humanitarian aid to Fatah.
 		GF
 			THBT the state should pay a wage to house-wives and house-husbands.
-Oxford IV 2006
+	Oxford IV 2006
 		R1
 			THW grant anonymity to sex offenders.
 		R2
@@ -351,7 +469,7 @@ Oxford IV 2006
 		ESL GF
 		SF
 		GF
-Oxford IV 2005
+	Oxford IV 2005
 		R1
 			THW lift the international ban on whaling.
 		R2
@@ -372,7 +490,7 @@ Oxford IV 2005
 			THBT western nations should buy opium from Afghan farmers for morphine production.
 		GF
 			THBT doctors should inform parents before carrying out abortions on under 16s.
-Oxford IV 2004
+	Oxford IV 2004
 		R1
 			THW protect from prosecution armed police in the line of fire.
 		R2
@@ -391,7 +509,7 @@ Oxford IV 2004
 			THW privatise the BBC.
 		GF
 			THW ban reporting of hostage taking in Iraq.
-Oxford IV 2001
+	Oxford IV 2001
 		R1
 			THB in the right to euthanasia.
 		R2
