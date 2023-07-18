@@ -1,0 +1,177 @@
+Glasgow
+	Glasgow Summer Cup 2023
+		R1
+			THO Space Tourism
+				OG $stats 4, 2, 6, 3
+				OO $stats 2, 8, 2, 3
+				CG $stats 8, 0, 4, 3
+				CO $stats 1, 5, 3, 6
+				Space Tourism refers to expeditions to and from space where the primary purpose is the lesiure of the paid travelers
+		R2
+			In countries with the death penalty, THW make all executions public
+				OG $stats 3, 4, 6, 2
+				OO $stats 7, 2, 3, 3
+				CG $stats 1, 5, 1, 8
+				CO $stats 4, 4, 5, 2
+		R3
+			TH, as Scotland, would choose to apply for EU membership, rather than entering a currency union with the United Kingdom
+				OG $stats 2, 5, 3, 5
+				OO $stats 2, 9, 2, 2
+				CG $stats 4, 1, 7, 3
+				CO $stats 7, 0, 3, 5
+				It is 2027, Scotland has voted for Independence with a 55:45 split. The SNP had hoped to retain the Pound Sterling, however, doing so would require entering a currency union with the United Kingdom.
+				Scotland could alternatively apply for EU membership on the condition that they accept the Euro as the national currency. For the purposes of this debate, Scotland cannot create its own currency.
+		R4
+			TH, as an aspiring writer, would write stories that feature "Consistent Universe Building" as opposed to writing stories featuring "Inconsistent Universe Building"
+				OG $stats 1, 11, 2, 1
+				OO $stats 8, 1, 4, 2
+				CG $stats 2, 2, 6, 5
+				CO $stats 4, 1, 3, 7
+				"Consistent Universe Building" refers to fictional systems which exhibit consistent in-universe logic. 
+				eg. Full Metal Alchemist's ""Law of Equivalent Exchange"" states that in order to gain something through magic something of equal worth must be exchanged. 
+				"Inconsistent Universe Building" refers to fictional systems which feature inconsistent and unreliable in-universe logic.
+				eg. In Avatar: The Last Airbender it is stated that bloodbending can only be done under a full moon. However, in a later series a character is introduced who can perform it at any time."
+		R5
+			THS workplaces regularly hosting Fuckup Nights
+				OG $stats 8, 5, 1, 1
+				OO $stats 4, 8, 1, 2
+				CG $stats 2, 1, 8, 4
+				CO $stats 1, 1, 5, 8
+				Fuckup Nights is an event series that shares stories of professional failure. Each month, three to four people are selected to get up in front of a room full of strangers and share their own professional fuckup (stories of the business that crashed and burned, the partnership deal that went sour, the product that was recalled, etc.)
+		QF
+			THBT threat to energy security forms legitimate grounds for war
+				OG $stats 3, 1
+				OO $stats 3, 1
+				CG $stats 1, 3
+				CO $stats 1, 3
+		SF
+			THW make schools in Slavic speaking countries teach Interslavic to all students
+				OG $stats 2, 0
+				OO $stats 2, 0
+				CG $stats 0, 2
+				CO $stats 0, 2
+				Interslavic is a constructed language created in 2006, which is similar to real spoken Slavic languages in Central and Eastern Europe. Interslavic shares grammar and common vocabulary with modern spoken Slavic languages in order to build a universal language tool that Slavic people can understand without any or with very minimal prior learning.
+		GF
+			THBT human nature is fundamentally evil
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+		ESL GF
+			THP art that conveys moral messages through creating discomfort in the audience (e.g. A Clockwork Orange, The Handmaid's Tale, Childish Gambino's 'This is America') over art that conveys moral messages through pleasure (e.g. Will and Grace, Lady Gaga's 'Born This Way', Black Panther)
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+		Pro-Am GF
+			THW choose to remain in the past
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				You are a present day young middle-class English woman happily married who travelled through time to 1740 Scotland. There you encounter, fall in love with and marry a dashing Highland warrior. After a year, you now have the opportunity to return to your time.
+	Glasgow Ancients 2023
+		R1
+			THP individualist feminism to social feminism
+				OG $stats 5, 2, 2, 1
+				OO $stats 3, 4, 2, 1
+				CG $stats 2, 2, 0, 6
+				CO $stats 0, 2, 6, 2
+				Individualist feminism emphasizes personal autonomy, choice/consent, and equality under the law. Social feminism advocates for social rights, a collective female narrative, recognition that gender plays a part in female positions in society and thus support special legislation for women. Individualist and social feminism oppose each other.
+		R2
+			THR these amendments made to the Children's fiction
+				OG $stats 3, 2, 3, 2
+				OO $stats 2, 3, 5, 0
+				CG $stats 3, 1, 2, 4
+				CO $stats 2, 4, 0, 4
+				Publishers have recently made ammendments to Children's fiction to edit content which today could be considered offensive. Examples of edits include those made to Roald Dahls' books e.g. changing "enormously fat" to "enormous", the female characters in The Witches to 'top scientists and business owners' instead of 'cashier in a supermarket'.
+		R3
+			TH, as an aspiring porn artist would focus on creating solo-cam porn career over entering the traditional porn industry
+				OG $stats 3, 3, 1, 3
+				OO $stats 4, 2, 1, 3
+				CG $stats 2, 1, 5, 2
+				CO $stats 1, 4, 3, 2
+				A solo-cam model is an independent video performer who streams on the internet with a live webcam broadcast. Viewers in private chat rooms pay the performance by the minute, however, in free chat rooms, payment is voluntary in the form of tips.
+		R4
+			In times of significant instability in financial markets, THS partially state funded bank mergers
+				OG $stats 2, 2, 3, 3
+				OO $stats 4, 0, 4, 2
+				CG $stats 2, 5, 2, 1
+				CO $stats 2, 3, 1, 4
+				In March this year following the collapse of the American bank 'Sillicon Valley Bank', the second biggest Swiss bank 'Credit Suisse' was facing financial trouble and a collapse was highly likely. To prevent such a collapse, the larger Swiss bank 'UBS' purchased Credit Suisse at a fraction of it's full retail value, and with financial backing from the Swiss National Bank. For the purpose of the debate this is called a 'partially state funded bank merger'.
+		R5
+			THBT professionals and disability activists should heavily prioritize the practices and narratives derived from the medical as opposed to the social model
+				OG $stats 0, 6, 2, 2
+				OO $stats 3, 0, 3, 4
+				CG $stats 3, 3, 1, 3
+				CO $stats 4, 1, 4, 1
+				The medical model refers to the set of beliefs and practices that view the person with a disability as one who medically suffered an impairment which is the primary cause of their limited functioning i.e. a blind person lacks eyesight so they aren’t "fully functional". The social model says that the cause of limited functioning is due to the social construct of normality and that by changing the environment people with disabilities can be seen as "fully functional" i.e. blindness is a part of who they are. Professionals and disability activists include doctors, social workers, charities, teachers
+		SF
+			THS the existance of Hospital X
+				OG $stats 0, 2
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 2, 0
+				Hospital X is a maximum security facility built to ensure that ex-convicts deemed a continued high risk and labelled as "non rehabilitated", are kept separate from the community. Inhabitants have served their prison sentance, and rehabilitation treatment is offered but is not required. The state has passed a law that allows inhabitants to be committed to the facility indefinitely.
+		GF
+			THW Abolish the British Monarchy
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+	Glasgow Summer Cup 2022
+		R1
+			THBT labour unions should primarily pursue legislative change as a means of achieving workers' rights, instead of directly negotiating with companies
+				OG $stats 2, 3, 3, 1
+				OO $stats 4, 2, 2, 1
+				CG $stats 1, 1, 1, 6
+				CO $stats 2, 3, 3, 1
+		R2
+			THW place a time limit on all private land ownership in major cities
+				OG $stats 0, 3, 5, 1
+				OO $stats 6, 0, 2, 1
+				CG $stats 1, 5, 0, 3
+				CO $stats 2, 1, 2, 4
+		R3
+			In religious areas, THBT social movements' (e.g. feminist, LGBTQ+, etc.) campaigning should utilise canonised religious texts
+				OG $stats 2, 3, 2, 2
+				OO $stats 1, 3, 1, 4
+				CG $stats 2, 1, 4, 2
+				CO $stats 4, 2, 2, 1
+		R4
+			THBT Xi Jinping's decision to heavily increase regulation on tech giants is in the interests of China
+				OG $stats 2, 1, 5, 1
+				OO $stats 3, 4, 1, 1
+				CG $stats 1, 2, 3, 3
+				CO $stats 3, 2, 0, 4
+				Since the suspension of Ant Group’s IPO, Xi Jinping has heavily increased regulation of the technology sector in China including leading technology firms. The regulation includes antitrust laws, data security and storage laws, anti-monopoly laws and the CCP goal to prevent massive profit gain in the technology sector.
+		R5
+			THP a world where everyone predominantly idolises individuals from their immediate environment e.g. family, friends, teachers, etc. as opposed to predominantly idolising global actors e.g. celebrities, social activists, politicians, etc
+				OG $stats 1, 3, 5, 0
+				OO $stats 3, 3, 1, 2
+				CG $stats 2, 1, 1, 5
+				CO $stats 3, 2, 2, 2
+		SF
+			Assuming a trade-off, THP significant steps towards Western Balkan integration (e.g. a customs union, trade agreements, closer political alignment, etc.) rather than further steps towards European Union enlargement
+				OG $stats 0, 2
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 2, 0
+				The applications of Western Balkan countries (Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia) to gain European Union membership has been discussed recently at an EU summit. Many of these countries have received candidate status and/or been told by the EU that negotiations can take place (however with no date). 
+				A dispute between Bulgaria and North Macedonia on Bulgarian citizens in North Macedonia has caused tension amongst Western Balkan leaders as they believe it has stalled the EU membership of these countries due to Bulgaria's objection.
+		GF
+			THW push the button
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				You are a late 20s, single, female middle manager in a very large company, named Emanna Wuff, in a country with conservative social norms. 
+				There is a button that, once pushed, will remove the ability for the button pusher to weigh social norms in their decision calculses e.g. day-to-day decisions, presentation to proximate actors, life decisions etc. 
+				When interacting with people, the button pusher is still aware of social norms and how others conform to them. The button pusher cannot develop the capacity to weigh social norms in the future e.g. from conversations, interactions, etc. 
+				You have only one chance to push the button, only you can push it, and when pushed, the action is irreversible.
+		ESL GF
+			THP that religions predominantly emphasise one's intentions, rather than consequences of one's actions, in their preachings (e.g. in determining afterlife pathways, in the morality of 'day to day' actions)
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
