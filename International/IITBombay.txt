@@ -1,0 +1,210 @@
+IIT Bombay
+	15th IIT Bombay 2023
+		R1
+			THW provide legal protections to political strikes
+				OG $stats 7, 5, 5, 6
+				OO $stats 4, 4, 9, 6
+				CG $stats 6, 7, 3, 7
+				CO $stats 6, 7, 6, 4
+				Political strikes refer to workers using strikes to protest against a policy decision by the government that is unrelated to the terms of employment of the striking workers (e.g. protesting against war, abortion bans, contribution of the government to climate change etc). These strikes are most commonly executed by workers of the public sector, striking against the government, their direct employer. These strikes are not protected, meaning employers are allowed to fire workers for participating in them.
+		R2
+			THS the inclusion of patriotism within the school curriculum
+				OG $stats 6, 8, 4, 5
+				OO $stats 6, 5, 7, 5
+				CG $stats 4, 4, 9, 6
+				CO $stats 7, 6, 3, 7
+		R3
+			THR the rise of financial journalism
+				OG $stats 4, 4, 6, 9
+				OO $stats 9, 9, 4, 1
+				CG $stats 4, 7, 5, 7
+				CO $stats 6, 3, 8, 6
+				For the purposes of this debate, "financial, journalism" refers to all media publishing of personal financial and investment advice (including both traditional mass media and financial influencers on social media). It does NOT refer to media reporting on financial tends in the market (e.g. the current inflation rate)-or government policy and central banks policy (e.g. increasing interest rates)
+		R4
+			In countries where abortion is legal and accessible, THW allow fathers to opt out of legal obligations and rights to an unwanted child if the mother chooses to not abort
+				OG $stats 5, 8, 5, 5
+				OO $stats 9, 5, 7, 2
+				CG $stats 4, 5, 3, 11
+				CO $stats 5, 5, 8, 5
+		R5
+			THBT developing nations should decentralize authority significantly to local provinces/states (e.g. autonomous policy making, greater fiscal control etc.)
+				OG $stats 7, 8, 6, 1
+				OO $stats 7, 7, 6, 2
+				CG $stats 5, 4, 6, 7
+				CO $stats 3, 3, 4, 12
+		Rookie SF
+			THW, assuming it was technologically possible, replace all human soldiers on the battlefield with robots
+				OG $stats 2, 0
+				OO $stats 2, 0
+				CG $stats 0, 2
+				CO $stats 0, 2
+		QF
+			THW allow terminally ill patients to sign a binding agreement indicating they wish to be euthanised upon the occurrence of severe brain damage, that cannot be revoked after the brain damage has occurred
+				OG $stats 3, 1
+				OO $stats 3, 1
+				CG $stats 1, 3
+				CO $stats 1, 3
+		SF
+			THBT it is in the interest of China to distance themselves from Russia
+				OG $stats 0, 2
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 1, 1
+		Rookie GF
+			THW allow the Nuremberg Defense in cases of war crimes
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+				Nuremberg Defense: An explanation offered as an excuse for behaving in a criminal or wrongful manner, claiming that one acted in this way because one was ordered by others (particularly superiors) to do so
+		GF
+			THP humans to acquire memories* of their past lived experiences upon reaching adulthood rather than staying oblivious (* memories of past lived experiences include events, interactions and emotions, but not skills)
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				For the purposes of this debate, reincarnation is real. It happens in human form only, in a random (not karmic) way, and doesn't have to follow immediately after death.
+				This is known to all and considered an undisputable fact.
+				Humans have inherent traits that consist of their core personality and preferences. These get transferred through reincarnations and do not change. People are a combination of their inherent traits and their environment.
+	14th IIT Bombay 2022
+		R1
+			THBT parents should teach their daughters to be selfish
+				OG $stats 5, 11, 4, 3
+				OO $stats 3, 2, 8, 10
+				CG $stats 8, 8, 2, 5
+				CO $stats 7, 2, 9, 5
+		R2
+			THBT sports leagues facing declining viewership should heavily invest in the development of modified short-form versions of their games
+				OG $stats 6, 7, 4, 6
+				OO $stats 5, 5, 8, 5
+				CG $stats 4, 6, 9, 4
+				CO $stats 8, 5, 2, 8
+		R3
+			THP a world in which Abrahamic religions preached the narrative that sins are a result of human agency as opposed to being the result of the devil's temptations
+				OG $stats 5, 7, 7, 4
+				OO $stats 6, 7, 4, 6
+				CG $stats 10, 5, 6, 2
+				CO $stats 2, 4, 6, 11
+		R4
+			THBT the popularity of micro-financing has done more harm than good to the developing world
+				OG $stats 4, 3, 10, 5
+				OO $stats 4, 11, 3, 4
+				CG $stats 7, 3, 4, 8
+				CO $stats 7, 5, 5, 5
+				Micro-financing is the business-like provision of financial services to the poor, offering loans or deposits far smaller than traditional banks. Microfinanciers can be NGOs, private companies, or state-controlled financial institutions.
+		R5
+			TH, as leaders of marginalised minority groups, would urge their respective communities to partake in greater social integration at the expense of sustaining unique cultural attributes
+				OG $stats 3, 4, 8, 7
+				OO $stats 6, 5, 7, 4
+				CG $stats 4, 6, 4, 8
+				CO $stats 9, 7, 3, 3
+		QF
+			THP media corporations without majority stakeholders
+				OG $stats 2, 2
+				OO $stats 3, 1
+				CG $stats 2, 2
+				CO $stats 1, 3
+		Rookie SF
+			THS a norm of expecting people to show resilience (eg, by maintaining a positive mindset, avoiding self-pity)
+				OG $stats 0, 2
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 2, 0
+		SF
+			THS states widely adopting auctions for citizenship
+				OG $stats 0, 2
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 1, 1
+		Rookie GF
+			THW choose to Moonlight
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				Moonlighting refers to working a second job, typically in secret, in addition to one's regular employment. 
+				You are a middle class individual, who is capable at the work that you do. You find that after work, you have sufficient amount of free time at hand.
+		GF
+			THR the pervasiveness of colonial determinism in discourse surrounding development in Asia
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				Colonial determinism refers to the view that postcolonial states are irredeemably influenced by the structures of colonialism, and that these structures are primarily responsible for the economic, political and social contexts these states find themselves in.
+	13th IIT Bombay 2021
+		R1
+			THW eliminate all patents resulting from scientific research that was entirely publicly funded
+				OG $stats 10, 7, 9, 6
+				OO $stats 6, 12, 6, 8
+				CG $stats 6, 8, 11, 7
+				CO $stats 10, 5, 6, 11
+		R2
+			THP a world in which social media was founded on a subscription-based revenue model rather than an ad-based revenue model (ie, one in which most of the revenue comes from paying customers instead of ads)
+				OG $stats 7, 9, 13, 3
+				OO $stats 9, 8, 9, 6
+				CG $stats 5, 6, 7, 14
+				CO $stats 11, 9, 3, 9
+		R3
+			THP The World Of Total Belief to the world we currently live in
+				OG $stats 5, 7, 9, 10
+				OO $stats 15, 10, 1, 5
+				CG $stats 3, 5, 11, 12
+				CO $stats 8, 9, 10, 4
+				The World Of Total Belief, God exists, is benevolent, and bears a striking similarity to existing conceptions of monotheism in our world. This is a world that looks exactly like our own, except for the fact that everyone believes in God and agrees on God's key features. This belief cannot be challenged by anyone in this world.
+		QF
+			Assuming feasibility, THBT the current system of voting should be replaced by blind voting
+				OG $stats 2, 2
+				OO $stats 3, 1
+				CG $stats 3, 1
+				CO $stats 0, 4
+				Blind voting refers to a system where voters cast their votes for various policies, and a candidate is matched to them based on their preferences.
+		SF
+			TH as the Dalai Lama, W decide publically not to reincarnate
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 1, 1
+				The Dalai Lama is the spiritual leader of the largest schools of Tibetan Buddhism, with the closely connected Panchen Lama second to the Dalai Lama in the hierarchy. Upon the death of either the Dalai Lama or Panchen Lama, a search for the reincarnation is conducted in order to select a successor. The Dalai Lama and Panchen Lama each have supreme authority in the process of recognizing each other's reincarnations i.e. the Panchen Lama must approve the reincarnation of the Dalai Lama and vice-versa. In 1995, the then-six year old Panchen Lama was kidnapped by the Chinese government. His whereabouts are still unknown, but the CCP have stated that he is living a normal life in China with his family. The Dalai Lama is unable to choose the next reincarnation of the Panchen Lama without confirmation that the current Panchen Lama is deceased.
+		R4
+			THBT the CCP should bailout Evergrande
+				OG $stats 9, 6, 13, 2
+				OO $stats 8, 13, 4, 5
+				CG $stats 9, 3, 10, 8
+				CO $stats 4, 8, 3, 15
+				Evergrande Real Estate currently owns more than 1,300 projects in more than 280 cities across China. The Evergrande Group has expanded aggressively to become one of China's biggest companies by borrowing more than 300bn Yuan. They invested into a number of different industries ranging from wealth management to electric cars to the purchase of the country's biggest football teams, Guangzhou FC. Several factors have seen Evergrande's share price tumble by around 80% this year. Its bonds have also been downgraded by global credit ratings agencies and the company is at risk of bankrupcy.
+		R5
+			THBT the feminist movement should focus significant time, platform and resources towards combatting benevolent sexism
+				OG $stats 7, 7, 10, 5
+				OO $stats 9, 8, 5, 7
+				CG $stats 6, 8, 7, 8
+				CO $stats 7, 6, 7, 9
+				Benevolent sexism, as opposed to hostile sexism, refers to attitudes about women that are stereotypical yet have positive connotations (eg that men have an obligation to be chivalrous and protect women, the idolisation of women in wife, mother, and child caretaker roles and the romanticisation of the emotional sensitivity of women).
+		Rookie Pre SF
+			THP industrial unions to workplace unions
+				OG $stats 1, 1
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 0, 2
+				For the purposes of this debate, a workplace union is a union that only involves workers of one specific company. These unions tend to focus on directly negotiating with the management of that individual company. By contrast, an industrial union is a union with workers from an entire industry (e.g. service workers, educators, etc.). Industrial unions, more often, focus on trying to implement industry-wide standards for worker rights rather than negotiate with individual companies.
+		ProAm SF
+			THBT Japan should revise Article 9 of its constitution in line with Abe's 2017 proposal
+				OG $stats 0, 2
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 1, 1
+				"Article 9 of the Japanese Constitution reads: ""Aspiring sincerely to an international peace based on justice and order, the Japanese people forever renounce war as a sovereign right of the nation and the threat or use of force as a means of settling international disputes. In order to accomplish the aim of the preceding paragraph, land, sea and air forces, as well as other war potential, will never be maintained. The right of belligerency of the state will not be recognised."" 
+				In 2017, then-Prime Minister Abe Shinzo proposed an amendment to Article 9. The proposed amendment would keep the existing clauses as is and add a third clause that would unambiguously legitimise the constitutionality of the (existing) Japan Self-Defense Force. Abe resigned in 2020 citing poor health. Article 9 is yet to be amended."
+		GF
+			THBT social justice movements should actively promote a belief in Radical Compassion
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				"Radical compassion" refers to the belief that all acts, regardless of how right or wrong they appear to be, must be understood by adopting the perspective of the actor involved and considering the actor's intent and background. Proponents of radical compassion disapprove of moral judgment. They consider identifying and resolving the factors that cause harmful acts to be far more important than punishing a perpetrator. For example, proponents tend to support policies involving rehabilitation and mediation as opposed to policies involving retributive consequences.
+		ProAm GF
+			THW implement the 'Blue Shell Award'
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				A new international accolade is proposed by the governments of the world called the 'Blue Shell Award'. Every year on the 31st of December, the wealthiest person alive is declared the 'Winner of Capitalism'. They get a badge that says 'good job', and then all of their wealth is donated to various charitable causes

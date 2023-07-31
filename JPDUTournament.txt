@@ -1,4 +1,117 @@
 JPDU Tornament (NA)
+	24th JPDU Tournament (2011)
+		R1
+			THW restrict the media coverage of a minister’s verbal gaffes
+		R2
+			THW create a retirement age for doctors
+		R3
+			THW place the same tax rate as income tax on capital gains made through the stock exchange to fix the gap
+		R4
+			THW never prohibit gay pride parades even in countries or areas where there is a risk of violent backlash against those involved
+		OF
+			THBT South Sudan should unconditionally provide oil to Sudan to avoid conflict
+		QF
+			THW ban foreign corporations from holding a share in media corporations
+		SF
+			THW force pregnant women under 16 to give their children up for adoption
+		GF
+			THW allow prior convictions to be used as evidence in court if the defendant had previously been found guilty of any crimes
+	22nd JPDU Tournament (2010)
+		R1
+			THW make parental leave mandatory for both parents
+		R2
+			THBT multinational corporations operating in the developing world should be held liable to environmental regulations based on their country of origin
+		R3
+			THBT government subsidy of sports should only be used for promoting sports in general and not for particular sports
+		R4
+			THBT developing countries should not privatise the water sector
+		R5
+			THW criminalize public display or announcement of burning religious texts
+		OF
+			THW ban political contributions from all interest groups and corporations, and have the government pay for expenses instead
+		QF
+			THW legalize active euthanasia
+		SF
+			THBT prisoners sentenced to life without parole should be allowed to choose the death penalty
+		GF
+			THW require media organizations to provide equal airtime to compelling views on controversial issues
+	19th JPDU Tournament (2009)
+		R1
+			THW prohibit convicted celebrities from coming back
+		R2
+			THBT former imperialist powers should be responsible for their ex-colonial underdeveloped economy
+		R3
+			THW ban animated child pornography
+		R4
+			THBT WHO should make vaccines of swine flu patent-free
+		R5
+			THW grant voting rights to foreigners
+		OF
+			THBT Japanese prefectural government should manage their own tax revenue
+		QF
+			THW abolish World Heritage Sites
+		SF
+			THBT ASEAN should abolish its non-intervention policy against the domestic affairs of its member states
+		GF
+			THW raise the consumption tax
+	16th JPDU Tournament (2008)
+		R1
+			THW support unilateral armed humanitarian intervention in conflict zones
+		R2
+			THBT the governor should not be elected more than two times
+		R3
+			THBT sporting bodies should penalise teams when their players commit criminal acts off their field
+		R4
+			THW not provide nuclear fuel for India until she ratifies the NPT
+		R5
+			THW make smokers pay for their own medical expenses
+		OF
+			THBT companies can maximise their profits by accepting that pirate editions are inevitable rather than spending money trying to eradicate them
+		QF
+			THW ban abortion
+		SF
+			THW limit the number of times United Nations Security Council members can veto
+		GF
+			THW lift the regulation of exporting agricultural products
+	13th JPDU Tournament (2007)
+		R1
+			THBT nations engaging in human rights abuses should not host the Olympics
+		R2
+			THW support affirmative action for women-only corporations
+		R3
+			THW give citizens the right to vote against a candidate in an election
+		R4
+			THW prosecute copyright infringers without formal complaints from copyright holders
+		R5
+			THBT the WTO should allow the use of safeguards to prevent cruelty toward animals
+		OF
+			THBT permanent members of the UN Security Council should dismantle their nuclear arsenals
+		QF
+			THW legalize marijuana for pleasure
+		SF
+			THBT English should be the single official language in the United States
+		GF
+			THBT parents should have the right to choose the sex of their babies
+	10th JPDU Tournament (2006)
+		R1
+			THW have quotas for the number of woman in national parliaments
+		R2
+			THBT going to university is better than joining the professional league for high school baseball players
+		R3
+			THW extend the term of compulsory education
+		R4
+			THW abolish consumer credit industry
+		R5
+			THBT world stability is more important than national interests for natural resources
+		OF
+			THW ban pornography
+		QF
+			THBT technological advancement re-defines ethics
+		SF
+			THBT first offenders who commit non-violent crimes should not be sent to jail
+		GF
+			THBT US is no longer a freedom fighter for world peace
+THBT US is no longer a freedom fighter for world peace
 	8th JPDU Tournament (2005)
 		R1
 			THW charge citizen for ambulances.
@@ -11,7 +124,7 @@ JPDU Tornament (NA)
 		R5
 			THW introduce the child curfew.
 		OF
-			THBT election campaigns should be fully .financed by the states.
+			THBT election campaigns should be fully financed by the states.
 		QF
 			THW put camera on the courtroom.
 		SF
@@ -60,7 +173,7 @@ JPDU Tornament (NA)
 		R4
 			THBT the Japanese government should introduce the jury system.
 		R5
-			THBT parents should say, .”Santa Clause exist”. to children.
+			THBT parents should say, ”Santa Clause exist” to children.
 		QF
 			THW abolish abortion.
 		SF
@@ -81,6 +194,6 @@ JPDU Tornament (NA)
 		QF
 			THBT China’s participation in WTO is beneficial for Japan.
 		SF
-			THW abolish the “payoff. system” in Japan: caps on bank-deposit guarantees.
+			THW abolish the “payoff system” in Japan: caps on bank-deposit guarantees.
 		GF
 			There is no neutral position.
