@@ -1,6 +1,6 @@
 Trinity IV
 	Trinity IV 2023
-    	R1
+		R1
 			Assuming it was technically feasible,THW remove the ability of soldiers to feel fear
 				OG $stats 3, 4, 4, 3
 				OO $stats 3, 5, 3, 3
