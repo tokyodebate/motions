@@ -492,8 +492,23 @@
 		"name": "Diliman",
 		"short": "",
 		"latest": 2023,
-		"tag": ["BP", "open", "international", "region:Asia"],
+		"tag": [
+			"BP",
+			"Australasian",
+			"open",
+			"schools",
+			"international",
+			"region:Asia"
+		],
 		"url": "International/DSNPD.txt"
+	},
+	{
+		"id": "Drexel",
+		"name": "Drexel",
+		"short": "",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:America"],
+		"url": "International/Drexel.txt"
 	},
 	{
 		"id": "DSNPD",
@@ -622,6 +637,14 @@
 		"latest": 2023,
 		"tag": ["BP", "rookie", "international", "region:Asia"],
 		"url": "International/Linkbate.txt"
+	},
+	{
+		"id": "LSE",
+		"name": "London School of Economics and Political Science",
+		"short": "LSE",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:Europe"],
+		"url": "International/LSE.txt"
 	},
 	{
 		"id": "MacauAPDO",
@@ -772,7 +795,7 @@
 		"name": "Sunway",
 		"short": "",
 		"latest": 2023,
-		"tag": ["Asian", "open", "international", "region:Asia"],
+		"tag": ["Asian", "BP", "open", "international", "region:Asia"],
 		"url": "International/Sunway.txt"
 	},
 	{

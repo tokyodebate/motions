@@ -1,6 +1,6 @@
 Manchester IV
 	Manchester IV 2023
-    	R1
+		R1
 			THP lyrics in breakup music where songwriters focus on the process of self empowerment (e.g. "I can buy myself flowers") to lyrics which shame their exes (e.g. "Ah, so much time at the gym, but maybe work out your brain a bit too")
 				OG $stats 1, 4, 1, 2
 				OO $stats 4, 1, 2, 1

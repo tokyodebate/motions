@@ -1,4 +1,89 @@
 Diliman
+	Diliman Schools Asian Parliamentary 2023
+		R1
+			THBT it is unjust for well-off parents to raise their children in an upper-class lifestyle
+				Balance $stats 2, 2, 16
+				Veto $stats 5, 4, 31
+			THR the social obligation for adult children to care for their parents
+				Balance $stats 8, 2, 16
+				Veto $stats 2, 5, 31
+			THP a family structure where all siblings were born at the same time (i.e. twins, triplets) as opposed to one where siblings have noticeable age gaps (3+ age difference)
+				Balance $stats 2, 0, 16
+				Veto $stats 9, 6, 31
+		R2
+			Assuming its current enforcement, TH, as the Chinese government, would significantly relax the Chinese Gaming Law
+				Balance $stats 3, 6, 16
+				Veto $stats 4, 3, 32
+				The Chinese gaming law prohibits those under 18 from playing video games during the school week and limits weekend playtime to one hour per day (specifically 8PM to 9PM).
+			THBT lootbox-based/gacha games should be regulated as electronic gambling
+				Balance $stats 2, 1, 16
+				Veto $stats 6, 6, 32
+			THP influencer-run e-sports orgs to conventional e-sports orgs
+				Balance $stats 4, 0, 16
+				Veto $stats 6, 7, 32
+		R3
+			THR the rise of choice feminism
+				Balance $stats 3, 2, 16
+				Veto $stats 5, 6, 32
+				Choice feminism is a popular form of contemporary feminism, encouraging women to embrace the opportunities they have in life and to see the choices they make as justified and always politically acceptable
+			THS portrayals of female characters like Amy Dunne
+				Balance $stats 3, 2, 16
+				Veto $stats 6, 6, 32
+				Amy Dunne is the fictional antagonist of the book Gone Girl. In the story, Amy weaponizes societal narratives surrounding female victimhood in order to punish the men in her life. This looks like framing them for sexual assault, abuse, and murder. The men she punishes have often wronged her, usually in ways that are a result of patriarchal socialization (cheating on her with a younger woman, objectifying her, weaponizing incompetence).
+			THBT the feminist movement should oppose the use of make up
+				Balance $stats 2, 4, 16
+				Veto $stats 5, 4, 32
+		R4
+			THBT Threads should exercise stricter content regulation than its competitors
+				Balance $stats 1, 3, 16
+				Veto $stats 7, 5, 30
+				In July 2023, Meta launched the online social media and social networking service known as Threads. Immediate comparisons were drawn with Twitter, and Twitter CEO Elon Musk immediately acknowledging competition between the two platforms
+			THBT music streaming platforms should completely remove Kanye West's music
+				Balance $stats 1, 3, 16
+				Veto $stats 6, 3, 30
+			THBT film studios should strongly condemn state-sponsored bans and censorship of movies
+				Balance $stats 4, 4, 16
+				Veto $stats 2, 7, 30
+				In 2021, Italy completely abolished the censorship of movies, instead allowing film makers and independent rating bodies to classify movies according to age approriateness. Age restrictions remain in place independent of bans or censorship.
+		QF
+			TH, as the Philippine government, would significantly increase and hasten investments in nuclear energy
+				Balance $stats 1, 0, 4
+				Veto $stats 3, 0, 8
+			THR the use of Doomsday Environmentalism
+				Balance $stats 0, 1, 4
+				Veto $stats 1, 2, 8
+				Doomsday environmentalism is a brand of environmental activism that warns of apocalyptic consequences of human-driven environmental degradation. One prominent example is Silent Spring, a book that envisions a lushous town teeming with wildlife that is completely wiped out by toxic pesticides such as DDT. Another example is The Population Bomb, which predicted worldwide famine and widespread conflict due to overpopulation.
+			TH, as the environmental movement, would prioritize criticizing celebrities' environmentally destructive lifestyles rather than celebrating their contributions to the environment (e.g. Taylor Swift's private jet usage vs her wildlife conservation & sustainable fashion stance, Leo Dicaprio's superyacht usage vs his veganism)
+				Balance $stats 0, 2, 4
+				Veto $stats 0, 2, 8
+		SF
+			THBT governments should censor all attempts of terrorist organizations to broadcast messages to the public
+				Balance $stats 1, 0, 2
+				Veto $stats 0, 0, 4
+			THBT militaries should never partake in ransom deals waged by terrorist organizations
+				Balance $stats 0, 0, 2
+				Veto $stats 2, 1, 4
+			THR the vilification of terrorist groups by the West
+				Balance $stats 1, 0, 2
+				Veto $stats 0, 1, 4
+		GF
+			THW enter into an arranged marriage with a person you tolerate rather than trying to marry for love
+				Balance $stats 0, 0, 1
+			THW choose to erase the memories of your ex
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+				There exists an agency that specializes in memory erasure. This procedure is focused on helping individuals erase only specific parts of their memory e.g. a person. When patients choose to have their memories erased, all memories of and relating to that person are also erased. The people in your life are also notified of this erasure and asked to refrain from mentioning that person around you. This procedure has a 100% success rate and there is little to no chance of any accidents happening during the procedure.
+				You have recently gotten out of a relationship that ended on bad terms due to ireconcilable personality clashes.
+			THP a world where the dominant narrative supports love being transactional
+				Balance $stats 0, 0, 1
+		Rookie GF
+			THBT the LGBT movement should spread the narrative that marriage doesn't matter as opposed to advocating for same sex-marriage
+				Balance $stats 0, 0, 1
+			THBT discourse for African American rights should integrate in more pro right-wing and conservative viewpoints (e.g. cutting taxes, open-carry gun laws etc.)
+				Balance $stats 0, 0, 1
+			THP the celebration of collective protest groups (e.g. the Civil Rights Movement, Suffragetes) rather than celebrating individual role models (MLK, Malala Yousafzai)
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
 	Diliman Debate Open 2022
 		R1
 			THBT the feminist movement should express support for female politicians from political dynasties
@@ -60,3 +145,93 @@ Diliman
 				CG $stats 1, 0
 				CO $stats 0, 1
 				For the purposes of the debate, AI content generation includes AI such as Dall-E, which creates art from text prompts, and ChatGPT, a chatbot AI taught through language models.
+	Diliman Debate Open 2021
+		R1
+			That we prefer a world where everybody's physical appearance and features are perfectly identical
+				Balance $stats 2, 2, 22
+				Veto $stats 7, 10, 44
+			That we regret the narrative that one should prioritize long-term savings at the cost of sacrificing immediate happiness
+				Balance $stats 3, 10, 22
+				Veto $stats 9, 4, 44
+			That, as a working class parent from a rural community, we would raise our child to expect to leave their local community in adulthood
+				Balance $stats 2, 3, 22
+				Veto $stats 6, 8, 44
+		R2
+			Assuming feasibility, that former convicts should be granted an option to be forgotten entirely by society after their release from prison
+				Balance $stats 4, 5, 22
+				Veto $stats 8, 8, 44
+			That the criminal justice system should not consider retribution as a factor in sentencing
+				Balance $stats 4, 4, 22
+				Veto $stats 8, 5, 44
+			That the use of private criminal defense lawyers should be banned
+				Balance $stats 1, 4, 22
+				Veto $stats 6, 9, 44
+		R3
+			That, as an upcoming application developer, we would prioritise user satisfaction over user engagement metrics
+				Balance $stats 5, 3, 22
+				Veto $stats 8, 2, 44
+			That we oppose YouTube's decision to hide the total number of dislikes of videos on its platform
+				Balance $stats 7, 5, 22
+				Veto $stats 0, 6, 44
+			That we prefer a nationalized metaverse as opposed to a privatized metaverse
+				Balance $stats 0, 2, 22
+				Veto $stats 14, 14, 44
+		R4
+			That female political candidates in liberal democracies should not appeal to traditional female roles in their campaigns
+				Balance $stats 8, 4, 20
+				Veto $stats 5, 5, 40
+			That, as an American leftist, we would avoid publicly criticizing the Biden administration in the lead up to the 2022 House and Senate elections
+				Balance $stats 2, 0, 20
+				Veto $stats 8, 10, 40
+			That all acts of election campaign should be prohibited with the exception of public debates
+				Balance $stats 3, 3, 20
+				Veto $stats 7, 5, 40
+		QF, ESL SF
+			That we regret social movements reclaiming derogatory slurs targeted at minorities and / or members of the movement
+				QF Balance $stats 1, 1, 4
+				QF Veto $stats 2, 1, 8
+				ESL SF Balance $stats 0, 2, 2
+				ESL SF Veto $stats 0, 0, 4
+			That we regret the emphasis on 'coming out' as an important factor of one's identity as a queer individual
+				QF Balance $stats 0, 0, 4
+				QF Veto $stats 0, 1, 8
+				ESL SF Balance $stats 0, 2, 2
+			That we should reject notions of gender identity
+				QF Balance $stats 0, 2, 4
+				QF Veto $stats 2, 2, 8
+				ESL SF Balance $stats 0, 0, 2
+		SF
+			That Latin American states should no longer cooperate with the USA's war on drugs
+				Balance $stats 0, 1, 2
+				Veto $stats 1, 0, 4
+			Assuming legality, that colleges should permit consumption of non-addictive psychoactive drugs
+				Balance $stats 0, 0, 2
+				Veto $stats 0, 2, 4
+				A psychoactive drug is a drug or substance that affects how the brain works and causes changes in mood, awareness, thoughts, feelings, or behavior. Examples of psychoactive substances include alcohol, caffeine, nicotine, marijuana, LSD, and certain pain medicines.
+			That we should allow for treatments with experimental, unapproved drugs if the patient consents to the treatment
+				Balance $stats 1, 0, 2
+				Veto $stats 1, 0, 4
+		Rookie GF
+			That we regret the provision of diplomatic immunity
+				Balance $stats 0, 0, 1
+				Diplomatic immunity is a form of legal immunity that ensures diplomats are not susceptible to lawsuit or prosecution under the host country’s laws.
+			That, as the South Korean government, we should exempt conscription for prestigious local celebrities
+				Balance $stats 0, 0, 1
+				In South Korea, all men starting the age of 19 should join the military before they reach the age of 30. South Korea only exempts people with special needs and athletes who won medals in the Olympics and the World Cup.
+			That we support the use of forced pension schemes
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
+				Forced pension schemes require citizens to set aside portions of their income whenever they receive their salary. Citizens cannot withdraw or reallocate money from this fund until they reach retirement age.
+		ESL GF, GF
+			That, as a religious leader in a minority religion, we would heavily advocate for interfaith exchanges and unity
+				ESL GF Balance $stats 0, 0, 1
+				GF Balance $stats 0, 0, 1
+			That we prefer religious organizations teaching a uniformed interpretation of their scripture
+				ESL GF Balance $stats 0, 0, 1
+				GF Balance $stats 0, 0, 1
+			That we prefer a world where religious people do not believe in the afterlife
+				ESL GF Balance $stats 0, 1, 1
+				ESL GF Veto $stats 0, 0, 2
+				GF Balance $stats 0, 1, 1
+				GF Veto $stats 0, 0, 2
+				For the purposes of this debate, the afterlife refers to any paradise or eternal punishment that you become a part of after you pass away.

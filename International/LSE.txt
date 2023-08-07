@@ -1,0 +1,149 @@
+London School of Economics and Political Science (LSE)
+	LSE Open 2023
+		R1
+			THO the FIFA "non-interference" rule
+				OG $stats 2, 4, 6, 3
+				OO $stats 3, 4, 5, 3
+				CG $stats 6, 3, 1, 5
+				CO $stats 4, 4, 3, 4
+				In football, "third-party interference" rule, also known as the "non-interference" rule, prohibits interventions or interferences by governments and other external bodies in the working of football associations that can compromise their independence
+		R2
+			In countries with constitutional courts, THW replace the bill of rights with a free-standing right to justice
+				OG $stats 4, 0, 6, 5
+				OO $stats 6, 6, 2, 1
+				CG $stats 1, 2, 4, 8
+				CO $stats 4, 7, 3, 1
+				In constitutional law, the bill of rights lists the rights that are guaranteed to all citizens. In most countries if citizens feel that their rights have been contravened by an act of the government they can bring a case before the constitutional court, arguing that a specific, listed right has been disregarded. Alternatively, the bill of rights could be replaced by a single, undefined ""right to justice"". Under this new system, if citizens felt that any right had been contravened by an act of the government, they could bring a case before the court arguing that their right to justice had been disregarded. They would have to show that the specific issue they are bringing to the court falls within the scope of the right to justice, which would be decided by the constitutional court based on argument and legal precedent.
+		R3
+			THS the continued increase of windfall taxes on energy companies who made high profits within the period of high energy prices
+				OG $stats 6, 3, 5, 1
+				OO $stats 1, 6, 3, 5
+				CG $stats 5, 4, 2, 4
+				CO $stats 3, 2, 5, 5
+		R4
+			THP a world where Jeremy Corbyn's Labour Party won the 2019 British General Election
+				OG $stats 4, 3, 2, 6
+				OO $stats 1, 5, 7, 2
+				CG $stats 4, 5, 3, 3
+				CO $stats 6, 2, 3, 4
+		R5
+			Assuming feasibility, THW give all animals human levels of cognition and powers of speech
+				OG $stats 2, 1, 7, 5
+				OO $stats 4, 5, 2, 4
+				CG $stats 2, 7, 1, 5
+				CO $stats 7, 2, 5, 1
+		PSF
+			TH, as Job, Would keep the Faith
+				OG $stats 2, 0
+				OO $stats 0, 2
+				CG $stats 0, 2
+				CO $stats 2, 0
+				Job is a pious man who has no proof of God's existence or goodness, but believes all the same. To test him, God allows all of his children to die, all of his wealth to be lost, and his physical health to diminish. God does not offer a justification for this test, and Job is given no indication of what will happen if he continues to believe or renounces his faith in God.
+		SF
+			TH, as France, Would withdraw from its former colonies in Africa
+				OG $stats 0, 2
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 2, 0
+		Pro-Am GF
+			THP a world where all children are randomly reassigned to a new parent at birth
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+		GF
+			TH, as Hamlet, Would kill Claudius
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+				Hamlet is the son of a medieval King of Denmark. After the sudden death of his father, his mother marries his uncle Claudius, who becomes king. One night, Hamlet has a vision in which the ghost of his father appears to him and tells him that he was murdered by Claudius in a plot to take the throne. The ghost tells Hamlet to kill Claudius to avenge his death.
+	LSE IV 2022
+		R1
+			TH, as China, would comply with sanctions against the Russian Federation in response to their invasion of Ukraine
+		R2
+			THS the rise of carceral feminism in developing countries
+				Carceral feminism is a type of feminism that advocates for enhancing and increasing prison sentences for crimes that deal with feminist and gender issues. As an example, carceral feminists would advocate longer prison sentences for instances of gendered or sexual violence.
+		R3
+			THS Biden's escalating restrictions on high-tech US trade with China E.g.: preventing US persons from working for Chinese computer chip manufacturers, and banning the export of advanced US computer chips to China which can be used for AI
+				There are four grades of pine lumber that fall under the common class. They are the premium, finish, standard and industrial classes. The finish grade is defined as a board with a fine appearance and tight knots. Premium grade is similar to the finish grade but encompasses boards with larger knots. Standard grade is used mainly for construction where a less finished board is acceptable. Industrial grade is the lowest grade. It allows boards with knots and other characteristics of any size as long as the board remains structurally sound. These grades of lumber allow for larger and more frequent knots than the select grades and a generally rougher grain of wood.
+		R4
+			As a middle-class British South Asian, assuming Rishi Sunak is still the leader of the Conservative Party, THW vote for Rishi Sunak in the next general election
+		R5
+			THP a world in which artificial intelligence is never capable of creating realistic images
+				In August 2022, Stable Diffusion was made freely accessible. This is an AI (artificial intelligence) model which allows anyone to easily generate an image from a text prompt. It can create art in the style of any artist, or realistic photos of anything you imagine. This can also be used to easily edit images.
+		SF
+			In areas with high rates of drug crime, THBT the state should nationalise the supply and distribution of drugs
+		GF
+			THBT Bobby should undergo the procedure
+				There is a boy named Bobby. Bobby has faced massive difficulties with openings, learning even basic concepts such as reading and writing his whole life. He lacks basic comprehension of things that would be fundamental to most people, including the capacity to decipher the intentions of those around him or recalling things that have happened in his past. Bobby holds a menial job in a bakery, where he fulfils his responsibilities to a sufficient level that enables him to live a subsistence lifestyle, including paying for rent and feeding himself. Despite all of this, Bobby has always held onto the hope that one day he might be able to read, write and relate to people on the same intellectual level he is aware they possess.
+				There exists a procedure, the ADS Operation, that would drastically increase the intelligence of a person at a rapid pace, with the potential of making them a once-in-a-lifetime genius. However, the procedure can only be administered on an individual once. Scientists are aware that the effects of the procedure are temporary. While patients who undergo the procedure will suddenly find themselves in possession of lightning quick comprehension, recall and creative skills, after a certain period of time (predicted to be between three to five years), these effects will regress and the individual will find themselves at the same intellectual capacity that they were before the procedure.
+		Pro-Am GF
+			THW tax individuals based on their relative privilege from birth, as opposed to income
+	LSE Open 2022
+		R1
+			THO left wing media (e.g. The Daily Show, Last Week Tonight) using mockery to cover the right
+				OG $stats 3, 6, 9, 2
+				OO $stats 6, 6, 5, 3
+				CG $stats 5, 5, 4, 6
+				CO $stats 6, 3, 2, 9
+		R2
+			THBT declining cities should be allowed to impose an "exit tax" on leaving businesses
+				OG $stats 5, 6, 5, 4
+				OO $stats 7, 8, 5, 0
+				CG $stats 3, 3, 6, 8
+				CO $stats 5, 3, 4, 8
+		R3
+			THBT Bruce should become a masked vigilante
+				OG $stats 6, 6, 2, 6
+				OO $stats 8, 8, 2, 2
+				CG $stats 4, 2, 10, 4
+				CO $stats 2, 4, 6, 8
+				Bruce is a billionaire, and an expert in advanced martial arts, living in a city ridden with crime. He believes he can use his wealth and abilities to fight crime as a masked vigilante. Bruce is proficient in the use of cutting edge technology that only he has access to, which can be used to help him fight crime. Institutions in the city, including the police, are generally corrupt.
+		R4
+			THBT the West should introduce a complete ban on the purchase of Russian oil and natural gas
+				OG $stats 4, 3, 11, 2
+				OO $stats 8, 7, 2, 3
+				CG $stats 7, 1, 4, 8
+				CO $stats 1, 9, 3, 7
+		R5
+			THW ban the advertising of consumer goods and services
+				OG $stats 6, 5, 6, 3
+				OO $stats 7, 7, 3, 3
+				CG $stats 4, 4, 4, 8
+				CO $stats 3, 4, 7, 6
+		QF, ESL SF
+			THO organised religion
+				QF OG $stats 1, 3
+				QF OO $stats 3, 1
+				QF CG $stats 2, 2
+				QF CO $stats 2, 2
+				ESL SF OG $stats 1, 1
+				ESL SF OO $stats 2, 0
+				ESL SF CG $stats 1, 1
+				ESL SF CO $stats 0, 2
+		SF
+			THW rather be a part of the "27 Club" than live an average anonymous life
+				OG $stats 0, 2
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 1, 1
+				The 27 Club represents musicians, artists, and actors who died when they were 27 years old, most often as a consequence of alcohol and drug abuse. Some of the most prominent examples include Kurt Cobain, Amy Winehouse and Jimmy Hendrix.
+		GF
+			THBT the International Criminal Court should prosecute US presidents for war crimes (including but not limited to: Bill Clinton, George W Bush, Barack Obama)
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+		ESL GF
+			THO the human desire to leave behind a legacy
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+		Rookie GF
+			THBT the rise of online video streaming websites (e.g. Netflix, HBO Max, Disney + etc.) has done more harm than good
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1

@@ -1,0 +1,65 @@
+Drexel Open
+	Drexel Open 2023
+		R1
+			THS white collar businesses making work "fun" for their employees (e.g. adding ping pong tables, organising paid team lunches and happy hours)
+				OG $stats 4, 3, 1, 3
+				OO $stats 3, 3, 3, 2
+				CG $stats 2, 4, 2, 3
+				CO $stats 2, 1, 5, 3
+		R2
+			THBT schools should teach history as a product of social and institutional factors, rather than the product of grand figures
+				OG $stats 2, 2, 4, 3
+				OO $stats 2, 4, 1, 4
+				CG $stats 4, 2, 3, 2
+				CO $stats 3, 3, 3, 2
+		R3
+			THW allow negative voting
+				OG $stats 3, 5, 1, 2
+				OO $stats 3, 0, 5, 3
+				CG $stats 3, 3, 2, 3
+				CO $stats 2, 3, 3, 3
+				A "Negative Vote" deducts one vote from the party you select. This would count as normal vote and would replace voting for any other party in the same election.
+		R4
+			TH, as the Brazilian Worker's Party (PT), W advocate for the prosecution of Jair Bolsonaro for the January 8 riots
+				OG $stats 1, 3, 2, 5
+				OO $stats 4, 3, 3, 1
+				CG $stats 4, 1, 3, 3
+				CO $stats 2, 4, 3, 2
+				On January 8th 2023, following the defeat of then-president Jair Bolsonaro in the 2022 Brazilian general election and the inauguration of his successor, Lula da Silva (leader of the Brazilian Worker’s Party), thousands of Bolsonaro's supporters invaded and vandalized Brazil's federal government buildings (the headquarters of the Brazilian government’s executive branch, Congress and the Supreme Court) in Brasília.
+		R5
+			THS the implementation of balanced budget amendments
+				OG $stats 4, 1, 5, 0
+				OO $stats 2, 4, 0, 4
+				CG $stats 2, 3, 1, 4
+				CO $stats 2, 2, 4, 2
+				A balanced budget amendment is a constitutional rule that aims to prevent a state from spending more than its income. Therefore, it requires states implement policies with the goal of maintaining a balance between the government's projected revenues and expenses. Balanced budget amendments include exceptions for extreme cases such as wars, recessions, or national emergencies, which must be approved by a majority in parliament.
+		PQF, Rookie GF
+			THR the criminal justice reform movement's focus on non-violent drug offenders in the United States
+				PQF OG $stats 0, 2
+				PQF OO $stats 2, 0
+				PQF CG $stats 0, 2
+				PQF CO $stats 2, 0
+				Rookie GF OG $stats 0, 1
+				Rookie GF OO $stats 0, 1
+				Rookie GF CG $stats 1, 0
+				Rookie GF CO $stats 0, 1
+				In the United States, the movement for criminal justice reform has historically placed a large amount of emphasis on non-violent drug offenders, focusing efforts on reducing sentences and implementing reforms for that group. Those incarcerated for non-violent drug offenses represent around 20% of those currently incarcerated. In 1998, this number was 24%.
+		SF, ESL GF
+			THBT major AI research and development projects should be mandated as open source
+				SF OG $stats 1, 1
+				SF OO $stats 2, 0
+				SF CG $stats 1, 1
+				SF CO $stats 0, 2
+				ESL GF OG $stats 1, 0
+				ESL GF OO $stats 0, 1
+				ESL GF CG $stats 0, 1
+				ESL GF CO $stats 0, 1
+		GF
+			In post-conflict states, THP the implementation of Positive Memory Laws over Negative Memory Laws
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+				Positive and negative memory laws are legal measures adopted by some countries to regulate the public discourse and historical narrative related to specific events or periods of their history. These laws aim to influence how historical events are remembered and discussed, and they can have significant implications for freedom of speech, historical research, and public memory.
+				Positive Memory Laws: Laws that promote or mandate a particular version of historical events, often focusing on the positive aspects of a nation's history or emphasizing national pride. These laws may aim to protect the country's image, foster patriotism, or prevent the dissemination of information that could be considered harmful to the country's reputation.
+				Negative Memory Laws: Laws that prohibit or penalize the discussion, acknowledgment, or recognition of certain historical events that may be considered controversial or politically sensitive. These laws are typically enacted to suppress discussions related to events that the government wishes to downplay or keep hidden from public scrutiny.

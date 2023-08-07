@@ -114,3 +114,68 @@ Sunway
 				"Originalism" refers to the the theory of interpreting the Constitution as closely as possible to the original intention and meaning that it had during the time of its writing. "Interventionism", on the other hand, refers to the theory of interpreting the Constitution in a way that actively circumvents this original intention in favor of suiting modern-day political issues.
 			Assuming feasibility, THW replace all human roles in the criminal justice system (e.g. judges, juries etc.) with artificial intelligence
 				Balance $stats 0, 0, 1
+	Sunway Debate Open 2022
+		R1
+			THW mandate that buy outs of major social media platforms be subject to a vote of approval by their users
+				OG $stats 3, 2, 10, 3
+				OO $stats 4, 9, 4, 1
+				CG $stats 7, 1, 1, 9
+				CO $stats 4, 6, 3, 5
+		R2
+			TH, as a progressive young Malaysian politician, would join MUDA rather than PH
+				OG $stats 5, 3, 7, 3
+				OO $stats 3, 7, 5, 3
+				CG $stats 4, 4, 4, 6
+				CO $stats 6, 4, 2, 6
+				Malaysia's most recent general election (GE15) resulted in a hung government as no single party or coalition won a sufficient majority. The current government is a unity government led by the centre-left Pakatan Harapan (PH), with the support of six other minority parties. MUDA is a youth-led, progressive political party which only won one seat in GE15 and has pledged support to PH's unity government.
+		R3
+			THP a world where the dominant religion believes in one benevolent god who is the Universe's sole creator and surveyor (eg. Islam, Christianity), as opposed to a world where the dominant religion believes in many morally ambiguous spiritual entities (eg. Ancient Greek religion, European folklore, animistic beliefs)
+				OG $stats 3, 2, 9, 4
+				OO $stats 7, 3, 6, 2
+				CG $stats 3, 6, 0, 9
+				CO $stats 5, 7, 3, 3
+		R4
+			THS the increasing decentralisation of healthcare
+				OG $stats 3, 5, 5, 5
+				OO $stats 4, 8, 5, 1
+				CG $stats 3, 4, 5, 6
+				CO $stats 8, 1, 3, 6
+				For the purposes of the debate, the decentralisation of healthcare refers to initiatives taken to broaden the capacity of individuals to take charge of their own healthcare (e.g., the increased prevalence of self-diagnosis, wider availability of over-the-counter medicine, the popularity of health journalism).
+		R5
+			In cities with scarce housing availability, THP programmes which provide the means for those in need to relocate to different cities with lower costs of living instead of programmes to build or subsidise affordable housing in the same city
+				OG $stats 6, 4, 6, 2
+				OO $stats 2, 8, 4, 4
+				CG $stats 7, 5, 1, 5
+				CO $stats 3, 1, 7, 7
+		QF
+			TH, as an artist living in a post-conflict state, would create art exclusively with messages of unity and inspiration, rather than exclusively create art depicting previous or ongoing suffering
+				OG $stats 2, 2
+				OO $stats 1, 3
+				CG $stats 3, 1
+				CO $stats 2, 2
+		SF
+			THBT developing countries should never commit to having their sovereign debt disputes settled by courts in foreign countries
+				OG $stats 1, 1
+				OO $stats 2, 0
+				CG $stats 0, 2
+				CO $stats 1, 1
+				Sovereign debt disputes are disputes between creditors (e.g. institutional investors, hedge funds etc.) and the governments they lend money to. They typically arise over interpretation of repayment terms and in instances of debt restructuring.
+		GF
+			TH, as the Communist Party of China, hopes that Russia loses the Russia-Ukraine war
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+		Rookie SF
+			THR the idolisation of people considered to be "geniuses"
+				OG $stats 2, 0
+				OO $stats 0, 2
+				CG $stats 1, 1
+				CO $stats 1, 1
+		Rookie GF
+			TH, as Doctor Maito, would not tell anyone about the scar
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				Dr. Maito is conducting a standard operation on a patient to retrieve a sample of kidney tissue for biopsy. During the operation, he discovers the initials 'AS' laser-scarred onto the kidney. Referring to the patient's medical records, he discovers the patient had previously undergone a kidney transplant surgery under their close friend and colleague Dr. Aireen Shli, who had used a laser to permanently scar their initials on the patient's kidney out of pride for their exceptional surgical work. The scar cannot be removed, does not affect the patient's health in any way, and will definitely not be discovered by anyone else after Dr. Maito's operation.
