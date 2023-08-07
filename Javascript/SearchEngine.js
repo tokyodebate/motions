@@ -160,7 +160,7 @@ function searchTournament(name, format, eligibility, region, year) {
 			$(`<div class="py-4 list-group-item"></div>`)
 				.appendTo("section#display-search")
 				.append(
-					`<div class="mb-2"><a class="link-danger link-underline-opacity-0 h1" href="#tournament=${
+					`<div class="mb-2"><a class="link-danger link-underline-opacity-0 h2" href="#tournament=${
 						found.id
 					}">${found.name}${
 						found.short == "" ? "" : " (" + found.short + ")"
