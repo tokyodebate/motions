@@ -1,0 +1,153 @@
+Vienna
+	Vienna IV 2023
+		R1
+			THO the perception that psychoanalysis is a science
+				OG $stats 2, 4, 6, 10
+				OO $stats 5, 9, 8, 0
+				CG $stats 6, 6, 4, 6
+				CO $stats 9, 3, 4, 6
+				Psychoanalysis is a form of talk therapy that seeks to explore a person's unconscious thoughts, feelings, and motivations, with the goal of understanding how these factors contribute to their current behavior and mental health. Psychoanalysis focuses on unconscious mind and early childhood experiences. Currently, Psychoanalysis is recognised in many countries around the world as a science (e.g. France, Austria, USA).
+		R2
+			THBT media should be allowed unrestricted access to war zones
+				OG $stats 8, 3, 6, 5
+				OO $stats 2, 7, 6, 7
+				CG $stats 5, 4, 6, 7
+				CO $stats 7, 8, 4, 3
+		R3
+			THBT it is in the interest of Vienna to be the "Capital of Spies"
+				OG $stats 5, 7, 7, 3
+				OO $stats 6, 2, 7, 7
+				CG $stats 2, 9, 5, 6
+				CO $stats 9, 4, 3, 6
+				Vienna is often dubbed the "Capital of Spies".
+				Historically, Vienna has been a hub for espionage activities, particularly during the Cold War, due to its strategic location and political neutrality. A 1956 ruling by the Austrian Supreme Court only criminalizes espionage directed against Austria, effectively legalizing spying on foreign entities within the country, which adds to the city's attractiveness for intelligence agencies.
+				Today, Vienna as it is home to over 7,000 agents and spies, making it the city with the highest concentration of espionage activity in the world. The city hosts numerous international and diplomatic organizations, including the United Nations Headquarters (UN), the International Atomic Energy Agency (IAEA), and the Organization for Security and Cooperation in Europe (OSCE).
+		R4
+			THS laws setting maximum markup for a product to be 30%
+				OG $stats 6, 4, 10, 2
+				OO $stats 8, 4, 5, 5
+				CG $stats 6, 5, 3, 8
+				CO $stats 2, 9, 4, 7
+				For the purposes of this debate, a markup is the difference between the selling price of a product and its production cost.
+		R5
+			THW impose volunteer duty
+				OG $stats 8, 5, 5, 3
+				OO $stats 5, 6, 7, 3
+				CG $stats 6, 4, 5, 6
+				CO $stats 2, 6, 4, 9
+				Volunteer duty is a policy in which every adult citizen is mandated to serve in public service for limited amount of time. They are compensated for this time.
+		QF, ESL SF
+			THBT it is in the interest of the EU to reinstate all EU import taxes on Ukrainian farm exports
+				QF OG $stats 3, 1
+				QF OO $stats 1, 3
+				QF CG $stats 2, 2
+				QF CO $stats 2, 2
+				ESL SF OG $stats 2, 0
+				ESL SF OO $stats 0, 2
+				ESL SF CG $stats 1, 1
+				ESL SF CO $stats 1, 1
+				In 2022 the EU removed all import taxes on goods exported from Ukraine in response to the Russian invasion in all EU member states. Following recent protests from local farmers, 4 EU member states (Poland, Hungary, Slovakia, Bulgaria) temporarily banned importing Ukrainian farm produce.
+		Rookie GF
+			THP a world where Match.AI is widely used
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				Match.AI is a new AI technology that accurately analyzes the chances of success for a relationship between any two people and gives an output in the form of a percentage. For example - a relationship between Marina and Tamar has an 89% chance of success.
+		SF, ESL GF
+			Given the existence of an Artificial General Intelligence, THP that it would be based on virtue ethics and not utilitarian framework
+				SF OG $stats 1, 1
+				SF OO $stats 1, 1
+				SF CG $stats 1, 1
+				SF CO $stats 1, 1
+				ESL GF OG $stats 0, 1
+				ESL GF OO $stats 1, 0
+				ESL GF CG $stats 0, 1
+				ESL GF CO $stats 0, 1
+				Virtue ethics is a way of thinking about right and wrong that focuses on good character. It emphasizes acting in ways that reflects positive traits like honesty, courage, and kindness.
+				Utilitarian frameworks think about right and wrong by maximizing outcomes, usually defined as the greatest overall well-being of utility for affected parties. 
+				An AGI or artificial general intelligence refers to a type of artificial intelligence that has the ability to understand, learn, and apply knowledge across a ride range of tasks at a level equal to or beyond that of a human without specifically being programmed to.
+		GF
+			THBT that human nature is incompatible with communism
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+	Vienna Pre-WUDC 2022
+		R1
+			THS the normalisation of prenuptial agreements
+				OG $stats 9, 6, 8, 5
+				OO $stats 5, 10, 8, 5
+				CG $stats 7, 3, 7, 11
+				CO $stats 7, 9, 5, 7
+				A prenuptial agreement is a legally enforceable written contract entered into by a couple prior to marriage that enables them to select and control many of the legal rights they acquire upon marrying, and what happens when their marriage eventually ends by death or divorce.
+		R2
+			THBT social movements should adopt the approach of 'joyful militancy'
+				OG $stats 8, 10, 6, 5
+				OO $stats 14, 7, 7, 1
+				CG $stats 4, 6, 5, 14
+				CO $stats 3, 6, 11, 9
+				‘Joyful militancy’ refers to an approach taken by some social movements, which prioritises positive messaging and centres activism around enjoyable activities (e.g. organising dance parades instead of regular protest marches)
+		R3
+			THS political centrism (e.g. favouring moderate policies and bipartisan approaches to political engagement, "reaching across the aisle") as a dominant political ideology
+				OG $stats 15, 8, 5, 1
+				OO $stats 6, 5, 13, 5
+				CG $stats 5, 7, 3, 14
+				CO $stats 3, 9, 8, 9
+		R4
+			THBT for students over the age of 14, art and literature curricula should actively include works with violent or sexual themes, as opposed to minimising their role in the curriculum
+				OG $stats 9, 13, 4, 3
+				OO $stats 5, 5, 8, 11
+				CG $stats 10, 7, 10, 2
+				CO $stats 5, 4, 7, 13
+		R5
+			THP energy policy and resources across EU Member States to be entirely controlled by an EU-run energy agency
+				OG $stats 6, 5, 11, 5
+				OO $stats 5, 8, 10, 4
+				CG $stats 11, 8, 4, 4
+				CO $stats 5, 6, 2, 14
+		POF
+			THBT it is in the interests of highly developed countries to have immigration policy that favours immigrants that are projected to be high-paid instead of low-paid
+				OG $stats 2, 2
+				OO $stats 2, 2
+				CG $stats 4, 0
+				CO $stats 0, 4
+		QF
+			THO the focus on coming out in LGBTQ media and popular culture
+				OG $stats 1, 3
+				OO $stats 1, 3
+				CG $stats 3, 1
+				CO $stats 3, 1
+		SF
+			THBT advocacy for indigenous people should prioritise influencing general government policy over obtaining legal recognition of their status and historical grievances
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 1, 1
+		GF
+			THO established states actively curating and promoting a patriotic sense of national identity
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+		ESL SF
+			THBT Biden should lift all sanctions on Venezuela
+				OG $stats 0, 2
+				OO $stats 2, 0
+				CG $stats 0, 2
+				CO $stats 2, 0
+				Since 2006, the United States has imposed a wide variety of sanctions on Venezuela. Among other aims, these prevent the Venezuelan government from accessing the U.S. financial system, freeze the bank accounts of the Maduro administration and block oil imports from the state oil and gas company. In 2017, Donald Trump tightened the sanctions with the aim of ousting Maduro in favour of an interim opposition government led by Juan Guaidó.
+				Recently, Joe Biden took limited steps towards lifting sanctions on Venezuela, including allowing very limited natural resource extraction operations in Venezuela by the U.S. firm Chevron. The vast majority of US sanctions remain in place.
+		ESL GF
+			THP a world where everyone is equipped with a rePlayer
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				rePlayer is a technology which records whatever each individual sees for every moment of their lives. If they wish to, every person can download and replay any of their memories on a screen. You can't show these memory recording to anyone else, only play it for yourself.
+		Rookie GF
+			THP university admission standards to be based solely on a single 'high-stake' standardised exam, as opposed to solely on the average of the pupil's performance over the course of their studies
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1

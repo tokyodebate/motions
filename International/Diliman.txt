@@ -1,0 +1,62 @@
+Diliman
+	Diliman Debate Open 2022
+		R1
+			THBT the feminist movement should express support for female politicians from political dynasties
+				OG $stats 7, 10, 3, 6
+				OO $stats 2, 10, 7, 7
+				CG $stats 6, 5, 9, 6
+				CO $stats 11, 1, 7, 7
+		R2
+			TH, as an illegal immigrant living in a country that discriminates against them, would choose a life of crime rather than legitimate employment
+				OG $stats 6, 8, 9, 4
+				OO $stats 4, 8, 5, 10
+				CG $stats 10, 6, 4, 7
+				CO $stats 7, 5, 9, 6
+		R3
+			THBT Joe Biden's "Buy American" strategy is in the interest of the United States
+				OG $stats 5, 7, 4, 10
+				OO $stats 8, 8, 5, 5
+				CG $stats 7, 3, 9, 7
+				CO $stats 6, 8, 8, 4
+				The "Buy American" strategy adopted by the Joe Biden administration is aimed at boosting US domestic production and innovation, and increasing trade regulations and enforcement. Some examples include requiring goods purchased with taxpayer money to be predominantly manufactured in the US, offering billions in tax and export credits to companies producing domestically, permitting the government to acquire domestically produced goods at higher prices than equivalent foreign produced goods, etc.
+		R4
+			THBT LGBTQ+ movements in progressive nations should focus their campaigning on family friendly content as opposed to sexual liberation
+				OG $stats 6, 7, 6, 6
+				OO $stats 10, 5, 4, 6
+				CG $stats 5, 4, 9, 7
+				CO $stats 4, 9, 6, 6
+		QF
+			THW ban payment-for-order-flow brokers
+				OG $stats 2, 2
+				OO $stats 1, 3
+				CG $stats 3, 1
+				CO $stats 2, 2
+				Payment-for-order-flow brokers' are low fee brokers that make money from taking a commission from the number of trades you make rather than charging you direct fees. Notable examples include Robinhood in the US and TradeRepublic in Germany.
+		Rookie SF
+			THS the widespread use of the Pill of Eternal Moonshine
+				OG $stats 0, 2
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 1, 1
+				The Pill of Eternal Moonshine is a medicine, that instantly removes all feelings you have for another person, both good and bad.
+		SF
+			THBT local religious organizations should adopt "Liberation Theology" in the developing world
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 1, 1
+				"Liberation Theology" is a religious movement that seeks to apply religious faith by aiding the poor through involvement in political and civic affairs. Akin to socialist ideologies, it stresses both heightened awareness of the unjust socioeconomic structures that cause social inequities and active participation in changing those structures.
+		Rookie GF
+			THW allow parents to conduct "talent tests" on their child
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				There exists a technology, known as the "talent test", that can genetically test children and find their greatest talent
+		GF
+			THO the rise of AI content generation
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+				For the purposes of the debate, AI content generation includes AI such as Dall-E, which creates art from text prompts, and ChatGPT, a chatbot AI taught through language models.

@@ -1,0 +1,842 @@
+[
+	{
+		"id": "AoyamaWomensCup",
+		"name": "Aoyama Women's Cup",
+		"short": "",
+		"latest": 2021,
+		"tag": ["BP", "open", "region:Domestic"],
+		"url": "AoyamaWomensCup.txt"
+	},
+	{
+		"id": "AsianBridge",
+		"name": "Asian Bridge",
+		"short": "",
+		"latest": 2023,
+		"tag": ["Asian", "rookie", "region:Domestic"],
+		"url": "AsianBridge.txt"
+	},
+	{
+		"id": "AsianNovice2Days",
+		"name": "Asian Novice 2 Days",
+		"short": "",
+		"latest": 2005,
+		"tag": ["Asian", "rookie", "region:Domestic"],
+		"url": "AsianNovice2Days.txt"
+	},
+	{
+		"id": "BPNovice",
+		"name": "BP Novice",
+		"short": "",
+		"latest": 2022,
+		"tag": ["BP", "rookie", "region:Domestic"],
+		"url": "BPNovice.txt"
+	},
+	{
+		"id": "DebateNoSusume",
+		"name": "Keio Debate Open (KDO) / Kanto Debate Open / Debate no Susume",
+		"short": "",
+		"latest": 2023,
+		"tag": ["Asian", "open", "region:Domestic"],
+		"url": "DebateNoSusume.txt"
+	},
+	{
+		"id": "ElizabethCup",
+		"name": "Elizabeth Cup",
+		"short": "",
+		"latest": 2023,
+		"tag": ["NA", "proam", "region:Domestic"],
+		"url": "ElizabethCup.txt"
+	},
+	{
+		"id": "ESUJ",
+		"name": "English-Speaking Union of Japan University Debating Competition",
+		"short": "ESUJ",
+		"latest": 2017,
+		"tag": ["NA", "region:Domestic"],
+		"url": "ESUJ.txt"
+	},
+	{
+		"id": "ESUJBiz",
+		"name": "English-Speaking Union of Japan University Debating Competition Biz",
+		"short": "ESUJ Biz",
+		"latest": 2015,
+		"tag": ["NA", "region:Domestic"],
+		"url": "ESUJBiz.txt"
+	},
+	{
+		"id": "EvergreenCup",
+		"name": "Evergreen Cup",
+		"short": "",
+		"latest": 2021,
+		"tag": ["BP", "proam", "region:Domestic"],
+		"url": "EvergreenCup.txt"
+	},
+	{
+		"id": "FeminismOpen",
+		"name": "Feminism Open",
+		"short": "",
+		"latest": 2020,
+		"tag": ["BP", "open", "region:Domestic"],
+		"url": "FeministOpen.txt"
+	},
+	{
+		"id": "GeminiCup",
+		"name": "Gemini Cup",
+		"short": "",
+		"latest": 2022,
+		"tag": ["Asian", "rookie", "region:Domestic"],
+		"url": "GeminiCup.txt"
+	},
+	{
+		"id": "HakataRamenCup",
+		"name": "Hakata Ramen Cup",
+		"short": "",
+		"latest": 2010,
+		"tag": ["NA", "open", "region:Domestic"],
+		"url": "HakataRamenCup.txt"
+	},
+	{
+		"id": "HamaguchiCup",
+		"name": "Hamaguchi Cup",
+		"short": "",
+		"latest": 2010,
+		"tag": ["NA", "open", "region:Domestic"],
+		"url": "HamaguchiCup.txt"
+	},
+	{
+		"id": "IchoCup",
+		"name": "Icho Cup",
+		"short": "",
+		"latest": 2022,
+		"tag": ["NA", "rookie", "region:Domestic"],
+		"url": "IchoCup.txt"
+	},
+	{
+		"id": "ICUTournament",
+		"name": "ICU Tournament",
+		"short": "ICUT",
+		"latest": 2021,
+		"tag": ["Asian", "open", "region:Domestic", "international"],
+		"url": "ICUTournament.txt"
+	},
+	{
+		"id": "JapanBP",
+		"name": "Japan BP",
+		"short": "JBP",
+		"latest": 2022,
+		"tag": ["BP", "open", "region:Domestic"],
+		"url": "JapanBP.txt"
+	},
+	{
+		"id": "JPDUAutumn",
+		"name": "JPDU Autumn Tournament",
+		"short": "",
+		"latest": 2022,
+		"tag": ["BP", "open", "region:Domestic"],
+		"url": "JPDUAutumn.txt"
+	},
+	{
+		"id": "JPDUSpring",
+		"name": "JPDU Spring Tournament",
+		"short": "",
+		"latest": 2023,
+		"tag": ["Asian", "open", "region:Domestic"],
+		"url": "JPDUSpring.txt"
+	},
+	{
+		"id": "JPDUTournament",
+		"name": "JPDU Tournament (NA)",
+		"short": "JPDUT",
+		"latest": 2005,
+		"tag": ["NA", "open", "region:Domestic"],
+		"url": "JPDUTournament.txt"
+	},
+	{
+		"id": "JUDCOnline",
+		"name": "Japan Universities Debating Championships Online",
+		"short": "JUDC Online",
+		"latest": 2020,
+		"tag": ["Asian", "open", "region:Domestic"],
+		"url": "JUDCOnline.txt"
+	},
+	{
+		"id": "TheKansai",
+		"name": "The Kansai",
+		"short": "",
+		"latest": 2023,
+		"tag": ["Asian", "open", "region:Domestic"],
+		"url": "Kansai.txt"
+	},
+	{
+		"id": "KCup",
+		"name": "K-Cup",
+		"short": "",
+		"latest": 2022,
+		"tag": ["NA", "BP", "rookie", "open", "region:Domestic"],
+		"url": "KCup.txt"
+	},
+	{
+		"id": "KKCup",
+		"name": "KK-Cup",
+		"short": "",
+		"latest": 2023,
+		"tag": [],
+		"url": "KKCup.txt"
+	},
+	{
+		"id": "MomijiCup",
+		"name": "Momiji Cup",
+		"short": "",
+		"latest": 2022,
+		"tag": ["BP", "rookie", "region:Domestic"],
+		"url": "MomijiCup.txt"
+	},
+	{
+		"id": "NagoyaDebateOpen",
+		"name": "Nagoya Debate Open",
+		"short": "NDO",
+		"latest": 2023,
+		"tag": ["Asian", "open", "region:Domestic"],
+		"url": "NagoyaDebateOpen.txt"
+	},
+	{
+		"id": "NekoChampionship",
+		"name": "Neko Championship",
+		"short": "",
+		"latest": 2022,
+		"tag": ["BP", "open", "region:Domestic"],
+		"url": "NekoChampionship.txt"
+	},
+	{
+		"id": "NemophilaCup",
+		"name": "Nemophila Cup",
+		"short": "",
+		"latest": 2023,
+		"tag": ["NA", "rookie", "open", "region:Domestic"],
+		"url": "NemophilaCup.txt"
+	},
+	{
+		"id": "OsawaCup",
+		"name": "Osawa Cup",
+		"short": "",
+		"latest": 2022,
+		"tag": ["BP", "open", "region:Domestic"],
+		"url": "OsawaCup.txt"
+	},
+	{
+		"id": "PhilosophyOpen",
+		"name": "Philosophy Open",
+		"short": "",
+		"latest": 2019,
+		"tag": ["BP", "open", "region:Domestic"],
+		"url": "PhilosophyOpen.txt"
+	},
+	{
+		"id": "JPDUPreAustrals",
+		"name": "JPDU Pre Australs",
+		"short": "",
+		"latest": 2016,
+		"tag": ["Australasian", "open", "region:Domestic"],
+		"url": "JPDUPreAustrals.txt"
+	},
+	{
+		"id": "QDO",
+		"name": "Kyushu Debate Open",
+		"short": "QDO",
+		"latest": 2019,
+		"tag": ["BP", "open", "region:Domestic", "international"],
+		"url": "QDO.txt"
+	},
+	{
+		"id": "RyosoCup",
+		"name": "Ryoso Cup",
+		"short": "",
+		"latest": 2021,
+		"tag": ["BP", "open", "region:Domestic"],
+		"url": "RyosoCup.txt"
+	},
+	{
+		"id": "SeikeiJoint",
+		"name": "Seikei Joint",
+		"short": "",
+		"latest": 2023,
+		"tag": ["NA", "rookie", "region:Domestic"],
+		"url": "SeikeiJoint.txt"
+	},
+	{
+		"id": "SilverCup",
+		"name": "Silver Cup",
+		"short": "",
+		"latest": 2023,
+		"tag": ["BP", "open", "region:Domestic"],
+		"url": "Silver.txt"
+	},
+	{
+		"id": "SophiaMastersCup",
+		"name": "Sophia Master's Cup",
+		"short": "",
+		"latest": 2016,
+		"tag": ["BP", "open", "region:Domestic"],
+		"url": "SophiaMastersCup.txt"
+	},
+	{
+		"id": "SophomonCup",
+		"name": "Sophomon Cup",
+		"short": "",
+		"latest": 2023,
+		"tag": ["Asian", "rookie", "region:Domestic"],
+		"url": "SophomonCup.txt"
+	},
+	{
+		"id": "SubaruCup",
+		"name": "Subaru Cup",
+		"short": "",
+		"latest": 2018,
+		"tag": ["NA", "rookie", "region:Domestic"],
+		"url": "SubaruCup.txt"
+	},
+	{
+		"id": "SudachiCup",
+		"name": "Sudachi Cup",
+		"short": "",
+		"latest": 2022,
+		"tag": ["NA", "rookie", "region:Domestic"],
+		"url": "SudachiCup.txt"
+	},
+	{
+		"id": "SunSunCup",
+		"name": "Sun Sun Cup",
+		"short": "",
+		"latest": 2021,
+		"tag": ["BP", "proam", "region:Domestic"],
+		"url": "SunSunCup.txt"
+	},
+	{
+		"id": "SupernovaCup",
+		"name": "Supernova Cup",
+		"short": "",
+		"latest": 2009,
+		"tag": ["NA", "rookie", "region:Domestic"],
+		"url": "SupernovaCup.txt"
+	},
+	{
+		"id": "TheBinaryStarCup",
+		"name": "The Binary Star Cup",
+		"short": "",
+		"latest": 2009,
+		"tag": ["MA", "proam", "region:Domestic"],
+		"url": "TheBinaryStarCup.txt"
+	},
+	{
+		"id": "TITechCup",
+		"name": "T.I.Tech Cup",
+		"short": "",
+		"latest": 2019,
+		"tag": ["Asian", "open", "region:Domestic"],
+		"url": "TITechCup.txt"
+	},
+	{
+		"id": "ToeiCup",
+		"name": "Toei Cup",
+		"short": "",
+		"latest": 2020,
+		"tag": ["Asian", "open", "region:Domestic"],
+		"url": "ToeiCup.txt"
+	},
+	{
+		"id": "TokyoMini",
+		"name": "Tokyo Mini",
+		"short": "",
+		"latest": 2022,
+		"tag": ["BP", "open", "rookie", "region:Domestic"],
+		"url": "TokyoMini.txt"
+	},
+	{
+		"id": "TsukushiCup",
+		"name": "Tsukushi Cup",
+		"short": "",
+		"latest": 2016,
+		"tag": ["NA", "rookie", "region:Domestic"],
+		"url": "TsukushiCup.txt"
+	},
+	{
+		"id": "UmekoCup",
+		"name": "Umeko Cup",
+		"short": "",
+		"latest": 2022,
+		"tag": ["NA", "rookie", "region:Domestic"],
+		"url": "UmekoCup.txt"
+	},
+	{
+		"id": "WakabaCup",
+		"name": "Wakaba Cup",
+		"short": "",
+		"latest": 2023,
+		"tag": ["NA", "rookie", "region:Domestic"],
+		"url": "WakabaCup.txt"
+	},
+	{
+		"id": "ADI",
+		"name": "Asian Debate Institute",
+		"short": "ADI",
+		"latest": 2017,
+		"tag": ["BP", "Asian", "open", "international", "region:Asia"],
+		"url": "International/ADI.txt"
+	},
+	{
+		"id": "Easters",
+		"name": "Australian Intervarsity Debating Championships",
+		"short": "Easters",
+		"latest": 2021,
+		"tag": ["Australasian", "open", "international", "region:Oceania"],
+		"url": "International/AIDAEasters.txt"
+	},
+	{
+		"id": "AllAsians",
+		"name": "All-Asian Intervarsity Debating Championships",
+		"short": "All-Asians",
+		"latest": 2008,
+		"tag": ["Asian", "open", "international", "region:Asia"],
+		"url": "International/AllAsianIntervarsityDC.txt"
+	},
+	{
+		"id": "AmsterdamOpen",
+		"name": "Amsterdam Open",
+		"short": "",
+		"latest": 2009,
+		"tag": ["BP", "open", "international", "region:Europe"],
+		"url": "International/AmsterdamOpen.txt"
+	},
+	{
+		"id": "ANUSpring",
+		"name": "ANU Spring BP",
+		"short": "",
+		"latest": 2021,
+		"tag": ["BP", "open", "international", "region:Oceania"],
+		"url": "International/ANUspring.txt"
+	},
+	{
+		"id": "APUPhilosophyChallenge",
+		"name": "APU Philosophy Challenge",
+		"short": "",
+		"latest": 2018,
+		"tag": ["BP", "open", "international", "region:Asia"],
+		"url": "International/APUPhilosophyChallenge.txt"
+	},
+	{
+		"id": "ASDC",
+		"name": "Asian Schools Debate Championship",
+		"short": "ASDC",
+		"latest": 2021,
+		"tag": ["Asian", "schools", "international", "region:Asia"],
+		"url": "International/ASDC.txt"
+	},
+	{
+		"id": "ABP",
+		"name": "Asian British Parliamentary Championship",
+		"short": "ABP",
+		"latest": 2022,
+		"tag": ["BP", "open", "international", "region:Asia"],
+		"url": "International/AsianBP.txt"
+	},
+	{
+		"id": "ATDO",
+		"name": "Assumption Thailand Debate Open",
+		"short": "ATDO",
+		"latest": 2016,
+		"tag": ["Asian", "open", "international", "region:Asia"],
+		"url": "International/AssumptionThailandDO.txt"
+	},
+	{
+		"id": "AUDC",
+		"name": "Asian Universities Debating Championship",
+		"short": "AUDC",
+		"latest": 2021,
+		"tag": ["Asian", "open", "international", "region:Asia"],
+		"url": "International/AUDC.txt"
+	},
+	{
+		"id": "Australs",
+		"name": "Australasian Intervarsity Debating Championships",
+		"short": "Australs",
+		"latest": 2023,
+		"tag": ["Australasian", "open", "international", "region:Oceania"],
+		"url": "International/Australs.txt"
+	},
+	{
+		"id": "BorneoBP",
+		"name": "Borneo British Parliamentary Championship & Borneo Online Debate Championship",
+		"short": "BBPC & BODC",
+		"latest": 2022,
+		"tag": ["BP", "open", "international", "region:Asia"],
+		"url": "International/BorneoBP.txt"
+	},
+	{
+		"id": "CambridgeIV",
+		"name": "Cambridge IV",
+		"short": "",
+		"latest": 2021,
+		"tag": ["BP", "open", "international", "region:Europe"],
+		"url": "International/CambridgeIV.txt"
+	},
+	{
+		"id": "ChinaBP",
+		"name": "China BP",
+		"short": "",
+		"latest": 2019,
+		"tag": ["BP", "open", "international", "region:Asia"],
+		"url": "International/ChinaBP.txt"
+	},
+	{
+		"id": "DSNPD",
+		"name": "DSNLU National Parliamentary Debate",
+		"short": "DSNPD",
+		"latest": 2022,
+		"tag": ["BP", "open", "international", "region:Asia"],
+		"url": "International/DSNPD.txt"
+	},
+	{
+		"id": "DTU",
+		"name": "Delhi Technological University",
+		"short": "DTU",
+		"latest": 2023,
+		"tag": ["Asian", "open", "international", "region:Asia"],
+		"url": "International/DTU.txt"
+	},
+	{
+		"id": "EastAsiaIVIV",
+		"name": "East Asia IV Invitational English Debate Competition",
+		"short": "",
+		"latest": 2013,
+		"tag": ["BP", "open", "international", "region:Asia"],
+		"url": "International/EastAsiaIVIV.txt"
+	},
+	{
+		"id": "ESUKoreaDC",
+		"name": "ESU Korea Debate Championships",
+		"short": "",
+		"latest": 2007,
+		"tag": ["Asian", "open", "international", "region:Asia"],
+		"url": "International/ESUKoreaDC.txt"
+	},
+	{
+		"id": "EUDC",
+		"name": "European Universities Debating Championships",
+		"short": "EUDC",
+		"latest": 2022,
+		"tag": ["BP", "open", "international", "region:Europe"],
+		"url": "International/EUDC.txt"
+	},
+	{
+		"id": "Glasgow",
+		"name": "Glasgow",
+		"short": "",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:Europe"],
+		"url": "International/Glasgow.txt"
+	},
+	{
+		"id": "HKDO",
+		"name": "Hong Kong Debate Open",
+		"short": "HKDO",
+		"latest": 2018,
+		"tag": ["BP", "open", "international", "region:Asia"],
+		"url": "International/HKDO.txt"
+	},
+	{
+		"id": "HUFS",
+		"name": "HUFS IV",
+		"short": "",
+		"latest": 2023,
+		"tag": ["Asian", "open", "international", "region:Asia"],
+		"url": "International/HUFS.txt"
+	},
+	{
+		"id": "HWSRoundRobin",
+		"name": "HWS Round Robin",
+		"short": "",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:World"],
+		"url": "International/HWSRoundRobin.txt"
+	},
+	{
+		"id": "IITBombay",
+		"name": "IIT Bombay",
+		"short": "",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:Asia"],
+		"url": "International/IITBombay.txt"
+	},
+	{
+		"id": "IIUMOpen",
+		"name": "IIUM Open",
+		"short": "",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:Asia"],
+		"url": "International/IIUMOpen.txt"
+	},
+	{
+		"id": "Intertext",
+		"name": "Intertext",
+		"short": "",
+		"latest": 2023,
+		"tag": ["Asian", "open", "international", "region:Asia"],
+		"url": "International/Intertext.txt"
+	},
+	{
+		"id": "KIDAOpen",
+		"name": "KIDA Open",
+		"short": "",
+		"latest": 2021,
+		"tag": ["BP", "open", "international", "region:Asia"],
+		"url": "International/KIDAOpen.txt"
+	},
+	{
+		"id": "KLOC",
+		"name": "Kuala Lumpur Open Challenge",
+		"short": "KLOC",
+		"latest": 2014,
+		"tag": ["BP", "open", "international", "region:Asia"],
+		"url": "International/KLOC.txt"
+	},
+	{
+		"id": "KNC",
+		"name": "Korea Intervarsity Debate Association National Championship",
+		"short": "KNC",
+		"latest": 2020,
+		"tag": ["Asian", "BP", "open", "international", "region:Asia"],
+		"url": "International/KoreaIntervarsityDANC.txt"
+	},
+	{
+		"id": "Linkbate",
+		"name": "Linkbate Debating Championships",
+		"short": "",
+		"latest": 2023,
+		"tag": ["BP", "rookie", "international", "region:Asia"],
+		"url": "International/Linkbate.txt"
+	},
+	{
+		"id": "MacauAPDO",
+		"name": "Macau Asian Parliamentary Debate Open",
+		"short": "Macau APDO",
+		"latest": 2017,
+		"tag": ["Asian", "open", "international", "region:Asia"],
+		"url": "International/MacauAPDO.txt"
+	},
+	{
+		"id": "MalaysiaDO",
+		"name": "Malaysia Debate Open",
+		"short": "MDO",
+		"latest": 2018,
+		"tag": ["Asian", "open", "international", "region:Asia"],
+		"url": "International/MalaysiaDO.txt"
+	},
+	{
+		"id": "UTMARA",
+		"name": "UT MARA",
+		"short": "",
+		"latest": 2023,
+		"tag": ["Asian", "BP", "open", "rookie", "international", "region:Asia"],
+		"url": "International/MARA.txt"
+	},
+	{
+		"id": "MelbourneMini",
+		"name": "Melbourne Mini",
+		"short": "",
+		"latest": 2020,
+		"tag": ["BP", "open", "international", "region:Oceania"],
+		"url": "International/MelbourneMini.txt"
+	},
+	{
+		"id": "Mukarji",
+		"name": "Mukarji Memorial Debate",
+		"short": "",
+		"latest": 2021,
+		"tag": ["Asian", "open", "international", "region:Asia"],
+		"url": "International/MukarjiMemorialDebate.txt"
+	},
+	{
+		"id": "NEADC",
+		"name": "North-East Asian Debate Championship",
+		"short": "MEADC",
+		"latest": 2022,
+		"tag": ["BP", "open", "international", "region:Asia"],
+		"url": "International/NEADC.txt"
+	},
+	{
+		"id": "NEAO",
+		"name": "North East Asian Open",
+		"short": "NEAO",
+		"latest": 2019,
+		"tag": ["BP", "open", "international", "region:Asia"],
+		"url": "International/NEAO.txt"
+	},
+	{
+		"id": "NTUProAm",
+		"name": "NTU Pro Ams Debating Championship",
+		"short": "",
+		"latest": 2021,
+		"tag": ["BP", "proam", "international", "region:Asia"],
+		"url": "International/NTUProAm.txt"
+	},
+	{
+		"id": "Others",
+		"name": "Other International Tournaments",
+		"short": "",
+		"latest": 2022,
+		"tag": ["BP", "open", "international"],
+		"url": "International/others.txt"
+	},
+	{
+		"id": "OxfordIV",
+		"name": "Oxford IV",
+		"short": "",
+		"latest": 2022,
+		"tag": ["BP", "open", "international", "region:Europe"],
+		"url": "International/OxfordIV.txt"
+	},
+	{
+		"id": "PIDC",
+		"name": "Philippines Inter-collegiate Debating Championship",
+		"short": "PIDC",
+		"latest": 2009,
+		"tag": ["Asian", "open", "international", "region:Asia"],
+		"url": "International/PIDC.txt"
+	},
+	{
+		"id": "PrincetonIV",
+		"name": "Princeton IV",
+		"short": "",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:America"],
+		"url": "International/PrincetonIV.txt"
+	},
+	{
+		"id": "PSO",
+		"name": "Philippine Science Open",
+		"short": "PSO",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:Asia"],
+		"url": "International/PSO.txt"
+	},
+	{
+		"id": "SIDO",
+		"name": "Shanghai International Debate Open",
+		"short": "SIDO",
+		"latest": 2020,
+		"tag": ["BP", "open", "international", "region:Asia"],
+		"url": "International/SIDO.txt"
+	},
+	{
+		"id": "SMUHammers",
+		"name": "SMU Hammers",
+		"short": "",
+		"latest": 2021,
+		"tag": ["Asian", "open", "international", "region:Asia"],
+		"url": "International/SMUHammers.txt"
+	},
+	{
+		"id": "StructuralReasons",
+		"name": "Structural Reasons",
+		"short": "",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:Europe"],
+		"url": "International/StructuralReasons.txt"
+	},
+	{
+		"id": "Sunway",
+		"name": "Sunway",
+		"short": "",
+		"latest": 2023,
+		"tag": ["Asian", "open", "international", "region:Asia"],
+		"url": "International/Sunway.txt"
+	},
+	{
+		"id": "SydneyMini",
+		"name": "Sydney Mini",
+		"short": "",
+		"latest": 2011,
+		"tag": ["BP", "open", "international", "region:Oceania"],
+		"url": "International/SydneyMini.txt"
+	},
+	{
+		"id": "TaiwanDO",
+		"name": "Taiwan Debate Open",
+		"short": "TDO",
+		"latest": 2020,
+		"tag": ["Asian", "open", "international", "region:Asia"],
+		"url": "International/TaiwanDO.txt"
+	},
+	{
+		"id": "TayDO",
+		"name": "Taylor's Debate Open",
+		"short": "TayDO",
+		"latest": 2022,
+		"tag": ["Asian", "open", "international", "region:Asia"],
+		"url": "International/TayDO.txt"
+	},
+	{
+		"id": "TokyoIV",
+		"name": "Tokyo IV",
+		"short": "",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:Domestic", "region:Asia"],
+		"url": "International/TokyoIV.txt"
+	},
+	{
+		"id": "UADC",
+		"name": "United Asia Debating Championship",
+		"short": "UADC",
+		"latest": 2023,
+		"tag": ["Asian", "open", "international", "region:Asia"],
+		"url": "International/UADC.txt"
+	},
+	{
+		"id": "Uhuru",
+		"name": "Uhuru Worlds Debating Championships",
+		"short": "",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:World"],
+		"url": "International/Uhuru.txt"
+	},
+	{
+		"id": "VictoriaIV",
+		"name": "New Zealand British Parliamentary Debating Championships",
+		"short": "Victoria IV",
+		"latest": 2011,
+		"tag": ["BP", "open", "international", "region:Oceania"],
+		"url": "International/VictoriaIV.txt"
+	},
+	{
+		"id": "Vienna",
+		"name": "Vienna",
+		"short": "",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:Europe"],
+		"url": "International/Vienna.txt"
+	},
+	{
+		"id": "WSDC",
+		"name": "World Schools Debating Championships",
+		"short": "WSDC",
+		"latest": 2021,
+		"tag": ["Asian", "schools", "international", "region:World"],
+		"url": "International/WSDC.txt"
+	},
+	{
+		"id": "WUDC",
+		"name": "World Universities Debating Championships",
+		"short": "WUDC",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:World"],
+		"url": "International/WUDC.txt"
+	},
+	{
+		"id": "WUPID",
+		"name": "World Universities Peace Invitational Debate",
+		"short": "WUPID",
+		"latest": 2017,
+		"tag": ["BP", "open", "international", "region:World"],
+		"url": "International/WUPID.txt"
+	}
+]
