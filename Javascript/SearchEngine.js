@@ -1,5 +1,5 @@
 const jsonUrl =
-	"https://raw.githubusercontent.com/tokyodebate/motions/main/%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E6%83%85%E5%A0%B1/TournamentList.json";
+	"https://raw.githubusercontent.com/tokyodebate/motions/main/Javascript/TournamentList.json";
 const tagValue = {
 	NA: "NA",
 	BP: "BP",
