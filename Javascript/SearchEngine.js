@@ -308,7 +308,6 @@ function createCopyButton(myMotionsList, myRoundLabel) {
 		}
 	} else if (myMotionsList.length <= 3 && myMotionsList.length >= 1) {
 		//AsianはMotion/info Aなどと表記
-		console.log(myMotionsList);
 		for (var i = 0; i < 3; i++) {
 			myMotionText += `\n\n**Motion ${["A", "B", "C"][i]}**: ${
 				myMotionsList[i][0]
