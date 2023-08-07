@@ -160,7 +160,7 @@ function searchTournament(name, format, eligibility, region, year) {
 			$(`<div class="py-4 list-group-item"></div>`)
 				.appendTo("section#display-search")
 				.append(
-					`<div class="mb-2"><a class="link-danger link-underline-opacity-0 h5" href="#tournament=${
+					`<div class="mb-2"><a class="link-danger link-underline-opacity-0 h2" href="#tournament=${
 						found.id
 					}">${found.name}${
 						found.short == "" ? "" : " (" + found.short + ")"
@@ -234,7 +234,7 @@ function showMotions(array) {
 			case 5: //Info
 				if (!array[line][4].includes("$stats")) {
 					myMotion.append(
-						$(`<p class="card-text mx-3 px-3">${array[line][4]}</p>`)
+						$(`<p class="card-text mx-3 px-3 fs-4">${array[line][4]}</p>`)
 					);
 					myMotionsList[myMotionsList.length - 1][1] += array[line][4] + "\n";
 				} else {
@@ -326,13 +326,13 @@ function createCopyButton(myMotionsList, myRoundLabel) {
 	myButtons = $("<div class='d-inline'></div>").appendTo(myRoundLabel);
 	//Info
 	if (myInfoText != "") {
-		$("<button class='btn btn-outline-secondary'>Copy Info</button>")
+		$("<button class='btn btn-outline-secondary fs-4'>Copy Info</button>")
 			.appendTo(myButtons)
 			.on("click", function () {
 				navigator.clipboard.writeText(myInfoText.slice(2));
 			});
 	}
-	$("<button class='btn btn-outline-secondary'>Copy Motion</button>")
+	$("<button class='btn btn-outline-secondary fs-4'>Copy Motion</button>")
 		.appendTo(myButtons)
 		.on("click", function () {
 			navigator.clipboard.writeText(myMotionText.slice(2));
