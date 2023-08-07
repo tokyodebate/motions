@@ -1,4 +1,85 @@
 World Schools Debating Championships (WSDC)
+	Vietnam WSDC 2023
+		R1
+			THBT the World Bank Group should adopt a one-country-one-vote system
+		R2
+			THS the use of the nine planetary boundaries framework
+		R3
+			THO internet gurus* selling their own products and services
+				*For the purposes of this debate, an internet guru is an individual, e.g. a blogger, vlogger, other types of content creator, who claims to be an expert in a field.
+		R4
+			THBT the feminist movement should promote the maximisation of individual development and empowerment over solidarity among women
+		R5
+			THBT African countries should recognise the sovereignty of Somaliland
+		R6
+			THR the professionalisation of sports
+				For the purposes of this debate, professionalisation refers to the process by which organisations, systems, and participation transform from a volunteer driven to an increasingly business-like phenomenon.
+		R7
+			THW replace agricultural companies with farmers’ cooperatives
+		R8
+			THBT developing countries should drop local languages in favor of a world language* as the primary medium of instruction in schools.
+				*A World Language is a major language that is geographically widespread and has many speakers (e.g. English, Arabic, French, etc.)
+		PDO
+			THR depictions of veganism as trendy
+		OF
+			THBT it is against the interest of organized religion to emphasize strict requirements for personal religious commitments (e.g. not being allowed to work on Sabbath, not eating during Ramadan, restraining from premarital relationships, etc.)
+		QF
+			THBT offensive art should not be commissioned for public spaces (Museums, Parks, Squares, etc.)
+		SF
+			THBT the LGBTQ+ community should actively embrace the nuclear family ideal
+				A typical nuclear family is composed of two partners with children. In some countries a significant and vocal part of the LGBTQ+ movement are actively advocating settling down and forming nuclear families.
+		GF
+			THP a world ruled by a benevolent AI programmed to maximize utility by calculating the actions most guaranteed to reduce the greatest global suffering
+	Netherlands WSDC 2022
+		R1
+			THBT the Quadrilateral Security Dialogue should initiate the creation of a regional defence pact (similar to the NATO) in the Asia Pacific Region
+		R2 (Eastern)
+			THP a world where instead of charging tuition fees to students upfront, universities collect a portion of their income upon graduation
+		R2 (Western)
+			THP industrial unions to workplace unions
+		R3
+			THW introduce a Global Carbon Market
+		R4 (Eastern)
+			THW ban free-to-play games
+				Free-to-play (F2P or FtP) video games are games that give players access to a sizeable portion or to the start of their gaming content without paying. However, players have to make in-game financial transactions to access competitive advantages (like power-ups, money, etc.), cosmetic changes (e.g.: a different type of character/look), or in some cases, to continue playing higher levels.
+				This is distinct from games which require payment before using the game or service. It is also separate games which are entirely costless. Free-to-play games include, but are not limited to Fortnite, World of Tanks, Valorant, and League of Legends.
+		R4 (Western)
+			THR the decline of the family as the dominant unit of organisation in society
+		R5
+			THW implement fairness doctrines on broadcast news media with significant audience reach
+		R6 (Eastern)
+			THP a world where a majority of political fiction is positive and optimistic (e.g. West Wing, Fahrenheit 451) to one where a majority is negative and pessimistic (e.g. House of Cards, 1984, Brave New World)
+		R6 (Western)
+			THW require all elected officials to stand for a recall election if a significant minimum threshold of voters within their constituency demand it
+		R7
+			THP a world in which postcolonial African states had prioritised achieving economic and land reparations (e.g.: active land redistribution, quotas, cash transfer programmes) over enshrining civil and political rights (e.g. rights to protest, vote, free speech, form associations, etc.)
+		R8 (Eastern)
+			THBT developing countries should privatise their State Owned Enterprises (such as airlines, utility companies like electricity, gas companies, etc.)
+				A State Owned Enterprise is a business enterprise that government have control over through ownership. While these may have public policy objectives, they are different to government entities that pursue purely non-financial objectives (e.g. public services).
+		R8 (Western)
+			THW allow ex-convicts to apply to join the police force
+		PDO (Time Slot 2)
+			THW ban gated communities
+				A gated community (or walled community) is a form of residential community or housing estate containing strictly controlled entrances and often characterised by a closed perimeter of walls and fences. Gated communities usually include various shared amenities.
+		PDO (Time Slot 3)
+			THBT the LGBTQIA+ movement should centre reinterpreting religions in its public agenda
+		OF (Time Slot 2)
+			THS the rise of the use of cryptocurrencies (e.g. Bitcoin, Ethereum, USDT) in financial transactions
+		OF (Time Slot 3)
+			THP a world in which success and failure are seen as a consequence of random factors, rather than personal actions
+		QF (Time Slot 2)
+			THW overstate the impact of minority forces (Japanese American 442nd Battalion during WW2, Russia's Women's Battalion of Death during WW1, 4th Indian Infantry Division during WW2) in wars, even at the cost of historical accuracy
+		QF (Time Slot 3)
+			THP a world in which juries/judges can use a "not proven" verdict in criminal courts, in addition to "guilty" and "not guilty" verdicts
+				Criminal trials typically end in one of two verdicts - "guilty" or "not guilty". Under Scots law there exists a third verdict -"not proven". This is typically used to indicate the jury or judge believe the defendant could potentially be guilty, but there is not sufficient evidence to convict. In a "not proven" verdict, the prosecutor has the option to retry a case, while this is not possible in a "not guilty" decision.
+		SF (Time Slot 1)
+			THP  parenting models that adultify teenagers (i.e. giving them more responsibilities and autonomy, assuming higher capacity for independence) to those which emphasize their status and treatment as teenagers (i.e. refraining from giving them adult responsibilities, emphasizing they are legal minors)
+		SF (Time Slot 2)
+			THO academic activism
+				"Academic activism" refers to a phenomenon where academics take an explicitly political standpoint in their work and outside it with the aim of bringing about social change. Activist academics openly associate with different social and political groups or movements. The scope of academic activism entails being involved in policy debates, advising politicians, writing opinion pieces, etc. It also entails activism taking place within academic work, i.e. when performing research or teaching at the university. Examples include Judith Butler (American philosopher and gender theorist, and active in the Occupy movement), Taimur Rahman (Professor at the Lahore University of Management Sciences, and Secretary-General of the Mazdoor Kisan Party - a communist political party), Jordan Peterson (Now Professor Emeritus at the University of Toronto, and conservative public intellectual).
+		GF
+			THW not allow any individual shareholders to own a controlling interest in large, publicly traded social media companies
+				The term “controlling interest” refers to a situation that arises when a shareholder (or a group acting in kind) holds the majority of a company's voting stock. Having a controlling interest gives the holding entity(s) significant influence over any corporate actions. Shareholders who have a controlling interest are often able to direct the course of a company and make key strategic and operational decisions.
 	WSDC Macau Online 2021
 		R1: Vocation
 			TH, as an intelligent but poor student, would pursue vocational education over a traditional college degree

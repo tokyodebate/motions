@@ -1,4 +1,116 @@
 Australian Intervarsity Debating Championships (Easters)
+	Macquarie | UTS Easters 2023
+		R1
+			That we should vocationalise teaching
+				Balance $stats 6, 6, 30
+				Veto $stats 16, 0, 60
+				For the purposes of this debate, vocationalised jobs do not require university degrees but may require apprenticeships, traineeships or non-university training.
+			That students from financially disadvantaged backgrounds should be given a lower bar to qualify for academic special considerations (e.g., lower evidentiary standards for misadventure, longer time to submit applications)
+				Balance $stats 7, 2, 30
+				Veto $stats 6, 18, 60
+			That we oppose universities suspending students who engage in disruptive protests
+				Balance $stats 4, 5, 30
+				Veto $stats 8, 12, 60
+		R2
+			That we support legalising commercial seed saving
+				Balance $stats 2, 3, 30
+				Veto $stats 14, 15, 59
+				In many jurisdictions, governments, trade regulations, and contracts between farmers and seed production companies restrict farmers from selling, distributing and replanting the seeds of plants from previous harvests. These restrictions may be in force as part of various regulatory frameworks including intellectual property, biosecurity, and biodiversity regulations.
+			That news reports on environmental damage should include visceral and distressing audiovisual material wherever possible (e.g., destruction of human and animal life)
+				Balance $stats 7, 6, 30
+				Veto $stats 7, 10, 59
+			That Australian environmentalists should advocate for stricter fuel efficiency standards in vehicles rather than electric vehicle subsidies
+				Balance $stats 5, 7, 30
+				Veto $stats 8, 5, 59
+		R3
+			That the United States Navy Marine Mammal Program is immoral
+				Balance $stats 6, 4, 30
+				Veto $stats 15, 6, 60
+				The United States Navy Marine Mammal Program trains sea lions (for their perfect sight in darkness and superb directional hearing) and bottlenose dolphins (for their unrivalled echolocation that can detect differences between metals) for military purposes.
+			That we oppose sports media coverage of female athletes that focuses on their physical appearance or personal lives rather than their athletic achievements
+				Balance $stats 3, 2, 30
+				Veto $stats 0, 24, 60
+			That, as a monogamous young adult, we would prefer to build our life with a partner who works in the same industry as us rather than someone with a significantly different career
+				Balance $stats 8, 7, 30
+				Veto $stats 15, 0, 60
+		R4
+			That we support memory laws
+				Balance $stats 2, 1, 30
+				Veto $stats 17, 10, 60
+				Memory laws are laws governing the interpretation of historical events (e.g., the European Union’s ban on genocide denial; Israel’s ‘Nakba Law’, which fines bodies that mark Israel’s Independence Day as a day of mourning).
+			That secular democracies with substantial religious communities should not allow separate legal systems for those communities (e.g., Syariah Law, Canon Law)
+				Balance $stats 9, 6, 30
+				Veto $stats 10, 8, 60
+			That we should ban media reports on hostage situations involving terrorists
+				Balance $stats 2, 10, 30
+				Veto $stats 3, 12, 60
+		R5
+			That prestigious entertainment industry awards should have entirely transparent decision-making processes
+				Balance $stats 8, 3, 30
+				Veto $stats 5, 13, 60
+				Examples of prestigious entertainment industry awards include the Emmys, Grammys, Oscars, and Tonys. The decision-making processes of these awards are often undisclosed to the public and can include: appointments to and composition of voting committees, nomination processes, votes cast by voting committees, and any criteria with which art is evaluated.
+			That we should ban under 18s from engaging in K-Pop idol training contracts
+				Balance $stats 10, 5, 30
+				Veto $stats 1, 11, 60
+				Aspiring K-pop idols, known as 'trainees', sign contracts with management agencies when the trainee is sometimes as young as 12. It can take up to ten years of training before a trainee makes their stage debut.
+			That it is in the interests of media outlets in nascent democracies to give the state a right of reply
+				Balance $stats 3, 1, 30
+				Veto $stats 24, 6, 60
+				The right of reply refers to the right to defend oneself against public criticism in the same venue that published the criticism.
+		R6
+			That resource-backed loans to developing nations do more harm than good
+				Balance $stats 5, 6, 30
+				Veto $stats 12, 8, 60
+				Resource-backed loans give debtor countries access to capital in exchange for or collateralised by future streams of income from their natural resource wealth.
+			That charities that service the same cause should be required to amalgamate
+				Balance $stats 2, 7, 30
+				Veto $stats 16, 4, 60
+			That we should ban workplace productivity surveillance software
+				Balance $stats 8, 2, 30
+				Veto $stats 2, 18, 60
+		OF
+			That we oppose industry-specific prostitution regulations
+				Balance $stats 2, 1, 8
+				Veto $stats 1, 3, 16
+				Examples of industry-specific prostitution regulations include the requirements that sex workers: undergo regular counseling (Germany); prove HIV-negative status (Senegal); are unmarried (Greece); are cisgender (Turkey). In some jurisdictions, sex workers are criminalised for failing to abide by these regulations. Industry-specific regulations do not include general labour regulations such as workplace health & safety or anti-discrimination protections.
+			That feminists should adopt the New Rules narrative rather than the Wilful Ignorance narrative
+				Balance $stats 1, 2, 8
+				Veto $stats 4, 3, 16
+				The 'New Rules' narrative proposes that men’s understanding of the nature and importance of consent to sex has radically changed as a result of feminist activism. The 'Wilful Ignorance' narrative proposes that men have always been largely aware of the nature and importance of consent to sex.
+			That we oppose messaging (e.g. signs, posters, chants, clothing) at feminist protests that depicts or references biological sex characteristics
+				Balance $stats 1, 1, 8
+				Veto $stats 3, 2, 16
+		QF
+			That we should allow the use of chemical castration as a form of sentencing for all sex-related crimes
+				Balance $stats 0, 0, 4
+				Veto $stats 2, 1, 8
+				Chemical castration involves the use of anaphrodisiac drugs that reduce libido and sometimes reproductive capacity. Chemical castration can be reversible or irreversible.
+			That individuals who display neurodivergent traits should be given a diagnosis regardless of how severely those traits impact their lives
+				Balance $stats 0, 1, 4
+				Veto $stats 2, 3, 8
+			That, assuming feasibility, we should base the prescription of pain medication and anaesthesia on academic studies of the pain caused by a condition or procedure, rather than on individual patients' perceptions of pain
+				Balance $stats 2, 1, 4
+				Veto $stats 0, 0, 8
+		SF
+			That we support COPEC
+				Balance $stats 0, 0, 2
+				Veto $stats 1, 1, 4
+				Ghana and Ivory Coast produce 60% of the world's cocoa. In 2018 they jointly established the cocoa cartel known as COPEC, with the aim of raising cocoa prices.
+			That it is in Serbia's interest to withdraw its application for EU membership
+				Balance $stats 0, 1, 2
+				Veto $stats 1, 0, 4
+			That it is in Qatar's interest to grant every worker within its borders substantial and modern labour rights
+				Balance $stats 1, 0, 2
+				Veto $stats 0, 1, 4
+		GF
+			That we prefer a world with Artificial Persona technology
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+				An Artificial Persona (AP) is a form of artificial intelligence trained exclusively on data derived from an individual's brain. From this data, the AP learns the individual's persona (including their intellect, memories, personality and preferences) with 85% accuracy. The AP then responds to stimuli and solves problems in ways the individual would be likely to. The AP's primary goal is to accurately replicate the individual's current persona. Individuals can choose to have their data uploaded into the AP once per year. The AP is purely digital but can generate lifelike video, audio, and written material in the style of the individual it is based upon.
+			That US police departments should hire significantly more police officers
+				Balance $stats 0, 0, 1
+			That Palestinian political activists should advocate for the integration of Palestinian Nakba refugees and their descendants into neighbouring Arab states over a right of return
+				Balance $stats 0, 0, 1
 	Australian Online Intervarsity Debating Championships 2021
 		R1
 			That we should allow prisoners to volunteer for socially utile but undesirable activities in exchange for a lighter sentence (e.g. experimental drug trials, military service, hard labour)

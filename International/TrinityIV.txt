@@ -1,0 +1,128 @@
+Trinity IV
+	Trinity IV 2023
+    	R1
+			Assuming it was technically feasible,THW remove the ability of soldiers to feel fear
+				OG $stats 3, 4, 4, 3
+				OO $stats 3, 5, 3, 3
+				CG $stats 3, 4, 5, 2
+				CO $stats 5, 1, 2, 6
+		R2
+			THO the Rise of the use of Artificial Intelligence in the Arts
+				OG $stats 4, 3, 4, 3
+				OO $stats 6, 4, 3, 1
+				CG $stats 1, 3, 3, 7
+				CO $stats 3, 4, 4, 3
+		R3
+			THS the Auction
+				OG $stats 5, 2, 4, 3
+				OO $stats 3, 7, 2, 2
+				CG $stats 1, 3, 3, 7
+				CO $stats 5, 2, 5, 2
+				Dallas Safari Club is a conservation site in Namibia and is auctioning off the right to hunt one of it's endangered Rhinos. All proceeds of the hunting permit will go into conserving the herd. They expects the permit to sell for at least $250,000, possibly up to $1 million.
+		R4
+			THW vote No
+				OG $stats 3, 2, 8, 1
+				OO $stats 5, 4, 3, 2
+				CG $stats 3, 5, 2, 4
+				CO $stats 3, 3, 1, 7
+				The Good Friday Agreement was passed in 1997. Seen as the end of ‘The Troubles’ which was a long period of violence between Catholics, and Protestants in Northern Ireland. Catholics represent 42%, and Protestants represent 37% of the population of the North who tend to vote for one of the two parties that represent their group known as Sinn Fein (Catholic Natonalists) and The DUP (Protestant Unionists). 
+				The Good Friday Agreement states that for the reunification of Ireland (The North, and Republic) to occur there must be a vote passed in both states by the majority of the citizens. 
+				For the Purposes of this debate, Northern Ireland has passed the vote with a majority. The vote in the Republic is due to take place asking the Irish whether they’d like to be reunified with the North.
+		R5
+			THR the emphasis on "justice in the afterlife" within religious philosophy
+				OG $stats 2, 3, 7, 2
+				OO $stats 5, 7, 1, 1
+				CG $stats 1, 1, 4, 8
+				CO $stats 6, 3, 2, 3
+				Within many religions, the concept of "justice in the afterlife" is emphasized, as a means to teach people that worldly systems of justice are not final and that individuals will one day be judged by their Maker on their actions in life (Positive & Negative) ; in the ultimate and most important judgment.
+		QF
+			THS Recent Increase in Strike Action in UK
+				OG $stats 2, 2
+				OO $stats 3, 1
+				CG $stats 2, 2
+				CO $stats 1, 3
+				The UK is facing the biggest outbreak of industrial action in a generation as thousands of workers across the NHS, transport, civil service and other sectors strike for better pay and conditions in the face of soaring inflation.
+		SF
+			THO the widespread narrative of viewing those living with disability as inspirational
+				OG $stats 0, 2
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 1, 1
+		GF
+			THP a world where everybody has access to their own personal Black Mirror
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				The Black Mirror technology is a technology which allows an individual access to an accurately recorded playback of their memories.
+				No one else except the individual can access the recordings and they are always available for replay.
+		Rookie GF
+			THW take the Blue Pill
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+				You are an average individual with a job and some disposable income. One day, you are informed that the world you think that you live in is a lie, an elaborate computer simulation and that you have never experienced the real world. You are not informed of what the real world looks like. You are given the following choice; a Red Pill that will allow you to exit the simulation and enter the real world; a Blue Pill that will let you forget ever learning this.
+	Trinity IV 2022
+		R1
+			THBT schools should teach children collectivist rather than individualist values (e.g. emphasizing duty to one's community over individual freedom)
+				OG $stats 4, 8, 4, 5
+				OO $stats 4, 8, 5, 4
+				CG $stats 6, 2, 7, 6
+				CO $stats 7, 3, 5, 6
+		R2
+			THW require companies valued at $1B or above to trade publicly
+				OG $stats 3, 6, 8, 4
+				OO $stats 7, 8, 4, 2
+				CG $stats 3, 5, 2, 11
+				CO $stats 8, 2, 7, 4
+				A publicly traded company is a company whose ownership is organized via shares of stock which are intended to be freely traded on a stock exchange or in over-the-counter markets.
+		R3
+			THW ban advocacy for religious belief in public places
+				OG $stats 2, 7, 8, 4
+				OO $stats 6, 4, 4, 7
+				CG $stats 4, 6, 6, 5
+				CO $stats 9, 4, 3, 5
+		R4
+			THBT a common foreign policy is in the interests of the EU
+				OG $stats 3, 5, 4, 8
+				OO $stats 8, 7, 1, 4
+				CG $stats 2, 2, 13, 3
+				CO $stats 7, 6, 2, 5
+				Currently, EU member states conduct the majority of their international affairs independently rather than collectively. Under a common foreign policy, EU member states would conduct all international affairs as a bloc.
+		R5
+			THS the rise of political activism by cultural icons (e.g. Neil Young's boycott of Spotify, celebrity support for politicians running for office, etc.)
+				OG $stats 6, 6, 5, 3
+				OO $stats 1, 6, 7, 6
+				CG $stats 8, 7, 4, 1
+				CO $stats 5, 1, 4, 10
+		QF
+			TH, as Israel, would air strike Iranian nuclear sites
+				OG $stats 2, 2
+				OO $stats 2, 2
+				CG $stats 3, 1
+				CO $stats 1, 3
+				For the purposes of this debate, the Israeli military has the ability to air strike Iranian nuclear sites and delay Iran's nuclear program by 3 years.
+		SF
+			THBT the European Central Bank should take significant steps to reduce inflation in the Eurozone (e.g. raising interest rates, ending bond purchases under its pandemic emergency purchase program, scaling back other asset purchases, etc.)
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 1, 1
+		GF
+			THO the ideology of globalism
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				The ideology of globalism refers to the sociopolitical view that increased interdependency, international trade and political unions and alliances between states and nations are desirable phenomena.
+		ESL GF, Pro-Am GF
+			THR the shift in trend in artistic sports away from awarding points on the basis of style and instead awarding points on the basis of technical skill (e.g. the adoption of the Code of Points system in gymnastics and figure skating)
+				ESL GF OG $stats 0, 1
+				ESL GF OO $stats 1, 0
+				ESL GF CG $stats 0, 1
+				ESL GF CO $stats 0, 1
+				Pro-Am GF OG $stats 0, 1
+				Pro-Am GF OO $stats 1, 0
+				Pro-Am GF CG $stats 0, 1
+				Pro-Am GF CO $stats 0, 1

@@ -1,0 +1,150 @@
+North American Universities Debating Championship (NAUDC)
+	Bates NAUDC 2023
+		R1
+			THBT the progressive movement should integrate post-work ideology into its messaging
+				OG $stats 2, 4, 9, 5
+				OO $stats 5, 7, 3, 5
+				CG $stats 7, 5, 4, 4
+				CO $stats 6, 4, 4, 6
+				The post-work movement believes that the ideal society is one that has obsoleted the need to work (e.g. a world in which work were mostly automated or everyone were provided a Universal Basic Income)
+		R2
+			THBT the continued adoption of the guerrilla policy style is not in the long term interests of the CCP
+				OG $stats 3, 1, 7, 9
+				OO $stats 7, 8, 5, 0
+				CG $stats 3, 5, 5, 7
+				CO $stats 7, 6, 3, 4
+				China's ""guerrilla policy style"" is characterized by a decentralized approach to policy making, in which policy initiatives are often developed and implemented at the local level by officials who have a large degree of freedom from central authorities in undertaking policy projects. 
+				These policies, if successful, are then scaled up to a national level. Under China's guerrilla policy style, policymakers are often willing to accept some degree of disorder, experimentation, and even failure in the pursuit of policy goals.
+		R3
+			THP a world in which "Ask Culture" is the norm to one in which "Guess Culture" is the norm
+				OG $stats 7, 6, 3, 4
+				OO $stats 5, 7, 3, 5
+				CG $stats 6, 3, 5, 6
+				CO $stats 2, 4, 9, 5
+				""Ask Culture"" is characterized by the expectation that individuals should feel encouraged to ask for anything when they want it. 
+				""Guess Culture"" is characterized by the expectation that individuals should only make requests of one another in instances where they can infer or assume the answer will be yes.
+		R4
+			THP a world with the dominant belief that people can transition to different religious identities throughout their lifetime
+				OG $stats 11, 5, 2, 2
+				OO $stats 3, 6, 9, 2
+				CG $stats 5, 5, 4, 6
+				CO $stats 1, 4, 5, 10
+		R5
+			THR the rise of student political wings of major political parties in developing countries
+				OG $stats 3, 6, 7, 4
+				OO $stats 4, 7, 3, 6
+				CG $stats 7, 5, 5, 3
+				CO $stats 6, 2, 5, 7
+		R6
+			THB the US and Canada should ban Mandatory Binding Arbitration
+				OG $stats 6, 8, 4, 2
+				OO $stats 2, 5, 5, 8
+				CG $stats 9, 6, 2, 3
+				CO $stats 3, 1, 9, 7
+				Mandatory Binding Arbitration is a contractual provision in which both parties to a contract waive their right to sue one another in court for damages related to a perceived breach of contract. 
+				Instead, in the instance of a perceived contractual violation, members must undergo arbitration, an alternative form of dispute resolution in which a mutually agreed upon private arbiter determines both the legitimacy of the alleged violation as well as the potential punishment. 
+				MBA clauses can also often include other stipulations such as waiving one's right to appeal the decision or to join class action lawsuits.
+		QF
+			THP a world where art is submitted to and displayed in museums and galleries anonymously forever
+				OG $stats 2, 2
+				OO $stats 3, 1
+				CG $stats 2, 2
+				CO $stats 1, 3
+		SF
+			THBT the IMF should lend significant amounts of money to countries heavily indebted to China with the requirement that these countries default on all Chinese loans
+				OG $stats 2, 0
+				OO $stats 1, 1
+				CG $stats 0, 2
+				CO $stats 1, 1
+		GF
+			THO New Optimism
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+				New Optimism - the narrative that human history is a story of constant improvement, and that we should be optimistic about the future of the human condition. Supporters of new optimism point to evidence of progress in areas such as poverty reduction, technological advancement, and human rights as examples of constant improvement. Some suggest that this progress is due to increased globalization, free markets, scientific advancement, and collaboration among nations and individuals.
+		Rookie SF
+			THS a government madated halt of giant AI experiments
+				OG $stats 0, 2
+				OO $stats 0, 2
+				CG $stats 2, 0
+				CO $stats 2, 0
+				Giant AI experiments include but are not limited to language learning models Like GPT-4. Other AI labs are currently also developing much more ambitious projects that are much larger than that of OpenAI (the creators of Dall E 2 and ChatGPT)
+		Rookie GF
+			THP a world with community based, democratically run social media instead of company run social media
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				A community based, democratically run social media is one where users join specific social media platforms based on community or interest and members of a community determine their own policies and design in terms of algorithms, moderation, funding, and general functioning of the site for that platform.
+	McGill NAUDC 2022
+		R1
+			THBT the ubiquity of dating apps has done more harm than good
+				OG $stats 2, 7, 8, 2
+				OO $stats 5, 5, 5, 4
+				CG $stats 1, 4, 3, 11
+				CO $stats 11, 3, 3, 2
+				Ubiquity: the fact of appearing everywhere or of being very common.
+		R2
+			THBT the South Korean government should break up chaebols
+				OG $stats 4, 4, 8, 3
+				OO $stats 5, 5, 6, 3
+				CG $stats 4, 4, 1, 10
+				CO $stats 6, 6, 4, 3
+				Chaebol (Korean 재벌; literally 'rich family'): a large family-owned and family-run industrial conglomerate in South Korea. Examples include Samsung, Hyundai, Lotte, etc.
+		R3
+			THP a world in which humanity chooses voluntary human extinction over a world where humanity chooses continued existence
+				OG $stats 6, 4, 7, 2
+				OO $stats 4, 3, 8, 4
+				CG $stats 3, 10, 2, 4
+				CO $stats 6, 2, 2, 9
+				Voluntary human extinction describes the theoretical scenario in which humans choose to not have children and humanity peacefully dies out.
+		R4
+			TH, as the Catholic Church, would actively fund liberation theology in Latin America
+				OG $stats 4, 5, 7, 3
+				OO $stats 7, 7, 3, 2
+				CG $stats 5, 4, 5, 5
+				CO $stats 3, 3, 4, 9
+				Liberation theology is a Christian theological approach emphasizing the liberation of the oppressed. Depending on the context, this has been focused on groups such as the poor, the politically disenfranchised, or persons subject to other forms of inequality, like race or caste.
+		R5
+			THBT using loan conditions and defaults to achieve political goals is bad for the long term interest of China
+				OG $stats 4, 4, 5, 6
+				OO $stats 8, 7, 2, 2
+				CG $stats 2, 2, 6, 9
+				CO $stats 5, 6, 6, 2
+				Over the past 10 years, China has given several loans to developing countries in exchange for political benefits (eg favourable votes in multilateral institutions or deeper trade relations). In a small but still significant number of cases, the borrowing country has defaulted on these loans, resulting in China taking possession of infrastructure in these developing countries as collateral. (Typically, loans are 'backed' with assets as a condition for repayment: if a debtor 'defaults' (fails to repay) a loan, the lender is able to seize the asset as 'collateral'.)
+		R6
+			TH, as the progressive movement, would actively oppose political nihilism
+				OG $stats 3, 9, 3, 2
+				OO $stats 1, 3, 4, 9
+				CG $stats 8, 1, 6, 2
+				CO $stats 5, 4, 4, 4
+				Political nihilism is the belief that participation in electoral politics (eg voting or trusting politicians) is not only ineffectual, but actively harms disadvantaged communities. Examples include Afropessimism and queer pessimism.
+		QF
+			THBT the Canadian government should stop prosecuting Indigenous peoples and allow the use of Indigenous law instead in all cases
+				OG $stats 4, 0
+				OO $stats 1, 3
+				CG $stats 3, 1
+				CO $stats 0, 4
+				Indigenous law refers to Indigenous peoples’ own legal systems. It includes the laws and legal processes developed by Indigenous peoples to govern their relationships, manage their territory, and resolve conflicts.
+		SF
+			THW prefer a world where the response to the 2008 Financial Crisis focused on assigning responsibility and punishing individual instances of wrongdoing, instead of passing policies to reduce overall risk in the system moving forward (eg regulatory capital requirements, bans on proprietary trading, statutory underwriting standards for residential mortgages)
+				OG $stats 2, 0
+				OO $stats 0, 2
+				CG $stats 2, 0
+				CO $stats 0, 2
+				A non-fungible token (NFT) is a non-interchangeable unit of data stored on a blockchain, a form of digital ledger, that can be sold and traded. Types of NFT data units may be associated with digital files such as photos, videos, and audio. Because each token is uniquely identifiable, NFTs differ from blockchain cryptocurrencies, such as Bitcoin. NFT ledgers claim to provide a public certificate of authenticity or proof of ownership, but the legal rights conveyed by an NFT can be uncertain. NFTs do not restrict the sharing or copying of the underlying digital files, do not necessarily convey the copyright of the digital files, and do not prevent the creation of NFTs with identical associated files. NFTs have been used as a speculative asset, and they have drawn increasing criticism for the energy cost and carbon footprint associated with validating blockchain transactions as well as their frequent use in art scams and claimed structure of the NFT market to be a Ponzi scheme. Many of the CAs are participating in this Ponzi scheme, and Yarn has in fact made an NFT collection.
+		GF
+			THP a world where all writing is pseudonymous
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+		Rookie GF
+			THP that billionaire-run charitable foundations engage in 'hits-based' giving rather than traditional charity work
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				Examples of billionaire run charitable foundations are Open Philanthropy, Zuckerberg-Chan Initiative, and the Gates Foundation.
+				Traditional charities prioritise low-risk interventions that are known to work (eg malaria nets, GiveDirectly). Conversely, 'hits-based' charities go for higher-risk interventions with potentially much bigger outcomes (eg research into genetically altering mosquitos to not carry malaria, lobbying for welfare reform).

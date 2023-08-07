@@ -488,6 +488,14 @@
 		"url": "International/ChinaBP.txt"
 	},
 	{
+		"id": "Diliman",
+		"name": "Diliman",
+		"short": "",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:Asia"],
+		"url": "International/DSNPD.txt"
+	},
+	{
 		"id": "DSNPD",
 		"name": "DSNLU National Parliamentary Debate",
 		"short": "DSNPD",
@@ -632,6 +640,14 @@
 		"url": "International/MalaysiaDO.txt"
 	},
 	{
+		"id": "ManchesterIV",
+		"name": "Manchester IV",
+		"short": "",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:Europe"],
+		"url": "International/ManchesterIV.txt"
+	},
+	{
 		"id": "UTMARA",
 		"name": "UT MARA",
 		"short": "",
@@ -654,6 +670,14 @@
 		"latest": 2021,
 		"tag": ["Asian", "open", "international", "region:Asia"],
 		"url": "International/MukarjiMemorialDebate.txt"
+	},
+	{
+		"id": "NAUDC",
+		"name": "North American Universities Debating Championship",
+		"short": "NAUDC",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:America"],
+		"url": "International/NAUDC.txt"
 	},
 	{
 		"id": "NEADC",
@@ -782,6 +806,14 @@
 		"latest": 2023,
 		"tag": ["BP", "open", "international", "region:Domestic", "region:Asia"],
 		"url": "International/TokyoIV.txt"
+	},
+	{
+		"id": "TrinityIV",
+		"name": "Trinity IV",
+		"short": "",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:Europe"],
+		"url": "International/TrinityIV.txt"
 	},
 	{
 		"id": "UADC",
