@@ -1,4 +1,4 @@
-DSNPD
+DSNLU National Parliamentary Debate (DSNPD)
 	DSNPD 2022
 		Round 1
 			This house believes that minority communities should actively discourage their children from pursuing careers in state security apparatuses (i.e. the military, the police, immigration and border control)
