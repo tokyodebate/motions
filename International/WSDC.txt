@@ -1,31 +1,31 @@
 World Schools Debating Championships (WSDC)
 	WSDC Macau Online 2021
-		R1 (Vocation)
+		R1: Vocation
 			TH, as an intelligent but poor student, would pursue vocational education over a traditional college degree
-		R2 (COVID)
+		R2: COVID
 			THW suspend labour unions for healthcare workers during times of crisis
 				A labour union is an organisation of workers who have come together to achieve common goals (eg improving safety standards, attaining better wages and benefits such as healthcare)
-		R3 (Proid)
+		R3: Proid
 			THR the rise of rainbow capitalism
 				Rainbow capitalism is the commercialization and commodification of LGBTQ movements, most notably Pride
-		R4 (Attack on Titan)
+		R4: Attack on Titan
 			TH, as an Eldian child in Marley, Would volunteer to be a Warrior
 				In the Attack on Titan universe, Eldians are an oppressed group of ethnic minorities. In the country of Marley, they are forced to live in internment zones and are treated as second class citizens without any civil liberties and regularly suffer abuse from Marleyan police and civilians. "Warriors" are Eldian children who volunteer to join the Marleyean military to become Titans, extremely powerful humanoid weapons. Warriors participate in very dangerous missions, often against foreign Eldians, and have a maximum lifespan of 13 years. However, Warriors and their family members, including future generations, automatically receive honourary Marleyan citizenship and gain the rights of regular Marleyan citizens.
-		QF (Intelectual Property)
+		QF: Intelectual Property
 			THBT developing countries are justified in and should pursue IP theft as a strategy for development
 				Intellectual property theft refers to the robbing of people or companies of their ideas, inventions, and creative expressions. It can include everything from proprietary products and parts, to movies, music, web content, business processes, and software.
-		SF (Invade Taiwan)
+		SF: Invade Taiwan
 			In the event of a Chinese invasion of of Taiwan, TH, as the USA, Would intervene militarily
-		GF (Cheating)
+		GF: Cheating
 			You are in a stable relationship with a wealthy, workaholic partner but you are emotionally and physically unsatisfied, THW cheat
-		High School Novice Semifinals (Intellectual Property)
+		High School Novice Semifinals: Intellectual Property
 			THBT developing countries are justified in and should pursue IP theft as a strategy for development
-		High School NOvice Finals (The House Spouse)
+		High School NOvice Finals: The House Spouse
 			THW require partners to pay their house husbands/wives for household chores
-		Pre University Semifinals (Intellectual Property)
+		Pre University Semifinals: Intellectual Property
 			THBT developing countries are justified in and should pursue IP theft as a strategy for development
 				Intellectual property theft refers to the robbing of people or companies of their ideas, inventions, and creative expressions. It can include everything from proprietary products and parts, to movies, music, web content, business processes, and software.
-		Pre Univertity Finals (AI)
+		Pre Univertity Finals: AI
 			Assuming feasibility, THW develop non-sentient artificial intelligence that imitates deceased loved ones in appearance, personality, and mannerisms
 	WSDC Mexico 2020
 		R1
@@ -80,25 +80,25 @@ World Schools Debating Championships (WSDC)
 		R2
 			This House opposes the development of lethal autonomous weapons.
 				Lethal autonomous weapons are a type of autonomous military robot designed to select and attack military targets (people or installations) without intervention by a human operator.
-		R3 (impromptu)
+		R3
 			This House regrets the widespread belief that motherhood is a rewarding experience.
-		R4 (impromptu)
+		R4
 			This House believes that states should allow all non-citizen migrant workers to vote in local and national elections.
 		R5
 			This House supports a school voucher system.
-		R6 (impromptu)
+		R6
 			THW not allow sellers and service-providers to advertise their products beyond showing information and images that reveal technical product details.
 		R7
 			This House regrets the Belt and Road Initiative.
-		R8 (impromptu)
+		R8
 			This house regrets the rise of call-out culture.
-		Double OF (impromptu)
+		Double OF
 			This House believes that democratic states should not own or run media organisations.
-		OF (impromptu)
+		OF
 			This House prefers a world with no belief in the afterlife.
-		QF (impromptu)
+		QF
 			This House believes that foreigners should not be allowed to own land in developing countries
-		SF (impromptu)
+		SF
 			This House believes that rehabilitation should be the only consideration in criminal sentencing.
 		GF
 			This House believes that the West should end all arms sales and military cooperation with Saudi Arabia.
