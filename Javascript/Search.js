@@ -252,8 +252,8 @@ function showMotions(array) {
 function showStats(text, motion) {
 	textSplit = text.split(/ ?\$stats ?/);
 	stats = textSplit[1].split(/[ |,]+/);
-	myBar = $(`<div class="card-subtitle stats-row px-3 pt-4"></div>`)
-		.append(`<div class="stats-label">${textSplit[0]}</div>`)
+	myBar = $(`<div class="card-subtitle stats-row mx-3 px-3 pt-4"></div>`)
+		.append(`<div class="stats-label fs-4">${textSplit[0]}</div>`)
 		.appendTo(motion);
 	switch (stats.length) {
 		case 2: //○○ $stats (govの勝ち数), (oppの勝ち数)はNA
