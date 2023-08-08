@@ -48,7 +48,7 @@ $("#search-tournaments").click(() => {
 	yearInput = $("#yearInput").val();
 	hashArray = [];
 	if (nameInput != "") {
-		hashArray.push(`name=${nameInput}`);
+		hashArray.push(`name=${nameInput.replace(" ", "+")}`);
 	}
 	if (formatInput.length !== 0) {
 		hashArray.push(`format=${formatInput.join("+")}`);
@@ -90,7 +90,7 @@ function hashResponse() {
 		const regionMatch = currentHash.match(/(?<=region\=)[^&]*/);
 		const yearMatch = currentHash.match(/(?<=year\=)[^&]*/);
 		searchTournament(
-			nameMatch === null ? undefined : nameMatch[0],
+			nameMatch === null ? undefined : nameMatch[0].replace("+", " "),
 			formatMatch === null ? undefined : formatMatch[0].split("+"),
 			eligibilityMatch === null ? undefined : eligibilityMatch[0].split("+"),
 			regionMatch === null ? undefined : regionMatch[0].split("+"),
