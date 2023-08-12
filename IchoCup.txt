@@ -11,16 +11,16 @@ Icho Cup
 			THBT developing countries should prioritize environmental sustatinability over economic development
 		OF: This Barbie is a Doctor
 			THBT it is legitimate for medical professionals to refuse to give medical treatment to patients of attempted suicide
-		QF:
-			TBA
+		QF: Never Meet Your Idols
+			THP to live the life of a sucessful Japanese idol than an average Japanese citizen
 		SF:
 			TBA
 		GF:
 			TBA
 		Novice QF: Academic Validation <3
 			THP a world where universities' admission processes place emphasis on non-quantitative evaluation (e.g. interviews, essays, etc.) as opposed to primarily focusing on quantitative evaluation (e.g. university entrance exam scores)
-		Novice SF:
-			TBA
+		Novice SF: Maybe you need to break stuff to change stuff?
+			THBT the environmental movement should take more radical action in the fight against climate change (e.g., blocking roads, vandalism, blowing up pipelines etc.)
 		Novice GF:
 			TBA
 	Icho Cup 2022
