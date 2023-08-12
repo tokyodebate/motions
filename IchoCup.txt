@@ -9,16 +9,16 @@ Icho Cup
 				The "that girl" aesthetic is a trend on SNS platforms that romanticizes women who have ultra-healthy lifestyles such as waking up early, exercising everyday, eating nutritious food - encouraging women to become the most productive, healthy, and optimised version of themselves.
 		R4: The Earth is dying! Governments
 			THBT developing countries should prioritize environmental sustatinability over economic development
-		OF:
-			TBA
+		OF: This Barbie is a Doctor
+			THBT it is legitimate for medical professionals to refuse to give medical treatment to patients of attempted suicide
 		QF:
 			TBA
 		SF:
 			TBA
 		GF:
 			TBA
-		Novice QF:
-			TBA
+		Novice QF: Academic Validation <3
+			THP a world where universities' admission processes place emphasis on non-quantitative evaluation (e.g. interviews, essays, etc.) as opposed to primarily focusing on quantitative evaluation (e.g. university entrance exam scores)
 		Novice SF:
 			TBA
 		Novice GF:
