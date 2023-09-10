@@ -1,4 +1,52 @@
 Gemini Cup
+	Gemini Cup 2023
+		R1
+			THW divide electorates in representative democracy based on age group/generation rather than region
+			THW ban people over the age of 70 from holding political office
+			THBT political parties should be able to replace their elected members at any point during their term in office
+		R2
+			TH, as you, would refuse to get marry and openly live as gay
+				You are the next Japanese emperor, and you are only the male heir in the royal family who can inherit the position. At the same time, you are gay.
+			TH, as the Japanese royal princess, would not marry and break up with the commoner
+				Under Japanese law, female royal family members forfeit royal status upon marriage to a "commoner," although male members do not. By marrying a commoner, she would also forfeit her right to the privileges of a royal marriage, such as the usual marriage rites or claim to royal financial support. For the purpose of this debate, you are a Japanese royal princess in 2023. You have been dating a commoner for 2 years and you are considering marriage.
+			TH, as you, would quit the group to prioritise your own career
+				You are a member of a Japanese female idol group. Your group has many members and has rapidly gained popularity within the past few years. You have gotten most of the attention within the group and have been featured as "center" for all the singles that were released. Currently you are thinking of quitting the group and seek career in abroad.
+		R3
+			Assuming the complete absence of human performers, THP a world where all porn are created by AI
+			THR the increased accessibility of the production and consumption of internet pornography
+			THBT Japan should ban pornographic illustrations centered around minors (e.g. Comics or Animation which sexualize minors)
+		R4
+			THW privatise all national museums
+				Public museums are often curated by government departments, while private museums are focused on public interest in order to increase ticket sales. Private museums are run by NPOs and corporations, therefore are more profit incentivized.
+			THO music streaming services (e.g. Spotify)
+				Spotify is music streaming and media services provider with over 551 million monthly active users, including 220 million paying subscribers. Unlike physical sales or legal downloads, which pay artists a fixed amount per song or album sold, Spotify pays royalties based on their "market share": the number of streams for their songs as a proportion of total songs streamed on the service.
+			THO the use of artworks in social movements when the creator does not identify with that movement
+		QF
+			THW universally abolish any and all forms of conscription
+				Conscription is the state-mandated enlistment of people in a national service, mainly a military service.
+			TH, as the Muslim Brotherhood, would initiate guerilla operations against the CCP in support of the Uyghurs in the Xinjiang region
+				The Muslim Brotherhood is a militant Muslim organization known for its connections with various terrorist groups. It's public agenda is the liberation of all oppressed Muslim groups internationally and the perpetration of Muslim theocracies. The group's leadership has recently expressed concern and interest in the genocide of the Uyghur population in the Xinjiang region.
+				The CCP has continuously perpetrated various crimes against the Muslim population in the region, such as systematic violence, internment camps, and forced sterilization. This has led to a rapid drop in the Uyghur population, and despite international pressure against the genocide the CCP has silently continued its 're-education programs'.
+			THBT international sports federations should boycott any financial relationship with countries that have extremely poor humanitarian records
+		SF
+			Assuming humanity encountered intelligent extraterrestrial life, THBT humanity should avoid all contact with them
+			THP a world in which a Plumbob indicating the mental and physical health of each person exists
+				For the purpose of this debate, the "Plumbob" is a glowing crystal that is suspended above each individuals' head and is a fairly accurate reflection of the people's current health. If the person is in very good health, the Plumbob will be a bright, deep green. As the people's health deteriorates, the green will become paler until it becomes neutral white, yellow, orange, red, and even deeper shades of red when in worse conditions. 
+				Plumbobs do not simply reflect one's momentary mood.
+			THP the Brave New World to the status quo
+				In the Brave New World, all individuals are genetically designed for a specific purpose and occupation. After they are born, they receive education for these occupations, and they perform this role for the rest of their lives. Resources are distributed based on the importance of certain roles; there is inequality, but it is controlled and engineered.
+		GF
+			TH Hopes that LDP lose its political dominance
+				The Liberal Democratic Party is the predominant political party in Japan. Traditionally, it advocates social and economic conservatism as opposed to other parties such as the Constitutional Democratic Party which supports more progressive policies. The LDP has been the majority party in Japan since the conception of representative democracy in the state; it still enjoys widespread support among older generations, but its policies remain controversial among younger electorates.
+			TH, as Japanese government, would abolish the new immigration law
+				In 2023, Japan revised its immigration law. Previously, immigration law did not allow deportation if the one was in the process of asylum application. However, the new immigration law legitimizes the use of forcible deportation of asylum applicants if they applied for asylum over 3 times.
+			THW remove A-class war criminals from Yasukuni shrine
+				A majority of Japanese politicians pay homage and respect to Yasukuni shrine, a shinto site dedicated to preserving those who fought in the Pacific War. The shrine has been a topic of international controversy due to the fact that it also houses A-class war criminals, namely the Meiji cabinet that were the key decision makers in the conflict.
+		Rookie GF
+			THBT social media has done more harm than good for gender equality
+			THBT feminist movement should actively denounce TERF
+				TERF stands for trans-exclusionary radical feminist. The term was originally used to distinguish trans-inclusive feminists from a group of radical feminists who reject the assertion that trans women are women, the inclusion of trans women in women's spaces, and transgender rights legislation. Examples of specific claims based on TERF include but not limited to; opposing trans-women to use female exclusive spaces and trans-women participate in female sports.
+			TH, as the feminist movement, would decouple from the LGBTQIA+ community in order to prioritize women's rights
 	Gemini Cup 2022
 		R1
 			THS the existence of female vigilante groups in developing countries.
