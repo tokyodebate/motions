@@ -1,4 +1,28 @@
 Intertext
+	Intertext Pre-ABP 2023
+		R1
+			TH celebrates the rise of sexually-explicit expressions by female artists in mainstream pop music (including but not limited to "WAP")
+		R2
+			THW abolish all government schemes that provide grants, tax-breaks, or loans at preferential terms to home buyers
+		R3
+			THBT ASEAN countries should join the BRICS
+		R4
+			THP a world in which the conception of original sin in Abrahamic religions is entirely a result of human agency as opposed to temptation of the devil
+				The original sin is the condition or state of sin into which each human being is born. It has been used as the foundation for Abrahamic religions which has two competing explanations. Firstly,human agency which enforces that humans are not perfect and that their actions are made by free will. Secondly, the temptation of devil is the interpretation that humans were created perfectly and that their sins are made because of the devils temptation.
+		R5
+			TH, as a progressive activist, would actively oppose the Voice to Parliament
+				The Aboriginal and Torres Strait Islander Voice, also known as the Indigenous Voice to Parliament, the First Nations Voice or simply the Voice, is a proposed Australian federal advisory body to comprise Aboriginal and Torres Strait Islander people, to represent the views of Indigenous communities. On 14 October 2023, Australians will vote at a referendum on whether the Voice to Parliament should be enshrined in the Constitution.
+		QF
+			THP a world with a single, unified carbon market over a decentralized, voluntary carbon market
+				For purposes of this debate, carbon markets are where carbon credits, or carbon offsets are bought and sold. Businesses and individuals can buy carbon credits from organizations that engage in green activities that remove carbon from the environment (either directly e.g. by replanting trees, or indirectly by not polluting e.g. conserving a rainforest rather than clearing it for development). Buying carbon credits are a key part of businesses and national governments hitting their net zero targets.
+				Voluntary carbon markets operate on an opt-in platform, where entities keen to sell, purchase, finance or support a credit market at a specific price can do so, co-existing with other markets that have their own price point, carbon offset calculation formula, and other traits.
+		SF
+			THR the decision of the ECCAS to suspend Gabon's membership
+				Despite being a member of OPEC, one of Africa's major producers of oil (which accounts for 60% of national revenue), and having one of the highest per-capita GDPs on the continent, Gabon faces serious socioeconomic crises: a third of the population lives below the poverty line of US$5.50 per day, and the unemployment rate among Gabonese aged 15 to 24 was estimated at 40% in 2020. Following presidential elections held on 26 August 2023, the incumbent president, Ali Bongo, who had been seeking re-election for a third term, was declared the winner according to an official announcement made on 30 August. However, allegations of electoral fraud and irregularities immediately emerged from opposition parties and independent observers, casting doubt over the legitimacy of the election results. Amidst growing scrutiny and widespread protests over the conduct of the elections, the Armed Forces of Gabon launched a coup on 30 August and General Brice Oligui Nguema was sworn into as President. The Economic Community of Central African States is an Economic Community of the African Union for promotion of regional economic co-operation in Central Africa.The ECCAS suspended Gabon’s membership.
+		GF
+			THO the narrative that love (romantic, familial, etc.) is about sacrifice
+		EFL GF
+			THP a world where everyone pursued the romantic and sexual relationships with artificially intelligent robots
 	Intertext Pre-UADC 2022
 		R1
 			TH, as a youth activist, would prioritize working in civil society as opposed to within the government
