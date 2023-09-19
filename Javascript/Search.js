@@ -28,7 +28,8 @@ fetch(jsonUrl)
 	});
 
 //Search button
-$("#search-tournaments").click(() => {
+$("#search-tournaments").click((event) => {
+	event.preventDefault();
 	nameInput = $("#nameInput").val();
 	formatInput = $("#div-format :checked")
 		.map(function () {
