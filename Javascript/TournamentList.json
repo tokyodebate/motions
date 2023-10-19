@@ -1,9 +1,9 @@
 [
 	{
 		"id": "AoyamaWomensCup",
-		"name": "Aoyama Women's Cup",
+		"name": "Japan Womxn's / Aoyama Women's Cup",
 		"short": "",
-		"latest": 2021,
+		"latest": 2023,
 		"tag": ["BP", "open", "region:Domestic"],
 		"url": "AoyamaWomensCup.txt"
 	},
@@ -83,7 +83,7 @@
 		"id": "GeminiCup",
 		"name": "Gemini Cup",
 		"short": "",
-		"latest": 2022,
+		"latest": 2023,
 		"tag": ["Asian", "rookie", "region:Domestic"],
 		"url": "GeminiCup.txt"
 	},
@@ -363,7 +363,7 @@
 		"id": "UmekoCup",
 		"name": "Umeko Cup",
 		"short": "",
-		"latest": 2022,
+		"latest": 2023,
 		"tag": ["NA", "rookie", "region:Domestic"],
 		"url": "UmekoCup.txt"
 	},
