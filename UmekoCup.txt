@@ -1,4 +1,40 @@
 Umeko Cup
+	The 29th Umeko Cup (2023)
+		R1
+			THS a worldwide ban on the production of animal meat products
+				Balance $stats 6, 4
+		R2
+			THR the rise of cosmetic surgery treatments targeting minors
+				Balance $stats 5, 5
+				For ages under nineteen Teen Double Eyelid Surgery
+				"I used to hate exercising because double eyelid tape would come off with sweat."
+				"I'm not scared of sweat, water, no make-up. We only have three years in high school. I want to spend even one second more looking cute."
+		R3
+			THBT the LGBTQ movement should actively portray "coming out" stories in a positive way
+				Balance $stats 5, 5
+				Coming out of the closet, or simply coming out, refers to LGBTQ people's self-disclosure of their sexual orientation or of their gender identity.
+		R4
+			THP an "anonymous candidate system" of voting
+				Balance $stats 2, 8
+				In an "anonymous candidate" system, voters cast their votes for various policies, and candidates are matched to them based on the preferences presented. In this debate, it is assumed that voters can be matched to the candidate that best reflects their policy preferences. Under this system, voters do not know which specific candidate/parties they are voting for.
+		QF
+			TH, as Aboriginal Australians, Prefer significant governmental support for accessing mainstream higher education as opposed to support for Indigenous schools
+				Balance $stats 1, 3
+				The Aboriginal people of Australia are the Indigenous inhabitants of the Australian continent and its surrounding islands. Aboriginal societies are diverse, with hundreds of distinct languages, cultures, and traditions separate from the majority population. The Aboriginal people have faced centuries of oppression in the form of colonialism, land displacement, restricted access to education/employment/basic rights, and suppression of culture. 
+				Recently, the Australian government is making efforts to reconcile with the Aboriginal people through the acknowledgement of past injustices, promotion of indigenous cultural appreciation, constitutional recognition, initiatives for achieving social equality, etc.
+				Indigenous schools are exclusive to indigenous students and cater specifically to the educational needs and cultural sensitivities of the group.
+		SF
+			THS governments in the developing world selling Western corporations the rights to privatize cities
+				Balance $stats 1, 1
+				A private city is a place where a private entity such as corporation replaces an elected government to manage governance, development and services such as infrastructure and regulations for residents and businesses.
+		GF
+			TH, as environmentalists, Prefers to adopt a "cooperative approach" toward corporations as opposed to an "antagonistic approach"
+				Balance $stats 0, 1
+				In this debate, "a cooperative approach" to corporations refers to environmentalists working closely with corporations. Examples include but are not limited to trying to internally to restructure corporations, working as consultants for companies, buying shares of energy companies to lobby for change, celebrating their green achivements etc.
+				On the other hand, "an antagonistic approach" refers to environmentalists distancing from corporations. Examples include but are not limited to shaming and demonizing them through media platforms, boycotting companies, encouraging investors and consumers to distance from them etc.
+		Rookie GF
+			TH, as a charity successfully making the world a better place, Would decline donations from immoral actors
+				Balance $stats 0, 1
 	The 28th Umeko Cup (2022)
 		R1
 			THBT educators should actively teach children to focus on process over results.
