@@ -180,7 +180,7 @@
 		"name": "KK-Cup",
 		"short": "",
 		"latest": 2023,
-		"tag": [],
+		"tag": ["BP", "rookie", "region:Domestic"],
 		"url": "KKCup.txt"
 	},
 	{
@@ -435,7 +435,7 @@
 		"id": "ABP",
 		"name": "Asian British Parliamentary Championship",
 		"short": "ABP",
-		"latest": 2022,
+		"latest": 2023,
 		"tag": ["BP", "open", "international", "region:Asia"],
 		"url": "International/AsianBP.txt"
 	},
