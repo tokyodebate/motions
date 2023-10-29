@@ -1,4 +1,113 @@
 Asian BP
+	Malaysia ABP 2023
+		R1
+			THW significantly relax graduation requirements for schools in underprivileged areas (e.g. separate standardised testing, relaxed attendance requirements, flexible submission deadlines, reduced number of subjects, etc.)
+				OG $stats 8, 6, 3, 2
+				OO $stats 5, 5, 4, 5
+				CG $stats 4, 4, 6, 5
+				CO $stats 2, 4, 6, 7
+		R2
+			THW would accept the contract to play in the Saudi Pro League
+				OG $stats 3, 2, 9, 5
+				OO $stats 5, 8, 1, 5
+				CG $stats 5, 3, 3, 8
+				CO $stats 6, 6, 6, 1
+				You are a young talented rising star in one of the top four European football leagues (Germany, Spain, Italy, and England). You have just been offered a multi-million dollar contract by a club in the emerging Saudi Pro League, and it is substantially higher compensation than any other contract in a European league. The Saudi Pro League is the national football league in Saudi Arabia.
+		R3
+			THBT countries with public healthcare systems should not subsidize life-extending treatments for the elderly or those with terminal illnesses
+				OG $stats 4, 5, 7, 3
+				OO $stats 4, 7, 3, 5
+				CG $stats 4, 4, 4, 7
+				CO $stats 7, 3, 5, 4
+				For the purposes of this debate, life-extending treatment refers to medical interventions that prolong the duration of life without curing the underlying medical conditions. Examples include dialysis, mechanical ventilation, and clinically assisted nutrition.
+		R4
+			THBT developing countries should nationalise all mining and resource extraction industries
+				OG $stats 5, 4, 6, 4
+				OO $stats 4, 9, 5, 1
+				CG $stats 3, 4, 4, 8
+				CO $stats 7, 2, 4, 6
+		R5
+			THW lift economic sanctions on the Taliban
+				OG $stats 4, 10, 3, 2
+				OO $stats 4, 4, 7, 4
+				CG $stats 4, 4, 5, 6
+				CO $stats 7, 1, 4, 7
+				Since 1999, various bodies such as the United Nations, the European Union, and the United States have placed sanctions on the Taliban and Afghanistan more broadly. They fall generally into two categories: economic sanctions, like the suspension of developmental aid and the widespread freezing of government assets, and non-economic sanctions like arms embargos and travel bans.
+		R6
+			THBT the feminist movement should oppose policies that incentivise people to get married
+				OG $stats 5, 5, 6, 3
+				OO $stats 5, 7, 5, 2
+				CG $stats 2, 4, 4, 9
+				CO $stats 7, 3, 4, 5
+		Pre QF
+			THBT an international body should have control over all water resources on Earth
+				OG $stats 3, 1
+				OO $stats 3, 1
+				CG $stats 0, 4
+				CO $stats 2, 2
+		QF
+			THR the democratization of financial information and financial advice
+				OG $stats 4, 0
+				OO $stats 2, 2
+				CG $stats 0, 4
+				CO $stats 2, 2
+				(1) Information democratization refers to the current trend of increased citizen creation, distribution, exhibition, and curation of information.
+				(2) Financial information refers to data and insight related to an individual's or organization's financial situation, including income, expenses, assets, liabilities, investments, and economic trends. Financial advice, on the other hand, involves the interpretation and application of this information to provide guidance or recommendations.
+		SF
+			THBT political candidates from minority religious backgrounds should not use their religious identity as an election campaign strategy
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 1, 1
+		GF
+			THR the emphasis on sacrifice when determining the moral values of actions
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+		EFL Pre GF
+			THBT the EU should cut funding* to EU member states that violate Article 2 of the EU Treaty *eg: Agriculture subsidies
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 1, 0
+				Article 2 of the Treaty on European Union sets out the conditions that member states must uphold in order to members of the EU - namely "the values of respect for human dignity, freedom, democracy, equality, the rule of law, and respect for human rights" etc. 
+				However, over the past decade anti-democratic tendencies have been identified in the young Central and Eastern European member states. Erosions of democracy have progressed furthest in Hungary and Poland: In Hungary, the concentration of power under Prime Minister Victor Orbán has steadily increased since 2010, and in 2020, in response to the coronavirus pandemic, the Hungarian Parliament approved a bill to make the state of emergency indefinite and grant the ability for Prime Minister Orbán to rule by decree. Poland has also seen continuous erosions such as measures that undermine the independence of the judiciary, allow the ruling party to dominate the media, and silence criticism from civil society. Threats to media freedom were seen in Czech Republic and Slovakia in 2018 and Croatia, Lithuania, Bulgaria and Romania faced problems in the fields of corruption and threats to the independence of the judiciary
+		EFL GF
+			THP a world with access to a pill that permanently removes your ability to feel strong or intense emotions
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+	Malaysia ABP 2022
+		R1
+			THR the popularization of culturally significant locations as tourist destinations (e.g. Bali and Central Java in Indonesia, Siem Reap in Cambodia etc)
+		R2
+			THW allow prisoners to commute their sentence in exchange for enlisting in the military
+		R3
+			THO the "giving mother" trope
+				The "giving mother" is a trope throughout history which pays homage to the generosity of females. This is seen in stories and folklore where women are heralded as powerful or heroes for being matriarchs, taking on certain leadership roles whilst being the nurturing mothers in their communities, capable of offering strength and support to other members.
+		R4
+			THBT Pakatan Harapan should have opted to remain a strong Opposition instead of forming a unity government with Barisan Nasional
+				On the 19th of November 2022, the nation wide Malaysian General Elections saw (then Opposition), centre-left coalition Pakatan Harapan (PH) attain the highest number of seats (81) in Parliament. The party with the next highest number of seats won was far right coalition Perikatan Nasional (PN) (74) led by Muhyiddin Yassin. With no party or coalition attaining a simple majority (112), this resulted in a hung parliament. To resolve this, Pakatan Harapan joined forces with other parties most notably the embattled centre right wing coalition, Barisan Nasional (BN). This led to the formation of the country's first unity government helmed by Anwar Ibrahim.
+		R5
+			THO the push towards political correctness in comedy
+		R6
+			In recently post-conflict states, THBT technocrats should govern the state for the first five years
+		EFL SF
+			THBT the LGBTQ+ movement should abandon the advocacy for traditional societal norms (marriage equality, religious acceptance) in favour of non-traditional norms (irreligiosity, hyper-sexualization, polyamoury/open relationships etc)
+		EFL GF
+			TH, as the scientist, would not reveal this discovery
+				You are a scientist who has just discovered a secret, resource-rich, utopian civilisation. Upon further research you have reason to believe this is the lost city of Atlantis, previously thought to be fabled. You are the sole person who has, and will ever have, this information. You have been implored by the Atlantians not to disclose their secret location.
+		Pre-QF
+			TH, as an independent investigative journalist covering conflict areas, would choose to focus on the aggressions of the more dominant actor in the conflict (E.g. Military Junta in Myanmar, and Israel Defense Force in Palestine-Israel, etc.)
+		QF
+			THP a world where there is one dominant interpretation/denomination of major religions, rather than separated and differentiated sets of doctrines and beliefs in the same major religion
+		SF
+			THO the prominence of the "Out & Proud" movement in LGBTQ+ advocacy
+				The "Out & Proud" movement is a movement that celebrates and emphasizes the importance of coming out of the "closet", i.e. an LGBTQ+ individual's self-disclosure of their sexual orientation, romantic orientation or gender identity.
+		GF
+			THP a world where valourised national heroes in history are morally flawed instead of morally good
 	ABP 2021
 		R1
 			This House, as a financially comfortable citizen in an East Asian society, would pursue 'warabel'

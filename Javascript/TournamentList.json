@@ -1,11 +1,11 @@
 [
 	{
-		"id": "AoyamaWomensCup",
+		"id": "Womens",
 		"name": "Japan Womxn's / Aoyama Women's Cup",
 		"short": "",
 		"latest": 2023,
 		"tag": ["BP", "open", "region:Domestic"],
-		"url": "AoyamaWomensCup.txt"
+		"url": "Womens.txt"
 	},
 	{
 		"id": "AsianBridge",
@@ -307,7 +307,7 @@
 		"id": "SunSunCup",
 		"name": "Sun Sun Cup",
 		"short": "",
-		"latest": 2021,
+		"latest": 2023,
 		"tag": ["BP", "proam", "region:Domestic"],
 		"url": "SunSunCup.txt"
 	},
@@ -546,7 +546,7 @@
 		"id": "EUDC",
 		"name": "European Universities Debating Championships",
 		"short": "EUDC",
-		"latest": 2022,
+		"latest": 2023,
 		"tag": ["BP", "open", "international", "region:Europe"],
 		"url": "International/EUDC.txt"
 	},

@@ -1,4 +1,108 @@
 European Universities Debating Championships
+	Black Sea EUDC 2023
+		R1
+			Given the opportunity, TH, as a talented young individual living in Bulgaria, would emigrate to pursue a career in Western Europe
+				OG $stats 9, 9, 13, 7
+				OO $stats 13, 9, 6, 10
+				CG $stats 8, 12, 8, 10
+				CO $stats 8, 8, 11, 11
+		R2
+			THBT news publications should be anonymized and signed as a collective editorial
+				OG $stats 8, 10, 15, 5
+				OO $stats 14, 7, 10, 7
+				CG $stats 7, 9, 7, 15
+				CO $stats 9, 12, 6, 11
+		R3
+			THW grant substantial authority to eSports Player Unions, including but not limited to, influence over tournament format, in-game balance, and working conditions
+				OG $stats 10, 7, 13, 8
+				OO $stats 10, 13, 11, 4
+				CG $stats 5, 11, 8, 14
+				CO $stats 13, 7, 6, 12
+		R4
+			TH Predicts that the Judicial Reform will lead to Netanyahu's Exit from Office
+				OG $stats 5, 11, 14, 8
+				OO $stats 10, 9, 11, 8
+				CG $stats 8, 9, 7, 14
+				CO $stats 15, 9, 6, 8
+				The Israeli Judicial Reform led by the Netanyahu government seeks to curb the judiciary's influence over lawmaking and public policy by limiting the Supreme Court's power to exercise judicial review and granting the government control over judicial appointments
+		R5
+			THW only provide state pensions to those mentally or physically unable to work
+				OG $stats 6, 8, 17, 7
+				OO $stats 13, 12, 10, 3
+				CG $stats 7, 8, 8, 15
+				CO $stats 12, 10, 3, 13
+		R6
+			THO the use of political messaging in Children's Entertainemnt
+				OG $stats 2, 18, 10, 8
+				OO $stats 18, 6, 9, 5
+				CG $stats 8, 6, 9, 15
+				CO $stats 10, 8, 10, 10
+				In children's entertainment, a political message specifically addresses issues, policies, or power dynamics related to governance and public affairs. It aims to shape public opinion, influence political decisions, or promote specific political ideologies. Examples of children's media with political messages include "The Lorax," "Zootopia," and "Pocahontas"
+				It should not be confused with apolitical moral messages, which focus on teaching universal values like honesty, kindness, and empathy, and are prevalent in most children's media (e.g. "SpongeBob SquarePants," "Dora the Explorer," and "The Powerpuff Girls."). 
+				The key distinction that makes a message political lies in whether the message primarily addresses specific political issues as compared to broader ethical principles.
+		R7
+			THP drug regulatory bodies (e.g. FDA, EMA, MHRA) to only evaluate whether pharmaceuticals (e.g. treatments, medicines, vaccines) are safe, but not whether they are effective
+				OG $stats 6, 6, 13, 12
+				OO $stats 18, 12, 5, 2
+				CG $stats 5, 10, 7, 15
+				CO $stats 8, 9, 12, 8
+		R8
+			THBT aggressive power projection* in South East Asia is in China's interest *e.g. making territorial claims and increased military presence in the South China Sea; diplomatic pressure; financing large infrastructure projects to exert economic pressure
+				OG $stats 8, 12, 12, 5
+				OO $stats 10, 12, 11, 4
+				CG $stats 9, 10, 3, 15
+				CO $stats 10, 3, 11, 13
+		R9
+			THO the rapid development of AI
+				OG $stats 14, 11, 8, 4
+				OO $stats 10, 12, 9, 6
+				CG $stats 8, 9, 7, 13
+				CO $stats 5, 5, 13, 14
+		POF
+			THO the commercialization of sex* *widespread use of sex and sexual imagery to sell products, entertainment and business
+				OG $stats 1, 3
+				OO $stats 4, 0
+				CG $stats 1, 3
+				CO $stats 2, 2
+		QF
+			THP a world without the desire for revenge
+				OG $stats 4, 0
+				OO $stats 1, 3
+				CG $stats 0, 4
+				CO $stats 3, 1
+		SF
+			THO the strategy of deficit financing by Liberal Democracies
+				OG $stats 2, 0
+				OO $stats 2, 0
+				CG $stats 0, 2
+				CO $stats 0, 2
+				Deficit financing is a deliberate voluntary strategy used by governments to finance their budget deficits or shortfalls in revenue by borrowing money rather than reducing expenditures or increasing taxes, in order to achieve specific economic and social objectives.
+		GF
+			Assuming it can be done with no risk to humanity's existence, THBT God should be killed
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				There is an all knowing, all powerful God who created the universe and all life within it. After the creation, God has let the universe follow its own course, with limited interventions. God is no longer necessary for the continuation of the universe and its natural laws. There is no other God. None of this is revealed to humanity at the moment
+		ESL QF
+			THBT the EU should create a specialized court responsible for investigating and prosecuting political corruption across its member states
+				OG $stats 2, 2
+				OO $stats 2, 2
+				CG $stats 3, 1
+				CO $stats 1, 3
+		ESL SF
+			TH Hopes that the future of humanity is transhumanism
+				OG $stats 2, 0
+				OO $stats 0, 2
+				CG $stats 2, 0
+				CO $stats 0, 2
+				Transhumanism refers to a future where advanced technologies are used to augment and transcend the biological limitations of humans (e.g. brain-computer interfaces, bionic implants, customizable genetic traits). It is meant to elevate human capabilities beyond their natural level, as opposed to medical uses of technology aimed at restoring basic capabilities (e.g. prosthetics for amputees, curing hereditary diseases).
+		ESL GF
+			TH Predicts that Russia will not have control of most of the occupied and contested Ukrainian territories* by the end of the war *such as the occupied territories in Donetsk, Luhansk, Kherson and Zaporizhzhia oblasts, Crimea, and the strategically significant contested territories (gray areas) such as Robotyne, Antonivskyi bridge, and Kreminna forest
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
 	Zagreb EUDC 2022
 		R1
 			THW ban zoos
