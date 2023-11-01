@@ -1,4 +1,66 @@
 JPDU Tournament (BP)
+	JPDU Autumn Tournament 2023
+		R1
+			THW prohibit religious organizations from providing rehabilitation for addicts
+				OG $stats 3, 2, 2, 4
+				OO $stats 4, 2, 3, 2
+				CG $stats 1, 3, 5, 2
+				CO $stats 3, 4, 1, 3
+		R2
+			THS the formation of the "Lithium OPEC"
+				OG $stats 1, 3, 5, 2
+				OO $stats 1, 2, 3, 5
+				CG $stats 4, 4, 2, 1
+				CO $stats 5, 2, 1, 3
+				South American Governments are considering the formation of a "Lithium OPEC", a cartel in which production, pricing, and export of Lithium will be controlled by an intergovernmental alliance as opposed to the status quo where the extraction industry is primarily lead by the private sector. Though Australia, Chile, and China lead global production today, South America holds more than half of the world’s identified Lithium deposits (Bolivia: 23.7%, Argentina: 21.5%, Chile: 11.1%, etc. (2022)).
+		R3
+			THP a world with dominant norm that friendly/intimate relationships in business should be minimal, to a world with dominant norm that people should actively seek friendly/intimate relationships in business
+				OG $stats 3, 3, 3, 2
+				OO $stats 1, 5, 2, 3
+				CG $stats 5, 3, 0, 3
+				CO $stats 2, 0, 6, 3
+		R4
+			THS the implementation of San Pedro's prison structure
+				OG $stats 2, 5, 3, 1
+				OO $stats 3, 2, 6, 0
+				CG $stats 4, 1, 0, 6
+				CO $stats 2, 3, 2, 4
+				San Pedro is the largest prison in Bolivia and is renowned for being a society within itself. There are no guards inside the prison and police officers exclusively guard the outside of the prison only. Prisoners have to buy/rent the cells they live in, with a range of accommodation provided to them from worst to best. Prisoners can earn money from working in the prison as messengers, hairdressers, shopkeepers and many more. The prison holds annual elections to elect a leader and executives, similar to a regular cabinet.
+		Pre SF
+			THBT VTuber production companies should unilaterally prohibit "Kirinuki" channels, instead of continuing current effort to spread compliance towards the "Kirinuki" guidlines
+				OG $stats 0, 2
+				OO $stats 1, 1
+				CG $stats 2, 0
+				CO $stats 1, 1
+				Following the popularity of VTubers (Virtual YouTubers) on social media, there are many 3rd party "Kirinuki" channels making short clips which highlights the entertaining moments out of VTubers' streamings.
+				"Kirinuki" channels are generally allowed to make money as long as they comply with "Kirinuki" guidelines (e.g. defamation, fake information, several hours of buffer time until releasing clips after the original streamings) set by VTuber production companies.
+				Sometimes "Kirinuki" channels are criticized for neglecting the guidelines, creating misleading titles/thumbnails, and other problematic contents."
+		SF
+			THBT Japanese feminists should idealize male individuals who have changed their family name upon their marriage
+				OG $stats 1, 1
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 0, 2
+				In Japanese law, either of 2 has to change their family name into their partner's one upon their marriage.
+		GF
+			THBT the deceleration of Chinese economy will do more harm than good for the Asian regional security
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+		Rookie SF
+			TH, as you, W destroy all the evidence of the human experiment
+				OG $stats 1, 1
+				OO $stats 0, 2
+				CG $stats 1, 1
+				CO $stats 2, 0
+				You are a researcher working for a corporation that is about to release a cure for a fatal disease that afflicts millions. You've been recently made aware that the research conducted involved several instances of underground human experiments which led to the speed in development. You have substantial evidence to prove this beyond reasonable doubt. Releasing this information will lead to the shut down of the research. You are the only one that has the evidence, and once destroyed, the evidence will never be discovered by anyone else.
+		Rookie GF
+			THW force citizens to serve several years in industries which the government deems to be important for country's economy/society but severely lack labor (e.g. agriculture, nursing for Japan)
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
 	JPDU Autumn Tournament 2022
 		R1
 			Assuming feasibility of assessment, THW decide jobs of individuals based on their abilities upon reaching legal adulthood.
