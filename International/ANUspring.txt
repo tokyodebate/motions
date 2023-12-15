@@ -1,34 +1,141 @@
 ANU Spring BP
-	ANU Spring 2021 BP
-		R1
-			This house believes prominent male feminists should actively encourage cis-straight men to participate in drag culture.
+	ANU Spring 2023
+		R1a
+			THS a significant increase in the prevalence of bilingual education systems
+				OG $stats 1, 1, 2, 1
+				OO $stats 0, 2, 2, 1
+				CG $stats 3, 0, 1, 1
+				CO $stats 1, 2, 0, 2
+				Bilingual education is a mode of education in which students are educated in two (or more) languages (i.e. some school subjects are taught in a second language). This is distinct from students merely learning a second language.
+		R1b
+			TBHT education systems should heavily prioritise the teaching of local literature over the global canon
+				OG $stats 1, 2, 3, 0
+				OO $stats 3, 1, 1, 1
+				CG $stats 1, 2, 1, 2
+				CO $stats 1, 1, 1, 3
 		R2
-			This house prefers the holistic education model to systems of student choice.
+			TH, as a wealthy art collector, would choose to invest in red-chip art over blue chip art
+				OG $stats 1, 4, 2, 4
+				OO $stats 4, 2, 4, 1
+				CG $stats 2, 2, 2, 5
+				CO $stats 4, 3, 3, 1
+				Blue-chip art refers to work by established artists that have a history of creating art. Blue-chip artists build and maintain their reputation through traditional avenues such as art galleries, dealers and physical exhibitions.
+				Red-chip art refers to work by younger artists who rise to fame relatively quickly through gaining an online following on image-based platforms such Instagram, TikTok etc. These artists bypass traditional avenues and promote their work mostly online. There is a slowly rising upward trend in prices for red-chip art on the art market.
+		R3
+			TH, as a world-class female football (played with a round ball) manager working in women's football, would publicly declare that you would never take a job in the men's game
+				OG $stats 3, 3, 3, 2
+				OO $stats 3, 3, 2, 3
+				CG $stats 3, 2, 2, 4
+				CO $stats 2, 3, 4, 2
+		R4
+			TH, as Vietnam, would significantly prioritize relations with the West over China
+				OG $stats 4, 1, 3, 2
+				OO $stats 3, 3, 2, 2
+				CG $stats 1, 2, 5, 2
+				CO $stats 2, 4, 0, 4
+		R5
+			THW livestream criminal trials
+				OG $stats 0, 3, 3, 4
+				OO $stats 4, 3, 2, 1
+				CG $stats 0, 3, 4, 3
+				CO $stats 6, 1, 1, 2
+		SF
+			THP regionally/nationally focused news outlets (e.g. The Sydney Morning Herald, Aaj Tak, NDTV India) to international news outlets (e.g. The New York Times, The Guardian)
+				OG $stats 1, 1
+				OO $stats 0, 2
+				CG $stats 1, 1
+				CO $stats 2, 0
+		GF
+			THP a world where the US had aggressively pushed for total global nuclear disarmament at the end of the Cold War
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				At the conclusion of the Cold War, the US and Russia substantially reduced the size of their nuclear arsenals and signed substantial arms reduction treaties, START I and START II. However, both states still maintain significantly larger nuclear arsenals than any other state. Due to the collapse of the USSR, Ukraine, Kazakhstan and Belarus became nuclear weapons states in the early 90s. The US and Russia both supported these states transferring these weapons to Russia in exchange for commitments to refrain from threatening them militarily.
+				The US and Russia are both party to the Nuclear Non-Proliferation Treaty (NPT). Under the NPT, states that tested nuclear weapons before 1967 are legally recognised as nuclear-weapon states, but are required to attempt to take genuine steps towards disarmament.
+		Rookie GF
+			In ethnically diverse countries, THW require all neighbourhoods to represent the ethnic makeup of that country
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+	ANU Spring 2021 BP
+		R1A
+			THBT large companies should be made financially responsible for the pollution caused by sabotage by environmental activists (for example, clean up costs from the sabotage of oil pipelines)
+				OG $stats 2, 3, 6, 1
+				OO $stats 5, 3, 2, 2
+				CG $stats 1, 3, 3, 5
+				CO $stats 4, 3, 1, 4
+		R1B
+			THS the manufacture of cheap, generic versions of medications and vaccines, in violation of western patents
+				OG $stats 4, 3, 2, 1
+				OO $stats 1, 2, 4, 2
+				CG $stats 0, 2, 2, 4
+				CO $stats 4, 2, 1, 2
+		R2
+			THP the holistic education model to systems of student choice
+				OG $stats 4, 4, 6, 6
+				OO $stats 8, 3, 5, 4
+				CG $stats 4, 6, 7, 3
+				CO $stats 4, 7, 2, 7
 				In the holistic education model, students are required to take courses from across a range of disciplines (languages, natural sciences, humanities and social sciences), whereas in systems of student choice, students choose a subject area to focus on and take courses to specialise in this area.
 		R3
-			This house believes prominent male feminists should actively encourage cis-straight men to participate in drag culture.
+			TH believes prominent male feminists should actively encourage cis-straight men to participate in drag culture
+				OG $stats 4, 5, 5, 6
+				OO $stats 6, 5, 7, 2
+				CG $stats 6, 6, 4, 4
+				CO $stats 4, 4, 4, 8
 				A drag queen is a person who uses clothing and makeup to imitate and often exaggerate female gender signifiers and gender roles for entertainment purposes. Historically, most drag queens have been men dressing as women. In modern times, drag queens are associated with gay men and gay culture.
 		R4
-			This house, as China, would abandon Wolf-Warrior diplomacy.
+			TH, as China, would abandon Wolf-Warrior diplomacy
+				OG $stats 1, 4, 6, 9
+				OO $stats 6, 6, 3, 5
+				CG $stats 6, 4, 6, 4
+				CO $stats 7, 6, 5, 2
 				Wolf-Warrior diplomacy is a Chinese diplomatic philosophy focused on a combative public presence, both in terms of rebutting criticism of China and criticising the actions of other nations. One of the most famous examples was Foreign Ministry of China spokesman Zhao Lijian criticising Australia by sharing an image on Twitter by Chinese cartoonist Wuhe Qilin. The image depicted an Australian soldier holding a bloodstained knife to a child’s throat. The image references Australian warcrimes in Afghanistan, as detailed in the Brereton Report, and its sharing garnered significant global controversy.
 		R5
-			This house supports norms and institutions which give significant political power to opposition parties (for example, a norm of bipartisan coalitions, appointment to powerful roles in the Executive)
+			THS norms and institutions which give significant political power to opposition parties (for example, a norm of bipartisan coalitions, appointment to powerful roles in the Executive)
+				OG $stats 4, 5, 3, 7
+				OO $stats 6, 4, 7, 2
+				CG $stats 7, 4, 4, 4
+				CO $stats 2, 6, 5, 6
 		QF
-			This house would impose B-Corporation requirements into the governing constitutions of all large companies.
+			THW impose B-Corporation requirements into the governing constitutions of all large companies
+				OG $stats 2, 2
+				OO $stats 2, 2
+				CG $stats 2, 2
+				CO $stats 2, 2
 				To become certified as a "B-Corporation", a company must make changes to its governing constitution. There are three important changes:
 				1. The establishment of clear wording to "consider stakeholder interests" in company articles of incorporation or company by-laws.
 				2. Define "stakeholders" as the employees, the community, the environment, suppliers, customers, and shareholders.
 				3. Forbid prioritization of one stakeholder over another.
-				If a company acts inconsistently with its governing constitution, interested parties can enforce its provisions through the courts. Examples of B-Corporations are AllBirds (shoes), Patagonia (outdoor-wear), and Ben & Jerries (ice cream).
+				If a company acts inconsistently with its governing constitution, interested parties can enforce its provisions through the courts. 
+				Examples of B-Corporations are AllBirds (shoes), Patagonia (outdoor-wear), and Ben & Jerries (ice cream).
 		SF
-			This house opposes the ascension of Naftali Bennet to the Israeli premiership.
-				Benjamin Netanyahu, has been ousted from office by a coalition of rivals, ending his 12-year run in power. Israel's new prime minister, Naftali Bennett was sworn in on Sunday after a vote of confidence with the narrowest of margins; 60 votes to 59. Bennett, the far right leader of Yamina party, will be prime minister until September 2023 as part of a power-sharing deal. He will then hand power over to Yair Lapid, head of the centrist Yesh Atid party, for a further two years. Bennett leads a self-described “government of change” that is a mix of ideologically opposed politicians from the left (Labor), the centre (Lapid), hardline Jewish religious nationalists and a small Arab Islamist party. Bennett has long opposed the two-state solution - and the cessation of military action against Hamas in the Gaza Strip. He is in support of the expansion of Jewish settlements in the West Bank and East Jerusalem.
+			THO the ascension of Naftali Bennet to the Israeli premiership
+				OG $stats 0, 2
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 2, 0
+				Benjamin Netanyahu, has been ousted from office by a coalition of rivals, ending his 12-year run in power. Israel's new prime minister, Naftali Bennett was sworn in on Sunday after a vote of confidence with the narrowest of margins; 60 votes to 59. Bennett, the far right leader of Yamina party, will be prime minister until September 2023 as part of a power-sharing deal. He will then hand power over to Yair Lapid, head of the centrist Yesh Atid party, for a further two years. 
+				Bennett leads a self-described "government of change" that is a mix of ideologically opposed politicians from the left (Labor), the centre (Lapid), hardline Jewish religious nationalists and a small Arab Islamist party. Bennett has long opposed the two-state solution - and the cessation of military action against Hamas in the Gaza Strip. He is in support of the expansion of Jewish settlements in the West Bank and East Jerusalem.
 		ESL GF
-			This house believes that journalists who support a Palestinian state should deprioritise Hamas' role in the escalation of the conflict.
-		Novice GF
-			This house believes that religious leaders should abandon the use of the narrative of "test of God" in religious preachings.
+			THBT journalists who support a Palestinian state should deprioritise Hamas' role in the escalation of the conflict
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+		Rookie GF
+			THBT religious leaders should abandon the use of the narrative of "test of God" in religious preachings
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
 				For the purpose of this debate, the "test of god" refers to the narrative in which religious followers are taught that their difficulties in life (which may include but are not limited to personal struggles, relationship woes, economic difficulties, natural disasters) are tests of God through which their spiritual and emotional strengths are tested.
 		GF
-			This house supports the use of ‘right to privacy’ arguments to advance social causes (for example, the decriminalisation of abortion and homosexuality).
+			THS the use of 'right to privacy' arguments to advance social causes (for example, the decriminalisation of abortion and homosexuality)
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
 				'Right to privacy' arguments assert that the state should not have the ability to interfere in the decisions and actions of individuals.
-

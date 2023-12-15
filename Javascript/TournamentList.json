@@ -411,7 +411,7 @@
 		"id": "ANUSpring",
 		"name": "ANU Spring BP",
 		"short": "",
-		"latest": 2021,
+		"latest": 2023,
 		"tag": ["BP", "open", "international", "region:Oceania"],
 		"url": "International/ANUspring.txt"
 	},
@@ -501,6 +501,14 @@
 			"region:Asia"
 		],
 		"url": "International/Diliman.txt"
+	},
+	{
+		"id": "Doxbridge",
+		"name": "Doxbridge",
+		"short": "",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:Europe"],
+		"url": "International/Doxbridge.txt"
 	},
 	{
 		"id": "Drexel",
@@ -675,7 +683,14 @@
 		"name": "UT MARA",
 		"short": "",
 		"latest": 2023,
-		"tag": ["Asian", "BP", "open", "rookie", "international", "region:Asia"],
+		"tag": [
+			"Asian",
+			"BP",
+			"open",
+			"rookie",
+			"international",
+			"region:Asia"
+		],
 		"url": "International/MARA.txt"
 	},
 	{
@@ -685,6 +700,14 @@
 		"latest": 2020,
 		"tag": ["BP", "open", "international", "region:Oceania"],
 		"url": "International/MelbourneMini.txt"
+	},
+	{
+		"id": "Monash",
+		"name": "Monash",
+		"short": "",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:Europe"],
+		"url": "International/Monash.txt"
 	},
 	{
 		"id": "Mukarji",
@@ -706,7 +729,7 @@
 		"id": "NEADC",
 		"name": "North-East Asian Debate Championship",
 		"short": "MEADC",
-		"latest": 2022,
+		"latest": 2023,
 		"tag": ["BP", "open", "international", "region:Asia"],
 		"url": "International/NEADC.txt"
 	},
@@ -827,7 +850,13 @@
 		"name": "Tokyo IV",
 		"short": "",
 		"latest": 2023,
-		"tag": ["BP", "open", "international", "region:Domestic", "region:Asia"],
+		"tag": [
+			"BP",
+			"open",
+			"international",
+			"region:Domestic",
+			"region:Asia"
+		],
 		"url": "International/TokyoIV.txt"
 	},
 	{
@@ -869,6 +898,14 @@
 		"latest": 2023,
 		"tag": ["BP", "open", "international", "region:Europe"],
 		"url": "International/Vienna.txt"
+	},
+	{
+		"id": "WesternIV",
+		"name": "Western IV",
+		"short": "WSDC",
+		"latest": 2023,
+		"tag": ["BP", "open", "international", "region:Europe"],
+		"url": "International/WesternIV.txt"
 	},
 	{
 		"id": "WSDC",

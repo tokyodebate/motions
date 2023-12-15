@@ -1,0 +1,70 @@
+Western IV
+    Western IV 2023
+		R1
+			THP a world where social movements have faith in humanity
+				OG $stats 5, 4, 13, 3
+				OO $stats 7, 4, 7, 7
+				CG $stats 5, 12, 2, 6
+				CO $stats 8, 5, 3, 9
+				For the purposes of this debate, faith in humanity consists of (1) the belief that people are decent and good at heart (2) the desire to encourage people to do good, even at the expense of significant personal sacrifice. Prominent examples include Mohandas Gandhi, who urged his followers to treat as "an article of faith" the view that there is "no one so fallen" that he cannot be "converted by love"
+		R2
+			THP a world where people practice non-attachment
+				OG $stats 9, 4, 7, 5
+				OO $stats 5, 8, 8, 4
+				CG $stats 6, 8, 4, 7
+				CO $stats 5, 5, 6, 9
+				Non-attachment is the practice of overcoming emotional attachment to things or people. A non-attached person can still value and take care of things and people, but builds enough emotional distance to prevent feeling distress if they were damaged or taken away.
+		R3
+			THBT the feminist movement in Western Liberal Democracies should actively campaign for and provide funding for feminist/ethical porn
+				OG $stats 2, 2, 15, 6
+				OO $stats 6, 11, 6, 2
+				CG $stats 8, 8, 3, 6
+				CO $stats 9, 4, 1, 11
+		R4
+			THBT significantly raising the purchasing power of the Chinese people is in the interests of the Chinese Communist Party
+				OG $stats 6, 2, 8, 8
+				OO $stats 6, 8, 5, 5
+				CG $stats 8, 9, 6, 1
+				CO $stats 4, 5, 5, 10
+		R5
+			THS a world where the Empathy Gun exists and is widely accessible
+				OG $stats 2, 7, 9, 5
+				OO $stats 8, 6, 4, 5
+				CG $stats 5, 6, 7, 5
+				CO $stats 8, 4, 3, 8
+				The Empathy Gun (tm) is a device which, while aimed at another person, causes that person to feel the exact emotions as the wielder of the gun. It can be used with or without the consent of the other person.
+		PDouble QF, ESL GF
+			THS narratives that diversity is instrumentally valuable rather than morally right
+				PDouble QF OG $stats 2, 2
+				PDouble QF OO $stats 0, 4
+				PDouble QF CG $stats 2, 2
+				PDouble QF CO $stats 4, 0
+				ESL GF OG $stats 1, 0
+				ESL GF OO $stats 0, 1
+				ESL GF CG $stats 0, 1
+				ESL GF CO $stats 0, 1
+				Narratives that suggest that diversity is instrumentally valuable include messages such as "Companies that have women in leadership are more successful" or "Having a diversity of backgrounds on college campuses improves learning." Narratives that suggest that diversity is morally right include messages such as "Having a diverse workforce is the right thing to do" or "We should make up for past discrimination by ensuring that college campuses are diverse today"
+		QF, Rookie GF
+			THBT feminists should support "tough-on-crime" policies for crimes that disproportionately happen to women
+				QF OG $stats 2, 2
+				QF OO $stats 3, 1
+				QF CG $stats 1, 3
+				QF CO $stats 2, 2
+				Rookie GF OG $stats 0, 1
+				Rookie GF OO $stats 1, 0
+				Rookie GF CG $stats 0, 1
+				Rookie GF CO $stats 0, 1
+		SF
+			THBT the election of Javier Milei is in the best interests of Argentina
+				OG $stats 0, 2
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 2, 0
+				Argentina is facing a major economic crisis: annual inflation is over 100% and the country is on the edge of sovereign debt default. Javier Milei, the frontrunner in Argentina's upcoming presidential election, supports ending the crisis through radical free market policies. His policies include, but are not limited to: ending currency controls and seeking the dollarization of the Argentinian economy, significant reductions in government spending, and the flexibilization of labor markets.
+		GF
+			THW tell the world the truth about the "plandemic"
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				You are a medical practitioner who, by happy coincidence, ended up drinking with Anthony Fauci, the head of the American National Institute of Allergies and Infectious Diseases, and former medical advisor to President Biden. Having gotten extremely drunk, Mr. Fauci reveals to you, with irrefutable evidence, that the COVID-19 pandemic was in fact a "plandemic", and that the virus was released deliberately to test the extent to which the US government can control and manipulate its population. The vaccines were never really efficient and were but a ploy to earn profit for the pharmaceutical industry. The next morning, Fauci doesn't remember telling you anything and remains unaware that you possess the information.

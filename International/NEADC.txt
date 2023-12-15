@@ -1,4 +1,107 @@
 North-East Asian Debate Championship
+	Guangzhou NEADC 2023
+		R1
+			THO the trend of charitable organizations increasingly adopting 'resume padding' in their initiative and advocacy
+				OG $stats 5, 3, 4, 9
+				OO $stats 9, 6, 4, 2
+				CG $stats 5, 3, 7, 6
+				CO $stats 2, 9, 6, 4
+				'Resume padding' of charity refers to the strategic involvement of individuals, particularly students, in charitable activities with the primary goal of enhancing their resumes rather than a genuine desire to contribute to the cause. This practice has become increasingly common among students seeking to bolster their college applications, as admissions committees often view participation in charity work favourably.
+		R2
+			THBT China should aggressively shift the investment/industrial focus from coal industry to renewable energy industry
+				OG $stats 5, 5, 8, 3
+				OO $stats 10, 8, 3, 0
+				CG $stats 3, 4, 7, 7
+				CO $stats 3, 4, 3, 11
+		R3
+			THBT the LGBT movement in Taiwan should aggressively encourage closeted individuals to come out at 'Dà Zòng Jiǔ'
+				OG $stats 8, 4, 5, 4
+				OO $stats 4, 8, 4, 5
+				CG $stats 4, 6, 7, 4
+				CO $stats 5, 3, 5, 8
+				'Dà Zòng Jiǔ (大縱酒)' is a queer gathering held on a monthly basis in Taiwan. It has evolved into one of the most significant and biggest pride events with active participation from Twitter users within the LGBT community. Centered around extensive drinking, this event serves as a space where individuals from the LGBT community come together to enjoy alcohol and socialize with other people, alongside K-pop dancing, flirting/kissing people, and cosplaying.
+		R4
+			THS political parties in developing countries using post-colonial nationalism (e.g., BJP discussing changing the country's name to 'Bharat' in India)
+				OG $stats 5, 7, 5, 4
+				OO $stats 6, 5, 5, 5
+				CG $stats 7, 4, 5, 5
+				CO $stats 3, 5, 6, 7
+		R5
+			THS the use of 'Zombie Acting'
+				OG $stats 3, 4, 7, 7
+				OO $stats 7, 5, 5, 4
+				CG $stats 6, 6, 3, 6
+				CO $stats 5, 6, 6, 4
+				'Zombie acting' is the digital replication of a performer's voice or likeness to substantially manipulate a performance, create a new digital performance or train an artificial intelligence system designed to generate new visual, audio, or audiovisual content.
+		R6
+			THP 'Joint Legal Custody' as the primary norm for divorced families rather than 'Sole Legal Custody'
+				OG $stats 6, 7, 3, 5
+				OO $stats 7, 5, 4, 5
+				CG $stats 5, 6, 7, 3
+				CO $stats 3, 3, 7, 8
+				In divorce law, there are two ways of settling a post-divorce parent-child relationship.
+				In 'Sole Legal Custody', one parent has the exclusive authority to make significant decisions for the child, such as education, healthcare, and religion. The non-custodial parent typically has limited or no say in these decisions.
+				In 'Joint Legal Custody', parents share the authority to make such decisions and financially contribute together, albeit one parent not being physically together with the child. Joint Legal Custody still set exceptions where a parent would not be granted custodial rights, such as previous history of physical/verbal abuse.
+		Pre QF
+			THBT hospitals should have the power to remove patients from the care of their legal guardians in suspected 'medical negligence' cases
+				OG $stats 2, 2
+				OO $stats 1, 3
+				CG $stats 2, 2
+				CO $stats 3, 1
+				'Medical negligence' refers to the failure of a carer to provide a standard level of care, resulting in harm or injury to a patient. This could include forgetting to administer medication, choosing a different treatment plan than what was prescribed, or breaching duty of care.
+		QF
+			THBT the inception of the 'Mandatory Solidarity' mechanism is in the interest of the European Union
+				OG $stats 3, 1
+				OO $stats 3, 1
+				CG $stats 2, 2
+				CO $stats 0, 4
+				The European Union (EU) adopted the 'Dublin Regulation' for handling irregular immigrants (e.g., immigrants entering a country through an informal process, including but not limited to asylum seekers). It stipulates that the countries where the immigrants arrive should handle the logistics, such as examining asylum claims and providing temporary shelters. This led to certain countries proximate to regions with a high population outflux bearing a disproportionately high burden, including Greece, Italy, and Malta (also known as 'front-line countries').
+				To remedy this, the EU is discussing the 'Mandatory Solidarity' mechanism, which relocates irregular immigrants from front-line countries to other EU countries and imposes financial penalties should countries reject the entry of immigrants. This measure is still being negotiated in the European Parliament and is yet to be ratified.
+		SF
+			THS the use of 'short squeeze' tactics by retail investors in stock markets
+				OG $stats 0, 2
+				OO $stats 1, 1
+				CG $stats 2, 0
+				CO $stats 1, 1
+				'Short squeeze' occurs when a security has a significant amount of short sellers, meaning lots of investors are betting on its price falling. When investors see the price going up, they start to purchase back the stocks, which makes the price jump higher unexpectedly. An institutional investor trades large volumes of securities on behalf of an individual or shareholder. A retail investor is an individual who invests their own capital, typically at lower frequencies and volumes.
+		GF
+			THP a world where presently autonomous North East Asian governments are replaced by one selected individual who is genetically modified to become a 'philosopher king' for the entire region
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				In Plato's "The Republic," philosopher king refers to a hypothetical figure who melds profound philosophical knowledge and is intensively educated in disciplines like philosophy, ethics, and governance.
+		EFL SF
+			THW significantly lessen the sentence for offenders who commit serious economic crimes if they can make up the loss to victims
+				OG $stats 2, 0
+				OO $stats 2, 0
+				CG $stats 0, 2
+				CO $stats 0, 2
+		EFL GF
+			THS youth in Northeast Asia embodying the 'Gen Z style' persona
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				For the purpose of this debate, 'Gen Z style' refers to a disposition wherein an individual displays a set of characteristics that go against conventional social norms and communitarian values. Such style can include taking gap years during college instead of following a linear and uninterrupted education and career trajectory, refusing to submit to authorities (e.g. familial or workplace), and anti-establishment elements such as anti-consumerism.
+		Schools QF
+			THR the glamorisation of mental illness in the mainstream (i.e. media depiction of autistic geniuses)
+				OG $stats 4, 0
+				OO $stats 1, 3
+				CG $stats 0, 4
+				CO $stats 3, 1
+		Schools SF
+			THW prohibit entertainment company from including terms and conditions restricting the personal lives of the employees within the working contracts (e.g. dating prohibition for celebrities, etc.)
+				OG $stats 0, 2
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 1, 1
+		Schools GF
+			THO the narrative that true love never dies
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
 	IDS NEADC 2022
 		R1
 			THW abolish laws against price-gouging

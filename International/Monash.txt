@@ -1,0 +1,62 @@
+Monash
+	Monash Pre-WUDC 2023
+		R1
+			THO the hyper-specialization of higher education
+				OG $stats 3, 1, 4, 9
+				OO $stats 5, 5, 4, 3
+				CG $stats 2, 6, 6, 3
+				CO $stats 7, 5, 3, 2
+				Hyper-specialization refers to the increasing specialization of higher education studies. This includes, but is not limited to, the creation of more graduate school programs, the emphasis on declaring major courses early on in undergraduate studies, and a focus on specialized research output on particular fields.
+		R2
+			THBT socially progressive groups in the US, as part of their campaign for greater welfare, should adopt the narrative that wage slavery impedes voting rights
+				OG $stats 2, 3, 6, 6
+				OO $stats 3, 7, 4, 3
+				CG $stats 9, 2, 3, 3
+				CO $stats 3, 5, 4, 5
+		R3
+			THBT it is in the interest of Bongbong Marcos to fully cooperate with an ICC probe on the drug war of the previous Duterte administration
+				OG $stats 3, 4, 4, 6
+				OO $stats 4, 1, 8, 4
+				CG $stats 3, 6, 4, 4
+				CO $stats 7, 6, 1, 3
+				Bongbong Marcos is the current president of the Philippines. Under the previous administration of Rodrigo Duterte, the Philippines pulled out of the International Criminal Court, and has since rejected all efforts to cooperate with an investigation/probe on the extrajudicial killings under the administration's war on drugs.
+		R4
+			Given the choice, THW forgo deep platonic friendships rather than forgo deep romantic love
+				OG $stats 3, 6, 4, 3
+				OO $stats 3, 3, 6, 4
+				CG $stats 6, 4, 2, 4
+				CO $stats 4, 3, 4, 5
+		R5
+			TH, as a developing country, supports the implementation of the BEPS 2.0 framework
+				OG $stats 6, 3, 2, 4
+				OO $stats 5, 3, 6, 1
+				CG $stats 2, 1, 6, 6
+				CO $stats 2, 8, 1, 4
+				The Base Erosion and Profit Shifting framework, also known as BEPS 2.0, aims to introduce a minimum corporate tax as an obligation that all jurisdictions taking part of an existing multilateral agreement (e.g. G-8, G20, OECD, etc.) must adhere to.
+		QF, ESL SF
+			THS the switch to Central Bank Digital Currencies by governments that have the capability to do so
+				QF OG $stats 2, 2
+				QF OO $stats 1, 3
+				QF CG $stats 3, 1
+				QF CO $stats 2, 2
+				ESL SF OG $stats 1, 1
+				ESL SF OO $stats 2, 0
+				ESL SF CG $stats 1, 1
+				ESL SF CO $stats 0, 2
+				Central Bank Digital Currencies are a digital form of fiat currency issued by central banks. Unlike normal fiat currency that is sometimes transacted digitally, CBDCs are tokenized forms of fiat currency and exist on the blockchain. Many countries are currently experimenting with the use of CBDCs, though its adoption remains most likely by developed economies in the near future.
+		SF, ESL GF
+			TH, as Pope Francis, would retire instead of waiting to die as a means to relinquish the papacy
+				SF OG $stats 1, 1
+				SF OO $stats 1, 1
+				SF CG $stats 1, 1
+				SF CO $stats 1, 1
+				ESL GF OG $stats 0, 1
+				ESL GF OO $stats 1, 0
+				ESL GF CG $stats 0, 1
+				ESL GF CO $stats 0, 1
+		GF
+			TH believes in the right to universal digital anonymity
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
