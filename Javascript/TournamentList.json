@@ -11,7 +11,7 @@
 		"id": "AsianBridge",
 		"name": "Asian Bridge",
 		"short": "",
-		"latest": 2023,
+		"latest": 2024,
 		"tag": ["Asian", "rookie", "region:Domestic"],
 		"url": "AsianBridge.txt"
 	},
@@ -123,7 +123,7 @@
 		"id": "JapanBP",
 		"name": "Japan BP",
 		"short": "JBP",
-		"latest": 2022,
+		"latest": 2023,
 		"tag": ["BP", "open", "region:Domestic"],
 		"url": "JapanBP.txt"
 	},
@@ -187,7 +187,7 @@
 		"id": "MomijiCup",
 		"name": "Momiji Cup",
 		"short": "",
-		"latest": 2022,
+		"latest": 2023,
 		"tag": ["BP", "rookie", "region:Domestic"],
 		"url": "MomijiCup.txt"
 	},
@@ -347,7 +347,7 @@
 		"id": "TokyoMini",
 		"name": "Tokyo Mini",
 		"short": "",
-		"latest": 2022,
+		"latest": 2023,
 		"tag": ["BP", "open", "rookie", "region:Domestic"],
 		"url": "TokyoMini.txt"
 	},
@@ -902,7 +902,7 @@
 	{
 		"id": "WesternIV",
 		"name": "Western IV",
-		"short": "WSDC",
+		"short": "",
 		"latest": 2023,
 		"tag": ["BP", "open", "international", "region:Europe"],
 		"url": "International/WesternIV.txt"

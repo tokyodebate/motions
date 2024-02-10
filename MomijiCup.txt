@@ -1,5 +1,73 @@
 Momiji Cup
-
+	Momiji Cup 2023
+		R1
+			THW prohibit religious proselytisation in areas of high socioeconomic deprivation
+				OG $stats 2, 1, 1, 3
+				OO $stats 4, 1, 2, 0
+				CG $stats 0, 3, 2, 2
+				CO $stats 1, 2, 2, 2
+				Religious proselytisation is an action with an attempt to convert a community or individual into a specific religion. Often this is done by supplying resources to the people in need and inviting them to learn more about their faith and religious tradition.
+		R2
+			THW ban race-based political parties
+				OG $stats 0, 2, 3, 2
+				OO $stats 3, 1, 1, 2
+				CG $stats 1, 1, 3, 2
+				CO $stats 3, 3, 0, 1
+		R3
+			THW financially incentivize local depopulated communities to migrate to urban areas
+				OG $stats 2, 2, 2, 1
+				OO $stats 3, 3, 1, 0
+				CG $stats 2, 2, 3, 0
+				CO $stats 0, 0, 1, 6
+		R4
+			THBT feminist movement should glorify "Girlboss"
+				OG $stats 2, 3, 1, 1
+				OO $stats 1, 2, 2, 2
+				CG $stats 2, 1, 2, 2
+				CO $stats 2, 1, 2, 2
+				"Girlboss" are women who seek success particularly
+				in the realms of leadership, and career success.
+				They embody the idea that women can achieve professional 
+				and personal success by embracing their ambition, 
+				confidence, and assertiveness."
+		Rookie GF
+			TH, as you, Would decline the offer
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				A master is the original recording of a song, and the owner of master has the legal rights to license out recordings of a song to third parties (such as TV shows and commercials), and collect all of the royalties (payment for use of artistic work). You are an upcoming musical artist with a viral song on tiktok, and you got an offer from famous recording company. If you are signed to a record label, you need to give up your masters to the company.
+		Pre SF
+			THO the rise of OnlyFans in the porn industry
+				OG $stats 2, 0
+				OO $stats 2, 0
+				CG $stats 0, 2
+				CO $stats 0, 2
+				Onlyfans is subscription-based video platform in which amateuar and professional pornography creators can upload self-generated sexual content. Subscribers pay creators on a monthly basis, or one-time tips, and creators keep 80% of the profits.
+		SF
+			THBT parents of minorities should encourage their children to embrace positive stereotypes about themselves (ex. Indians are good at math)
+				OG $stats 2, 0
+				OO $stats 1, 1
+				CG $stats 0, 2
+				CO $stats 1, 1
+		GF
+			TH, as La Liga, R not making exceptions for Lionel Messi's contract
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				La Liga’s financial management rules" includes two notable regulations
+				1)Squad Cost Limitation:
+				The Squad Cost encompasses various factors such as players' total salaries, variable expenses, bonuses, player rights amortization, social security, pensions, and contract termination compensations.
+				La Liga sets an upper limit on Squad Cost, mandating that clubs operate within this financial framework.
+				2)4×1 Rule
+				Clubs can allocate only 1/4 of the funds generated from player sales for acquiring new players.
+				These rules restrict and ensures careful financial management of clubs.
+				Lionel Messi achieved numerous titles with FC Barcelona, notably winning the Ballon d'Or seven times. He has also left an indelible mark on history by setting records such as being the all-time leading goal-scorer in La Liga and achieving remarkable goal-scoring feats in the UEFA Champions League. He has signed a huge salary contract with Barcelona for many years and has a strong attachment to the team.
+				Barcelona is a team in La Liga. Barcelona faced financial challenges due to the accumulation of debts resulting from high player salaries. 　　
+				Despite attempting to hold down Squad Cost by selling young players, Barcelona still found itself in violation of La "Liga's financial management rules". La Liga, citing budgetary constraints, did not permit Barcelona to continue Messi's contract.
+				Thus, Leonel Messi unwillingly left Barcelona and As of now, Leonel Messi is no longer with a La Liga team but is playing for Inter Miami, a club in the United States.
+				For the purpose of the debate,we assume that Lionel Messi would have remained in Barcelona if La Liga had granted the contract as an exception.
 	Momiji Cup 2022
 		R1: 
 			THO the strong association of sports and national identity (e.g. singing national anthem before matches, fans using national flag).

@@ -1,4 +1,60 @@
 Tokyo Mini
+	Tokyo Mini 2023
+		R1
+			THBT it is in the interest of Japanese feminists to actively provide support for jakusha dansei
+				OG $stats 0, 1, 4, 1
+				OO $stats 1, 3, 0, 2
+				CG $stats 4, 0, 1, 1
+				CO $stats 1, 2, 1, 2
+				The term jakusha dansei（弱者男性) refers to men who are in weaker positions of the social structure in multiple ways (e.g. Their financial capital is limited and often they don’t have a regular job or live as NEET. Social capital is also limited due to lack of social skill or confidence in appearance or due to mental illness, etc.).
+		R2
+			THW require Apple and Google to enable sideloading on their mobile devices
+				OG $stats 0, 4, 1, 1
+				OO $stats 3, 1, 2, 0
+				CG $stats 0, 1, 1, 4
+				CO $stats 3, 0, 2, 1
+				For the purpose of this debate, iPhone users can only download and install applications via App Store, and Android users can only do so via Google Play Store.
+				Sideloading is the installation of an application on a mobile device without using the device's official application distribution method. Examples of sideloading includes installing applications via other platforms or via individual websites.
+		R3
+			THS the usage of "Lustration" in newly formed democracies
+				OG $stats 0, 3, 1, 2
+				OO $stats 1, 2, 2, 1
+				CG $stats 3, 1, 1, 1
+				CO $stats 2, 0, 2, 2
+				"Lustration" is a policy which involves the temporary removal (usually a period of 20-30 years) and political exclusion, often without trial, of officials at all levels of the political system associated with former regimes and their political parties.
+		GF
+			THS the rise of anti-intellectualism
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+				Anti-intellectualism is hostility to and mistrust of intellect, intellectuals, and intellectualism, commonly expressed as deprecation of education and philosophy and the dismissal of art, literature, and science as impractical, politically motivated, and even contemptible human pursuits.
+		Rookie GF
+			THR the increase of top-university graduates entering the private sector (consulting, banking) as opposed to public sector (ministries,politics)
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+	とうきょうみに 2023
+		R1
+			THO the narrative that people should only enter romantic relationships that they anticipate will be in long term
+				OG $stats 5, 2, 0, 2
+				OO $stats 0, 3, 6, 0
+				CG $stats 2, 1, 1, 5
+				CO $stats 2, 3, 2, 2
+		R2
+			THR the trend / increase in popularity of tradwife influencers on social media
+				OG $stats 3, 5, 0, 1
+				OO $stats 3, 1, 4, 1
+				CG $stats 1, 1, 1, 6
+				CO $stats 2, 2, 4, 1
+				The term Tradwife refers to married women who follow a traditional lifestyle / values. A typical tradwife is a stay at home mother who cooks and cleans for her family, dresses modestly, is most likely religious, and is generally consevative. They believe in traditional gender-roles, where the man provides for the famility financially and women care for the children at home.
+		R3
+			THS hacking as a form of protest
+				OG $stats 4, 2, 2, 1
+				OO $stats 1, 2, 4, 2
+				CG $stats 4, 1, 2, 2
+				CO $stats 0, 4, 1, 4
 	Tokyo Mini 2022
 		R1
 			Assuming that you maintain human levels of understanding and feeling but cannot act beyond the capabilities of  the animal, THP to experience the life of a livestock animal as opposed to one of a wild equivalent (Eg. cow vs buffalo, pig vs boar)

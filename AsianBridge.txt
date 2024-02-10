@@ -1,5 +1,93 @@
 Asian Bridge
-	ASIAN BRIDGE 2023
+	Asian Bridge 2024
+		R1
+			THW prohibit mass media from entering sites of disaster
+				Balance $stats 0, 4, 13
+				Veto $stats 8, 1, 26
+			THW legalize the usage of recreational drugs (e.g. cocaine, marijuana, MDMA, etc.) in areas where they are highly prevalent
+				Balance $stats 4, 2, 13
+				Veto $stats 3, 5, 26
+			THS the use of artificial intelligence to triage patients when medical resource is severely limited (e.g. pandemic, major disaster)
+				Balance $stats 3, 0, 13
+				Veto $stats 2, 7, 26
+				Triage is the sorting of and allocation of treatment to patients and especially battle and disaster victims according to a system of priorities designed to maximize the number of survivors
+		R2
+			THR the glorification of studying abroad in university
+				Balance $stats 3, 2, 13
+				Veto $stats 3, 2, 26
+			THBT Black parents living in developed nations should actively discourage their kids from using African-American Vernacular English in favour of Standardized English
+				Balance $stats 0, 0, 13
+				Veto $stats 6, 11, 26
+				African-American Vernacular English is the variety of English natively spoken, particularly in urban communities, by most working- and middle-class African Americans. It is a form of English that is often categorized as "unprofessional" in corporate and academic settings.
+			THW allow parents to remove their children from specific classes at school (such as sports, religious studies, sex education and science) on moral, religious or political grounds
+				Balance $stats 5, 3, 13
+				Veto $stats 4, 0, 26
+		R3
+			THR the rise in political consumerism
+				Balance $stats 1, 5, 13
+				Veto $stats 4, 1, 26
+				Political consumerism refers to people making choices about what to consume based on the politics of the company in question (e.g. boycotting Chick-Fil-A for its stance against abortion, not buying from Ben&Jerry because they advocated for gay marriage).
+			THBT all large data AI repositories should be forced to pay companies for training data skimmed from the internet, even in instances where they are typically free for users (e.g. youtube, Reddit, Facebook, CNN, BBC, etc.)
+				Balance $stats 1, 1, 13
+				Veto $stats 8, 7, 26
+			THO 100% zero-emission vehicle policies
+				Balance $stats 3, 2, 13
+				Veto $stats 1, 5, 26
+				Recently, many developed countries have announced laws to ban the sales of internal combustion engine vehicles (ICEVs) and hybrid vehicles (HVs) and make 100% of the cars zero-emission (i.e. electric) by 2035-2040. Consequently, most car companies, including Tesla, Ford, and Toyota, have announced to invest significantly on electric vehicles (EVs) at the expense of stopping development of other vehicles. Investing in EVs require massive change in supply chain and employment, as the components for electric vehicles are significantly different from ICEVs.
+		R4
+			THR the prevalence of Mary Sue characters in mainstream movies and TV shows
+				Balance $stats 1, 1, 13
+				Veto $stats 7, 6, 26
+				A Mary Sue is a character archetype in fiction, usually a young woman, who is often portrayed as extremely competent across all domains, gifted with unique talents or powers, liked or respected by most other characters, unrealistically free of weaknesses, extremely attractive, innately virtuous, and/or generally lacking meaningful character flaws.
+			TH, as the Korean feminist movement, opposes the rise of K-pop
+				Balance $stats 4, 2, 13
+				Veto $stats 1, 4, 26
+			THBT artists (e.g. Kanye West, Taylor Swift, Emma Watson) actively participating in politics do more harm than good to democracy
+				Balance $stats 0, 5, 13
+				Veto $stats 5, 3, 26
+		QF
+			TH, as the Japanese LGBTQIA+ movement, regrets the popularization of Boy's Love and Yuri content
+				Balance $stats 0, 2, 4
+				Veto $stats 0, 0, 8
+				Boy's Love (depicting male-male sexual / romantic relationships) and Yuri (depicting female-female sexual / romantic relationships) content typically revolve around romantic storylines between conventionally attractive individuals that engage in "devious" sex. Authors of BL are usually cis-females, and authors of Yuri are cis-males, who have been criticized for fetshizing gay and lesbian people, fantasizing same-sex relationships, and romanticizing the lives of queer people
+			TH, as the Ballroom community, would welcome individuals with no Ballroom background to partake in traditionally Ballroom-exclusive acts
+				Balance $stats 0, 0, 4
+				Veto $stats 2, 3, 8
+				A drag queen is a person, often a man, who uses clothing and makeup to imitate and often exaggerate female gender signifiers and gender roles for entertainment purposes. In modern times, drag queens are associated with gay men and gay culture, and pageants where drag queens compete against each other are held. The Ballroom community is a African-American / Latino drag culture that emerged in opposition to racism experienced in established drag queen pageant circuits. In order to participate in a "ballroom", participants will compete in a "ball" arranged by the community across different categories. Ballroom is characterized by participants being split into groups called "drag families", where the leader ("drag mother") teaches the members ("drag daughter") skills necessary to win in drag competitions. Recently, the Ballroom community has become popular due to the popularization on TV, and the community has been very vocal about non-Ballroom individuals partaking in those acts, exclaiming that non-Ballroom individuals doing those acts have committed grave cultural appropriation, etc.
+			THP that the LGBTQIA+ movement emphasizes differentiating individuals (e.g. differences of being black gay person and a white gay person) within one minority group as the main approach rather than the message of strong cohesion
+				Balance $stats 1, 1, 4
+				Veto $stats 2, 1, 8
+		SF
+			THBT Japanese new principle of weapons exports is in the interest of Japan
+				Balance $stats 0, 0, 2
+				Japanese government recently rectified the principle of weapon exports which is called 防衛装備移転三原則. This new principle allows Japan to export full-established weapon to 7 other countries in addition to the U.S. (UK, France, Germany, Italy, Belgium, Sweden, Norway), whereas the old principle only allowed to export parts of weapon to the US. It also allows the exportation of weapons from the 8 countries mentioned above to third countries if Japan agrees.
+			THR the narrative of the American Dream
+				Balance $stats 2, 0, 2
+				Veto $stats 0, 0, 4
+				The American dream is the narrative that everyone has the equal opportunity to achieve individual success depending on how hard they work despite the many challenges, since there are few formal barriers such as laws. This narrative is often aimed towards immigrants and those looking to migrate to the US.
+			THR the emphasis on regional representation in adjudication core
+				Balance $stats 0, 0, 2
+		GF
+			TH, as you, would quit your job at your local community paper and take the job at the region wide newspaper
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+				You are a Black journalist who works for a city wide community newspaper that creates stories about the Black community, with a large amount of readers. You have found success through your work in this newspaper, recognized as a figure that helps empower Black individuals, and you are&nbsp; the top journalist, meaning all of your stories are featured on the newspaper and you have the&nbsp; authority to write about whatever you want at your current paper. The biggest newspaper in your state, who has an audience that is 5 times your current newspaper, which is predominately White&nbsp; and houses many journalists, offers you a job to write for their paper exclusively. Although the pay&nbsp; is higher than your current salary, you will start at the bottom as a junior journalist, and must climb the ranks to become a top journalist
+			THP being a conventionally attractive individual with average levels of intelligence opposed to an averagely attractive individual with high levels of intelligence
+				Balance $stats 0, 0, 1
+			THP to live in the world of "Matched"
+				Balance $stats 0, 0, 1
+				In the world of "Matched", your life is planned out for you by the state: who you are going to marry is selected from the pool of eligible citizens based on the best genetic and personality match that ensures healthy children, which job you have is determined for you according to your intelligence and ability based on your performance and interests in school, and all citizens are painlessly poisoned to death at the age of 70 in a state-organized ceremony that is attended by all your family members because medical technology has developed to the point where all diseases have been eradicated.
+		Rookie GF
+			THR the emphasis of the effect of environmental factors to success
+				Balance $stats 0, 0, 1
+			THBT labeling others as "メンヘラ (me-nn-he-ra)" to justify cutting them off does more harm than good for self-development
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
+				メンヘラ refers to a person, usually a female, who displays signs of emotional instability in friendships/romantic relationships. Their insecurity manifests as possessive thoughts and actions, overprotectiveness, and extreme jealousy that appears eccentric and terrifying to others.
+			THW heavily discourage 自然派育児 (shi-zen-ha-iku-ji)
+				Balance $stats 0, 0, 1
+				自然派育児 is a parenting style based on rejection of artificial products. Supporters of 自然派育児 often eat only organic food, glorify natural childbirth heavily, reject science-based medical treatment.
+	Asian Bridge 2023
 		R1: Charactersation Battle
 			THW replace human judges with AI judges in all parliamentary debate tournaments
 			THBT students should be able to choose their teachers
