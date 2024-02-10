@@ -919,7 +919,7 @@
 		"id": "WUDC",
 		"name": "World Universities Debating Championships",
 		"short": "WUDC",
-		"latest": 2023,
+		"latest": 2024,
 		"tag": ["BP", "open", "international", "region:World"],
 		"url": "International/WUDC.txt"
 	},

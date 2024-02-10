@@ -1,4 +1,129 @@
 World Universities Debating Championships (WUDC)
+	Vietnam WUDC 2024
+		R1
+			THBT education systems should over-inflate children's academic self-perception (e.g. providing overwhelmingly positive feedback, avoiding fail grades, etc.)
+				OG $stats 8, 26, 24, 16
+				OO $stats 22, 21, 24, 7
+				CG $stats 11, 16, 15, 32
+				CO $stats 33, 11, 11, 19
+		R2
+			THP the integrated model to the specialty model
+				OG $stats 13, 20, 18, 23
+				OO $stats 35, 14, 22, 3
+				CG $stats 10, 15, 20, 29
+				CO $stats 16, 25, 14, 19
+				There are two ways that governments can consider disadvantage in policy-making. The "integrated model" incorporates disadvantage as an inherent consideration in policy-making (e.g. all new policies made in the education department must consider implications for rural students). The "specialty model" involves having a distinct division that specifically engages with policy for disadvantaged groups (e.g. the education department has a division that directly and separately addresses helping rural areas).
+		R3
+			THBT opposition parties in illiberal democracies should strongly pivot towards empowering women as the primary focus of their campaign
+				OG $stats 10, 17, 27, 20
+				OO $stats 24, 23, 17, 10
+				CG $stats 20, 16, 15, 23
+				CO $stats 20, 18, 15, 21
+		R4
+			THS the remilitarisation of Japan
+				OG $stats 12, 20, 15, 27
+				OO $stats 35, 19, 14, 6
+				CG $stats 5, 17, 29, 23
+				CO $stats 22, 18, 16, 18
+		R5
+			THP reactive to proactive EMS enforcement
+				OG $stats 13, 19, 27, 15
+				OO $stats 29, 19, 19, 7
+				CG $stats 15, 22, 12, 25
+				CO $stats 17, 14, 16, 27
+				Environmental managements systems (EMS) are the laws and regulations which govern land use, water use, and pollution. Proactive EMS enforcement requires people and companies to apply for permission before acting (ie, you need to apply for approval to build a house). Reactive EMS enforcement allows people or companies to act immediately, and then severely punishes those who breach the laws or regulations (ie, you incur a large fine if your house is too tall, or if it has not been checked by a certified engineer).
+		R6
+			THS Centrist Compacts
+				OG $stats 14, 14, 23, 22
+				OO $stats 23, 22, 15, 13
+				CG $stats 19, 18, 19, 17
+				CO $stats 17, 19, 16, 21
+				A Centrist Compact is an agreement between major political parties. The Centrist Compact applies where one of the major parties is able to form a government after an election with the support of a minor party. In such a case, the other major party will provide it the minimum number of votes necessary to govern without the support of the minor party. A Centrist Compact is not legally binding.
+		R7
+			THP the 5 City Model over prioritising growing Ho Chi Minh and Hanoi
+				OG $stats 19, 29, 17, 8
+				OO $stats 15, 15, 25, 18
+				CG $stats 26, 19, 11, 17
+				CO $stats 13, 10, 20, 30
+				The Vietnam 5 City Model is a strategic urban development initiative focusing on the development of five key cities by 2035: Hanoi, Ho Chi Minh City, Da Nang, Hai Phong, and Can Tho. Each city is developed based on its unique strengths: Hanoi for political and cultural significance, Ho Chi Minh City as the economic and industrial hub, Da Nang for tourism and services, Hai Phong for maritime trade, and Can Tho for agriculture.
+		R8
+			THBT central banks should 'lean against the wind'
+				OG $stats 22, 18, 18, 15
+				OO $stats 18, 19, 17, 19
+				CG $stats 14, 19, 22, 18
+				CO $stats 19, 17, 16, 21
+				"Leaning against the wind" is a policy employed by some central banks to explicitly target financial stability (e.g., avoiding asset price bubbles and credit booms) by setting higher interest rates during periods of economic growth. This is distinct from the philosophy of most Western central banks, which exclusively consider inflation and unemployment (e.g., by maintaining a target inflation rate).
+		R9
+			THS a norm against self-pity
+				OG $stats 7, 19, 21, 25
+				OO $stats 26, 20, 15, 11
+				CG $stats 19, 15, 17, 21
+				CO $stats 20, 18, 19, 15
+		PDO
+			THW remove restrictions on interstate farm commerce in India
+				OG $stats 5, 3
+				OO $stats 2, 6
+				CG $stats 2, 6
+				CO $stats 7, 1
+				Domestic agriculture in India is regulated by individual states, which establish local auction markets (mandis) within their borders. Farmers are required to sell their produce via auction only at the mandi in their locality, and purchasers (wholesalers, exporters, retail traders) must also be from that region. There are then steep tariffs for re-selling produce across states borders.
+		OF
+			THO the stigma against laziness
+				OG $stats 5, 3
+				OO $stats 5, 3
+				CG $stats 2, 6
+				CO $stats 4, 4
+		QF
+			THS implementing a Pact of Forgetting in post-conflict states
+				OG $stats 3, 1
+				OO $stats 1, 3
+				CG $stats 1, 3
+				CO $stats 3, 1
+				A Pact of Forgetting is a political agreement after the fall of a dictatorship. The pact is made between major political parties to avoid directly confronting the legacy of a dictatorship and the conflict which brought it to an end. It includes not prosecuting members of a former regime and agreeing to not commemorate any actions of that regime, and instead concentrating on the future. An example of this is the agreement in Spain between Franco-aligned right wing parties and new left wing parties after the end of Franco’s regime.
+		SF
+			THW ban vulture funds from suing countries whose debt they have purchased
+				OG $stats 2, 0
+				OO $stats 2, 0
+				CG $stats 0, 2
+				CO $stats 0, 2
+				A vulture fund is fund that invests in sovereign debt that a government is refusing to pay back (distressed debt). It buys this debt from the original debt holder at a discount, and then aggressively pursues (often through litigation) the government to pay off the debt at a higher price than what the vulture fund purchased the debt for.
+		GF
+			THO the norm to prefer the natural to the artificial
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+		ESL QF
+			THBT religious leaders should primarily focus on individual circumstances rather than community-based reasons when addressing acts of religious extremism
+				OG $stats 3, 1
+				OO $stats 3, 1
+				CG $stats 1, 3
+				CO $stats 1, 3
+				When dealing with religious extremism within the community, religious leaders can choose to focus on either community-based reasons (e.g. highlighting a lack of condemnation for extremism within the community, failure to address misinterpretations of religious texts, or inadequate efforts to promote tolerance and understanding among followers), or individual circumstances (e.g. highlighting factors like poverty, war-induced trauma, or mental health issues affecting the specific individuals involved in the attack).
+		ESL SF
+			THW ban defensive measures against hostile take overs
+				OG $stats 2, 0
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 0, 2
+				Defensive measures against hostile take overs include poison pills, a staggered board, and scorched earth policies. Poison pills specify that if a single entity or person acquires a large enough stake, the company will issue shares. All other shareholders become eligible to acquire those shares for a large discount or for free. A staggered board is a board that consists of directors who serve terms of different lengths, making it difficult for an acquirer to replace the whole board quickly. Scorched earth policies damage the company if a hostile take over is imminent, for example by selling assets at a discount.
+		ESL GF
+			TH welcomes the end of work
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+		EFL SF
+			THP a diverse number of highly competitive banks to a small number of banks
+				OG $stats 0, 2
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 1, 1
+		EFL GF
+			THBT post-revolutionary states should deemphasise the role of elite groups in favour of portraying revolution as primarily led by the lower classes
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
 	Madrid WUDC 2023
 		R1
 			THBT it's in the interest of the team for the player to be excluded from the World Cup finals squad
