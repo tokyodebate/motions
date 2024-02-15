@@ -1,4 +1,15 @@
 Silver Cup
+	Silver Cup 2024
+		R1
+			THBT benevolent sexism is the greatest obstacle for women to succeed
+				Benevolent sexism represents evaluations of gender that may appear subjectively positive to the person who is evaluating, but are actually damaging to people and gender equality more broadly (e.g. the ideas that women need to be protected by men)
+		R2
+			THW implement a system of voter insurance for national elections
+				For the purpose of this debate, voter insurance is a scheme in which voters can vote to "purchase" insurance against a candidate winning, instead of voting for their favorable candidate. All voters who insured themselves against the eventual winner of the election will receive a sum of money from the government as compensation, for the projected future harm they will suffer during the term of office.
+		R3
+			THP a world where states provide universally accessible unconditional euthanasia
+		GF
+			THBT developing countries should acquire, on the open market, large stakes in major publicly-traded global corporations
 	Silver Cup 2023
 		R1
 			THS the cult of productivity

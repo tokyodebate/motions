@@ -92,7 +92,9 @@ function hashResponse() {
 		searchTournament(
 			nameMatch === null ? undefined : nameMatch[0].replace("+", " "),
 			formatMatch === null ? undefined : formatMatch[0].split("+"),
-			eligibilityMatch === null ? undefined : eligibilityMatch[0].split("+"),
+			eligibilityMatch === null
+				? undefined
+				: eligibilityMatch[0].split("+"),
 			regionMatch === null ? undefined : regionMatch[0].split("+"),
 			yearMatch === null ? undefined : parseInt(yearMatch[0])
 		);
@@ -126,7 +128,9 @@ function searchTournament(name, format, eligibility, region, year) {
 			return false;
 		}
 		if (
-			format !== undefined ? format.every((f) => !e.tag.includes(f)) : false
+			format !== undefined
+				? format.every((f) => !e.tag.includes(f))
+				: false
 		) {
 			return false;
 		}
@@ -206,15 +210,21 @@ function showMotions(array) {
 			case 2: //Tournament
 				myTournamentName = array[line][1];
 				myTournament = $("<div class='card-body'></div>")
-					.appendTo($("<div class='card mb-3'></div>").appendTo(myArticle))
-					.append(`<h3 class="card-title px-3">${myTournamentName}</h3>`);
+					.appendTo(
+						$("<div class='card mb-3'></div>").appendTo(myArticle)
+					)
+					.append(
+						`<h3 class="card-title px-3">${myTournamentName}</h3>`
+					);
 				break;
 			case 3: //Round
 				if (myRoundLabel) {
 					//前のラウンドのCopy Buttonを生成する
 					createCopyButton(myMotionsList, myRoundLabel);
 				}
-				myRound = $("<div class='card-body'></div>").appendTo(myTournament);
+				myRound = $("<div class='card-body'></div>").appendTo(
+					myTournament
+				);
 				//Copyボタンように[[motion, info], [motion, info], ...]を保存するリスト
 				myMotionsList = [];
 				//後にCopyボタンを追加する対象。css flexboxを利用
@@ -228,15 +238,20 @@ function showMotions(array) {
 					"<div style='display: flex; flex-direction: column'></div>"
 				)
 					.appendTo(myRound)
-					.append(`<h3 class="card-title px-3 pt-4">${array[line][3]}</h3>`);
+					.append(
+						`<h3 class="card-title px-3 pt-4">${array[line][3]}</h3>`
+					);
 				myMotionsList.push([array[line][3], ""]);
 				break;
 			case 5: //Info
 				if (!array[line][4].includes("$stats")) {
 					myMotion.append(
-						$(`<p class="card-text mx-3 px-3 fs-4">${array[line][4]}</p>`)
+						$(
+							`<p class="card-text mx-3 px-3 fs-4">${array[line][4]}</p>`
+						)
 					);
-					myMotionsList[myMotionsList.length - 1][1] += array[line][4] + "\n";
+					myMotionsList[myMotionsList.length - 1][1] +=
+						array[line][4] + "\n";
 				} else {
 					//Motion statsの場合、.txtファイルにxx $stats a, b, ...の形式で書かれている
 					showStats(array[line][4], myMotion);
@@ -321,7 +336,7 @@ function createCopyButton(myMotionsList, myRoundLabel) {
 	}
 	myMotionText += `\n\n(${
 		myRoundLabel.text().split(":")[0]
-	}, ${myTournamentName}`;
+	}, ${myTournamentName})`;
 	//Create div for buttons
 	myButtons = $("<div class='d-inline'></div>").appendTo(myRoundLabel);
 	//Info
