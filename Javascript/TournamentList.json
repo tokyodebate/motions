@@ -320,6 +320,14 @@
 		"url": "SupernovaCup.txt"
 	},
 	{
+		"id": "TeaCup",
+		"name": "Tea Cup",
+		"short": "",
+		"latest": 2024,
+		"tag": ["NA", "rookie", "region:Domestic"],
+		"url": "TeaCup.txt"
+	},
+	{
 		"id": "TheBinaryStarCup",
 		"name": "The Binary Star Cup",
 		"short": "",
