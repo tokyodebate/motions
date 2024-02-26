@@ -2,15 +2,20 @@ Tea Cup
 	Tea Cup 2024
 		R1
 			THBT parents should teach their children that efforts will be rewarded someday
+				Balance $stats 5, 3
 		R2
 			Assuming feasibility, THBT Amami city should build a university rather than vocational school specialized in tourism
+				Balance $stats 3, 5
 				Amami island is a southern island in Japan belonging to Kagoshima prefecture.Since educational sector is undeveloped, there are no universities in the island and almost half of young generation leave there after they graduate high school. In 2021, Amami is registered as a World Natural Heritage Site. Foreign and domestic visitors are now increasing due to the news.
 		R3
 			TH, as the feminist movement, W actively support the media portrayal of "Rikejo"
+				Balance $stats 7, 1
 				"Rikejo" is an abbreviation for "science-related girl" or "science and engineering girl", and is a general term for female students who have chosen and are majoring in science-related fields such as mathematics, physics, and chemistry. 
 				The term also includes female researchers and engineers who are engaged in research and development of science and technology in companies.
 		SF
 			THW actively intervene in IT industry to slow down and regulate the development of generative AI (e.g. ChatGPT, AI image generator, etc)
+				Balance $stats 2, 0
 		GF
 			TH, as you, Prefer to drink "Tea A" over "Tea B"
+				Balance $stats 1, 0
 				You found two types of tea that have magical powers. The first tea, "Tea A" seems to let you know one accurate image of your own future. You might be able to change that future based on your future choice and effort after you see the image. The second tea, "Tea B" seems to let you change one decision that you made in the past. You only have a cup of each tea, and you can drink one of them.
