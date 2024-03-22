@@ -1,4 +1,134 @@
 ICU Tournament
+	31st ICU Tournament (2024)
+		R1
+			THO the use of identity politics by left-wing political parties in liberal democracies
+				Balance $stats 4, 7, 25
+				Veto $stats 9, 3, 46
+			THBT the Republican and Democratic party in the US should select their candidates through a vote of party leadership rather than through primary elections
+				Balance $stats 0, 3, 25
+				Veto $stats 12, 10, 46
+			THBT protest against the government in backsliding democracies (e.g. Hungary, the Philippines, Israel) should be lead by civil society leaders rather than members of the opposition
+				Balance $stats 5, 6, 25
+				Veto $stats 2, 10, 46
+		R2
+			THW punish attempted murder the same as murder
+				Balance $stats 3, 7, 25
+				Veto $stats 6, 10, 49
+			THBT first instance court judges should be democratically elected by local communities
+				Balance $stats 4, 6, 25
+				Veto $stats 11, 4, 49
+				"A ""first instance court"" is where legal disputes are initially heard and decided. The decision can later be appealed to a higher court."
+			In functioning democracies, THP a system with a codified constitution compared to system without a codified constitution
+				Balance $stats 5, 0, 25
+				Veto $stats 7, 11, 49
+				A codified constitution is a single, formal document that outlines the structure of government and the rights of citizens, such as the U.S. Constitution. A non-codified constitution, like that of the United Kingdom, is not contained in a single document but is made up of various sources including statutes, conventions, and court judgments.
+		R3
+			Behind a veil of ignorance, THP to be born a demisexual
+				Balance $stats 6, 3, 25
+				Veto $stats 3, 11, 50
+				Demisexuality is a sexual orientation where individuals experience sexual attraction only after developing a strong emotional bond or connection with someone.
+			THBT parents should teach their daughters to distrust men
+				Balance $stats 3, 5, 25
+				Veto $stats 12, 4, 50
+			TH, as Josephine Smith, would start a new branch of feminist Christianity
+				Balance $stats 4, 4, 25
+				Veto $stats 10, 10, 50
+				You are Josephine Smith a 25-year-old celebrity who has grown up in the conservative Mormon Church in Utah, USA. 5 years ago, you had a series of visions that culminated in an angel handing you a book that reveals the supposed feminist history of the Christian Church, and a more liberal written text, including the premise that God is a woman. You have been tasked with publishing this bible, and to become the founder of a new branch of Christianity that embraces feminist and liberal principles. While you have had no visions since, 5 years later, you still cannot forget the visions.
+		R4
+			THP a world where people believe the afterlife to be through karmic reincarnation rather than heaven and hell
+				Balance $stats 3, 9, 25
+				Veto $stats 1, 5, 50
+			THBT universities that have historically been set up by religious orders (Jesuits, Franciscans, Dominicans, etc.) should actively distance themselves from their religious affiliations as opposed to integrating their religious philosophy into their education environments
+				Balance $stats 4, 3, 25
+				Veto $stats 13, 11, 50
+			THO proselytisation
+				Balance $stats 4, 2, 25
+				Veto $stats 11, 9, 50
+				Proselytisation refers to organised efforts from religious institutions to encourage their followers to persuade non-believers to become followers of their religion
+		R5
+			THW require all dual class stocks to include a sunset clause that, when expires, will change all stocks to be of equal voting rights and privileges
+				Balance $stats 0, 1, 25
+				Veto $stats 22, 9, 50
+				Dual class stocks are a type of corporate share structure in which a company issues different classes of stock with varying voting rights and privileges.
+			THP the primary funding source for SOEs to be state subsidies rather than loan agreements with private contractors
+				Balance $stats 4, 11, 25
+				Veto $stats 1, 6, 50
+				State-owned enterprises (SOEs) are companies or organizations that are wholly or majorly owned and controlled by the government. SOEs mainly invest in infrastructure or development projects.
+			THW allow unions to strike for economic interests of workers in other workplaces (aka 'solidarity strikes')
+				Balance $stats 4, 5, 25
+				Veto $stats 2, 10, 50
+				In the status quo, unions are allowed to strike for economic interests pertaining to their place of employment exclusively.
+		R6
+			THP teenagers to be dominantly influenced (e.g. their decision-making, values, and aspirations) by peers as opposed to by adults in their life
+				Balance $stats 2, 4, 25
+				Veto $stats 16, 3, 50
+			THO narratives that depict repression as a bad coping mechanism
+				Balance $stats 5, 4, 25
+				Veto $stats 4, 10, 50
+			THO the rise of techno-optimism
+				Balance $stats 6, 4, 25
+				Veto $stats 5, 12, 50
+				Techno-optimism is a perspective that emphasises a positive outlook on the power of technological progress to solve social, environmental, economic problems.
+		Pre-QF
+			THS radical honesty* in relationships (e.g. familial, romantic, platonic) *i.e. sharing everything, not holding back harsh truths, opening up about all feelings
+				Balance $stats 0, 0, 4
+				Veto $stats 0, 2, 8
+			THP a world where humans don't experience a honeymoon phase in relationships
+				Balance $stats 1, 2, 4
+				Veto $stats 1, 1, 8
+				The "honeymoon phase" in relationships refers to the initial period of excitement and idealisation, often characterised by intense affection and minimal conflict.
+			THP households with one working parent and one stay-at-home parent, to households with two working parents
+				Balance $stats 0, 1, 4
+				Veto $stats 3, 1, 8
+		QF
+			THW hold parent companies liable for the actions and liabilities of their subsidiaries within corporate group structures
+				Balance $stats 0, 1, 4
+				Veto $stats 1, 2, 8
+				Corporate group structures refers to the organisation and arrangement of multiple companies or subsidiaries under a common parent company.
+			THO the "move fast, break things" philosophy in the tech sector
+				Balance $stats 0, 1, 4
+				Veto $stats 1, 1, 8
+				"Move fast, break things" refers to the philosophy that advocates for rapid innovation and development, prioritising speed and agility over perfection and caution. It also encapsulates a mindset that encourages taking risks, experimenting, and iterating quickly, even if it means encountering failures along the way.
+			THO the "up or out" system
+				Balance $stats 0, 2, 4
+				Veto $stats 2, 1, 8
+				The "up or out" system is the requirement for members of a hierarchical organisation to achieve a higher position or designation within a certain period of time by fulfilling certain milestones or targets that have been set for their positions. If they fail to do so, they must leave the organization, either voluntarily or through a formal suspension. This system is practiced by many professional services firm (e.g. accounting, management consulting, and legal services)
+		SF
+			TH, as Iran, would cease all support for military groups in the Middle East (e.g. Hezbollah, Hamas, Houthis, etc.)
+				Balance $stats 0, 0, 2
+			THR the development of nuclear arms
+				Balance $stats 0, 0, 2
+			THP states to consolidate around a single global superpower as opposed to two global superpowers
+				Balance $stats 1, 1, 2
+				Veto $stats 0, 0, 4
+		GF
+			THP a world where all humans have HSAM
+				Balance $stats 0, 0, 1
+				People with Highly Superior Autobiographical Memory (HSAM) are able readily and accurately to recall the dates, days and many of the details of personal experiences that occurred even decades previously as vividly as though they happened yesterday.
+			THW take the blue pill rather than the red pill
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
+				The blue pill gives you a false memory of the best week of your life without really experiencing it. The red pill gives you the best week of your life, but you'll forget it all after. 
+			THW rather be Mario than Luigi
+				Balance $stats 0, 0, 1
+				Mario and Luigi are single, childless, young adults who are equally talented and educated. Both live in the same city, work the same job in the same company and have the same health and wealth. Mario always dreamt of reaching the top of the ladder in their current career, but are far from it. They are still determined to do all in their power to reach that goal and never considered another life trajectory. Luigi has never been sure what they want to do in life. They changed many careers before this one, and never felt they found their calling. They don't know what they want to do in the future and are open to the option of another career change.
+		Rookie SF
+			THW give local communities the right to veto economically significant projects that encroach on their land (e.g. expropriation, deduction in value, pollution, etc.)
+				Balance $stats 0, 0, 2
+			THW heavily tax newer residents of megacities
+				Balance $stats 0, 0, 2
+			THBT developing economies should prioritise bottom-up development strategies over top-down development strategies
+				Balance $stats 1, 1, 2
+				Veto $stats 0, 0, 4
+				Bottom-up development strategies are local-scale projects focusing on the development of local communities. Decisions are often made, or at least influenced, by the local people affected by the project. Top-down development strategies refer to developments regulated, planned, and incentivised by the central government.
+		Rookie GF
+			THP single-player games to multiplayer games
+				Balance $stats 0, 0, 1
+			THW abolish copyright in art
+				Balance $stats 0, 0, 1
+			THBT art surrounding social issues should prioritise depicting an optimistic view of the world (e.g. The Beatles' "Imagine", "Black Panther", The "Barbie" movie, etc.,) over a pessimistic one (e.g. "Handmaid's Tale", "Parasite", George Orwell's "1984", etc.)
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
 	30th ICU Tournament(2021)
 		R1: Education
 			THW abolish all private schools

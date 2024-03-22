@@ -115,7 +115,7 @@
 		"id": "ICUTournament",
 		"name": "ICU Tournament",
 		"short": "ICUT",
-		"latest": 2021,
+		"latest": 2024,
 		"tag": ["Asian", "open", "region:Domestic", "international"],
 		"url": "ICUTournament.txt"
 	},
