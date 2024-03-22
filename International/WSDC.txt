@@ -109,22 +109,48 @@ World Schools Debating Championships (WSDC)
 		Pre Univertity Finals: AI
 			Assuming feasibility, THW develop non-sentient artificial intelligence that imitates deceased loved ones in appearance, personality, and mannerisms
 	WSDC Mexico 2020
-		R1
-			TH, as a state with ageing population, would opt for policies that increase immigration (e.g. more visas) rather than ones that encourage citizens to have more children (e.g. tax benefits)
-		R2
-			THP new and original TV series (e.g. Umbrella Academy, the Witcher) to revamps of classic universes (e.g. Amazon series on the Lord of the Rings, Netflix adaption of Alice in Wonderland)
-		R3
-			THW forbid Western tech companies from accepting Chinese standards in order to access the Chinese market (e.g. Google accepting censorship, Apple moving servers to China etc)
-		R4
-			THBT feminist movement in the west should heavily promote the concept of 'self-partnership'
-				A self-partnered person would feel whole and fulfilled within self and does not feel compelled to seek fulfilment through having another person as partner.
+		R1 (prepared)
+			THW designate specific non-residential areas in which drug users and dealers are legally allowed to buy, use, and sell drugs
+		R2 (Maya)
+			THW pay additional benefits to families on welfare according to their child’s performance in school
+		R2 (Aztec)
+			THBT opposition political parties should boycott elections, rather than contest them, when the electoral process is believed not to be free and fair
+		R3 (prepared)
+			THW replace human judgment with computer algorithms in criminal sentencing decisions
+		R4 (Maya)
+			THW ban political parties and require all candidates for national public office to seek election as independents
+		R4 (Aztec)
+			THBT multinational companies should be liable for human rights abuses that occur anywhere in their supply chains
+				A supply chain is a system of organizations, people, activities, information, and resources involved in supplying a product or service to a consumer. Supply chain activities involve the transformation of natural resources, raw materials, and components into a finished product that is delivered to the end customer.
+		R5 (prepared)
+			THP a world where all land was held in government trust and leased out on limited-term contracts
+		R6 (Maya)
+			THBT mainstream search engines should refuse to list results with sexist, racist or otherwise offensive content
+		R6 (Maya rescheduled)
+			THW ban job applicants from disclosing the name of the university that issued any degrees they may hold
+		R6 (Aztec)
+			THW ban corporate* sponsorship of research within academic or educational institutions
+				*for this debate, “corporate” means for-profit companies
+		PDO
+			THO the narrative of sacrifice as a description of the work performed by essential workers during a pandemic
+			THBT large international institutions (e.g. UN & World Bank) should only accept female country delegates
+			THW allocate the majority of government sports funding to encourage grassroots participation (e.g.: amateur community clubs, after school sports clubs, etc.) rather than invest in achieving success in prestigious competitions (e.g.: intensive coaching academies, player and personnel salaries, etc.)
+		OF
+			THP a world where each believer established their own connection to God, rather than establishing one through organised religion
+			THBT social movements should actively use anger to mobalise support for their cause
+			THW impose criminal liability on individuals who fail to assist a person in danger, when doing so would not place them at serious risk
 		QF
-			THBT states should strive to reduce inequality even after everyone has enough for an acceptable quality of life
+			THW not distributed emergency and humanitarian aid through non-state groups linked to terrorism
+			THBT the West should withdraw their military cooperation from India until they restore special privileges to Kashmiris in the J&K region
+				There is an ongoing dispute between India, Pakistan, and China over territory in the former federal unit of Jammu and Kashmir (J&K).
+				J&K was the only state in India to have a majority Muslim population, and there has been a longstanding secessionist movement in this state. The Government of India has consistently responded to this with brutal military repression.
+				Formerly, J&K also enjoyed 'special status'. They had a separate constitution, flag, and autonomy over internal administration of the state. Only designated permanent residents of J&K could own property, obtain government jobs in the state, receive govt. scholarships, etc.
+				In late 2019, the Government of India placed major political leaders under house arrest, revoked its special status, and partitioned the state into two territories that the Government of India has direct and complete control over. Non Kashmiris now can buy land and own property, access government positions, etc, effectively ending any special protections for Kashmiris.
 		SF
-			Motion: THBT the African Union should actively redirect funding from its military interventions towards humanitarian projects (e.g. food insecurity, disease)
-				The African Union is a political, economic, and humanitarian bloc consisting of 55 states in the African continent. Its military wing is currently engaged in interventions in Somalia, Sudan, Mali, the Central African Republic, and Uganda.
+			THBT states should reclaim a large proportion of all donations to charities and redistribute it across charities on the basis of their effectiveness
 		GF
-			In asymmetric warfare, THBT it is justified for the weaker side to cause deliberate harm to enemy civilians for strategic purposes
+			THW choose the job they are passionate about
+				You are a talented, middle-class person in your early twenties about to start your career. You have the choice between a job in which you will make a lot of money and work long hours (e.g., investment banker, corporate lawyer, etc.) and a job which pays less but that you are more passionate about (e.g.: social worker, chef, teacher, small business owner, etc).
 	WSDC Thailand 2019
 		R1
 			THBT governments should actively prevent gentrification.
