@@ -163,7 +163,7 @@
 		"id": "TheKansai",
 		"name": "The Kansai",
 		"short": "",
-		"latest": 2023,
+		"latest": 2024,
 		"tag": ["Asian", "open", "region:Domestic"],
 		"url": "Kansai.txt"
 	},
@@ -645,6 +645,14 @@
 		"latest": 2020,
 		"tag": ["Asian", "BP", "open", "international", "region:Asia"],
 		"url": "International/KoreaIntervarsityDANC.txt"
+	},
+	{
+		"id": "Leiden",
+		"name": "Leiden Open",
+		"short": "",
+		"latest": 2024,
+		"tag": ["BP", "open", "international", "region:Europe"],
+		"url": "International/Leiden.txt"
 	},
 	{
 		"id": "Linkbate",

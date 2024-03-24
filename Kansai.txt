@@ -1,4 +1,104 @@
 The Kansai
+	The Kansai 2024 (3.24-25)
+		R1
+			TH, as you, W send your child to SEPG
+				Balance $stats 3, 4, 13
+				Veto $stats 4, 3, 25
+				For the purposes of this debate, giftedness refers to abilities that are significantly above average (e.g., having a very high IQ as a child, being extremely artistically talented, etc.).You are a middle-income parent with a gifted child. Suppose that there exists a program called SEPG (Special Education Program for Gifted), which is a state-run education program designed for gifted children. Children can receive special education that perfectly suits each child. State offers this service for free but children under the program will be gathered in a training facility and they cannot leave outside till they become adults.
+			THBT schools should actively teach children that parents do not necessarily act based on love
+				Balance $stats 1, 2, 13
+				Veto $stats 5, 7, 25
+			THBT educational institutions should show the full horror of war
+				Balance $stats 1, 2, 13
+				Veto $stats 4, 2, 25
+		R2
+			THBT the Balkan government should dissolve Tent
+				Balance $stats 2, 5, 13
+				Veto $stats 5, 2, 26
+				The Republic of Balka is a developing country struggling with high poverty rates. Recently, the government uncovered the presence of a terrorist group known as Tent operating within its borders. Tent has been responsible for large-scale acts of terrorism across multiple continents, including Asia, Europe, and the US. Intelligence agencies worldwide have been actively pursuing the group.It has come to light that Tent receives orders to commit terrorist acts in return for money. Additionally, the government has learned that Tent operates numerous orphanages within Balka, providing care for thousands of children on a daily basis. If Tent were to be dismantled, these children would lose their place of shelter and care.According to reliable sources, there is a significant opportunity for the government to apprehend members of Tent and disband the organization.
+			THW put the "Empathy machine" on criminals to make them feel the feelings and sensations (e.g. the pain they felt when they were being murdered) victims have (had) felt
+				Balance $stats 0, 0, 13
+				Veto $stats 2, 10, 26
+			THP a world where humans don't possess fear of death
+				Balance $stats 3, 3, 13
+				Veto $stats 6, 1, 26
+		R3
+			THW nationalise the research, development, and distribution of artificial intelligence
+				Balance $stats 1, 4, 13
+				Veto $stats 3, 4, 26
+				To nationalise means to transfer from private or regional ownership and control to state/government ownership and control.
+			TH, as a progressive-minded young candidate in Japan, W opt to represent the Liberal Democratic Party in their debut political campaign rather than joining an opposition faction
+				Balance $stats 3, 1, 13
+				Veto $stats 5, 6, 26
+			In disaster-prone areas, THBT states should heavily prioritize direct anticipatory cash transfers to citizens over post-disaster relief efforts
+				Balance $stats 2, 2, 13
+				Veto $stats 5, 3, 26
+				Anticipatory cash transfers are cash provided by states or humanitarian relief organisations that recipients can use to improve their resilience in the days or weeks before extreme weather hits. Post-disaster relief efforts are states’ measures to help out people after the disaster has already struck.
+		R4
+			THW openly reinterpret the sacred texts of this religion to better align its beliefs and teachings with societal norms
+				Balance $stats 1, 3, 13
+				Veto $stats 6, 3, 26
+				You are a devout member of a religious organization whose beliefs and teachings diverge from societal norms, often labeled as a "cult." Upon the retirement of the current leader, you've been appointed to succeed them and assume the role of guiding the community forward.
+			THS the existence of religious courts
+				Balance $stats 0, 4, 13
+				Veto $stats 5, 7, 26
+				Religious courts include courts like the syariah courts in Muslim countries and the Beth Din (Jewish courts) in Israel. These courts adjudicate on religious matters, such as conversion, marriage, and divorce. Religious courts also exists side by side with secular courts, which adjudicate on matters based on the federal law of the country. Religious courts will only have jurisdiction over its believers.
+			THBT the queer community should actively promote queer theology at the expense of critique to religion
+				Balance $stats 3, 2, 13
+				Veto $stats 2, 3, 26
+				Queer theology is a theological method that has developed out of the philosophical approach of queer theory. Queer theology begins with an assumption that gender non-conformity and gay, lesbian, and bisexual desire have always been present in human history, including the Bible.
+		QF
+			THR Xi Jingpin's tenure as the president of the People's Republic of China
+				Balance $stats 0, 0, 4
+				Veto $stats 3, 3, 8
+			THS the use of advanced artificial intelligence in conflicts (lethal autonomous drone strikes, AI-enabled cyberattacks on enemy combatants, logistics and supply line planning, engine failure detection, etc)
+				Balance $stats 2, 1, 4
+				Veto $stats 0, 1, 8
+			THBT the ASEAN should aim for further integration by adopting an organizational structure equivalent to that of the Eurozone
+				Balance $stats 0, 1, 4
+				Veto $stats 1, 0, 8
+				ASEAN, comprising Southeast Asian nations, operates on consensus-building without supranational authority, focusing on gradual economic integration with limited political unity. In contrast, the Eurozone, consisting of EU countries sharing the euro, features deeper economic and monetary integration, governed by EU institutions with stronger legal frameworks and enforcement mechanisms.
+		SF
+			THP that the BOJ, for a foreseeable future, stick to its traditional policies (see info 1,2,3) rather than continuously raising its interest rates
+				Balance $stats 1, 0, 2
+				Veto $stats 1, 0, 4
+				For the past decade, the Bank of Japan (BOJ) has been engaging in policies such as 1) quantitative and qualitative monetary easing which includes massive purchase of Japanese government bonds, exchange-traded funds (ETFs), and other financial assets to inject liquidity into the financial system, lower interest rates, and stimulate economic activity 2) negative interest rate policy whereby it charged financial institutions for holding excess reserves at the central bank and 3) yield curve control (YCC) designed to hold down long- and short-term interest rates.This week, the BOJ announced that it will end its negative interest rate policy, raise borrowing rates and also abandon its yield-curve control framework.
+			THBT Rakuten Group should entirely shut down Rakuten Mobile as opposed to continuing the project
+				Balance $stats 1, 0, 2
+				Veto $stats 0, 1, 4
+				Rakuten Group, specifically its mobile operations Rakuten Mobile, has been experiencing substantial financial challenges and losses. While its other segments such as Rakuten Travel, Rakuten Bank and e-commerce has generated record high sales and profits, the enormous loss made by Rakuten Mobile segment alone meant that the company’s operating profit was negative 212.8 billion yen, and net profit for the period was negative 329.5 billion yen (fiscal year 2023).To address its financial crisis, Rakuten Group announced that they will issue dollar-denominated bonds with a maturity period of 3 years with the yield reaching 12.125% (yield is very similar to interest rate). This is one of the highest yield set by major Japanese companies ever. S&P Global Ratings rated it "BB," which means the bond doesn’t meet investment-grade criteria. A large percentage of the bonds will be used to finance its aggressive pricing strategy (e.g. Rakuten SAIKYO plan, which claims to have the lowest price across all carriers).The initial purpose of investment in Rakuten Mobile was to establish "Rakuten Economic Zone," a zone where consumers navigate between e-commerce, travel, entertainment, finance and mobile all run by Rakuten Group.Rakuten Mobile’s loss can be attributed to many factors including but not limited to: infrastructure costs like base station; severe competition against KDDI with au, NTT with docomo, and Softbank.
+			THS advanced economies' recent emphasis on "resilience" over "efficiency" in large-scale economic policy reforms (e.g., semiconductors in the CHIPS Act, green technology in the Inflation Reduction Act, etc.)
+				Balance $stats 0, 0, 2
+				Veto $stats 1, 1, 4
+				Efficiency-oriented economic policy centers on reducing prices and maximising output by allocating production according to where a comparative advantage exists (e.g., lowering barriers to trade and investment, removing regulations that impede competition). Resilience-oriented economic policy sacrifices efficiency in order to build redundancies in the event of economic shocks (e.g., subsidizing domestic production, restricting trade of key technologies with adversaries, building national reserves).
+		GF
+			THR the concept of "shoganai"
+				Balance $stats 0, 0, 1
+				Shoganai, often translated as "it can’t be helped" or "nothing can be done about it," reflects the Japanese ethos of embracing fate and recognizing the limits of human control. It encourages individuals to let go of their desires for absolute control and to acknowledge the impermanence and unpredictability of life.It is used as a way of shrugging off a bad situation, but it is also very often a way of shrugging off responsibility.
+			THP a world where humanity is risk-averse as opposed to one where they are risk-seeking
+				Balance $stats 0, 0, 1
+			THR the narrative that sacrifice is necessary for achieving one's dream
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+		Rookie SF
+			THS the mass scale arresting operation
+				Balance $stats 0, 0, 2
+				Veto $stats 1, 1, 4
+				"El Salvador used to have one of the highest rate of gang-related violence in the world. The government announced the state of emergency last year, a policy that temporarily loosens arrest rules and suspends basic rights, including free speech and protest rights, and conducted a mass-scale arresting operation. Because of this operation, thousands of people were arrested for belonging to gangs, affiliating with gangs, and being a relative of gang members. Now El Salvador is one of the safest countries in the region. However, due process is not guaranteed AT ALL and prisoners do not receive any rehabilitation."
+			THO the glorification of police officers
+				Balance $stats 1, 0, 2
+				Veto $stats 0, 1, 4
+			THW prohibit the media from covering ongoing trials
+				Balance $stats 1, 0, 2
+				Veto $stats 1, 0, 4
+		Rookie GF
+			THS the rapid and widespread digital transformation of the healthcare industry. (including but not limited to the predominance of telemedicine, remote patient monitoring, and AI doctors)
+				Balance $stats 0, 0, 1
+			THO the expectation that romantic partners should be significant support systems of each other's mental health
+				Balance $stats 0, 0, 1
+			Assuming there is a technology that allows you to live a healthy life eternally, TH as an individual would reject immortality
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
 	The Kansai 2023 (3.18-19)
 		R1: WAKE UP WORLD!
 			TH, as the RNC (Republican Party), would stop Trump from running for the US presidential election in 2024
