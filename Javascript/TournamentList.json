@@ -184,6 +184,14 @@
 		"url": "KKCup.txt"
 	},
 	{
+		"id": "Konpeki",
+		"name": "Konpeki Cup",
+		"short": "",
+		"latest": 2024,
+		"tag": ["Asian", "rookie", "region:Domestic"],
+		"url": "Konpeki.txt"
+	},
+	{
 		"id": "MomijiCup",
 		"name": "Momiji Cup",
 		"short": "",

@@ -1,0 +1,74 @@
+Konpeki Cup
+	Konpeki Cup 2024
+		R1
+			A: THBT the feminist movement should actively oppose the rise of sugardaddying
+				Balance $stats 2, 1, 10
+				Veto $stats 2, 6, 20
+			B: THBT the feminist movement should financially incentivize female students to major in STEM fields
+				Balance $stats 4, 1, 10
+				Veto $stats 2, 3, 20
+			C:THBT feminist movement should focus on emphasizing success stories of women, rather than instances of their exclusion, suffering, or vulnerabilities
+				Balance $stats 0, 2, 10
+				Veto $stats 6, 1, 20
+		R2
+			A: THR the rising popularity of personality test (e.g. "MBTI" 16 personalities...）
+				Balance $stats 0, 2, 10
+				Veto $stats 3, 4, 20
+			B: THW legalize euthanasia for people who wishes to die
+				Balance $stats 2, 4, 10
+				Veto $stats 1, 4, 20
+			C: Assuming you have a choice on whether to be born or not based on the knowledge of average life and society, THW choose not to be born
+				Balance $stats 0, 2, 10
+				Veto $stats 6, 2, 20
+		R3
+			A: THS the selection and concentration strategy in scientific research
+				Balance $stats 2, 1, 10
+				Veto $stats 3, 2, 20
+			B: TH, as Japanese environmental activists, W support utilization of nuclear power for electricity generation
+				Balance $stats 1, 2, 10
+				Veto $stats 6, 3, 20
+			C: THW nationalize pharmaceutical industry
+				Balance $stats 3, 1, 10
+				Veto $stats 1, 5, 20
+		R4
+			A: THBT parents should teach children that having low expectations to others/society is the key to happiness
+				Balance $stats 2, 1, 10
+				Veto $stats 1, 5, 20
+			B: THBT parents should actively teach children that money leads to happiness
+				Balance $stats 3, 1, 10
+				Veto $stats 5, 1, 20
+			C: THBT parents should raise their children to prioritize groupism over individualism
+				Balance $stats 1, 2, 10
+				Veto $stats 4, 4, 20
+		Pre SF, Rookie SF
+			A: THBT Taiji should continue dolphin drive hunting
+				Pre SF Balance $stats 0, 0, 2
+				Rookie SF Balance $stats 0, 0, 2
+				A: Dolphin drive hunt is the traditional hunting method in Taiji, a small rural town inWakayama, Japan. During the hunt, dolphins are driven into small bays and are captured for food consumption or sale to dolphinariums. The tradition is central to the town's culture and industry, but has also faced global criticism as an inhumane method of hunting.
+			B: THO the commodification of animals. (e.g. Pets, animal cafe, YouTube video of animals, etc)
+				Pre SF Balance $stats 0, 0, 2
+				Rookie SF Balance $stats 0, 0, 2
+			C: THP to be born as average house cat as opposed to be average human in developed country
+				Pre SF Balance $stats 0, 0, 2
+				Rookie SF Balance $stats 0, 2, 2
+				Rookie SF Veto $stats 0, 0, 4
+		SF, Rookie GF
+			A: TH, as the eSports community, P larger but more spaced apart balance patches to smaller, more frequent ones
+				SF Balance $stats 0, 0, 2
+				Rookie GF Balance $stats 0, 0, 1
+			B: TH, as you, W choose to stay with Team X
+				SF Balance $stats 0, 0, 2
+				Rookie GF Balance $stats 1, 0, 1
+				Rookie GF Veto $stats 0, 0, 2
+			C: THW create professional sports leagues where performance-enhancing drugs are permitted
+				SF Balance $stats 1, 1, 2
+				SF Veto $stats 0, 0, 4
+				Rookie GF Balance $stats 0, 0, 1
+		GF
+			A: THP the dominance of Disney optimism to Ghibli optimism on media
+				Balance $stats 0, 0, 1
+			B: THW reveal the information to the public
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+			C: THS the use of this technology
+				Balance $stats 0, 0, 1
