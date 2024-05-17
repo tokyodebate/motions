@@ -43,7 +43,7 @@
 		"id": "ElizabethCup",
 		"name": "Elizabeth Cup",
 		"short": "",
-		"latest": 2023,
+		"latest": 2024,
 		"tag": ["NA", "proam", "region:Domestic"],
 		"url": "ElizabethCup.txt"
 	},
@@ -219,7 +219,7 @@
 		"id": "NemophilaCup",
 		"name": "Nemophila Cup",
 		"short": "",
-		"latest": 2023,
+		"latest": 2024,
 		"tag": ["NA", "rookie", "open", "region:Domestic"],
 		"url": "NemophilaCup.txt"
 	},
