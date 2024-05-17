@@ -1,4 +1,48 @@
 Nemophila Cup
+	Nemophila Cup 2024 お花部門
+		R1
+			THO disaster capitalism
+				OG $stats 1, 0, 1, 2
+				OO $stats 1, 1, 2, 0
+				CG $stats 1, 1, 0, 2
+				CO $stats 1, 2, 1, 0
+				Disaster capitalism refers to when private interests descend on a particular region in the wake of major destabilizing events, such as war, government upheaval, and natural disaster. An example of disaster capitalism is after the Earthquake and Tsunami in South Asia where developers acquired land to build resorts and other ventures while local farmers and residents were evacuating their homes.
+		R2
+			THBT minority communities should actively encourage their children to pursue careers in state security apparatuses (i.e. the military, the police, immigration and border control)
+				OG $stats 2, 0, 0, 2
+				OO $stats 0, 1, 2, 1
+				CG $stats 2, 2, 0, 0
+				CO $stats 0, 1, 2, 1
+		R3
+			TH, as the major opposition party in Japan, W predominantly campaign on the basis of moral character (e.g. integrity, accountability, corruption) rather than predominantly on specific issues and policies (e.g. economy, welfare, defense)
+				OG $stats 2, 1, 1, 0
+				OO $stats 2, 1, 0, 1
+				CG $stats 0, 0, 1, 3
+				CO $stats 0, 2, 2, 0
+		Pre GF
+			Assuming a world where a social credit system exists and is applied to all citizens, THP punishment through a social credit system over incarceration for nonviolent crimes (e.g. failure to pay tax or debts, possession of illicit substances)
+				OG $stats 1, 0
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				A social credit system is developed by the government, and establishes a record system, where individuals are tracked and evaluated for 'good' and 'bad' behaviour, ultimately being awarded an overall score. On the basis of their score, individuals can be both punished and rewarded.
+		GF
+			TH, as the Kishida administration, W refuse to sign the contract
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				The "space army", which is an army of extraterrestrial life, is currently staying in a spaceship fleet floating above Japan. The captain of the fleet left the following message: "The president of our planet wants to make a contract with Japan. We will occupy certain spaces of the nation and use it as bases to 'explore and study' Earth. If the Kishida administration refuses this contract, we will 'take necessary and forceful means' to achieve our goal." Note that the Kishida administration needs to respond within 48 hours.
+	Nemophila Cup 2024　つぼみ部門
+		R1
+			THW ban combat sports (for example, wrestling, boxing, judo)
+				Balance $stats 6, 3
+		R2
+			THBT Japan should prioritize funding for domestic education (for example, increased funding for schools/teachers, increased scholarships) as opposed to funding for studying abroad (for example, exchange programs, support for students to enroll into foreign universities)
+				Balance $stats 6, 3
+		R3
+			THBT parents from minority background should actively teach the harsh reality of society to their children from young age
+				Balance $stats 3, 6
 	Nemophila Cup 2023 お花部門
 		R1
 			THO radical action being taken by environmental activists (e.g., blocking roads, vandalism, blowing up pipelines)

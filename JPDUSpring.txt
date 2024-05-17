@@ -1,4 +1,97 @@
 JPDU Spring Tournament
+	JPDU Spring Tournament 2024
+		R1
+			THR the consumption of political figures as internet memes
+				Balance $stats 0, 3, 9
+				Veto $stats 5, 0, 18
+			TH, as people who currently promote vegetarianism on animal welfare grounds, would actively promote a flexitarian lifestyle as an alternative to a traditional non-vegetarian diet
+				Balance $stats 3, 0, 9
+				Veto $stats 1, 5, 18
+				A flexitarian diet is a diet centered on plant foods, with limited or occasional inclusion of meat. For example, a flexitarian might eat meat only some days each week. 
+			THP a benevolent dictatorship to a weak democracy
+				Balance $stats 2, 1, 9
+				Veto $stats 3, 4, 18
+		R2
+			TH, as the transgender community, opposes Hunter Schafer's decision to no longer play transgender roles
+				Balance $stats 2, 2, 9
+				Veto $stats 5, 0, 18
+				Hunter Schafer is a 25 year old male to female transgender model and actress who rose to fame playing a trans character in the hit drama Euphoria. Although she is an active advocate on LGBT issues, she has recently stated that she no longer wants to play transgender roles, and that being reduced to simply a trans actress was "demeaning to me and what I want to do".
+			THW actively invest in the development, upkeep, and distribution of Nightshade
+				Balance $stats 1, 0, 9
+				Veto $stats 0, 7, 18
+				Nightshade is a program developed at the University of Chicago which is designed to help artists protect their art from being used as learning data for generative AI. It works by introducing a set of minimal changes to artworks, such that it appears unchanged to the human eye but dramatically different to AI models, making them actively harmful to AI learning.
+			TH, as the creator of a TV series being released on a streaming service, would choose to release the entire season at once as opposed to releasing 1 episode every week
+				Balance $stats 1, 3, 9
+				Veto $stats 4, 2, 18
+		R3
+			THO "Olive Financing"
+				Balance $stats 1, 3, 9
+				Veto $stats 5, 0, 18
+				"Olive Financing" refers to the practice where private financial institutions provide funding for renewable projects undertaken by companies that are significant polluters in other areas of their operations (e.g. companies transitioning from 'brown'  to 'green'.)
+			THS Xi Jinping's decision to significantly invest in high-tech sectors (e.g. electric vehicles, biomanufacturing, and artificial intelligence) at the expense of pursuing broad fiscal stimulus
+				Balance $stats 1, 2, 9
+				Veto $stats 2, 3, 18
+			THS the mandatory standardization of technology (e.g. power plugs, car parts, computer chips, USB-C)
+				Balance $stats 2, 0, 9
+				Veto $stats 2, 6, 18
+		R4
+			THP a world where people predominantly believe in an internal locus of control (LOC) rather than an external LOC
+				Balance $stats 2, 3, 9
+				Veto $stats 3, 2, 18
+				An internal locus of control (LOC) points to the idea that you are in control of the outcomes of the decisions you make.On the other hand, an external locus of control points to the idea that the outcomes of the decisions you make are out of your control, and rather determined by outside factors or random chance.
+			THBT religious organisations should syncretise over remaining independent
+				Balance $stats 1, 0, 9
+				Veto $stats 2, 4, 18
+				Religious Syncretism is the practice of blending cultural/religious indigenous practices with different religious beliefs (for example, the Catholic Church merging traditional saints with local deities in Latin America). Religious Independence is the belief that one's religion must remain tied to a unique set of religious teachings that contain the truth about humanity and divinity.
+			THS the global increase of "Spiritual but not religious" (SBNR) individuals
+				Balance $stats 1, 2, 9
+				Veto $stats 4, 3, 18
+				"Spiritual but not religious (SBNR)" points to a group of people who self-identify as spiritual (believe in higher power (s), life after death, supernatural beings, superstitions etc.), but do not affiliate themselves with a particular organized religion.
+		Pre SF
+			THS the popularization of therapy speak
+				Balance $stats 0, 1, 2
+				Veto $stats 1, 1, 4
+				"Therapy speak" refers to the significant expansion of psychological and medical language and concepts to daily life, outside of the academic context. This could include but is not limited to:using terms like "toxic" or "gaslighting" when talking about interactions, friendships, or relationships in situations that do not meet the academic definition of these termsreferring to the urge to tidy up as "OCD", or a temporary inability to focus as "ADHD"partaking in speculative psychiatric diagnoses of others, including public figures
+			THP FFS over DRG as a system of payment for medical services
+				Balance $stats 0, 1, 2
+				Veto $stats 1, 1, 4
+				Fee-for-service (FFS) refers to a payment model where hospitals are paid for each specific service they provide, such as examinations, prescriptions, and treatments.In contrast, diagnosis-related groups (DRG) represent a system where a daily rate for payment is predetermined by the state based on the diagnosis or reason for a patient's hospital stay. Under this system, this set payment is made for every day that the patient stays in hospital. All services provided are funded from this daily rate, and any remaining funds become the hospital's revenue. Notably, certain costly services like surgeries, expensive medications, and radiation therapy are considered exceptions and are billed separately per service.
+			THO the glorification of medical professionals
+				Balance $stats 0, 0, 2
+				Veto $stats 0, 0, 4
+		SF
+			Assuming the TikTok bill passes the U.S. Senate, TH, as the EU, would immediately (within the 6 month period) follow in the ban
+				Balance $stats 0, 0, 2
+				Veto $stats 0, 1, 4
+				In March 2024, the US House of Representatives passed a bipartisan bill that would force China-based TikTok developer ByteDance to either give up its ownership of the app within 6 months or face a ban in the US. The bill was passed out of concern over Chinese control over a major news source, and a Chinese national security law that requires Chinese companies to share information with the government on request. The bill is now awaiting a decision from the Senate.
+			TH, as Ukraine, would seek an immediate and permanent ceasefire with Russia
+				Balance $stats 1, 0, 2
+				Veto $stats 1, 1, 4
+			THS the promotion of collective guilt after large scale crimes against humanity
+				Balance $stats 1, 0, 2
+				Veto $stats 1, 0, 4
+		GF
+			THP a world where the heritability of IQ is 0% (i.e. IQ is completely independent of genetics)
+				Balance $stats 0, 0, 1
+				The heritability of IQ is estimated to be about 70% (meaning that genetics is responsible for 70% of the factors which decide IQ).
+			THW mandate all individuals to go into the simulator once at 18
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
+				There exists a machine that can simulate the conditions of living in absolute poverty for one year. The simulation itself takes about a few hours, but the person in the simulation feels the passing of time as "real". People would not experience death, but everything else is a 100% copy of living in absolute poverty.
+			THP a world with relationship credit scores
+				Balance $stats 0, 0, 1
+				A "relationship credit score" is a score that is given to an individual based on a number of set rules, where good behavior in relationships improves one’s score and bad behavior in relationship decreases one’s score. Any individual can access another's score via a website. For the sake of debate, assume that relationship credit score organizations have access to the necessary information to score on a set of criteria.
+		Rookie GF
+			THW prioritize community creation (e.g. organizing social events and workshops for young carers) over policies aimed at further reducing the care burden on young carers (e.g. increased medical care/nursing services, etc)
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+				Young carers are those who are under 18 that help to look after a relative with a disability, illness, mental health condition, or drug or alcohol problem.
+			THR the rise of for-profit debate enterprises
+				Balance $stats 0, 0, 1
+				In recent years, the value of debate and debating skills has been increasingly recognized in society. As a result, more people are seeking to learn debate not only for personal development and intellectual enrichment but also for university admissions and job preparation. In response to this trend, for-profit enterprises are capitalizing on this demand by launching businesses focused on debate-related services. Notable examples include Edudrift, PDA, Mixidea, and Prism.
+			THP the league system to the tournament system in student sports competitions
+				Balance $stats 0, 0, 1
+				In a league system, each team competes against every other team at least once. Standings are determined by the results of these matches. Typically, each team plays the same number of matches, except under specific exceptions. This format is characterized by its round-robin structure, ensuring that all teams have the opportunity to compete against each other.In contrast, a tournament system determines the winner through elimination rounds. Teams face off in matches, and only the winners progress. Teams that lose a match are immediately eliminated from the competition, culminating in a final match to determine the overall winner.
 	JPDU Spring Tournament 2023
 		R1: They'd say I hustled, put in the work, they wouldn't shake their heads and question how much of this I deserve
 			THS the gamification in the workplace

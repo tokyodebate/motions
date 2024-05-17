@@ -1,4 +1,18 @@
 Elizabeth Cup
+	21th Elizabeth Cup (2024)
+		R1
+			THW make political voting mandatory
+				Balance $stats 17, 15
+		R2
+			THW nationalize the pharmaceutical industry
+				Balance $stats 16, 16
+		R3
+			THBT high-school students should actively engage in romantic relationships
+				Balance $stats 13, 20
+		R4
+			THO "pay-to-win" games
+				Balance $stats 20, 12
+				"Pay-to-win" (課金制) is a model of games that are adopted by many online game companies. Although they are initially free to play, players can use money to gain significant advantages over their opponents and to upgrade their experience. An example of a "pay-to-win" game is social games (ソシャゲ) where you can buy items such as skins, weapons, abilities etc. 
 	20th Elizabeth Cup (2023)
 		R1
 			THW impose a fat tax on unhealthy food
