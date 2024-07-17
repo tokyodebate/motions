@@ -203,7 +203,7 @@
 		"id": "NagoyaDebateOpen",
 		"name": "Nagoya Debate Open",
 		"short": "NDO",
-		"latest": 2023,
+		"latest": 2024,
 		"tag": ["Asian", "open", "region:Domestic"],
 		"url": "NagoyaDebateOpen.txt"
 	},
@@ -267,7 +267,7 @@
 		"id": "SeikeiJoint",
 		"name": "Seikei Joint",
 		"short": "",
-		"latest": 2023,
+		"latest": 2024,
 		"tag": ["NA", "rookie", "region:Domestic"],
 		"url": "SeikeiJoint.txt"
 	},
@@ -307,8 +307,8 @@
 		"id": "SudachiCup",
 		"name": "Sudachi Cup",
 		"short": "",
-		"latest": 2022,
-		"tag": ["NA", "rookie", "region:Domestic"],
+		"latest": 2024,
+		"tag": ["NA", "BP", "rookie", "open", "region:Domestic"],
 		"url": "SudachiCup.txt"
 	},
 	{
@@ -387,7 +387,7 @@
 		"id": "WakabaCup",
 		"name": "Wakaba Cup",
 		"short": "",
-		"latest": 2023,
+		"latest": 2024,
 		"tag": ["NA", "rookie", "region:Domestic"],
 		"url": "WakabaCup.txt"
 	},

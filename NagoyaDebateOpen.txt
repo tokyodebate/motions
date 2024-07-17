@@ -1,4 +1,103 @@
 Nagoya Debate Open
+	Nagoya Debate Open 2024
+		R1
+			THW abolish the statute of limitations
+				Balance $stats 2, 1, 14
+				Veto $stats 3, 7, 28
+			THBT being a victim of child abuse should not be a mitigatory factor in trials
+				Balance $stats 2, 3, 14
+				Veto $stats 5, 2, 28
+			THBT the U.S should abolish plea bargaining
+				Balance $stats 2, 4, 14
+				Veto $stats 6, 5, 28
+		R2
+			THBT social movement should actively denounce positive stereotypes associated to identity (e.g. Women are empathetic, black people are resilient and athletic etc.)
+				Balance $stats 5, 1, 14
+				Veto $stats 2, 4, 28
+			THW allow corporations to refuse to provide services to LGBTQ customers on the basis of religion
+				Balance $stats 2, 2, 14
+				Veto $stats 8, 4, 28
+			THBT prominent institutions in marginalized communities (churches, schools, community centres, etc.) should practice the politics of respectability
+				Balance $stats 2, 2, 14
+				Veto $stats 4, 6, 28
+				Info: Respectability politics or the politics or respectability refers to attempts by marginalized groups to police their own members and show their social values as being continuous and compatible with mainstream values rather challenging the mainstream for what they see as its failure to accept difference
+		R3
+			THW live in universe Beta
+				Balance $stats 1, 0, 14
+				Veto $stats 2, 9, 28
+				In universe Beta your "stats" (i.e: Strength, Agility, Vitality, Vigor, Intelligence, Endurance and Dexterity) are visible in a numerical value much like in a game. Your stats can be set to private (only be viewed by yourself) or public (can be viewed by others in close proximity). Furthermore, stats will increase or decrease depending on what you do with your life. 
+				
+			THW take the black pill
+				Balance $stats 4, 1, 14
+				Veto $stats 8, 3, 28
+				What would you do if the life you lived up until now was a lie? One day, a leader of the human resistance contacts you and tells you of this falsehood. You have three choices. Take the blue pill and go back to the false world. Take the red pill and wake up into the real world of AI vs human resistance. Take the black pill and die a painless death.  
+			THW press the button
+				Balance $stats 1, 7, 14
+				Veto $stats 4, 2, 28
+				Imagine there is a button in front of you. Pressing the button would immediately cripple all weapon systems around the world at the cost of technological reversion to that of before the industrial revolution. All forms of technology will immediately cease to function and there is no way for humanity to regain them in the foreseeable future. 
+		R4
+			THBT schools should actively educate students that not helping victims of bullying is a form of complicity
+				Balance $stats 2, 3, 14
+				Veto $stats 3, 7, 28
+			THW introduce communal child rearing
+				Balance $stats 3, 2, 14
+				Veto $stats 4, 4, 28
+				Communal child rearing is the system of raising children as a whole society. In this system, biological parents lose parental right to their children, and the communities give necessities of lives, education and money for independence etc. to all children equally. Also, parents and children live apart, and don’t keep special connection to each other.
+			THBT schools should teach children that one should be always calm and suppress their emotion when advocating their opinions in discussion
+				Balance $stats 2, 2, 14
+				Veto $stats 7, 3, 28
+		Pre QF
+			THP a world where countries can freely interpret historical events without interference from external factors
+				Balance $stats 2, 0, 4
+				Veto $stats 1, 1, 8
+			TH, as you, W choose to be erased
+				Balance $stats 1, 0, 4
+				Veto $stats 2, 1, 8
+				For the sake of this debate, there exists technology that can erase a person from the memories of everyone he or she has interacted with. All physical and digital footprints that the person has will be wiped. You are a middle class worker with an average income with a couple friends and family. You have just been diagnosed with a terminal illness with no hope of a cure in the forseeable future. 
+			THW make descendants of past wrong doers legally obliged to acts of reparation to the descendants of victims
+				Balance $stats 1, 0, 4
+				Veto $stats 1, 2, 8
+		QF
+			THP a world where Trump had won the 2020 election
+				Balance $stats 0, 0, 4
+			THW prioritize increasing the county's self-sufficency rate over nurturing bilateral and multilateral ties. "
+				Balance $stats 0, 0, 4
+			THBT Ukraine should not have relinquished its nuclear arms
+				Balance $stats 1, 3, 4
+				Veto $stats 0, 0, 8
+				The "Budapest Memorandum concluded arduous negotiations that resulted in Ukraine’s agreement to relinquish the world’s third-largest nuclear arsenal, which the country inherited from the collapsed Soviet Union, and transfer all nuclear warheads to Russia for dismantlement. The signatories of the memorandum pledged to respect Ukraine’s territorial integrity and inviolability of its borders, and to refrain from the use or threat of military force." 
+		SF
+			THBT Shorei-kai should remove age limit
+				Balance $stats 0, 1, 2
+				Veto $stats 0, 1, 4
+				Shorei-kai is the professional training organization of the Japan Shogi Federation.
+				A player who has achieved the 3-dan rank in the Shorei Association and has achieved the required results is promoted to the 4-dan rank (= professional rank).
+				If a player is not promoted to 4-dan by the age of 26, he or she is forced to withdraw from the Shorei-kai. It almost eliminates his or her chance of becoming a professional Shogi player.
+			THW hold football clubs criminally liable for the actions of their fans
+				Balance $stats 0, 1, 2
+				Veto $stats 2, 0, 4
+			THW impose salary caps on professional sports teams
+				Balance $stats 0, 0, 2
+				Veto $stats 0, 1, 4
+		GF
+			Assuming all jobs can be automated, THW abolish all jobs and grant a basic living for everyone
+				Balance $stats 0, 0, 1
+			THW prohibit employers from demanding access to social media accounts of prospective or current employees
+				Balance $stats 0, 0, 1
+			THW allow employees to choose not to receive any basic provision in their labor contracts in exchange for a proportional increase in wage
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
+		Rookie GF
+			THW keep this a secret and continue the existence of the organ farm
+				Balance $stats 0, 0, 1
+				Due to the surplus of demand for organ transplants, technological advancement has focused on cloning perfectly healthy human beings. Success has resulted in the creation of the organ farm: a facility that keeps all clones in stasis (seemingly unaware of their surroundings). Organs from the farm have made organ donations obsolete and millions of lives have been saved. You are the head of the organ farm. One day, you open an encrypted file that shows damning evidence that the clones are as self-aware as human beings. 
+			THW use the empathy link as a form of rehabilitation and punishment in the CJS
+				Balance $stats 0, 0, 1
+				For the purpose of this debate: an empathy link is a newly created technology that can make people live through another person’s experiences from a first-person perspective. There is just one catch, this is not a one way experience. The link can only function by allowing two individuals to share their experiences with each other. 
+			TH, as you, W make the trip
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
+				The last remnants of humanity are hurtling across the vast expanses of space in search of a new home. The mothership’s scanners have located two potential planets within traveling distance. However, there is a problem. The mothership only has enough fuel to travel to one of the planets. The mothership has one-man spacecrafts that can fly to these planets to see if they are inhabitable but only two capable pilots. You are one of these pilots. Taking the trip would mean leaving your family, friends and all that you know on a one way journey. 
 	Nagoya Debate Open 2023
 		R1
 			THO the glorification of success of YouTubers

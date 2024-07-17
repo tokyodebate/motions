@@ -1,4 +1,57 @@
 Sudachi Cup
+	Sudachi Cup 2024
+		R1
+			TH, as you, would pursue a romantic relationship with the AI chatbot instead of actively seeking romantic relationships with human
+				OG $stats 1, 2, 2, 0
+				OO $stats 2, 1, 0, 2
+				CG $stats 2, 1, 1, 1
+				CO $stats 0, 1, 2, 2
+				You are a college freshman who is interested in romantic relationships, but has had no relationship. One day, you find an AI chatbot that can simulate romantic interactions extremely well.
+		R2
+			THW ban religious actions which deem to put believers at serious risk
+				OG $stats 3, 1, 1, 0
+				OO $stats 1, 2, 0, 2
+				CG $stats 1, 1, 3, 0
+				CO $stats 0, 1, 1, 3
+		R3
+			THBT the LGBTQ+ movement should prioritize highlighting the unique features and struggles of each gender (i.e. struggles of gays being distinct from those of lesbians or those of asexuals being distinct from those of aromantics) rather than highlighting unified struggles
+				OG $stats 0, 3, 1, 1
+				OO $stats 1, 1, 3, 0
+				CG $stats 3, 0, 1, 1
+				CO $stats 1, 1, 0, 3
+		R4
+			TH, as you, would give up taking audition instead of try other auditions
+				OG $stats 0, 2, 1, 2
+				OO $stats 4, 0, 1, 0
+				CG $stats 1, 0, 2, 2
+				CO $stats 0, 3, 1, 1
+				A survival idol audition show is essentially a elimination competition style show where participants start with a pool of trainees and throughout various challenges, get eliminated until they get down to the "final" where if you pass, a group is formed with the few who survived to the end. The show broadcast the scene of participants practicing dance, song etc and their lifestyle by which viewers can understand the participants’ personality. In order to pass the various challenges during the show,the participants have to get voted more by viewers compared to other participants.You are 16 years old and participated in an idol survival audition show. You were dropped in the "final", and could not make the debut.
+		R5
+			THW reintroduce "Yutori" education
+				OG $stats 1, 2, 0, 1
+				OO $stats 2, 1, 0, 1
+				CG $stats 1, 0, 1, 2
+				CO $stats 0, 1, 3, 0
+				"Yutori" education refers to a Japanese education policy which reduces the hours and the content. from the Japanese curriculum guidelines in primary education. This education policy grants teachers greater autonomy in developing lessons suited to the specific needs of their classrooms and schools.During Yutori Education, these policies below were introduced.- 30% of the curriculum was cut and "time for integrated study", where teachers can set the curriculums according to each school's need, was established- Introduced 'absolute scale grade'
+		Pre GF
+			THP a world where the dominant norm is e/acc to where the dominant norm is EA
+				OG $stats 1, 0
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+		GF
+			THP a world where people cannot blame themselves
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+		Rookie GF
+			THS decentralization in Japan
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				Decentralization is the transfer of control of an activity or organization to several local offices or authorities rather than one single one.Central governments perform a minimum amount of work, and local governments rely relatively on their revenue sources and exhibit a high degree of autonomy. Consequently, each region is able to formulate and implement its own policies independently.
 	Sudachi Cup 2022
 		R1 
 			THW not punish people below the poverty line for economic crimes.

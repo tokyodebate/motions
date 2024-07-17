@@ -1,4 +1,20 @@
 Wakaba Cup
+	Wakaba Cup 2024
+		R1
+			THW introduce a female quota for executive board of companies
+				Balance $stats 10, 5
+		R2
+			THBT educators should teach their children 'Toxic Positivity
+				Balance $stats 7, 8
+				'Toxic Positivity "Toxic positivity" refers to the concept that keeping a positive mindset and being optimistic is the right and best way to live your life, even when you are going through a hard time.
+		R3
+			THO psychological and environmental factors being put into consideration when punishing serious crimes
+				Balance $stats 8, 7
+		R4
+			TH, as you, would start dating the female influencer openly rather than dating the same-sex member in secret
+				Balance $stats 3, 12
+				You are a 17-year-old gay boy, who is hoping to become a model. You are participating in a Japanese love reality show  (e.g. 今日好き （Kyosuki)). You fell in love with a same-sex member, and you found out he likes you back. However, a popular female influencer, who actually likes you, asks you to be her boyfriend. YOU CANNOT DATE BOTH PEOPLE 
+				AT ONCE.
 	Wakaba Cup 2023
 		R1
 			THW give more votes to the poor
