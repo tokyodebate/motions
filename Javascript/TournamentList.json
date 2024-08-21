@@ -107,7 +107,7 @@
 		"id": "IchoCup",
 		"name": "Icho Cup",
 		"short": "",
-		"latest": 2023,
+		"latest": 2024,
 		"tag": ["NA", "rookie", "region:Domestic"],
 		"url": "IchoCup.txt"
 	},
@@ -251,7 +251,7 @@
 		"id": "QDO",
 		"name": "Kyushu Debate Open",
 		"short": "QDO",
-		"latest": 2019,
+		"latest": 2024,
 		"tag": ["BP", "open", "region:Domestic", "international"],
 		"url": "QDO.txt"
 	},

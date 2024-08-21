@@ -1,4 +1,43 @@
 Icho Cup
+	15th Icho Cup (2024)
+		R1
+			THBT developing countries should require citizens to work in their home country for a certain period of time after graduating from university
+				Balance $stats 15, 9
+		R2
+			Assuming that there is technology that can accurately identify a person's political preferences, THW display information opposed to a person's political preference on their social media
+				Balance $stats 19, 6
+		R3
+			THR the rise of 整形アイドル
+				Balance $stats 13, 12
+				整形アイドル refers to clebrities like idol groups or Youtubers who publically opened that they did cosmetic surgery. Example of 整形アイドル are 整形アイドルプロジェクト and 整形アイドル轟ちゃん.
+		R4
+			Assuming technology that can correctly assess environmental damage exists, THW heavily fine corporations that do not fulfill fixed environmental guidelines (e.g. CO2 emission rates, pollution standards)
+				Balance $stats 10, 15
+		Rookie QF
+			THW prohibit corporations from having access to the criminal record of job applicants
+				Balance $stats 3, 1
+		OF
+			THBT religious organizations should focus on blessing in real life (e.g. cure of diseases) as opposed to spiritual rewards in afterlife (e.g. going to heaven)
+				Balance $stats 2, 6
+		Rookie SF
+			THP living as an only child rather than as a child with siblings
+				Balance $stats 1, 1
+		QF
+			TH, as you, W marry him
+				Balance $stats 1, 3
+				You are a one of the leaders of feminist movement which strongly criticizes patriarchy and advocates for female independence. On the other hand, you are secretly dating a man who recently asked you to marry him. However, he told you that he felt it stressful to keep their relationship secret any longer and proposed making the marriage public or otherwise breaking up.
+		Rookie GF
+			THBT gamification should be introduced in compulsory education
+				Balance $stats 1, 0
+				Gamification is the application of game-design elements (e.g. point scoring, competition with others) in non-game contexts (e.g. participation rate, homework)
+		SF
+			THR the existence of "wall of shame" in Peru
+				Balance $stats 0, 2
+				Wall of shame in Peru refers to a wall built for approximately 10 kilometers on a hill southeast of the capital, Lima.  The wall completely separates the area with rich and middle-income people living on one side, and poor people living on the other side. The wall was built by rich to improve public security by preventing the poor to come into their areas.  Between these two areas, there is a significant difference in the living environment including but not limited to infrastructure.
+		GF
+			TH, as you, W publicly accuse your friend of doping
+				Balance $stats 1, 0
+				You are an athlete aspiring to compete in the 2024 Olympics, but the last slot was taken away by your athlete best friend who competes in the same event. One day you find out that that friend uses performance-enhancing drugs (i.e. doping) and that you would have gotten that slot in absence of your friend. Your coaches and team managers are unaware of the doping.
 	14th Icho Cup (2023)
 		R1: Some people will think you suck, kids!
 			THBT parents from minority groups should actively teach children the reality of oppression and how to deal with it

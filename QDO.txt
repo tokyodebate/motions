@@ -1,4 +1,57 @@
 Kyushu Debate Open
+	QDO 2024
+		R1
+			THO the "Fairness Doctrine" in journalism
+				OG $stats 3, 1, 2, 3
+				OO $stats 3, 4, 2, 0
+				CG $stats 1, 2, 3, 3
+				CO $stats 2, 2, 2, 3
+				The "fairness doctrine" in journalism posits that it is the media's duty to cover ""both sides"" of the story. The New York Times, for example, published articles urging the use of military to quell riots, and articles defending the protests in the aftermath of George Floyd's murder by the American police. The Economist also published articles criticising the crimes of Hamas on the 7th of October whilst also publishing articles on the heavy reactions of the Israeli government toward the same.
+		R2
+			THP a world where relationships are predominantly transactional in nature
+				OG $stats 3, 2, 1, 3
+				OO $stats 1, 2, 4, 2
+				CG $stats 4, 1, 3, 1
+				CO $stats 1, 4, 1, 3
+		R3
+			TH, as the government of Japan, would aggressively prioritise "New Silicon Island Kyushu" over "Project Rapidus"
+				OG $stats 2, 3, 2, 2
+				OO $stats 2, 2, 4, 1
+				CG $stats 1, 2, 2, 4
+				CO $stats 4, 2, 1, 2
+				The Japanese government has two main efforts to boost the semiconductor industry. Once dubbed "The Silicon Island of Japan," Kyushu recently saw Taiwan's Semiconductor Manifacturing Company (TSMC), establish a plant in Kikuyo, Kumamoto City, with an investment of JPY 1 trillion. ASE Technology Holdings, a giant in the packaging industry is also setting up a plant in Kitakyushu. The Japanese government has subsidised JPY 4 trillion for the development of TSMC's facilities under this "New Silicon Kyushu Project". TSMC primarily uses roads and truck drivers for the transport of materials needed for the manufacturing process. Simultaneously, under the nationally backed "Project Rapidus", the government intends to subsidise JPY 1 trillion for the development of facilities by Rapidus, a domestic semiconductor firm. Dubbed Hokkaido's largest developmental plan, Rapidus primarily uses marine channels to transport materials needed for the manufacturing of their chips.
+		R4
+			THBT social movements in developing states should heavily prioritise non-state based solutions
+				OG $stats 3, 3, 1, 2
+				OO $stats 4, 4, 1, 0
+				CG $stats 2, 0, 3, 4
+				CO $stats 0, 2, 4, 3
+				Non-state based solutions are initiatives undertaken by activist groups which include, but are not limited to working with non-governmental organisations and community-led movements in order to deal with social problems. These solutions directly circumvent and/or do not rely on state apparatus or state legislations in order to facilitate change. Examples include feminist groups funding contraception, the Black Panthers organising school breakfasts and lunches, modern day mutual aid and bail funds, etc.
+		QF
+			THBT religious institutions should use radically leftist interpretations of their teachings in areas of high rates of poverty (e.g Liberation Theology, Islamic Socialism)
+				OG $stats 3, 1
+				OO $stats 4, 0
+				CG $stats 1, 3
+				CO $stats 0, 4
+		SF
+			THS the rise of regional military alliances
+				OG $stats 2, 0
+				OO $stats 1, 1
+				CG $stats 0, 2
+				CO $stats 1, 1
+		GF
+			THS the norm of "fitting in"
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				For the purpose of this debate, "fitting in" refers to conforming to norms which are typically associated to career paths and behavioural standards including but not limited to; opting for more conventional and stable careers, and assimilating to majority culture
+		Rookie GF
+			In developing democracies, THBT it is justified to conceal damaging parts of legacies of revolutionary figures in minority history (e.g. Nelson Mandela, Martin Luther King, etc.)
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
 	QDO 2019
 		R1 Theme: Decent Work and Economic Growth
 			THR the dominance of networking culture in the workplace.
