@@ -774,6 +774,14 @@
 		"url": "International/NTUProAm.txt"
 	},
 	{
+		"id": "OsakaIV",
+		"name": "Osaka IV",
+		"short": "",
+		"latest": 2024,
+		"tag": ["BP", "open", "international"],
+		"url": "International/OsakaIV.txt"
+	},
+	{
 		"id": "Others",
 		"name": "Other International Tournaments",
 		"short": "",

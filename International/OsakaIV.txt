@@ -1,0 +1,76 @@
+Osaka IV
+	Osaka IV 2024
+		R1
+			THW join the network
+				OG $stats 5, 2, 7, 7
+				OO $stats 5, 7, 6, 3
+				CG $stats 5, 9, 2, 5
+				CO $stats 6, 3, 6, 6
+				You are a female medical practitioner in a highly conservative area who identifies as a progressive feminist. One day, you are invited by one of your colleagues to start an underground network of women that provide reproductive health services such as abortions and broad contraceptives. For the purposes of this debate, this is not a sting operation.
+		R2
+			THW remove the discretion granted to host countries in deciding the schedule of that year's Southeast Asian Games
+				OG $stats 4, 7, 5, 5
+				OO $stats 6, 5, 3, 7
+				CG $stats 6, 3, 7, 5
+				CO $stats 5, 6, 6, 4
+				The charter of the Southeast Asian Games ("Games") grants discretion to the host country to propose the schedule for that year's Games. Although the charter stipulates that every Games must have a minimum of 22 sports, there is no maximum number of events or specified list of sports in the contest. The host country may select any list of sports to include in the Games, regardless of popularity, and decide on the number of medals to allocate to each sport. The proposal is submitted to the Southeast Asian Games Federation (SEAGF) Council, who may consider the appeals of other countries. Malaysia is set to appeal to the SEAGF Council over the schedule of the 2025 SEA Games, to be hosted by Thailand, for the exclusion of common sports such as karate, wushu, and Olympic weighlifting.td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+		R3
+			THS attempts by corporate leadership to create a "culture of dissent" in the workplace
+				OG $stats 10, 5, 4, 2
+				OO $stats 5, 6, 4, 6
+				CG $stats 3, 4, 11, 3
+				CO $stats 3, 6, 2, 10
+				A "culture of dissent" refers to an environment where employees are encouraged to voice their disagreements, criticisms, and alternative viewpoints.td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+		R4
+			In times of peace, THO the existence of proactive military and defence cooperations (e.g., joint training programmes, personnel imports) between sovereign states
+				OG $stats 5, 5, 8, 2
+				OO $stats 5, 5, 6, 4
+				CG $stats 5, 5, 1, 9
+				CO $stats 5, 5, 5, 5
+		R5
+			When preaching to underprivileged communities, THBT religious preachers should abandon the concept of "God's Plan"
+				OG $stats 4, 6, 8, 2
+				OO $stats 10, 6, 3, 1
+				CG $stats 2, 3, 6, 9
+				CO $stats 4, 5, 3, 8
+				The concept of "God's Plan" in many religions implies that God has a specific purpose for each individual, guiding the course of their life on Earth, and that all events occur with a meaningful reason behind them.
+		Pre QF
+			THS the imposition of a tax on unrealized gains
+				OG $stats 0, 4
+				OO $stats 3, 1
+				CG $stats 3, 1
+				CO $stats 2, 2
+				An unrealized gain is a potential profit that exists on paper, resulting from an increase in the value of an asset that has not yet been sold. It is considered "unrealized" because the gain has not been converted into actual cash through the sale of the asset.
+		QF
+			THP a world in which the Law of Jante is the dominant norm
+				OG $stats 1, 3
+				OO $stats 3, 1
+				CG $stats 1, 3
+				CO $stats 3, 1
+				The Law of Jante (YAN-tuh) is a code of conduct used to denote a social attitude of disapproval towards expressions of individuality and personal success in favour of emphasizing the good of the community.
+		SF
+			THBT it is in the interest of the BJP to distance itself from the RSS
+				OG $stats 0, 2
+				OO $stats 1, 1
+				CG $stats 2, 0
+				CO $stats 1, 1
+				The Bharatiya Janata Party (BJP, or the "Indian People's Party") is a political party in India and one of the two major Indian political parties. Since 2014, it has been the ruling political party in India under the incumbent Prime Minister Narendra Modi. The BJP is aligned with right-wing politics and has close ideological and organisational links to the Rashtriya Swayamsevak Sangh (RSS).Rashtriya Swayamsevak Sangh (RSS) itself is an Indian right-wing, Hindu nationalist volunteer paramilitary organisation. The organisation aims to spread the ideology of Hindu nationalism to strengthen the Hindu community and promotes an ideal of upholding Indian culture and its civilizational values. The RSS has significant influence over the election of politicians to the lower house of the Indian parliament (the Lok Sabha).
+		GF
+			Under the veil of ignorance, THP to be born in the state of nature
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				 (i) Under the veil of ignorance, the individual must consider the principles and laws they would select for the basic structure of society, but with no knowledge of the conditions they will be born into (socioeconomic class, race, nationality, etc.).  (ii) The state of nature refers to the time before the development of civilization (i.e, laws, authority, governments).
+		EFL SF
+			THO the glorification of international travel
+				OG $stats 1, 1
+				OO $stats 2, 0
+				CG $stats 0, 2
+				CO $stats 1, 1
+		EFL GF
+			THO ethnic quotas for government positions in post-conflict states
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
