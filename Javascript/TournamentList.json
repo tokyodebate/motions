@@ -27,8 +27,8 @@
 		"id": "BPNovice",
 		"name": "BP Novice",
 		"short": "",
-		"latest": 2022,
-		"tag": ["BP", "rookie", "region:Domestic"],
+		"latest": 2024,
+		"tag": ["BP", "proam", "region:Domestic"],
 		"url": "BPNovice.txt"
 	},
 	{
@@ -46,6 +46,14 @@
 		"latest": 2024,
 		"tag": ["NA", "proam", "region:Domestic"],
 		"url": "ElizabethCup.txt"
+	},
+	{
+		"id": "EnjiCup",
+		"name": "Enji Cup",
+		"short": "",
+		"latest": 2024,
+		"tag": ["BP", "open", "region:Domestic"],
+		"url": "EnjiCup.txt"
 	},
 	{
 		"id": "ESUJ",
@@ -67,7 +75,7 @@
 		"id": "EvergreenCup",
 		"name": "Evergreen Cup",
 		"short": "",
-		"latest": 2021,
+		"latest": 2024,
 		"tag": ["BP", "proam", "region:Domestic"],
 		"url": "EvergreenCup.txt"
 	},
@@ -131,7 +139,7 @@
 		"id": "JPDUAutumn",
 		"name": "JPDU Autumn Tournament",
 		"short": "",
-		"latest": 2023,
+		"latest": 2024,
 		"tag": ["BP", "open", "region:Domestic"],
 		"url": "JPDUAutumn.txt"
 	},
@@ -315,7 +323,7 @@
 		"id": "SunSunCup",
 		"name": "Sun Sun Cup",
 		"short": "",
-		"latest": 2023,
+		"latest": 2024,
 		"tag": ["BP", "proam", "region:Domestic"],
 		"url": "SunSunCup.txt"
 	},
@@ -379,7 +387,7 @@
 		"id": "UmekoCup",
 		"name": "Umeko Cup",
 		"short": "",
-		"latest": 2023,
+		"latest": 2024,
 		"tag": ["NA", "rookie", "region:Domestic"],
 		"url": "UmekoCup.txt"
 	},
@@ -451,7 +459,7 @@
 		"id": "ABP",
 		"name": "Asian British Parliamentary Championship",
 		"short": "ABP",
-		"latest": 2023,
+		"latest": 2024,
 		"tag": ["BP", "open", "international", "region:Asia"],
 		"url": "International/AsianBP.txt"
 	},
@@ -752,8 +760,8 @@
 	{
 		"id": "NEADC",
 		"name": "North-East Asian Debate Championship",
-		"short": "MEADC",
-		"latest": 2023,
+		"short": "NEADC",
+		"latest": 2024,
 		"tag": ["BP", "open", "international", "region:Asia"],
 		"url": "International/NEADC.txt"
 	},

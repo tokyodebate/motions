@@ -1,4 +1,31 @@
 Umeko Cup
+	The 30th Umeko Cup (2024)
+		R1
+			THW ban extremist political parties
+				Balance $stats 8, 2
+		R2
+			THR the narrative that adults should be independent (i.e. supporting themselves financially, living on their own, being emotionally self-sufficient etc.)
+				Balance $stats 9, 1
+		R3
+			THS the normalization of prenuptial agreements
+				Balance $stats 5, 5
+		R4
+			THBT the feminist movement should prioritize the lawsuits over internal effort to make legislative changes
+				Balance $stats 3, 7
+		QF
+			THS increased usage of Al generated images for the purpose of protests (e.g. All Eyes on Rafah)
+				Balance $stats 4, 0
+		SF
+			THW implement substantial measures to impose long-termism in corporate investment culture (e.g. minimum holding periods for shares, yearly rather than quarterly financial reporting, long-term executive compensation plans)
+				Balance $stats 2, 0
+		Rookie GF
+			THP a world where children are raised communally
+				Balance $stats 1, 0
+				For the purposes of this debate, "raised communally" means that from shortly after their birth, children are taken from their birth parents) and raised together with other children by their wider community. Parental duties such as providing food, housing, education and other forms of care are shared between members of that community.
+		GF
+			THW take the pill
+				Balance $stats 0, 1
+				You are an atheist living in a country with a significant (but not extreme) degree of religiosity. There exists a single pill that, if taken, will permanently make you genuinely and earnestly believe in the majority religion.
 	The 29th Umeko Cup (2023)
 		R1
 			THS a worldwide ban on the production of animal meat products
@@ -136,15 +163,15 @@ Umeko Cup
 	Umeko Cup(2017)
 		R1
 			THW legalize bestiality(sexual intercourse between a person and an animal.).
-				Yes,You+Racist is a twitter account which names and shames people who allegedly reported as white supremacists by crowdsourcing their identification via Internet. The account is followed by 400,000 accounts, and resulted in at least one person being fired from his office.
 		R2
 			TH, as black rights activist, opposes this account.
-				“Sharing Culture” (a culture which encourages the frequent posting of both mundane and intimate details of ones life on social media platforms, and the commenting on and reacting to others posts of this nature)
+				Yes,You+Racist is a twitter account which names and shames people who allegedly reported as white supremacists by crowdsourcing their identification via Internet. The account is followed by 400,000 accounts, and resulted in at least one person being fired from his office.
 		R3
 			THBT “Sharing Culture” does more harm than good for individual’s life.
-				A saviour sibling is a child who is intentionally designed and born to provide an organ or cell transplant to a sibling with a fatal disease such as leukemia and cancer.
+				“Sharing Culture” (a culture which encourages the frequent posting of both mundane and intimate details of ones life on social media platforms, and the commenting on and reacting to others posts of this nature)
 		R4
 			THBT parents should NOT seek to have savior sibling.
+				A saviour sibling is a child who is intentionally designed and born to provide an organ or cell transplant to a sibling with a fatal disease such as leukemia and cancer.
 		OF
 			THBT past colonial states should teach an overwhelmingly negative version of their imperial histories.
 		QF
@@ -152,7 +179,7 @@ Umeko Cup
 		SF
 			THBT policies that have significant damage to the environment should be subject to a veto by the committee of scientific experts.
 		GF
-			TH opposes the value that forgiveness is a virtue.
+			THO the value that forgiveness is a virtue.
 	Umeko Cup (2016)
 		R1
 			THW prohibit anonymous writing on the Internet.

@@ -1,4 +1,78 @@
 North-East Asian Debate Championship
+	Kumamoto NEADC 2024
+		R1
+			THR the decline of home cooking
+				OG $stats 0, 6, 7, 0
+				OO $stats 8, 4, 1, 0
+				CG $stats 3, 1, 4, 5
+				CO $stats 2, 2, 1, 8
+		R2
+			TH, as the Chinese Communist Party, would prioritize direct stimulus to the private market (e.g. consumption vouchers, tax cuts to companies) over investing into the public sector (e.g. reducing debt burdens of local governments, investments in State-Owned Enterprises)
+				OG $stats 3, 8, 0, 2
+				OO $stats 3, 3, 3, 4
+				CG $stats 3, 1, 5, 4
+				CO $stats 4, 1, 5, 3
+		R3
+			TH, as the feminist movement, would strongly advocate for the widespread legalisation and installation of baby hatches in jurisdictions where abortion is illegal
+				OG $stats 3, 5, 4, 1
+				OO $stats 6, 2, 3, 2
+				CG $stats 3, 5, 5, 0
+				CO $stats 1, 1, 1, 10
+				A ‘baby hatch’ is a place where people can abandon their babies anonymously. They are typically installed in hospitals, churches, social service centers, etc.
+		R4
+			THO the premium placed on humility
+				OG $stats 5, 4, 1, 3
+				OO $stats 2, 5, 5, 1
+				CG $stats 5, 2, 3, 3
+				CO $stats 1, 2, 4, 6
+		R5
+			TH, as a Western middle power, would prioritise military funding into intelligence capabilities over traditional combat resources
+				OG $stats 4, 3, 5, 1
+				OO $stats 1, 5, 5, 2
+				CG $stats 6, 2, 1, 4
+				CO $stats 2, 3, 2, 6
+				A middle power is a state that is not a superpower or a great power, but still exerts influence and plays a significant role in international relations. Examples of Western middle powers are Canada, Australia, and New Zealand.
+		R6
+			THBT affirmative action policies should include 'model minorities', even in instances where that minority has sufficient representation
+				OG $stats 1, 3, 4, 5
+				OO $stats 8, 2, 3, 0
+				CG $stats 1, 1, 5, 6
+				CO $stats 3, 7, 1, 2
+				"Model minorities" is a term which emerged in the U.S. that refers to demographic groups who achieve higher socioeconomic status compared to other minority groups.Model minorities often achieve more-than-sufficient representation in particular areas of society. This includes, for example, the high proportion of Asian Americans admitted to universities or the high proportion of Jewish politicians in Western countries.
+		QF
+			THP 'direct cinema' to 'cinema verite' as a dominant approach to production of video journalism and documentary films
+				OG $stats 1, 3
+				OO $stats 3, 1
+				CG $stats 1, 3
+				CO $stats 3, 1
+				'Direct Cinema' emphasizes observational filmmaking. Directors avoid interfering with or influencing the subject matter to capture events as they unfold naturally, with minimal interaction between the filmmaker and the subjects. The goal is to let the events speak for themselves.On the other hand, 'Cinema Verite' embraces the director's presence and allows them to actively interact with their subjects. They may ask questions, provoke reactions, or even appear on screen.
+		SF
+			THP the main banking system to dominantly shareholder based investments
+				OG $stats 0, 2
+				OO $stats 1, 1
+				CG $stats 2, 0
+				CO $stats 1, 1
+				A main bank system is characterized by bank-centered financing, where firms rely on long-term loans from a primary bank that also plays a key role in corporate governance and risk management. The main bank takes on a supervisory role, monitoring the company's performance and advising on strategic decisions, especially in times of financial difficulties. In contrast, standard financing depends on capital markets for funding, with corporate governance driven by shareholders.
+		GF
+			THBT Marx would have approved of AI
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+		EFL SF
+			THBT it is in the interest of the Swedish Social Democrats to support harsher measures on gang violence
+				OG $stats 1, 1
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 0, 2
+				Sweden is currently grappling with a significant rise in gang-related violence, including drug trade, shootings, and bombings which have started to trickle down to neighboring nations. The gangs mainly recruit youth from underprivileged areas where many of the residents are from immigrant backgrounds.The current right-leaning coalition government has gained popularity by emphasizing the necessity of aggressively tackling gang violence. There have been discussions around stricter gun crime penalties, lowering the age of criminal responsibility, deporting gang members with non-Swedish backgrounds, and involving the military in supporting police efforts.However, the left-leaning Social Democrats, the most prominent opposition party, has argued for more preventative measures and more resource allocation to underprivileged areas.
+		EFL GF
+			THBT environmental movements should heaviliy prioritize climate litigation as an advocacy strategy
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+				Climate litigation refers to legal actions taken against governments, corporations, or other entities responsible for contributing to climate change or failing to address its impacts.Examples include but are not limited to communities suing corporations responsible for damage to their local environment; citizens suing governments for their lack of climate action being an infringement on constitutional or human rights, etc.
 	Guangzhou NEADC 2023
 		R1
 			THO the trend of charitable organizations increasingly adopting 'resume padding' in their initiative and advocacy

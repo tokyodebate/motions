@@ -1,4 +1,59 @@
 Evergreen Cup
+	2024
+		R1
+			THP a world where there is one dominant interpretation/ denomination of major religions, rather than separated sets of doctrines and beliefs
+				OG $stats 2, 0, 4, 1
+				OO $stats 2, 4, 1, 0
+				CG $stats 2, 1, 0, 4
+				CO $stats 1, 2, 2, 2
+		R2
+			THP a world in which people predominantly buy into animal welfare, rather than a world in which people predominantly buy into animal rights
+				OG $stats 0, 1, 3, 3
+				OO $stats 4, 2, 1, 0
+				CG $stats 2, 3, 2, 0
+				CO $stats 1, 1, 1, 4
+				Animal welfare refers to a positionality that animal does not obtain a legal status/judicial personality to practice rights. Rather, it sees animal as a legally passive actor to receive protection by human given their natural obligation, whereas animal rights refers to a positionality that animal does obtain a judicial personality.
+		R3
+			THW dissolve chaebol corporations
+				OG $stats 1, 0, 4, 2
+				OO $stats 4, 1, 2, 0
+				CG $stats 0, 3, 1, 3
+				CO $stats 2, 3, 0, 2
+				・A chaebol (재벌) is a large industrial South Korean conglomerate run and controlled by one family. In most cases, the position of CEO or executive officers is passed on to the descendants of the family.・Dissolution of large corporations often involve actions such as; disqualifying to administrate branch corporations, prohibiting further business in the field they are currently in, the government and following agencies confiscating stocks and distributing those to the corporations or institutions they selected.
+		R4
+			TH, as a Jewish advocating for environmental protection, W dismiss the legitimacy of The Genesis
+				OG $stats 2, 0, 1, 4
+				OO $stats 2, 3, 2, 0
+				CG $stats 1, 3, 1, 2
+				CO $stats 2, 1, 3, 1
+				Genesis is the beginning book of the Old Testament and is a scripture describing how this world was created. Later in centuries, 1:26-28 started to be criticised for its implication of human dominion over the nature. it says;26 Then God said, "Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground."27 So God created mankind in his own image, in the image of God he created them; male and female he created them.28 God blessed them and said to them, "Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground." (NIV version)
+		Pre SF
+			TH, as the feminist movement, would oppose the "tradwife" trend
+				OG $stats 2, 0
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 0, 2
+				Recently, there has been an increasing trend on social media of 'tradwife' influencers who embrace ultra-traditional gender roles and voluntarily devote themselves to household chores while their husband works. 'Tradwife' content include tradwives happily preparing elaborate meals by hand, having family time with smiling children, usually with long, flowing dresses. Hannah Neeleman is a leading figure of this trend with over 10 million followers. She has eight children and is married to the son of a big airline company..
+		SF
+			THR the use of autonomous weapons
+				OG $stats 0, 2
+				OO $stats 2, 0
+				CG $stats 0, 2
+				CO $stats 2, 0
+				Autonomous weapon is any weapon that aims and applies force to targets without human intervention.
+		GF
+			THBT NASA should vanquish Martians rather than trying to co-exist with them
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				In future 20xx, NASA launched city development on Mars. The city looks like capital cities such as Tokyo or London, but people are yet to live there except for those who are engaged in city development. One day, however, they encounter Martians. They look alike human except their bodies is accustomed to live on Mars, and are found that they live in community but do not have technology as human have.
+		Rookie GF
+			THR the rise of dating app
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
 	2021
 		R1
 			THW criminalize school bullying

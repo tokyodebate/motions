@@ -1,4 +1,65 @@
 JPDU Tournament (BP)
+	JPDU Autumn Tournament 2024
+		R1
+			THO Space Tourism
+				OG $stats 3, 3, 3, 1
+				OO $stats 2, 5, 3, 0
+				CG $stats 4, 2, 1, 3
+				CO $stats 1, 0, 3, 6
+				Space Tourism refers to expeditions to and from space where the primary purpose is the leisure of the paid travelers.
+		R2
+			THR the glorification of stability
+				OG $stats 0, 3, 4, 3
+				OO $stats 5, 2, 1, 2
+				CG $stats 2, 2, 2, 4
+				CO $stats 3, 3, 3, 1
+		R3
+			THBT Japan should accept more refugee application from Kurds
+				OG $stats 3, 3, 2, 2
+				OO $stats 2, 1, 5, 2
+				CG $stats 1, 4, 2, 3
+				CO $stats 4, 2, 1, 3
+				As of April 2024, it is estimated that there are approximately 700 Kurdish "provisional releasees" in Kawaguchi City, Saitama Prefecture, who are in an illegal status. Also, there are approximately 1,300 Kurdish with temporary resident status whose refugee applications are pended. The Turkish government denies the refugee status of the Kurds, stating that Kurds "have the right to vote and their human rights are guaranteed". As of 2024, only one refugee application has been approved by the Japanese government through a court case in 2022.
+		R4
+			THS Depressive Realism as a coping mechanism
+				OG $stats 1, 2, 5, 2
+				OO $stats 5, 3, 1, 1
+				CG $stats 1, 2, 2, 5
+				CO $stats 3, 3, 2, 2
+				Depressive Realism is the hypothesis that depressed individuals make more realistic inferences than non-depressed individuals, and consider non-depressed individuals' appraisals are positively biased.
+		Pre SF
+			THBT the EU should stop the implementation of CBAM
+				OG $stats 0, 2
+				OO $stats 2, 0
+				CG $stats 2, 0
+				CO $stats 0, 2
+				A Carbon Border Adjustment Mechanism (CBAM) is a policy designed to address carbon leakage and ensure fair competition in international trade by adjusting the carbon cost of imports. It works by imposing a carbon tariff on imported goods based on their carbon emissions during production. This means that if a country has strict carbon emission regulations, it can apply an equivalent carbon cost to products imported from countries with less stringent regulations.The goal is to encourage global adoption of carbon reduction practices and protect domestic industries from unfair competition due to differing environmental standards. The EU is implementing CBAM, applying in its definitive regime from 2026, while the current transitional phase lasts between 2023 and 2025. Yet, BRICs countries and other developing countries have shown resistance to CBAM.
+		SF
+			THR the narrative that there exists no objective truth
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 1, 1
+		GF
+			THBT it is the interest of the feminist movement to support transhumanism
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				Transhumanism is a philosophical and social movement that advocates for using advanced technology to enhance human physical and cognitive abilities, with the goal of transcending the current limitations of the human body and mind. Transhumanists believe that through technologies such as genetic engineering, artificial intelligence, nanotechnology, and cybernetics, humans can significantly extend their lifespans, improve their intellectual and physical capacities, and potentially achieve a post-human state.
+		Rookie Pre GF
+			THR the dominant trend of love marriage
+				OG $stats 1, 0
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+		Rookie GF
+			THBT you should wake the other deer up
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				In Nara Park, there are many deer, and their favorite food is "Shikasenbei," which they are fed daily by tourists and local residents. Imagine you are one of these deer. One day, you suddenly gain human-level cognition and realize that the deer in Nara Park were originally as intelligent as humans, but their intelligence has been suppressed by a chemical in the "Shikasenbei." For the purposes of this debate, you have a sufficient number of "Shikacookie" that, if a deer eats it, can develop immunity to the chemical in the regular "Shikasenbei" and regain human-level cognition. Now you have two choices. 1. Distribute the "Shikacookie" to the other deer and wake them up2. Keep consuming "Shikasenbei" and gradually return to deer-level cognition
 	JPDU Autumn Tournament 2023
 		R1
 			THW prohibit religious organizations from providing rehabilitation for addicts

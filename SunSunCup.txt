@@ -1,4 +1,39 @@
 Sun Sun Cup
+	Sun Sun Cup 2024 (10.12)
+		R1
+			THW ban zoo
+				OG $stats 0, 2, 2, 2
+				OO $stats 3, 2, 0, 1
+				CG $stats 1, 1, 2, 2
+				CO $stats 2, 1, 2, 1
+		R2
+			THBT feminist movement should embrace misandry
+				OG $stats 0, 3, 0, 3
+				OO $stats 5, 1, 0, 0
+				CG $stats 1, 2, 1, 2
+				CO $stats 0, 0, 5, 1
+		R3
+			THR the cult of productivity
+				OG $stats 1, 2, 1, 2
+				OO $stats 3, 2, 0, 1
+				CG $stats 1, 1, 2, 2
+				CO $stats 1, 1, 3, 1
+		GF
+			THW abolish the current Japanese emperor system and choose emperor by lottery among all citizens
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+		Rookie GF
+			THP this brilliant world over the real world
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				There exists a brilliant world. There are several features that differ from the real world that we currently live in.
+				1) In this world, humans are manufactured by the government in fermentation jars from when they are fertilized eggs. People who are randomly selected become the donor of the egg. The system is normalized and to have your own children is regarded as disgusting and primitive.
+				2) There exists a social class system, and their class is predetermined before their birth. Some people are born to lead the state and manage people, while others are born to do physical labor under harsh environments. They are genetically adjusted to have suitable physical ability and intelligence, and they receive prenatal education so that they never question their environment and status.
+				3) There exists a drug called "soma", which removes pain or anxiety and never causes resistance. People are prescribed this pill for free, and can take them at any moment. People are happy! Yay!
 	Sun Sun Cup 2023 (10.21)
 		R1
 			THW ban hostile architecture in public spaces

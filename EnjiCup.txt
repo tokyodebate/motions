@@ -1,0 +1,44 @@
+Enji Cup
+	2024
+		R1
+			TH, as you, W distract the sharks
+				OG $stats 0, 1, 2, 1
+				OO $stats 3, 0, 1, 0
+				CG $stats 0, 1, 0, 3
+				CO $stats 1, 2, 1, 0
+				You are a parent of a child going to  junior high school. One day you go to an abandoned beach without your family and find another child, also around your child's age, being chased by a group of sharks. You can distract the sharks, and the child will definitely get away, but you believe that there is a high chance you will become a shark snack in the process.If you do not intervene, the sharks will がぶがぶ the child!
+		R2
+			THO centralized identification systems. (i.e: マイナンバーカード)
+				OG $stats 1, 1, 1, 1
+				OO $stats 0, 1, 1, 2
+				CG $stats 1, 1, 1, 1
+				CO $stats 2, 1, 1, 0
+				A centralized identification system is a system in which a unique identity code is issued by federal governments to each individual citizen. Some developed states currently utilize this system, an example being Japan’s My Number Card. The My Number Card is an optional identity document issued to citizens of Japan and some foreign-residents. It entails issuing a unique number that is connected to personal information that includes but is not limited to salary, age, or bank accounts. The system has fallen under controversy due to the fact that it invalidates previously existing methods of identification while imposing additional administrative costs. It is still under question whether Japan's outdated digital infrastructure can handle a centralized identification system.
+		R3
+			THBT A is justified in imposing this boundary
+				OG $stats 1, 0, 1, 2
+				OO $stats 1, 0, 2, 1
+				CG $stats 1, 2, 0, 1
+				CO $stats 1, 2, 1, 0
+				A is in a romantically committed relationship with B. A does not want B hanging out one on one with friends that are of the gender B is sexually attracted to. (Excluding, of course, family members or business dinners that you cannot avoid.)
+		R4
+			THS the rise of the new right
+				OG $stats 0, 2, 0, 2
+				OO $stats 1, 1, 2, 0
+				CG $stats 2, 0, 0, 2
+				CO $stats 1, 1, 2, 0
+				Recently, Korea has had a surge of popularity in conservative neo- nationalism in its domestic politics, dubbed the 'New Right. The group strongly advocates the 'colonial modernization theory', known as CMT. CMT claims that Japan is largely responsible for the industrialization and modernization of Korea during its colonial period, and attributes colonization as the key factor behind Korea's current economic success. The New Right is strongly against anti- Japanese sentiment, and calls for stronger diplomatic ties with the Japanese government at the cost of giving up reparations.
+		GF
+			THP a world in which religions are predominantly based on the concept of unconditional salvation rather than conditional salvation. -
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				Conditional salvation is a religious concept that dictates that an individual’s salvation or forgiveness in the eyes of a deity is premised upon a code of conduct upon which they adhere to. A few examples are: general moral behavior, adherence to the tenants of the religion, efforts to disseminate the belief system, and refusal to engage in other religious practices. Unconditional salvation is a concept in which the individual is saved and valued by the deity without any of the conditions mentioned above. Conditional salvation dictates a strict adherence to religious codes, while unconditional salvation is also accessible to those who do not adhere to said code or even the religion.
+		Rookie GF
+			THW not allow parents who score below average on the 'SHOMA' to raise kids
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				The 'SHOMA' (SADNESS/HAPPINESS ORGANIZATIONAL MODULE ALGORITHM) is an algorithm that can mathematically predict how happy a child can be, based on their parents. Economical privilige, pre-existing genetic conditions, living environment, the mental health of the parents are all considered by the 'Shoma', which then predicts the quality of life a child will have in their formative years.

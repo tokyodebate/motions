@@ -1,4 +1,60 @@
 BP Novice
+	2024 West
+		R1
+			THW Legalize Drugs
+				OG $stats 1, 1, 1, 0
+				OO $stats 1, 0, 2, 0
+				CG $stats 0, 1, 0, 2
+				CO $stats 1, 1, 0, 1
+		R2
+			THR glorification of entrepreneurship
+				OG $stats 2, 0, 0, 1
+				OO $stats 0, 0, 2, 1
+				CG $stats 1, 1, 0, 1
+				CO $stats 0, 2, 1, 0
+		R3
+			THBT state should massively invest in development of Ludovico Technique
+				OG $stats 1, 1, 0, 1
+				OO $stats 1, 2, 0, 0
+				CG $stats 1, 0, 2, 0
+				CO $stats 0, 0, 1, 2
+				The Ludovico Technique is a fictional behavior changing therapy for criminals.
+				In this therapy, violent impulses in prisoners or offenders are suppressed by forcing them to watch violent and sexual scenes with their eyelids held open using eyelid clamps to prevent them from closing their eyes.
+				At the same time, drugs that induce nausea are administered, conditioning a strong sense of discomfort towards the content of the scenes.
+				The goal is to make the subject feel intense pain whenever they attempt to do violent acts, preventing them from committing violent acts in the future
+		GF
+			THP that humanity expands and colonizes other planets as opposed to one that preserves and adapts on Earth
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+	2023 West
+		R1
+			THS the use of bounty hunters in law enforcement in developing countries
+				OG $stats 1, 1, 1, 1
+				OO $stats 0, 3, 1, 0
+				CG $stats 2, 0, 1, 1
+				CO $stats 1, 0, 1, 2
+				A bounty hunter is a person who captures fugitives or criminals in exchange for a commission or bounty from the state.
+		R2
+			Assuming empathy can be accurately measured, THW restrict voting to individuals with a high level of empathy for those outside of their immediate circle
+				OG $stats 0, 2, 1, 1
+				OO $stats 1, 0, 2, 1
+				CG $stats 1, 2, 0, 1
+				CO $stats 2, 0, 1, 1
+		R3
+			THW allow individuals to buy exemption from compulsory military service by paying the state
+				OG $stats 0, 1, 0, 3
+				OO $stats 3, 0, 0, 1
+				CG $stats 0, 3, 1, 0
+				CO $stats 1, 0, 3, 0
+		GF
+			THW rather be Chonk than Yuichi-ko
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				Yuichi-ko is a woman in her forties of median income with a stable job, who has no children and lives in Japan. Chonk is Yuichi-ko's cat, who is young and healthy (albeit fat).
 	2022 West
 		R1
 			THBT school should teach children to be skeptical of parental authority.
