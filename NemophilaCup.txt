@@ -1,4 +1,45 @@
 Nemophila Cup
+	Nemophila Cup 2025 お花部門
+		R1
+			In states with high rates of religious diversity, THBT religious communities should pursue grouping
+				OG $stats 1, 1, 1, 0
+				OO $stats 2, 1, 0, 0
+				CG $stats 0, 1, 0, 2
+				CO $stats 0, 0, 2, 1
+				For the purpose of this debate, "grouping" refers to the practice of people from the same religion staying in the same geographical locality.
+		R2
+			THW abolish Furusato Nouzei
+				OG $stats 2, 0, 0, 1
+				OO $stats 0, 0, 3, 0
+				CG $stats 0, 2, 0, 1
+				CO $stats 1, 1, 0, 1
+				Furusato Nouzei is the state led scheme of incentivising people to donate their money to any given local governments. Generally, when you make a donation to a local government, a portion of the donation amount is deducted from your income tax and inhabitant tax. The common practice of local governments under this scheme is to give donors gifts in return for their donation. Currently, they are allowed to provide goods which cost no more than 30% of donated amount.
+		R3
+			THR the narrative that academic research should contribute to the society
+				OG $stats 2, 0, 0, 1
+				OO $stats 0, 1, 2, 0
+				CG $stats 1, 2, 0, 0
+				CO $stats 0, 0, 1, 2
+		GF
+			THBT Trump winning the 2024 election was in the interest of China
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+	Nemophila Cup 2025 つぼみ部門
+		R1
+			THW introduce grade retention in compulsory education
+				Balance $stats 4, 7
+		R2
+			THBT public officers should be granted the right to go on strike
+				Balance $stats 8, 3
+		R3
+			THR the rise of "cut-off culture"
+				Balance $stats 6, 5
+				For the purpose of this debate, "cut-off culture" refers to the social phenomenon of figuratively cutting people out of one's life. Anyone from acquaintances to significant figures which may include, but are not limited to, close friends and family members are capable of being cut-off from one's life. This act is most commonly, though not exclusively, done at or after the point of conflict/tension within a relationship.
+		Communication Round
+			TH, as you, W break the curse
+				You are an average girl in your 20s dating with a young man, who you love very much and who loves you very much as well. You have been dating for a year now and is thinking of marrying him. You are very sure that you will not be able to find someone who you can love more than him. However, one day the man reveals you a secret that he is actually 1000 years old and have been cursed to live for eternity. He tells you that after seeing countless of atrocities done by human for the past 1000 years, he is very sick of this world and wants the curse to be broken. Once the curse is broken he will die immediately. He tells you that recently he has found out that you have the ability to break the curse and that no such person has appeared before nor appear in the future.
 	Nemophila Cup 2024 お花部門
 		R1
 			THO disaster capitalism

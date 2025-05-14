@@ -1,4 +1,117 @@
 World Universities Debating Championships (WUDC)
+	Panama WUDC 2025
+		R1
+			THP secondary schools adopting a classical education model rather than a progressive education model
+				OG $stats 11, 17, 15, 10
+				OO $stats 19, 13, 13, 8
+				CG $stats 15, 7, 13, 18
+				CO $stats 8, 16, 12, 17
+				Classical education relies on teacher-led, structured lectures, with minimal student driven discussion or exercises. Subjects are distinct units that are clearly delineated (e.g., math, English, etc) and taught primarily through textbooks.In contrast, progressive education positions teachers as facilitators with a focus on student-led discussion, project-based learning, and experiential learning. Learning is organised thematically around a single topic (e.g., environmentalism, space exploration, etc) and can draw on sources such as news articles, fiction books, documentaries, and academic papers from different areas (science, history, etc.).For the purpose of this debate, secondary schools refer to schools with students from age of 14 to 18.
+		R2
+			THO confidence culture
+				OG $stats 10, 10, 18, 14
+				OO $stats 17, 16, 13, 6
+				CG $stats 15, 11, 9, 17
+				CO $stats 10, 15, 12, 15
+				Confidence culture places a high value on the development and expression of personal confidence. It emphasises the importance of self-assurance, self promotion, and assertiveness, framing these traits as critical to achieving individual goals.
+		R3
+			THBT US involvement in Panama has benefitted Panama
+				OG $stats 20, 20, 11, 1
+				OO $stats 11, 12, 19, 10
+				CG $stats 14, 10, 8, 20
+				CO $stats 7, 10, 14, 21
+		R4
+			THBT feminists in Western Liberal Democracies should adopt reconciliatory rather than confrontational approaches in their advocacy
+				OG $stats 19, 15, 12, 7
+				OO $stats 11, 17, 14, 11
+				CG $stats 9, 11, 16, 17
+				CO $stats 14, 10, 11, 18
+		R5
+			THBT the student organisers of the July Revolution should not transition into formal political roles (e.g., run for elected office, form their own political party)
+				OG $stats 8, 11, 20, 14
+				OO $stats 18, 17, 10, 8
+				CG $stats 8, 13, 10, 22
+				CO $stats 19, 12, 13, 9
+				The July Revolution was a mass popular student-led uprising that ousted Bangladesh's ruling Awami League government and led to the establishment of a politically neutral interim government. The student organisers of the uprising have since occupied important positions within the interim government and founded the National Citizen's Committee (Jatiyo Nagorik Committee), a non-affiliated platform aimed at "building a democractic Bangladesh". Many of the student organisers were previously involved in political organising under the banners of various political parties.
+		R6
+			THS the rise of specialised private equity firms and funds that focus on specific sectors or geographies
+				OG $stats 11, 19, 8, 15
+				OO $stats 16, 11, 16, 10
+				CG $stats 15, 12, 12, 14
+				CO $stats 11, 11, 17, 14
+		R7
+			THP the citizen welfare standard to the consumer welfare standard
+				OG $stats 7, 13, 13, 20
+				OO $stats 15, 18, 12, 8
+				CG $stats 16, 14, 8, 15
+				CO $stats 15, 8, 20, 10
+				The consumer welfare standard is a legal doctrine that states that business conduct and mergers and acquisitions are only anti-competitive and should be prevented when they harm consumers (e.g., by raising prices, lowering quality, reducing innovation, etc.).In contrast, the citizen welfare standard is a legal doctrine that states business conduct and mergers and acquisitions are to be evaluated on consumer and non-economic outcomes (e.g., privacy, environment, democracy, etc).
+		R8
+			THS the use of La Mano Dura policies in areas with high crime rates in Latin America
+				OG $stats 5, 21, 18, 9
+				OO $stats 18, 16, 8, 11
+				CG $stats 12, 11, 10, 20
+				CO $stats 18, 5, 17, 13
+				La Mano Dura refers to tough-on-crime policies aimed at combating gang violence and organised crime. This approach is characterised by increased police operations and military involvement, harsher penalties for gang-related activities, and lowering the barriers for arrests.
+		R9
+			THBT India should prioritise policies that aim to significantly reduce economic inequality rather than prioritise policies that aim to rapidly drive economic growth
+				OG $stats 11, 16, 13, 12
+				OO $stats 21, 14, 12, 5
+				CG $stats 12, 11, 11, 18
+				CO $stats 8, 11, 16, 17
+		PDO
+			THS the widespread adoption of the Sankofa philosophy in West Africa
+				OG $stats 3, 5
+				OO $stats 6, 2
+				CG $stats 2, 6
+				CO $stats 5, 3
+				Sankofa is a Ghanaian philosophy that emphasises learning from the past to shape a better future. Embracing this philosophy may involve glorifying traditional practices through popular culture and art, supporting traditional livelihoods and ways of living (e.g., promoting rereruralisation, supporting industries such as breweries, agriculture, and fishing, etc), and teaching indigenous languages in schools.
+		OF
+			THO the prominence of the trauma plot in media and art
+				OG $stats 5, 3
+				OO $stats 7, 1
+				CG $stats 1, 7
+				CO $stats 3, 5
+				The term "trauma plot" refers to narratives centered on personal traumatic experiences such as violence or abuse, emphasising individual suffering. Examples include novels such as A Little Life, It Ends With Us, Perks of Being a Wallfower, TV series such as Euphoria and BoJack Horseman, and songs such as Billie Eilish’s "Bury A Friend".
+		QF
+			THBT it is in the interest of the USA to significantly reduce the size and power of federal government agencies
+				OG $stats 1, 3
+				OO $stats 4, 0
+				CG $stats 2, 2
+				CO $stats 1, 3
+		SF
+			THW militarily intervene in Sudan
+				OG $stats 2, 0
+				OO $stats 2, 0
+				CG $stats 0, 2
+				CO $stats 0, 2
+		GF
+			THS the shift away from the traditional left-right spectrum in the politics of major democracies
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+		ESL SF
+			THO the increased shift to subscription based business models
+				OG $stats 0, 2
+				OO $stats 2, 0
+				CG $stats 2, 0
+				CO $stats 0, 2
+				Companies are increasingly adopting subscription models for selling their physical and digital products instead of solely relying on one-time sales. For example, physical products such as Oura smart ring, Tesla vehicles, and Peloton exercise bikes require monthly fees to unlock some or all features, while digital products such as Adobe Creative Cloud and Microsoft 365 have transitioned from one-time purchase to subscription-based access.
+		ESL GF
+			TH, as the Holy See, would adopt the "two-speed Church" policy
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				The Holy See is the central governing body of the Catholic Church (including the Pope).The term "two-speed Church" refers to an approach within the Catholic Church in which local or regional churches determine doctrines and practices or adopt reforms at varying paces, depending on their context.
+		EFL GF
+			THBT Trumpism is in the long-term interest of the Republican Party
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				Trumpism is a populist ideology and style of politics that combines elements of nationalism, anti-establishment sentiments, isolationism and being "anti-woke". Politicians that adopt Trumpism are usually more aggressive and abrasive in their public advocacy.
 	Vietnam WUDC 2024
 		R1
 			THBT education systems should over-inflate children's academic self-perception (e.g. providing overwhelmingly positive feedback, avoiding fail grades, etc.)

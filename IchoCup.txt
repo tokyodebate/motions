@@ -244,12 +244,16 @@ Icho Cup
 		R2
 			THW prohibit prisoners from publishing books of their crime.
 		R3
-			THBT sex tourism does more harm than good in developing countries. （Sex tourism is a form of travel planned specifically for the purpose of prostitution. Sex tourism is often promoted by the state to encourage tourists from wealthy nations.）
+			THBT sex tourism does more harm than good in developing countries.
+				Sex tourism is a form of travel planned specifically for the purpose of prostitution. Sex tourism is often promoted by the state to encourage tourists from wealthy nations.
 		R4
 			THW ban sacrificing animals on religious grounds.
 		OF
-			THW allow the police to use racial profiling. (racial profilig is a police-initiated action that relies on race. ex:.Police questions a pedestrian on the basis of race.)
-				Recently, tattoo is gaining popularity as a fashion, a way to express identity. Still, many people perceive the image of being related to gangs, or criminal organizations as true in some cases. THW prohit all pools/baths(sentos） that are open to public from rejecting customers with tatoo.
+			THW allow the police to use racial profiling.
+				Racial profilig is a police-initiated action that relies on race. ex:.Police questions a pedestrian on the basis of race.
+		QF
+			THW prohit all pools/baths(sentos) that are open to public from rejecting customers with tatoo
+				Recently, tattoo is gaining popularity as a fashion, a way to express identity. Still, many people perceive the image of being related to gangs, or criminal organizations as true in some cases.
 		SF
 			Assuming that the goverment owns individuals’ information (such as ethnic background, criminal record,wedding experience,etc,) THW allow individuals to know any information about their partner before marriage without his/her consent.
 		GF

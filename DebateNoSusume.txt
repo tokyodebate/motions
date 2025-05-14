@@ -1,4 +1,97 @@
 Keio Debate Open / Kanto Debate Open / Debate no Susume
+	Keio Debate Open 2025
+		R1
+			THW replace all judges and juries in the criminal justice system with artificial intelligence
+				Balance $stats 2, 3, 13
+				Veto $stats 0, 7, 26
+			THW require major tech companies working on generative AI to go open source
+				Balance $stats 0, 2, 13
+				Veto $stats 6, 5, 26
+				Open-source software is software for which the source code is available for anyone to inspect, modify and share.
+			Assuming feasibility, THW stop further development of AI
+				Balance $stats 3, 3, 13
+				Veto $stats 7, 1, 26
+		R2
+			A:THW force social media platforms to ban monetization and publication of childhood by family vlogging
+				Balance $stats 2, 2, 13
+				Veto $stats 1, 7, 26
+			B:THO the narrative that ethical decisions should be detached from religious beliefs. (ethics in medicine, technology, politics, etc.)
+				Balance $stats 0, 2, 13
+				Veto $stats 11, 2, 26
+			C:THBT sports teams should not accept financial investment from potentially unethical individuals/companies
+				Balance $stats 5, 2, 13
+				Veto $stats 1, 4, 26
+		R3
+			TH, as CEO of a large business-to-consumer (B-to-C) company in the US, would roll back their company's programmes to promote DEI (Diversity Equity Inclusion)
+				Balance $stats 3, 0, 13
+				Veto $stats 7, 5, 26
+			TH, as an inteligent student from a low-income family, would pursue vocational training rather than a traditional university degree
+				Balance $stats 4, 4, 13
+				Veto $stats 3, 1, 26
+				Vocational training is an educational programme that focuses on the skills required for a particular job or trade. In vocational training, education prepares students for specific occupations, often more manual (e.g. plumbing, hairdressing), and ignores traditional, unrelated academic subjects.
+			THP World X
+				Balance $stats 2, 0, 13
+				Veto $stats 3, 7, 26
+				In World X, when people turn 20, they go through an automated system that analyses their intelligence, aptitude, talent and physical strength. Based on this holistic analysis, a job is assigned to each person, after which people enter programmes to acquire sufficient skills and knowledge to do the job. People have to do the job they have been assigned. The autonomous system can also perfectly calculate how many workers are needed in a particular area.  The test is completely autonomous and the result is always accurate.
+		R4
+			THBT feminist movements should actively promote the use of Mirroring strategies as opposed to Collaborative dialogue strategies
+				Balance $stats 2, 2, 13
+				Veto $stats 8, 1, 26
+				Mirroring strategies is the tactic of using men's criticism of women to reflect similar criticism back at men.Collaborative dialogue strategies emphasise respectful, empathetic conversations aimed at transforming conflict into mutual understanding and collaborative solutions.
+			THBT feminist movements in developing countries should prioritise advocacy for the enhancement and increase of prison sentences that deal with feminist and gender issues
+				Balance $stats 2, 2, 13
+				Veto $stats 3, 8, 26
+			THBT feminist movements should actively denounce the normalisation of nightlife businesses DCA/ Riho Taka
+				Balance $stats 4, 1, 13
+				Veto $stats 2, 4, 26
+				For the purposes of this debate, nightlife businesses are late-night establishments that provide entertainment and social interaction, often centred around the consumption of alcohol and personal service. They typically include hostess or host clubs, cabaret-style venues and other places where patrons pay for attentive conversation, companionship and a lively atmosphere.
+		QF
+			THR the rise M&A brokerage firm
+				Balance $stats 0, 1, 4
+				Veto $stats 3, 1, 8
+				M&A brokerage firms specialise in facilitating business sales by connecting sellers with suitable buyers, and receive fees (usually a combination of retainer and success-based commissions) upon completion of the transaction.In countries experiencing an ageing population and a decline in successors for small and medium-sized enterprises (SMEs), the demand for business succession solutions has increased, leading to the expansion of the M&A brokerage market.
+			THBT the US should abolish for-profit hospitals
+				Balance $stats 1, 2, 4
+				Veto $stats 1, 1, 8
+				For-profit hospitals primarily depend on patient revenue and capital raised through private investments or stockholders. They distribute profits to shareholders, focus on efficiency and profitability, and often offer specialised, high-margin services.Non-profit hospitals rely on patient revenue, donations, government grants, and tax exemptions. Any surplus is reinvested into improving healthcare services, facilities, and community programs. Unlike for-profit hospitals, they do not distribute profits to shareholders.
+			THS official dollarization in Argentina
+				Balance $stats 0, 0, 4
+				Veto $stats 0, 2, 8
+				Official dollarization is a system where a country adopts a foreign currency, typically the US dollar, as its sole legal tender, replacing the national currency entirely.
+		SF
+			:In a post-civil war state where the pre-existing government has been overthrown, THP the UN to build a regime rather than rebel groups doing so
+				Balance $stats 1, 1, 2
+				Veto $stats 0, 0, 4
+			TH, as Germany, regrets abandonment of nuclear power plant
+				Balance $stats 0, 0, 2
+			TH, as Japan, supports the rise of China in space exploration
+				Balance $stats 0, 0, 2
+		Rookie SF
+			THS the use of evidence which was illegally collected
+				Balance $stats 0, 2, 2
+				Veto $stats 0, 0, 4
+			THO the educative/protective measures for pre-delinquency by juvenile courts
+				Balance $stats 0, 0, 2
+				A pre-delinquent juvenile is defined as an individual who exhibits a high risk of delinquency and is likely to commit a crime or violate penal laws in the future, based on their character or environment, despite not having committed any delinquent acts.Educative/protective measures are intended to rehabilitate juveniles. Examples of such measures include probation, transfer to a foster home, and transfer to a reformatory (shonenin).
+			THS the privatization of prisons
+				Balance $stats 0, 0, 2
+		GF
+			THP a world where food is solely viewed as bodily sustenance
+				Balance $stats 0, 0, 1
+			THW legalize raw liver
+				Balance $stats 0, 0, 1
+			THW revoke all government subsidized health benefits for individuals who choose to lead unhealthy lifestyles in countries with aging population
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+		Rookie GF
+			THW force all religions to allow interfaith marriage
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
+			THP a world where joint custody is recognised by the law in the majority of cases following divorce, over a world where sole custody is recognised
+				Balance $stats 0, 0, 1
+				Joint custody is an arrangement in which both parents share legal responsibility and decision-making powers for their child after divorce or separation. Under this system, both parents are expected to cooperate on key issues such as education, health care and general upbringing, with the aim of maximising the child's welfare. In contrast, sole custody grants one parent full legal authority over the child, while the other parent has none.
+			THR the normalization of divorce
+				Balance $stats 0, 0, 1
 	Keio Debate Open 2024 (2.24-25)
 		R1
 			THR Newspaper Scholarship

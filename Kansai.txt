@@ -1,4 +1,108 @@
 The Kansai
+	The Kansai 2025
+		R1
+			THW break up 吉本興業 (Yoshimoto Kogyo)
+				Balance $stats 4, 0, 13
+				Veto $stats 3, 4, 26
+				Yoshimoto Kogyo is Japan's largest entertainment production company, primarily managing comedians. It currently represents around 6,000 comedians—roughly 20 times more than the industry's second-largest firm, Shochiku Enterprises, which has about 300. Yoshimoto Kogyo operates comedy theaters across Japan and runs a training school for aspiring comedians, playing a significant role in shaping the industry. However, the company has faced controversies, including reported connections to anti-social groups and scandals involving its comedians, such as issues related to gambling and personal misconduct.
+			THBT female comedians should actively refrain from using 下ネタ (dirty jokes)
+				Balance $stats 1, 2, 13
+				Veto $stats 6, 5, 26
+			THR the focus on 学歴 (academic background) in comedic media (i.e.. 大卒芸人 (university graduate comedians)、インテリクイズ番組 (quiz shows featuring "intelligent" comedians, etc)
+				Balance $stats 3, 3, 13
+				Veto $stats 4, 4, 26
+		R2
+			THBT it is in the interest of the Zapatista movement to prioritize integration within Mexico over maintaining autonomous caracoles
+				Balance $stats 2, 3, 14
+				Veto $stats 5, 4, 28
+				The Zapatista movement is an Indigenous political and militant group based in Chiapas, southern Mexico. The movement emerged in response to historical oppression, including subjugation by large landowners and economic policies that marginalized Indigenous communities, culminating in calls for freedom during the Mexican Revolution. The Zapatistas advocate for Indigenous land rights, political representation, and progressive policies such as anti-capitalism, grassroots democracy, and environmental protection. They govern autonomous regions known as caracoles, which sustain themselves primarily through coffee and corn exports, NGO support, and subsistence agriculture. Many individuals also rely on migrant labor for income. However, the caracoles face significant challenges, including poverty, government suppression, threats from local paramilitary groups, inadequate infrastructure, and a decline in membership.
+			THS a ban on the AfD
+				Balance $stats 0, 4, 14
+				Veto $stats 5, 2, 28
+				The Alternative für Deutschland (AfD) is a far-right radical populist party in Germany, known for its euroscepticism and strong opposition to immigration. In the 2025 federal election, the AfD secured 20.8% of the vote, resulting in 152 seats in the Bundestag, making it the second-largest party.The AfD has run on a platform of antisemitic, anti-Muslim and anti-democratic statements, and has been revealed to hold ties to neo-Nazi groups.
+			THP a cynical and pessimistic perception of democratic politics to an idealistic and optimistic one
+				Balance $stats 2, 3, 14
+				Veto $stats 4, 8, 28
+		R3
+			THP 追う恋 (chasing in love) to 追われる恋 (being chased in love)
+				Balance $stats 6, 1, 14
+				Veto $stats 4, 4, 28
+				追う恋 (ou koi) refers to "chasing in love," where you are actively pursuing the other, often showing strong interest and effort to win their affection. On the other hand, 追われる恋 (owareru koi) refers to "being chased in love," where you are the object of affection, and the other pursues them
+			THO the dominant narrative that being 一途 (Ichizu) is a virtue in romantic relationships
+				Balance $stats 2, 1, 14
+				Veto $stats 8, 6, 28
+				In the context of romantic relationships, 一途 (ichizu) refers to unwavering, consisitent dedication and loyalty to a single partner. It implies wholehearted commitment, emotional exclusivity, and a deep sense of devotion, often without being swayed by external temptations or changing circumstances
+			TH, as Myakumyaku W, pursue a romantic relationship with Sama
+				Balance $stats 2, 2, 14
+				Veto $stats 2, 4, 28
+				Myakumyaku and Sama are a highly successful debate duo, renowned for their achievements at numerous tournaments. With at least another year of competition ahead and nationals approaching, their partnership is built on deep mutual respect and trust. However, Myakumyaku has recently started developing romantic feelings for Sama.
+		R4
+			THR the prevalence of management consulting firms
+				Balance $stats 0, 1, 14
+				Veto $stats 10, 3, 28
+				Management consulting firms advise their clients (corporations, businesses, NGOs, etc) on how to improve performance, solve complex problems, and develop strategies. Consultants advise on areas like operations, finance, and digital transformation. Firms make money through time-based fees, project-based fees, retainers, and sometimes success-based payments.
+			THBT the dominance of economic libertarianism in major international financial institutions has done more harm than good
+				Balance $stats 2, 2, 14
+				Veto $stats 2, 8, 28
+				Economic libertarianism is the belief that societies develop best with minimal government intervention in the economy and a strong emphasis on free trade. Major international financial institutions like the WTO, IMF, and World Bank often promote policies aligned with this doctrine. Examples include the WTO’s push to reduce trade tariffs and the IMF’s encouragement of public spending cuts and privatization of state-owned enterprises.
+			THBT developing countries should prioritize investment in online education infrastructure over traditional schools
+				Balance $stats 5, 4, 14
+				Veto $stats 2, 3, 28
+		QF
+			THW unsuspend Paki-chan
+				Balance $stats 2, 0, 4
+				Veto $stats 1, 2, 8
+				Paki-chan is a Twitter account that provides advice to underage girls, victims of domestic violence, individuals with toxic parents, those struggling with suicidal thoughts, etc. through a question box (Mond) and X (Twitter). All questions are answered equally, regardless of financial contributions, with free inquiries also receiving responses.However, there have been rumors that Paki-chan is actually a man and that some posts promote activities linked to the sex industry, such as selling underwear, raising concerns about facilitating light prostitution. Additionally, some have accused Paki-chan of grooming. Currently, the account on X has been suspended.
+			THR the increasing rise of light literature (e.g.time-performative literature)
+				Balance $stats 0, 0, 4
+				Veto $stats 3, 0, 8
+				Light literature refers to easily digestible, entertainment-focused written works that prioritize accessibility over complexity. This includes genres like light novels, web novels, manga, YA fiction, blue light literature, and time perormative literature. These works often feature simple language, fast-paced plots, and relatable characters which make for a quick read.
+			THBT the evolution of otaku culture in the Reiwa era is in the interest of Heisei-era otaku
+				Balance $stats 2, 0, 4
+				Veto $stats 0, 2, 8
+				Heisei otaku culture emerged during the Heisei era and was primarily centered around subcultures such as anime, manga, video games, and light novels. Its key characteristics included: (a) otaku generally being seen as socially unpopular, (b) tightly knit, highly engaged and relatively closed off communities (c) communication mainly taking place on platforms like 2channel and Nico Nico Douga, which led to the creation of many internet slang terms, and (d) self-expression often done through formats like Utattemita (cover song videos) and MAD (fan-made video edits).In contrast, Reiwa otaku culture, which emerged in the Reiwa era, has become more integrated into mainstream pop culture. Notable features include: (a) otaku now holding a more socially accepted status, (b) more opportunities to interact with favorite creators or idols (oshi) through social media and fan events, and (c)communities being flooded with more casual participants.
+		SF
+			THBT it is in the interest of Japan to actively pursue a creation of an "Asian NATO"
+				Balance $stats 0, 2, 2
+				Veto $stats 0, 0, 4
+				The concept of an "Asian NATO" refers to the idea of a regional security alliance in the Asia-Pacific, similar to NATO, aimed at addressing growing military threats, particularly from China and North Korea. Prime minister Ishiba has shown interest in the creation of such an alliance.
+			THS the inclusion of Investor-State Dispute Settlement (ISDS) mechanisms in free trade agreements
+				Balance $stats 0, 0, 2
+				Investor-state dispute settlement (ISDS), is a mechanism that enables foreign investors to resolve disputes with the government of the country where their investment was made (host state) in a neutral forum through binding international arbitration.
+			THR the accession of new countries to BRICS
+				Balance $stats 0, 0, 2
+				On January 1, 2024, BRICS announced the accession of six new countries: Egypt, Ethiopia, Saudi Arabia, UAE, Iran, and Argentina. Key BRICS activities include:1. Economic Cooperation – Establishing the New Development Bank (NDB) to support international development projects.2. Financial Independence – Promoting trade in local currencies to reduce dependence on the US dollar.3. Technological Collaboration – Engaging in joint projects in fields like space exploration and energy technology.4. Political Collaboration － Strengthening diplomatic ties to enhance the global influence of emerging economies and advocate for a multipolar world order.
+		GF
+			TH predicts the present condition of humanity is better than it would be in 100 years time
+				Balance $stats 0, 0, 1
+			THO the glorification of stoicism
+				Balance $stats 0, 0, 1
+				Stoicism is a philosophy that teaches:1. People should not be controlled by the desire for pleasure or the fear of pain.2. People should avoid strong emotional reactions to events, whether good or bad.3. People should be aware of what is within their control and what is not.
+			THBT person A is more moral than person B
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
+				Imagine the classic trolley problem situation.Both participants are fully aware of the situation and the consequences of their actions. (i.e.not pulling the lever means five people get killed, pulling the lever means one person gets killed saving the other five)Person A pulls the lever to divert the track to kill one person because they hated and despised the one person and wanted them to die.Person B does not pull the lever, leading to 5 people being killed because they believed that pulling the lever and involving themself in the situation is wrong.
+		Rookie SF
+			THR social movements' emphasis on individuals' lived experiences as a prerequisite to participate in the movement's discourse
+				Balance $stats 1, 0, 2
+				Veto $stats 1, 1, 4
+			THR progressives characterizing conservatism as morally reprehensible
+				Balance $stats 0, 1, 2
+				Veto $stats 0, 1, 4
+			THR the rising trend of quiet quitting
+				Balance $stats 0, 0, 2
+				Veto $stats 1, 0, 4
+				'Quiet quitting' refers to doing only the required tasks associated with one’s job, i.e. not going "above and beyond" and pursuing growth and fulfillment at one’s job.
+		Rookie GF
+			In contexts where infertility treatment is covered by insurance, THS the implementation of mandatory screening for parents seeking infertility treatment, including genetic, economic, and social factors
+				Balance $stats 0, 0, 1
+			THO tightly integrated families
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+				A tightly integrated family refers to a family structure where members are closely connected, often sharing emotional, financial, and social responsibilities. Decision-making is typically collective, and this can often involve frequent communication and close living arrangements.
+			TH, as a parent of a minority child, would choose to raise their child in an ethnic enclave
+				Balance $stats 0, 0, 1
+				Ethnic enclaves are urban areas with high ethnic concentration that are culturally, socially, and economically distinct from the majority. Examples include Brampton, Ontario, Punjabi Market, Vancouver, Chinatown, Toronto, and Little Jamaica, Toronto.
 	The Kansai 2024 (3.24-25)
 		R1
 			TH, as you, W send your child to SEPG

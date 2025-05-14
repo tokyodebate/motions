@@ -1,4 +1,60 @@
 Tokyo Mini
+	Tokyo Mini 2024
+		R1
+			THO the dominant narrative that you should "be the bigger person"
+				OG $stats 1, 3, 1, 1
+				OO $stats 1, 1, 2, 2
+				CG $stats 2, 1, 2, 1
+				CO $stats 2, 1, 1, 2
+				"Be the bigger person" is a phrase that encourages people to act with maturity, patience, and kindness, especially in challenging or conflict-filled situations. It often involves choosing to stay calm, avoid retaliation, or forgive rather than holding grudges or engaging in petty arguments. It means prioritizing peace and understanding of others over winning an argument or proving a point.
+		R2
+			THS supply chain due diligence laws
+				OG $stats 1, 2, 3, 0
+				OO $stats 2, 2, 1, 1
+				CG $stats 1, 0, 0, 5
+				CO $stats 2, 2, 2, 0
+				Supply chain due diligence laws are regulations that require companies to actively monitor, assess, and address potential risks within their supply chains. Companies are required to conduct risk assessments to identify potential issues such as child labor, forced labor, deforestation, or pollution within their supply chains. They must then implement measures to mitigate these risks and publicly report their due diligence efforts on a regular basis. If companies fail to comply with these laws, they could face financial penalties.
+		R3
+			THW force all single individuals above 18 years of age to join Tokyo Enmusubi
+				OG $stats 2, 0, 2, 2
+				OO $stats 1, 3, 1, 1
+				CG $stats 1, 1, 2, 2
+				CO $stats 2, 2, 1, 1
+				"Tokyo Enmusubi" is an AI matchmaking system provided by the Tokyo Metropolitan Government. Based on an assessment on your values, the AI introduces you to potential matches whose values align with yours and those you seek in a partner. To ensure a secure experience, members must submit proof of single status and identification documents during registration.  (source: Tokyo Metropolitan Government)
+		GF
+			THS the rise of mock religions
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				A Parody religion or mock religion is a belief system that challenges spiritual convictions and aims to realize a certain secular purpose through a humorous way. The scriptures of these religions are often created in a way that parodies real scriptures. Example1)  The Church of the Flying Spaghetti Monster (FSM) was originally created to challenge the Kansas state board of Education that tried to include Creationism as an alternative to theory of evolution in state school science classes. By parodying the Bible, FSM argued that even if the Creator were a flying spaghetti monster, it would still explain creationism.  Once the amendment was passed, however, in the next election, all members of the board were not elected and creationism was once again excluded from public education Example 2) SuyaSuyalism (Slumberlism) is a parody religion that considers sleep to be a sacred act and encourages people to maximize the amount of time they spend sleeping. It also permits people to refuse to attend events that interfere with sleep by saying "religious reasons".
+		Rookie GF
+			THP a world with Dystopia Records
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				Dystopia Record is a system that stores memory of everyone’s entire past negative behavioral history. Dystopia Record represents the following characterizations. Dystopia Record is always accurate and does not include any subjective interpretation of events.Dystopia Record is an independent system that is not owned by the government.It does not have physical objects and people have a magical epistemic access to it. (e.g. when you want to know particular person’s record, you are magically installed the person’s record into your brain)
+	とうきょうみに 2024
+		R1
+			In student team sports, THP a world where the opportunity to be in a tournament is determined by participation in practice and team events rather than individual ability
+				OG $stats 1, 0, 3, 0
+				OO $stats 2, 1, 0, 1
+				CG $stats 1, 2, 0, 1
+				CO $stats 0, 1, 1, 2
+		R2
+			THO the trend
+				OG $stats 2, 0, 2, 0
+				OO $stats 1, 2, 1, 0
+				CG $stats 1, 2, 1, 0
+				CO $stats 0, 0, 0, 4
+				There is a rising trend of shaming and criticizing individuals who purchase products that are produced by companies that allegedly have ethical issues within its operation scheme. (Ex: Shein, Temu, McDonald’s)
+		R3
+			THBT public figures (celebrities, influencers, CEOs of companies etc.) should not publicly endorse political candidates or parties
+				OG $stats 2, 0, 1, 1
+				OO $stats 1, 1, 1, 1
+				CG $stats 0, 2, 0, 2
+				CO $stats 1, 1, 2, 0
 	Tokyo Mini 2023
 		R1
 			THBT it is in the interest of Japanese feminists to actively provide support for jakusha dansei
@@ -6,7 +62,7 @@ Tokyo Mini
 				OO $stats 1, 3, 0, 2
 				CG $stats 4, 0, 1, 1
 				CO $stats 1, 2, 1, 2
-				The term jakusha dansei（弱者男性) refers to men who are in weaker positions of the social structure in multiple ways (e.g. Their financial capital is limited and often they don’t have a regular job or live as NEET. Social capital is also limited due to lack of social skill or confidence in appearance or due to mental illness, etc.).
+				The term jakusha dansei (弱者男性) refers to men who are in weaker positions of the social structure in multiple ways (e.g. Their financial capital is limited and often they don’t have a regular job or live as NEET. Social capital is also limited due to lack of social skill or confidence in appearance or due to mental illness, etc.).
 		R2
 			THW require Apple and Google to enable sideloading on their mobile devices
 				OG $stats 0, 4, 1, 1

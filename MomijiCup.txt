@@ -1,4 +1,65 @@
 Momiji Cup
+	Momiji Cup 2024
+		R1
+			THW restrict voting rights to individuals who passed a general political knowlegde test
+				OG $stats 1, 1, 4, 1
+				OO $stats 1, 5, 1, 0
+				CG $stats 2, 1, 1, 3
+				CO $stats 3, 0, 1, 3
+		R2
+			THBT developing countries should privatise their railway service
+				OG $stats 3, 3, 0, 1
+				OO $stats 2, 2, 2, 1
+				CG $stats 1, 1, 3, 2
+				CO $stats 1, 1, 2, 3
+		R3
+			THBT educators should teach children to be collectivist rather than individualistic
+				OG $stats 1, 3, 2, 1
+				OO $stats 4, 1, 2, 0
+				CG $stats 0, 2, 1, 4
+				CO $stats 2, 1, 2, 2
+		R4
+			THR the US Court decisions expanding funding to religious education, reallocating resources away from secular education
+				OG $stats 1, 3, 3, 0
+				OO $stats 4, 1, 0, 2
+				CG $stats 1, 3, 3, 0
+				CO $stats 1, 0, 1, 5
+				In the US, government funding for specific religions has traditionally been prohibited based on the constitutional principle of separation of church and state, as well as concerns about fairness to atheists and adherents of other religions. However, recent Supreme Court rulings have shifted this perspective, viewing state restrictions on public funds for religious purposes as unconstitutional.
+				Notably, the Court ruled in 2020 that a Montana law prohibiting scholarships to religious schools violated the Free Exercise Clause, and in 2022, it deemed Maine's refusal to provide public funding to religious schools unconstitutional. 
+		R5
+			THR the emphasis on a moral obrigation of children to take care of their parents
+				OG $stats 4, 1, 1, 1
+				OO $stats 1, 1, 2, 3
+				CG $stats 1, 4, 1, 1
+				CO $stats 1, 1, 3, 2
+		Rookie GF
+			THBT Kabuki community should heavily prioritise efforts to modernise themselves over efforts to perserve existing tradition
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+		Pre SF
+			Assuming the existence of artificial uterus that allows us to create children without sex, THW mandate all individuals to undergo Momijection
+				OG $stats 2, 0
+				OO $stats 1, 1
+				CG $stats 0, 2
+				CO $stats 1, 1
+				For the purpose of this debate, Momijection refers to an advanced biotechnology that safely and immediately removes sexual desires and errogenous zones. The effect is permanent and irreversible.
+		SF
+			THO the social norm that effort is a form of talent
+				OG $stats 2, 0
+				OO $stats 1, 1
+				CG $stats 0, 2
+				CO $stats 1, 1
+				In recent years, there has been a growing social norm that the ability to make an effort itself is a talent. This implies that those who can make an effort have this talent, while those who lack the talent to make an effort from the beginning will find it difficult or impossible to do so. Additionally, these claims are sometimes accompanied by some scientific evidence.
+				
+		GF
+			THW make the contract with Kyubey
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				You are an average high school girl. You don't have any particular hopes or dreams for the future, but your family is reasonably wealthy, and you lead a mundane yet happy life. You have a crush on a childhood friend. He is a violin prodigy, who aspires to become a violinist, but injured his arm in a car accident. It is impossible to heal his arm with modern medical technology, and doctors have told him to give up on becoming a violinist. As his childhood friend, you visit him every week, but he is on the verge of despair, and it pains you greatly to see him like this.One day, you came across Kyubey, who is not human but looks cute. He said, "Please become a ‘Magical Girl’ (魔法少女) by making a contract with me! If you do so, I'll grant you any one wish you want. It doesn’t matter what the wish is. I can even heal the arm of your friend. However, in return, you need to take on the role of defeating witches with your magical powers! Witches are invisible to ordinary people, extremely evil, and sometimes even kill them in secret. For example, many unexplained suspicious deaths and mass suicides are highly likely to be caused by witches. Only a magical girl can defeat them. Now there is no magical girl in this city and witches kill many innocent lives.You have enough talent to become a magical girl.SO, PLEASE MAKE A CONTRACT WITH ME  AND BECOME A MAGICAL GIRL!"For the purpose of this debate, you have two choice1. Make the contract to heal your childhood friend’s arm. A magical girl needs to defeat witches to restore her magical energy; otherwise, cannot sustain her life. So you cannot escape from a harsh and irreversible fighting destiny if you make the contract.2. Reject the contract. Kyubey will then leave you, and you will live as an average woman.
 	Momiji Cup 2023
 		R1
 			THW prohibit religious proselytisation in areas of high socioeconomic deprivation

@@ -1,4 +1,93 @@
 JPDU Spring Tournament
+	JPDU Spring Tournament 2025
+		R1
+			As a means to fight against climate change, THP CCUS to actual reduction of CO2 emission
+				Balance $stats 1, 2, 10
+				Veto $stats 1, 5, 20
+				Carbon Capture, Utilization and Storage/Sequestration (CCUS) is a process that captures CO2 emitted through industrial processes (e.g. coal-fired power plants). The captured CO2 will be either;reused for other industrial processes where CO2 is used as an input for other productsstored deep underground so that they would not be released into the atmosphereWhen companies report CO2 emission, the amount of captured CO2 can be deducted from total amount of CO2 emissionCurrently many countries
+			THO the increase of individually owned accomodations in Kyoto, brokered through online marketplaces (e.g. Airbnb)
+				Balance $stats 3, 2, 10
+				Veto $stats 4, 2, 20
+			THP a world where people cannot tell a lie
+				Balance $stats 2, 0, 10
+				Veto $stats 5, 3, 20
+		R2
+			THBT social media companies should be compelled to also suggest contents with political views that differ from the views of the users
+				Balance $stats 2, 0, 10
+				Veto $stats 2, 5, 20
+			THBT DOGE is in the interest of the Republican Party
+				Balance $stats 1, 1, 10
+				Veto $stats 6, 3, 20
+				The Department of Government Efficiency (DOGE) is an initiative of the second Trump administration tasked with cutting federal spending which it characterizes as "waste, fraud, and abuse". It emerged from discussions between Donald Trump and Elon Musk, and was established by executive order on January 20, 2025. DOGE's actions have included accessing government data systems; organizing mass layoffs of federal workers; and cutting climate change initiatives, scientific research, and DEI (diversity
+			THP a world where voters exclude electability of political candidates from their primary concern when casting a vote
+				Balance $stats 2, 4, 10
+				Veto $stats 2, 2, 20
+		R3
+			THR the TikTokification of music
+				Balance $stats 1, 1, 10
+				Veto $stats 3, 2, 20
+				TikTokification refers to how popular music on TikTok is streamed heavily and charts highly. Generally, only small parts of songs go viral, and many artists have moved to marketing on TikTok.
+			THBT idol audition programs should primarily focus on viewers' opinions (e.g. viewers' vote) in deciding the debut member, rather than producers' opinions
+				Balance $stats 3, 1, 10
+				Veto $stats 4, 4, 20
+				No info slide
+			THBT the narrative of moral relativism has done more harm than good
+				Balance $stats 1, 3, 10
+				Veto $stats 3, 4, 20
+				Moral relativism is the idea that there is no universal or absolute set of moral principles and that morality is only relative to some particular standpoint (for instance, that of a culture or a historical period). It states that no moral value is inherently superior than the others.
+		R4
+			THW allow direct-to-consumer advertising for prescription drugs and treatments
+				Balance $stats 2, 3, 10
+				Veto $stats 1, 2, 18
+			THBT Japanese National Healthcare System should allow an insured individual to choose an insurance option without the copay being capped, in exchange for a lower monthly payment
+				Balance $stats 1, 2, 10
+				Veto $stats 2, 6, 18
+			THW lift criminal sanctions on "HIV non-disclosure
+				Balance $stats 1, 1, 10
+				Veto $stats 6, 1, 18
+		Pre SF
+			THW reduce prisoners' sentence if they promise to pay a small percentage of their post-release salary to the state
+				Balance $stats 0, 0, 2
+			THBT Latin American countries should implement La Mano Dura ("iron fist") policies rather than abrazos no balazos ("hugs not bullets") policies
+				Balance $stats 1, 1, 2
+				Veto $stats 0, 0, 4
+				La Mano Dura policies refer to hardline tough-on-crime policies that are implemented to combat gang violence and organized crime. It consists of things like increasing police and military presence, conducting mass arrests, and imposing stricter penalities on those linked to criminal activities. Abrazos no balazos refers to non-confrontational security policies that attempt to address the root causes of crime. This includes things like poverty alleviation programs to provide alternatives to organized crime, providing drug rehabilitation programs, and attempting to negotiate with criminal organizations.
+			THO bail bond agents
+				Balance $stats 0, 0, 2
+				Bail is a set of pre-trial restrictions imposed on defendants to ensure functional judicial process, while allowing conditional release from detention.Currently in the US, most states introduce bail bond, meaning that a bail is offered by defendants depositing money or some form of property to promise that they will appear in court when required. When they actually appear in court, the deposit money or property will be returned after the trial is concluded.In such states, commercial bail bond agents (bail bondsman) can also be used as a means to pay bail money. Agents will deposit money on behalf of the defendants, and defendants have to pay back the money to agents, adding a small percentage of margin.In order for bail bond agents to make sure defendants will appear in court, they may hire bounty hunters, or they themselves may bring firearms.
+		Rookie GF
+			THBT the feminist movement should oppose 50/50 feminism
+				Balance $stats 0, 0, 1
+				50/50 feminism refers to a strain of feminism that promotes the idea that within relationships between men and women, they should split bills and labor in a perfectly 50/50 manner - e.g. on dates between a man and woman, both people should split the bill equally, and when a couple moves in together they should split household costs equally.
+			THO Lipstick feminism
+				Balance $stats 0, 0, 1
+				Lipstick feminism is a branch of feminism that embraces traditional femininity, arguing that women can find empowerment through celebrating their sexuality and enjoying aspects of personal appearance like makeup and fasion. It emphasizes the importance of women having the freedom to express themselves as they choose and defends women who weaponize their sexual appeal to achieve their goals.
+			THS female vigilante groups in areas with chronically high rate of crimes against women (e.g. Gulabi Gang in India, YPJ (all-female Kurdish militia) in Syria)
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
+		SF
+			THBT organized religion has worsened economic inequality
+				Balance $stats 0, 1, 2
+				Veto $stats 1, 0, 4
+			THBT religious institutions should embrace 'Deus in Machina'
+				Balance $stats 1, 0, 2
+				Veto $stats 0, 1, 4
+				 AI Jesus, also referred to as Deus in Machina, is an artificial intelligence system designed to generate responses and sermons based on textual data from the New Testament. The system processes biblical scripture, allowing it to generate interpretations, answer theological questions, and simulate sermons in a manner consistent with Christian doctrine. It functions by analysing patterns in the biblical text, extracting themes, and producing coherent theological discourse based on linguistic probabilities. Some iterations of AI Jesus have been integrated into digital confessional booths or interactive chat interfaces, where users can seek guidance, biblical interpretations, or simulated spiritual discussions.
+			THP religions that interpret human suffering as a consequence of Karma rather than a Test of Faith
+				Balance $stats 0, 0, 2
+				Veto $stats 1, 1, 4
+				Karma is the idea that bad things happen in your life as a result of bad actions that you did in your past or current life. This is considered as how the universe operates and is not a result of actions made by a divine being. On the other hand, Test of Faith refers to the idea that bad things are inflicted by God in order to test your loyalty to God. This test is seen as an opportunity to strengthen the believer's faith and relationship with God.
+		GF
+			In the world of "Kin-Pri", THW take off the bracelet
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+				 You are an average office worker living in Japan. One day, you woke up and noticed that you had transferred into a Heroine, named Kin-chan, of your favorite romance game (乙女ゲーム) called "Kin-Pri" (Kin-chan and Prince, キンプリ). In the game’s original story, Kin-chan is a baron’s daughter, and you will eventually marry your favorite character; the prince of the kingdom. You have a magical bracelet that tells you all the "right choices" for you to make to be together with the prince. However, you noticed that your bracelet was controlling everyone to move just as the story plot. If you take your bracelet off, the bracelet will vanish and you cannot put it back on. But once you do so, the people inside the story will be able to act freely.
+			THP the world "Kin-gdom"
+				Balance $stats 0, 0, 1
+				 In the world Kin-gdom, individuals' personality and characteristics are regularly analyzed by a magical power. They receive a 100% accurate oracle that tells them the set of features that a "best partner" for them would have (e.g. lifestyle preferences, personality etc.). ※Kin-gdom is not a kingdom (It is the name of the world).
+			Assuming "Kin-mirai" exists, THW allow the buying and selling of one's remaining life
+				Balance $stats 0, 0, 1
+				"Kin-mirai" is an AI which calculates people's remaining life by examining their physical health. It also enables people to exchange their remaining lifetime.However, the AI cannot predict or control unexpected death (e.g., car accidents, natural disasters, etc.), Therefore, even if one's remaining life was 50 years, there is a possibility that the person dies before that.
 	JPDU Spring Tournament 2024
 		R1
 			THR the consumption of political figures as internet memes

@@ -1,4 +1,30 @@
 Osawa Cup
+	Osawa Cup 2024
+		R1
+			THBT categorization of behavioral patterns and characteristics does more harm than good. (e.g. MBTI, Blood-type personality theoiry, 5 Love Languages, etc.)
+				OG $stats 1, 1, 3, 2
+				OO $stats 3, 3, 1, 0
+				CG $stats 1, 2, 2, 2
+				CO $stats 2, 1, 1, 3
+		R2
+			THBT dating apps should force all users to publicly discorce their income status
+				OG $stats 1, 3, 2, 1
+				OO $stats 4, 2, 1, 0
+				CG $stats 1, 0, 3, 3
+				CO $stats 1, 2, 1, 3
+		R3
+			THP the use of explicit historical references in pop culture (e.g. Nazis in Indiana Jones, the Ainu in ゴールデンカムイ, etc.) as opposed to a creation of a world mostly or entirely detached from any historical event (e.g. Ratatouille, Totoro, etc.)
+				OG $stats 3, 3, 1, 0
+				OO $stats 1, 1, 5, 0
+				CG $stats 0, 3, 1, 3
+				CO $stats 3, 0, 0, 4
+		GF
+			THP for him to disclose his naughty/nice list as opposed to keeping it confidential
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				For the purpose of this debate, Santa Claus scores all children on earth on a scale of 1 to 10. While any Score above 5 is classified as a "nice", a score of 5 or below would mean "naughty". A higher score increases the chance of getting better presents, but a score of 5 or below would result in the child not getting any presents at all for the year. Santa is considering individually disclosing the scores of all children.
 	Osawa Cup 2023
 		R1
 			THBT the entire process of job applications must be held under complete anonymity. (i.e. not revealing name or gender)

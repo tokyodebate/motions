@@ -1,4 +1,36 @@
 Japan Womxn's / Aoyama Women’s Cup
+	Japan Wom*n and Gender Minorities 2024
+		R1
+			THBT education charities targeting economically suffering area should prioritise giving resources to students who have a greater potential to succeed as opposed to equalising resources to everyone
+				OG $stats 1, 2, 1, 0
+				OO $stats 1, 0, 3, 0
+				CG $stats 0, 1, 0, 3
+				CO $stats 2, 1, 0, 1
+		R2
+			THS restrictions on acquisitions by foreign companies
+				OG $stats 0, 1, 2, 1
+				OO $stats 1, 2, 0, 1
+				CG $stats 2, 1, 0, 1
+				CO $stats 1, 0, 2, 1
+				An acquisition occurs when a company purchases all or part of another company’s shares, gaining a controlling stake or varying degrees of control over its management and assets, such as decision-making authority, retail outlets, and factories. In recent years, there has been an increase in cross-border transactions, such as Seven-Eleven Japan receiving a takeover proposal from the Canadian convenience store giant Alimentation Couche-Tard and NVIDIA is planning to acquire the UK-based chip design company ARM to enhance its competitiveness in the AI and IoT sectors.
+		R3
+			THO the narrative which encourage to move forward to the future positively and emphasize that past cannot be changed
+				OG $stats 2, 2, 0, 0
+				OO $stats 1, 1, 1, 1
+				CG $stats 1, 0, 3, 0
+				CO $stats 0, 1, 0, 3
+		GF
+			THO the global spread of beauty categorization (e.g. Personal colors, Body types and Face types)
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+		Rookie GF
+			As a parent, THW raise their child to prefer being single
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
 	Japan Womxn's Nationals 2023
 		R1
 			TH, as young climate activists, Would prioritise advocating for climate adaptation over climate mitigation

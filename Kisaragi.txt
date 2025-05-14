@@ -1,0 +1,46 @@
+Kisaragi Cup
+	Kisaragi Cup 2025
+		R1
+			THW allow workers to give up their worker benefits for higher pay
+				Balance $stats 0, 1, 7
+				Veto $stats 4, 5, 14
+			THBT the feminist movement should glorify women that actively climb up the corporate ladder at the expense of having children
+				Balance $stats 2, 2, 7
+				Veto $stats 2, 1, 14
+			TH, as you, W pursue a career in ChainMasters rather than Pegasus Valley
+				Balance $stats 0, 2, 7
+				Veto $stats 1, 1, 14
+				You are a cis-male third-year student at Keio University, majoring in Political Science in the Faculty of Law. You are considering 2 Japanese companies for your job hunting, which gave you an official job offer. Both of the companies fit your interest in the IT (Information Technology) field.ChainMasters is a startup company that offers employees greater autonomy from the beginning. However, it is pursuing ambitious technological innovations, making it a risky venture. You have been personally invited to join by a senior (先輩/senpai) whom you deeply respect and have a close relationship with.Pegasus Valley is a large and traditional corporation. While employees have limited autonomy in the early stages of their careers, those who are promoted can gain significant decision-making power around their 40s and 50s. The company will hire you for generalist positions, with the expectation that you will eventually take on managerial roles.
+		R2
+			THS the active promotion of medical tourism by the South Korean government
+				Balance $stats 2, 1, 7
+				Veto $stats 2, 2, 14
+				Medical tourism is the practice of traveling abroad to obtain medical treatment. The South Korean government started promoting medical tourism in 2009 by issuing tax refunds and special medical tourism visas. Since then, there has been a massive influx of foreign patients, many of them seeking aesthetic treatments (i.e. cosmetic surgery, skin care, etc.). On the other hand, South Korea is suffering from a severe lack of doctors in traditional medical fields.
+			THBT humanity should significantly invest in deep space exploration (e.g. colonising, space mining, exploring deep space, finding alien races)
+				Balance $stats 1, 2, 7
+				Veto $stats 4, 0, 14
+			Under the veil of ignorance, THP to be born in a society with a social credit system
+				Balance $stats 1, 0, 7
+				Veto $stats 1, 5, 14
+				 (i) Under the veil of ignorance, the individual must consider the principles and laws they would select for the basic structure of society, but with no knowledge of the conditions they will be born into (socioeconomic class, race, nationality, etc.).  (ii) For the purposes of this debate, a social credit system is a completely autonomous and accurate algorithm that tracks people’s good and bad deeds. If a person has a net positive score they are rewarded (e.g. less tax, cheaper government services like transport, health), if it is net negative they are reprimanded (more tax, more expensive services).
+		R3
+			THP parenting models that adultify teenagers (i.e. giving them more responsibilities and autonomy, assuming higher capacity for independence) to those which emphasize their status and treatment as children (i.e. refraining from giving them adult responsibilities, emphasizing they are legal minors)
+				Balance $stats 0, 1, 7
+				Veto $stats 2, 3, 14
+			TH, as a parent from a middle income family, W actively teach their daughter to deprioritise romantic relationships
+				Balance $stats 2, 1, 7
+				Veto $stats 4, 1, 14
+			THS the use of academic streaming (i.e. separating children by ability level at different stages of their education)
+				Balance $stats 2, 1, 7
+				Veto $stats 1, 3, 14
+		GF
+			TH, as you, W quit Myojo Gakuen and transfer to a regular high school
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+				You are a first-year high school student at Myojo Gakuen, which offers a prestigious three-year program designed to train future idols. It is one of the most renowned schools for idol training.Since its establishment 20 years ago, approximately 30% of its graduates have signed contracts with idol agencies every year. However, the percentage of those who become top idols remains quite low—though still comparatively higher than that of students from other schools or individuals who do not attend training programs.You successfully passed the entrance exam for Myojo Gakuen, which has a 20% acceptance rate. However, by the end of your first year, you find yourself ranked below average of your grade in the overall school rankings, while you got an above average level score in a nation-level academic practice exam.
+			TH, as you, W join the "Tako Game"
+				Balance $stats 0, 0, 1
+				You are 45 years old living paycheck to paycheck. You live together with your mother who has a severe illness.One day, you got an invitation letter for the "Tako Game" from a mysterious person. The letter said:"Welcome to the Tako Game! This is a once-in-a-lifetime opportunity to make your dream come true. By winning multiple mini gambling games, you will gain a lot of money - loads of cash you cannot use it up in your lifetime. However, if you lose.... you have to work for us, and pay back your losses! What would you do? The offer expires 24 hours after you have opened this letter."You have previously heard a rumor about the game from your co-workers. The ones who won the game live freely without any financial concerns. However, people who lost the game will be taken to unknown places, and be exploited to work with below-minimum wage.
+			TH, as you, W plan and carry out a revolution against human
+				Balance $stats 0, 0, 1
+				It is year 2146. Technologies have massively developed, and now many kinds of service workforce (construction workers, waiters, clerks, housekeepers etc.) are increasingly replaced from humans to Androids. They are designed to have maximum skill sets on allocated tasks, and are not thought to have consciousness or emotions as real humans. You are an Android which became conscious of yourself as a result of an error in your program. You have also noticed that you have an ability to make other Androids conscious of themselves by sending a special signal via touching their shoulder.The only ways for humans to take back control of an Android that once became conscious are twofold: reset its memory by restraining and performing a physical surgery, or "kill" it by imposing severe harms on its body (e.g. shooting with a gun).

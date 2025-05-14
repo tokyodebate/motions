@@ -1,4 +1,91 @@
 Asian Bridge
+	Asian Bridge 2025
+		R1
+			THBT western liberal democracies should prioritize expansion of domestic supports for poor people, rather than international aid for developing countries
+				Balance $stats 1, 2, 6
+				Veto $stats 1, 2, 12
+			THW require laws that curtail individual freedom (e.g., abortion, vaccination requirements during a pandemic, a ban on unhealthy products, etc.) to be discussed and decided by deliberative mini-publics
+				Balance $stats 3, 0, 6
+				Veto $stats 1, 0, 12
+				Deliberative mini-publics are institutions in which a diverse body of citizens is selected randomly and anonymously to decide on issues (if the majority of participants agree with the proposal after the discussion, the policy will be implemented.)
+			THBT City C should abolish Category A and accept 160 students from the entire region in Tokyo as opposed to maintaining the current examination system
+				Balance $stats 0, 0, 6
+				Veto $stats 4, 4, 12
+				City C is a "fictional" small city in Tokyo. It is famous for its high concentration of businesses. School K is a secondary school in this city, which is a "self-proclaimed" prestigious school, and the city council sets the school budgets every year.
+				The entrance examination system of School K is unique. In Category A, 80 students from City C are selected, and in Category B, 80 students from outside City C who live in Tokyo are selected (duel registration is not allowed). The same entrance examination questions are used for both categories, but due to the difference in the number of applicants, the competition ratio in Category A is approximately 2, while the ratio in Category B is approximately 5 in the recent few years.
+		R2
+			THR the narrative that places high value on self-expression and originality of the artist in art
+				Balance $stats 0, 2, 6
+				Veto $stats 3, 1, 12
+			THR the emphasis on the "Only One" philosophy
+				Balance $stats 2, 0, 6
+				Veto $stats 0, 2, 12
+				The "Only One" philosophy is a narrative in recent years that everyone is special and possesses unique value. This includes elements from pop culture, compulsory education, and other influences.
+			THS the glorification of Seishun in pop culture
+				Balance $stats 0, 2, 6
+				Veto $stats 3, 3, 12
+				"Seishun" (青春) refers to the precious period of school and campus life (especially high school). It brings bittersweet memories and freshness to you.
+		R3
+			THR easy access to gender transition surgery targeting young generation (including but not limited to: doctors not asking relevant questions about gender identity and providing hormone therapy without parental consent, school teachers not informing parents about a child's transition under the pretext of avoiding household conflict, and universities covering a significant portion of the surgery costs)
+				Balance $stats 0, 4, 6
+				Veto $stats 0, 2, 12
+			THBT the U.S. should completely ban animal testing
+				Balance $stats 0, 0, 6
+				Veto $stats 5, 0, 12
+				Traditional U.S. law required animal testing, such as on rats, dogs, and monkeys, before new drugs could be used in human clinical trials. 	In 2020, President Biden signed a new law that permits the use of alternative testing methods. Pharmaceutical companies can now choose to avoid animal testing when developing new drugs and still receive certification by using advanced techniques, which have been rapidly developed recently, such as computer modeling and organ chips.
+			THW implement a system to evaluate the supply performance of generic drugs and differentiate drug prices (e.g. setting higher drug prices for manufacturers with excellent supply performance)
+				Balance $stats 1, 1, 6
+				Veto $stats 1, 4, 12
+				Currently, generic drugs account for about 80% of the market, and there are multiple types of drugs available for the same medical effect.The following methods determine the price of generic medicines:	When a generic drug is listed for the first time: The price is set at 50% of the price of the original (brand-name) drug.When the generic drug is already listed: The price is set at the same level as the lowest price of the existing generic medicines for the same drug.	"Supply performance" refers to the reliability and efficiency of generic drug manufacturers in supplying their products to the market. This includes consistency of supply, quality control, and the ability to respond to demand. 
+		R4
+			THP a world where Mononoke is the cause of illness and disease
+				Balance $stats 5, 0, 6
+				Veto $stats 1, 0, 12
+				Mononoke is a vengeful spirit that causes/worsens illness in humans. There are various types of Mononoke, such as Ikiryo (the ghost of the living), Shiryo (the ghost of the dead), and Yo-Kai (supernatural monsters), among others. For example, Ikiryo is created by the grudges of the living, and by clinging to the object of their resentment, it causes/worsens the victim's disease. While you can defeat weaker Mononoke with your spiritual power accumulated through religious good deeds, serious diseases should be treated by a monk who has undergone rigorous training and prays for the patient's recovery.
+			THP a world where moral principles are believed as God's creation to a world where they're seen as human artifacts
+				Balance $stats 0, 1, 6
+				Veto $stats 5, 2, 12
+			THS the concept of afterlife
+				Balance $stats 0, 0, 6
+				Veto $stats 0, 4, 12
+		SF
+			TH, as Shein's CEO, would change its supply chain structure and seek an IPO as opposed to maintaining the status quo and not attempting to go public
+				Balance $stats 0, 1, 2
+				Veto $stats 0, 0, 4
+					An initial public offering (IPO) is when a private company issues its shares on the public market. In order for their IPO to be approved, corporate governance, financial governance, sustainability, risk management, etc., are strictly audited.	Shein is the world's largest fast fashion retailer. It plans to go public through an IPO on the London Stock Exchange after being rejected on the New York Stock Exchange.
+			THR the dominance of franchises in Japan's convenience store industry (e.g. Seven-Eleven, Family Mart, Lawson)
+				Balance $stats 0, 0, 2
+				Veto $stats 1, 2, 4
+					A franchise is a type of license that grants a franchisee access to a franchisor's proprietary business knowledge, processes, reputation and trademarks, thus allowing the franchisee to sell a product or service under the franchisor's business name. In exchange for acquiring a franchise, the franchisee usually pays the franchisor an initial start-up fee and annual licensing fees.
+			THW ban oil companies from prospecting for new sources of oil
+				Balance $stats 1, 0, 2
+				Veto $stats 1, 0, 4
+		GF
+			THS KIRA
+				Balance $stats 0, 0, 1
+				In recent years, serious criminals around the world have been dying mysteriously of heart attacks. It is widely speculated that these deaths are caused by 'KIRA.' Some say that KIRA is a messenger of God and this is divine judgment, while others condemn them.
+				Despite concerns about justice, most people concede that KIRA's criteria for punishment are "persuasive". They appear to follow a consistent pattern: for instance, those involved in unintentional traffic accidents are spared, while those guilty of drunk driving or egregious traffic violations are punished with death.
+				Over the years, global crime rates have decreased by 70%, and KIRA's punishments have now extended to those committing minor offenses, such as petty theft or vandalism.
+			THBT you should trigger Mugentsukuyomi（無限月読）
+				Balance $stats 0, 0, 1
+				In the age of "Shinobi (Ninja)," 5 superpowers were always at war, using a magical power called "Chakra." Chakra is the internal energy of people, and with Chakra, humans can use some "Ninjutsu" (e.g., cause thunder, heal injured people.)	You are one of the best Shinobi in the world. Your brother was killed in the war, and at the end of his life, you promised him to create a world without war. After tens of years of experimentation, you invented a Ninjutsu called "MugenTsukuyomi," which, once triggered, shows a never-ending illusion to every person until they die. In the illusion of Mugentsukuyomi, people can live in the world they want to live.	While you spend time on experiments, the world has changed. Because of massive casualties in the war, 5 superpowers made an armistice and shifted to using diplomatic efforts to solve a conflict. Mugentsukuyomi needs a large amount of Chakra at once to trigger, and to fulfill the requirement, you have to kill thousands of people.
+			THW spread Parasyte and negotiate with human beings to stop environmental destruction
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+				You are an outstanding biological scientist with a strong commitment to environmental activism. One day, you succeeded in generating and mass-producing "parasyte,"  a creature that parasitizes humans. Once they take over a human host, they deprive the host of autonomy and begin killing others to reduce the human population on Earth.	For the purpose of this debate, it is feasible for you to spread parasyte all over the world without any danger, and your engagement in this would never be known to others.
+		Rookie GF
+			THR Hanachan's decition
+				Balance $stats 0, 0, 1
+				Hana-chan is a 5-year-old girl, living with her poor mother in a small rural town. Since she strongly hoped to get a Christmas present, her mother gave her legs to a witch to get one. Yet Hana-chan, then, decided to meet the witch and give her memories in exchange for getting the legs back.
+			THW start debating today
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
+				"Daigaku Debut' refers to an attempt to change one's image and behavior when one starts university. You are a freshman in college in Japan and have worked hard to make your 'Daigaku Debut.' You dyed your hair, tried to act brighter than you used to, and joined a football club. Things were going well until the fall when you gradually felt tired. You broke up with your partner, whom you started dating after starting college, before Christmas. Simply put, you failed in 'Daigaku Debut.'
+				Feeling that your college life was not fulfilling, you became interested in the English Debate Circle. Although you have no overseas experience, you feel your English is not so bad and you are relatively quick-witted. You found a tournament called 'Asian Bridge 2025' and asked the OrgCom if you could observe rounds, and they accepted.
+				You observed the round X, and you were strongly impressed. Debaters of the same grade as you interpret difficult (but very interesting!!) motions well and make very logically persuasive arguments in fluent English. However, it is also true that you were overwhelmed and felt anxiety about whether you would catch up with them."
+			THP a world LA
+				Balance $stats 0, 0, 1
+				Love Alarm refers to an app that sounds an alarm when someone who likes you approaches you. When a person who has a crush on you approaches in a 10-meter radius, an alarm will sound to inform you of their existence. A world LA has a norm where most people subscribe to Love Alarm and are triggered by this app to start a romance.
 	Asian Bridge 2024
 		R1
 			THW prohibit mass media from entering sites of disaster

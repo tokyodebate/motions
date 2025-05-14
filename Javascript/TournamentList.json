@@ -3,7 +3,7 @@
 		"id": "Womens",
 		"name": "Japan Womxn's / Aoyama Women's Cup",
 		"short": "",
-		"latest": 2023,
+		"latest": 2024,
 		"tag": ["BP", "open", "region:Domestic"],
 		"url": "Womens.txt"
 	},
@@ -11,7 +11,7 @@
 		"id": "AsianBridge",
 		"name": "Asian Bridge",
 		"short": "",
-		"latest": 2024,
+		"latest": 2025,
 		"tag": ["Asian", "rookie", "region:Domestic"],
 		"url": "AsianBridge.txt"
 	},
@@ -35,7 +35,7 @@
 		"id": "DebateNoSusume",
 		"name": "Keio Debate Open (KDO) / Kanto Debate Open / Debate no Susume",
 		"short": "",
-		"latest": 2024,
+		"latest": 2025,
 		"tag": ["Asian", "open", "region:Domestic"],
 		"url": "DebateNoSusume.txt"
 	},
@@ -131,7 +131,7 @@
 		"id": "JapanBP",
 		"name": "Japan BP",
 		"short": "JBP",
-		"latest": 2023,
+		"latest": 2024,
 		"tag": ["BP", "open", "region:Domestic"],
 		"url": "JapanBP.txt"
 	},
@@ -147,7 +147,7 @@
 		"id": "JPDUSpring",
 		"name": "JPDU Spring Tournament",
 		"short": "",
-		"latest": 2024,
+		"latest": 2025,
 		"tag": ["Asian", "open", "region:Domestic"],
 		"url": "JPDUSpring.txt"
 	},
@@ -171,7 +171,7 @@
 		"id": "TheKansai",
 		"name": "The Kansai",
 		"short": "",
-		"latest": 2024,
+		"latest": 2025,
 		"tag": ["Asian", "open", "region:Domestic"],
 		"url": "Kansai.txt"
 	},
@@ -182,6 +182,14 @@
 		"latest": 2022,
 		"tag": ["NA", "BP", "rookie", "open", "region:Domestic"],
 		"url": "KCup.txt"
+	},
+	{
+		"id": "KisaragiCup",
+		"name": "Kisaragi Cup",
+		"short": "",
+		"latest": 2025,
+		"tag": ["Asian", "proam", "region:Domestic"],
+		"url": "Kisaragi.txt"
 	},
 	{
 		"id": "KKCup",
@@ -195,7 +203,7 @@
 		"id": "Konpeki",
 		"name": "Konpeki Cup",
 		"short": "",
-		"latest": 2024,
+		"latest": 2025,
 		"tag": ["Asian", "rookie", "region:Domestic"],
 		"url": "Konpeki.txt"
 	},
@@ -203,7 +211,7 @@
 		"id": "MomijiCup",
 		"name": "Momiji Cup",
 		"short": "",
-		"latest": 2023,
+		"latest": 2024,
 		"tag": ["BP", "rookie", "region:Domestic"],
 		"url": "MomijiCup.txt"
 	},
@@ -227,7 +235,7 @@
 		"id": "NemophilaCup",
 		"name": "Nemophila Cup",
 		"short": "",
-		"latest": 2024,
+		"latest": 2025,
 		"tag": ["NA", "rookie", "open", "region:Domestic"],
 		"url": "NemophilaCup.txt"
 	},
@@ -235,7 +243,7 @@
 		"id": "OsawaCup",
 		"name": "Osawa Cup",
 		"short": "",
-		"latest": 2023,
+		"latest": 2024,
 		"tag": ["BP", "open", "region:Domestic"],
 		"url": "OsawaCup.txt"
 	},
@@ -283,7 +291,7 @@
 		"id": "SilverCup",
 		"name": "Silver Cup",
 		"short": "",
-		"latest": 2024,
+		"latest": 2025,
 		"tag": ["BP", "open", "region:Domestic"],
 		"url": "Silver.txt"
 	},
@@ -339,7 +347,7 @@
 		"id": "TeaCup",
 		"name": "Tea Cup",
 		"short": "",
-		"latest": 2024,
+		"latest": 2025,
 		"tag": ["NA", "rookie", "region:Domestic"],
 		"url": "TeaCup.txt"
 	},
@@ -371,7 +379,7 @@
 		"id": "TokyoMini",
 		"name": "Tokyo Mini",
 		"short": "",
-		"latest": 2023,
+		"latest": 2024,
 		"tag": ["BP", "open", "rookie", "region:Domestic"],
 		"url": "TokyoMini.txt"
 	},
@@ -959,7 +967,7 @@
 		"id": "WUDC",
 		"name": "World Universities Debating Championships",
 		"short": "WUDC",
-		"latest": 2024,
+		"latest": 2025,
 		"tag": ["BP", "open", "international", "region:World"],
 		"url": "International/WUDC.txt"
 	},

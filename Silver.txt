@@ -1,4 +1,33 @@
 Silver Cup
+	Silver Cup 2025
+		R1
+			THBT "have it all" feminism has done more harm than good
+				OG $stats 2, 0, 3, 1
+				OO $stats 1, 1, 2, 2
+				CG $stats 3, 0, 1, 2
+				CO $stats 0, 5, 0, 1
+				"Have it all" feminism argues that it is possible and desirable for women to pursue and balance having both a successful career and having a family.
+		R2
+			THR the rise of the gig economy
+				OG $stats 1, 1, 2, 2
+				OO $stats 2, 1, 2, 1
+				CG $stats 1, 3, 0, 2
+				CO $stats 2, 1, 2, 1
+				The gig economy is a labour market that relies heavily on temporary and part-time positions filled by independent contractors and free lancers rather than full time permanent employees. Examples of companies that work within this economy are Uber, Dileveroo and Fiver.
+		R3
+			THW allow parents to give the Politeness Pill to their children under the age of 18, regardless of the children's consent
+				OG $stats 0, 3, 2, 1
+				OO $stats 2, 1, 2, 1
+				CG $stats 3, 0, 0, 3
+				CO $stats 1, 2, 2, 1
+				The Politeness Pill, when taken, temporarily permits only socially acceptable behavior, such as obedience, attendance at school, good manners, following the law, refraining from drugs and alcohol, etc.
+		GF
+			THP a world with one global superpower, rather than multiple international superpowers
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				The Politeness Pill, when taken, temporarily permits only socially acceptable behavior, such as obedience, attendance at school, good manners, following the law, refraining from drugs and alcohol, etc.
 	Silver Cup 2024
 		R1
 			THBT benevolent sexism is the greatest obstacle for women to succeed

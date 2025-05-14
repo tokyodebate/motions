@@ -1,4 +1,65 @@
 Japan BP
+	Japan BP 2024
+		R1
+			TH, as a young professional worker in East Asia, would prioritize career success over settling a mediocre career path that allows non-career pursuits
+				OG $stats 5, 2, 3, 2
+				OO $stats 3, 5, 3, 1
+				CG $stats 2, 1, 3, 6
+				CO $stats 2, 4, 3, 3
+		R2
+			THS the adoption of price setting AI by real estate companies
+				OG $stats 2, 3, 2, 5
+				OO $stats 4, 3, 3, 2
+				CG $stats 2, 4, 4, 2
+				CO $stats 4, 2, 3, 3
+				A price setting AI service in real estate approximates real estate prices based on a multitude of variables such as fluctuation of housing prices within the national economy, rate of construction of new real estate, employment and purchasing power within the national economy.
+		R3
+			THR the political strategy of centre-left political parties forming governing coalitions with centre-right parties as opposed to collaboration with left-wing parties
+				OG $stats 7, 1, 3, 1
+				OO $stats 3, 4, 4, 1
+				CG $stats 1, 3, 3, 5
+				CO $stats 1, 4, 2, 5
+		R4
+			THR the emphasis on miracles in religion
+				OG $stats 3, 2, 2, 5
+				OO $stats 2, 2, 6, 2
+				CG $stats 3, 5, 1, 3
+				CO $stats 4, 3, 3, 2
+				In religion, a miracle is an extraordinary event that is believed to be the result of divine intervention, transcending natural laws and human understanding.
+		R5
+			In countries with a history of settler colonialism, THBT the indigenous communities should prioritise demanding economic reparation (e.g., redistribution and welfare provision), rather than political reparation (e.g., quotas in the parliament and legal protection for land rights)
+				OG $stats 0, 5, 4, 2
+				OO $stats 4, 2, 3, 2
+				CG $stats 5, 2, 2, 2
+				CO $stats 2, 2, 2, 5
+				‘Settler colonialism’ refers to a system of colonisation in which the primary goal was the establishment of a permanent settler society on indigenous lands. It is commonly observed that the colonisers (or the settler group) in these contexts continue to reside in the former colonies even after the end of formal colonial rule (e.g., the US, Australia, and South Africa).
+		QF
+			THBT the rise in marketization of social reproduction in the developed countries will do more harm than good
+				OG $stats 1, 3
+				OO $stats 3, 1
+				CG $stats 2, 2
+				CO $stats 2, 2
+				Social reproduction' refers to labours related to reproduction and care (such as procreation, child/elderly care, and domestic work). In recent years, these processes have been increasingly outsourced to market forces (e.g., paid childcare services, surrogacy), especially in developed countries.
+		SF
+			THS the continuation of Lina Khan's leadership in the FTC
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 1, 1
+				The US Federal Trade Commission (FTC) is a government agency responsible for protecting consumers and promoting competition. Under FTC head Lina Khan, appointed to the position by the democrats, the FTC has become significantly less friendly to the businesses it regulates. For example, launching anti-trust lawsuits against Amazon and Meta, and blocking significant mergers between large companies.
+		GF
+			THS the rise of gender separatist movements
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				Gender separatist movements refer to movements primarily that aim to separate themselves from institutions traditionally dominated by a specific gender. For example, Feminist Separatism refers to women’s choosing to separate from ostensibly male-defined, male-dominated institutions, relationships, roles and activities. Similarly, Male Separatism refers to men believing they should strive to be separated from women.
+		Rookie GF
+			THBT, in times of economic crisis, governments and central banks should withhold information that may damage market confidence
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
 	Japan BP 2023
 		R1: Media
 			THBT the rise of political social media influencers (i.e., Ben Shapiro, breadtube, Brett Cooper) has done more harm than good to democracy

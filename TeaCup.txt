@@ -1,4 +1,29 @@
 Tea Cup
+	Tea Cup 2025
+		R1
+			THBT short-form media (e.g. TikTok, Youtube Shorts, Instagram Reels) does more harm than good
+				Balance $stats 7, 3
+		R2
+			TH, as you, would date with multiple people at the same time rather than dating with only one person when looking for a romantic relationship
+				Balance $stats 8, 2
+				You are a 2nd year university student. 
+				Your friends have started using matching applications and so you also decided to download it. Currently, you do not have a partner, but are looking forward to a romantic relationship.
+		R3
+			THW mandate both parents to take an equal length of paid parental leave (not necessarily at once)
+				Balance $stats 5, 5
+		QF
+			THBT the feminist movement should actively oppose "Miss Contest (ミスコン)"
+				Balance $stats 4, 0
+				Miss Contest  (ミスコン)" is a beauty pageant-style competition typically organized by university student councils or organizations. Female students typically participate in various rounds, such as fashion shows, interviews, and sometimes talent performances to compete for the title of "Miss". They are mainly evaluated by the amount of votes from fans. Therefore, followers/likes on SNS and interactions with fans is important
+		SF
+			TH, as the Japanese government,W actively use nuclear power for electricity generation．
+		GF
+			TH, as you, W drink the Magical Rabbit Tea rather than leave the Tea Party
+				Balance $stats 1, 0
+				info:
+				You are a university student in this special world where everyone possesses one kind of special ability. These abilities are closely tied to a person's identity and often define who they are. For example, some people can run at incredibly speeds, have superhuman strength, or even control objects with their mind. As for you, your ability is quite unique: when you tap your pocket, you can pull out biscuits. You are the only one in the entire world with this power. Isn't that wonderful? While others often praise you for your ability, sometimes you can't help but feel envious of the more impressive powers others possess.
+				One day, a rabbit appears before you. Intrigued, you decide to follow it. After a while, you find yourself at a tea party. A cat, a mouse, a rabbit, and a mad hatter is sitting at the table. They invite you to join, and you're handed a cup of Magical Rabbit Tea.
+				To your surprise, this tea grants you a new ability - something useful like super strength or rapid speed. You do not know what ability you will get, but you know it is something that is generally considered to be more useful than your current ability. However, it is not as unique  (around 1 in 30 people have it) and you will lose your ability to get biscuits out of your pocket. If you do not drink the tea and leave the Tea Party, you will be stuck with your current ability forever.
 	Tea Cup 2024
 		R1
 			THBT parents should teach their children that efforts will be rewarded someday

@@ -1,74 +1,172 @@
 Konpeki Cup
+	Konpeki Cup 2025
+		R1
+			THW financially incentivize companies to minimize overtime work
+				Balance $stats 1, 0, 10
+				Veto $stats 3, 7, 20
+			THW ban military recruitment targeting the poor (e.g. advertising at schools in poverty area/special scholarship etc…)
+				Balance $stats 3, 2, 10
+				Veto $stats 3, 3, 20
+			THBT the rise of geotagging on social media posts does more harm than good
+				Balance $stats 3, 1, 10
+				Veto $stats 4, 0, 20
+				Motion C info: Geotagging on social media posts refers to tagging the location of photograph or comment. This is voluntarily attached to the post whenever you like. By accessing the information via geotagging, you can acknowledge the precise location of stores, sightseeing areas etc.These days, due to the rise of geotagging, people can easily acknowledge the sightseeing areas that  were not popular before. (e.g. Hidden nature, less accessible cities)
+		R2
+			THBT parents should actively raise their children to be extroverts from a young age
+				Balance $stats 3, 3, 10
+				Veto $stats 2, 2, 20
+			THS the YOLO life style
+				Balance $stats 2, 1, 10
+				Veto $stats 4, 2, 20
+				A YOLO trend (You Only Live Once) means a lifestyle or trend that many young people have adopted as a way to better enjoy life in the present, and not to think about saving up for the future
+			TH, as an Asian parent, would teach their child to actively reject the 'humble culture"
+				Balance $stats 0, 1, 10
+				Veto $stats 4, 6, 20
+				For the purpose of this debate, "humble culture" refers to a culture where people are encouraged (either by others; or themselves; or both) to actively refrain from publicly showing/revealing their successes, possessions and achievements
+		R3
+			THO the narrative which encourage to move forward to the future positively and emphasize tht past cannot be changed
+				Balance $stats 1, 6, 10
+				Veto $stats 2, 0, 20
+			THR the narrative "No pain, no gain"
+				Balance $stats 1, 0, 10
+				Veto $stats 2, 6, 20
+			THR the narrative that you have to treat yourself with love and respect before you love anyone else
+				Balance $stats 0, 2, 10
+				Veto $stats 6, 4, 20
+		R4
+			THR the democratization of financial information and financial advice
+				Balance $stats 0, 0, 10
+				Veto $stats 8, 3, 20
+				 (1) Information democratization refers to the current trend of increased citizen creation, distribution, exhibition, and curation of information. (2) Financial information refers to data and insight related to an individual's or organization's financial situation, including income, expenses, assets, liabilities, investments, and economic trends. Financial advice, on the other hand, involves the interpretation and application of this information to provide guidance or recommendations.
+			THW have a cap on the amount of income all football team can earn 
+				Balance $stats 3, 1, 10
+				Veto $stats 1, 4, 20
+				In the British football league, there are concerns about certain high earning football clubs spending too much money on players, that have made the domestic league uncompetitive.
+			THBT the feminist movement should oppose "Tamanokoshi"
+				Balance $stats 2, 4, 10
+				Veto $stats 1, 3, 20
+		QF
+			THW require all elected officials to stand for a recall election if a significant minimum threshold of voters within their constituency demand it
+				Balance $stats 1, 1, 4
+				Veto $stats 1, 0, 8
+			THBT the feminist movement should strongly oppose religious doctrines against female rights
+				Balance $stats 0, 0, 4
+				Veto $stats 3, 2, 8
+			THP a world ruled by a benevolent AI programmed to maximize utility and reduce suffering by calculating the amount and magnitude of harm
+				Balance $stats 2, 0, 4
+				Veto $stats 0, 2, 8
+		SF
+			TH, as Taiwan, W pursue friendlier ties with China (e.g. economic, political and cultural ties)
+				Balance $stats 1, 1, 2
+				Veto $stats 0, 0, 4
+			THBT Ethiopia should build the dam
+				Balance $stats 0, 0, 2
+				Ethiopia has been building a new hydroelectric dam on Nile River that's promising to revive its economy and bring electricity to millions of people in mostly rural areas. However, mainly in Egypt, located downstream of the Nile River, argued that its water supply will be in danger if the dam is built. In the past, the two countries have made threats about military action and so far, talks to reach some kind of deal over how to share the Nile’s waters have not gone far.
+			In post-conflict areas,THS introducing TRC model
+				Balance $stats 0, 0, 2
+				"The Truth and Reconciliation Commission" (TRC) was established to uncover the truth about the political oppression and human rights violations committed under the apartheid regime. It also aimed to achieve national reconciliation as well as the restoration of the victims' rights. In order to prevent such tragedies from happening again, the pursuit of the truth and its documentation was emphasized. Therefore, those who had violated rape and murder were granted amnesty in exchange 
+		Turquoise GF
+			TH, as you, W choose Watacompany as opposed to Yurikorporation
+				Balance $stats 0, 0, 1
+				You are graduating from university in March 2026 and have received two job offers: one from Watacompany and another from Yurikorporation. You plan to work at the company you choose for at least three years.Watacompany offers a demanding yet rewarding work environment where employees are expected to work substantial overtime, though it remains within legal limits. In return for the heavy workload, employees gain opportunities for a pay raise, early managerial experience, take on significant responsibilities, and build valuable client connections. In contrast, Yurikorporation prioritizes work-life balance with a strict no-overtime policy and a relaxed atmosphere. The job requires no specialized skills, making it accessible to almost anyone, and all tasks have significantly flexible deadlines. As long as tasks are completed on time, taking extended lunch breaks or working at a slower pace is not frowned upon. Yet, employees have limited opportunities for a pay raise.
+			TH, as you, W continue the music instead of quiting music
+				Balance $stats 0, 0, 1
+				You are a young man who used to make music alone, but you started a duo group with a close friend and have been making misic together for a long time. You had passion for music and were significantly talented, but more than anything, making songs with your friend was incredibly fun, and the time spent with him was something you cherished deeply. As you gained a certain fanbase, you received an offer from a talent production for a debut. However, just when things were looking up, your friend was involved in an accident and passed away. Both the fans and the production want you to debut on your own, but the friend who supported you and worked alongside you is no longer there.
+			TH, as you, W assimilate in the culture of your new country as opposed to retaining the original cultrue
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+				You are the parent of an Asian family with young children, immigrating permanently to a Western country. You are about to start your life in the new country and you are considering two options:1) Assimilate into the culture of the new country (e.g. adopt the Western lifestyle, teach your children Western moral and cultural standards, not having connection with the community of the original country, speak English at home, etc.).2) Retaining the original culture (e.g. teaching moral values from your own country, engaging in the community of the original country (e.g. living in China Town, going to Japanese Saturday schools, etc.), buying daily necessities such as food and clothing from Asian markets, speaking the language of the original country at home, etc.).
+		Tiffany GF
+			TH, as you, W choose to settle down with A rather than B
+				Balance $stats 0, 0, 1
+				You’re in your middle 30s and ready to settle down, meaning your next romantic partner will likely be your life partner. You have two potential options:A is emotionally compatible with you. You handle stress, conflict, and communication in similar ways. However, you don’t share hobbies, tastes, lifestyles, or living circumstances.B is the opposite—you have the same interests, enjoy sharing time in the same activities, and have a similar lifestyle, but you struggle with emotional compatibility. You handle conflict and stress differently.
+			TH, as you, W steal the drug
+				Balance $stats 0, 0, 1
+				Your partner was diagnosed with a disease and given three months to live. Around the same time, the president of a pharmaceutical company in the same town announced that they had discovered a cure for the disease. Clinical trials have shown the drug to be effective, but it has not yet been approved and is therefore not available on the market. You have requested at the hospital that your partner take part in a clinical trial in order to use the drug, but you have been refused. The only way to save your partner is to steal the drug. But that would be a crime. This person has been an important part of your life and has been with you for a long time.
+			THR the expectation that romantic partners should be significant support systems of each other's mental health
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+		GF
+			THR the decision of the Japanese government to chose plan 2 over plan 1
+				Balance $stats 0, 0, 1
+				After the Kanto Earthquake and World War II that devastated the Japanese capital, Tokyo, the Japanese government considered the following two proposals to rebuild the capital to be the most perfect from the perspectives of fire resistance, earthquake resistance, and comfort of living.1) plan to relocate the capital and urbanize these area Due to the earthquake and the war, Tokyo was considered a city vulnerable to disasters. Therefore, the Japanese government sought to develop a new capital city by selecting an previously rural area that was less prone to disasters. The similar example is  the relocating the capital to the Canberra lacated between two large cities in Australia. 2)plan to restructure the capitalThe Japanese government sought to rebuild the capital and turn it into a more livable place. (e.g. urbanization of suburbs, relocation of factories to the suburbs)Eventually, the Japanese government chose the plan to restructure the capital.
+			Assuming feasibility, THW adopt 'whole life desert' considerations for criminal sentences
+				Balance $stats 0, 0, 1
+				Under 'whole life desert', an individual who has had a hard life would receive a lighter sentence than an individual raised in relative privilege. The sentece can be mitigated based on the general harship that individuals have gone through to roughly equalize the whole life hardship convicts would go through.
+			THP the capitation model to the fee-for-service (FFS) model
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
+				Fee-for-service (FFS) is a traditional payment model in healthcare where patients pay insurance premiums to their insurers, and healthcare providers (such as a doctor, hospital, or clinic) are reimbursed for each service or procedure performed. The more treatments or tests a patient receives, the more the patient pays, and the more the provider earns. The cost for each service varies—routine checkups are relatively cheap, while advanced procedures like MRIs or surgeries are significantly more expensive.In contrast, the capitation model involves a fixed, per-member, per-month payment to healthcare providers, regardless of how many services a patient uses. Patients pay premiums to insurers, and their costs are often adjusted based on risk factors or disease severity—those with higher expected healthcare needs may pay more in premiums. However, once covered, their costs remain stable.
 	Konpeki Cup 2024
 		R1
-			A: THBT the feminist movement should actively oppose the rise of sugardaddying
+			THBT the feminist movement should actively oppose the rise of sugardaddying
 				Balance $stats 2, 1, 10
 				Veto $stats 2, 6, 20
-			B: THBT the feminist movement should financially incentivize female students to major in STEM fields
+			THBT the feminist movement should financially incentivize female students to major in STEM fields
 				Balance $stats 4, 1, 10
 				Veto $stats 2, 3, 20
-			C:THBT feminist movement should focus on emphasizing success stories of women, rather than instances of their exclusion, suffering, or vulnerabilities
+			THBT feminist movement should focus on emphasizing success stories of women, rather than instances of their exclusion, suffering, or vulnerabilities
 				Balance $stats 0, 2, 10
 				Veto $stats 6, 1, 20
 		R2
-			A: THR the rising popularity of personality test (e.g. "MBTI" 16 personalities...）
+			THR the rising popularity of personality test (e.g. "MBTI" 16 personalities...）
 				Balance $stats 0, 2, 10
 				Veto $stats 3, 4, 20
-			B: THW legalize euthanasia for people who wishes to die
+			THW legalize euthanasia for people who wishes to die
 				Balance $stats 2, 4, 10
 				Veto $stats 1, 4, 20
-			C: Assuming you have a choice on whether to be born or not based on the knowledge of average life and society, THW choose not to be born
+			Assuming you have a choice on whether to be born or not based on the knowledge of average life and society, THW choose not to be born
 				Balance $stats 0, 2, 10
 				Veto $stats 6, 2, 20
 		R3
-			A: THS the selection and concentration strategy in scientific research
+			THS the selection and concentration strategy in scientific research
 				Balance $stats 2, 1, 10
 				Veto $stats 3, 2, 20
-			B: TH, as Japanese environmental activists, W support utilization of nuclear power for electricity generation
+			TH, as Japanese environmental activists, W support utilization of nuclear power for electricity generation
 				Balance $stats 1, 2, 10
 				Veto $stats 6, 3, 20
-			C: THW nationalize pharmaceutical industry
+			THW nationalize pharmaceutical industry
 				Balance $stats 3, 1, 10
 				Veto $stats 1, 5, 20
 		R4
-			A: THBT parents should teach children that having low expectations to others/society is the key to happiness
+			THBT parents should teach children that having low expectations to others/society is the key to happiness
 				Balance $stats 2, 1, 10
 				Veto $stats 1, 5, 20
-			B: THBT parents should actively teach children that money leads to happiness
+			THBT parents should actively teach children that money leads to happiness
 				Balance $stats 3, 1, 10
 				Veto $stats 5, 1, 20
-			C: THBT parents should raise their children to prioritize groupism over individualism
+			THBT parents should raise their children to prioritize groupism over individualism
 				Balance $stats 1, 2, 10
 				Veto $stats 4, 4, 20
 		Pre SF, Rookie SF
-			A: THBT Taiji should continue dolphin drive hunting
+			THBT Taiji should continue dolphin drive hunting
 				Pre SF Balance $stats 0, 0, 2
 				Rookie SF Balance $stats 0, 0, 2
-				A: Dolphin drive hunt is the traditional hunting method in Taiji, a small rural town inWakayama, Japan. During the hunt, dolphins are driven into small bays and are captured for food consumption or sale to dolphinariums. The tradition is central to the town's culture and industry, but has also faced global criticism as an inhumane method of hunting.
-			B: THO the commodification of animals. (e.g. Pets, animal cafe, YouTube video of animals, etc)
+				Dolphin drive hunt is the traditional hunting method in Taiji, a small rural town inWakayama, Japan. During the hunt, dolphins are driven into small bays and are captured for food consumption or sale to dolphinariums. The tradition is central to the town's culture and industry, but has also faced global criticism as an inhumane method of hunting.
+			THO the commodification of animals. (e.g. Pets, animal cafe, YouTube video of animals, etc)
 				Pre SF Balance $stats 0, 0, 2
 				Rookie SF Balance $stats 0, 0, 2
-			C: THP to be born as average house cat as opposed to be average human in developed country
+			THP to be born as average house cat as opposed to be average human in developed country
 				Pre SF Balance $stats 0, 0, 2
 				Rookie SF Balance $stats 0, 2, 2
 				Rookie SF Veto $stats 0, 0, 4
 		SF, Rookie GF
-			A: TH, as the eSports community, P larger but more spaced apart balance patches to smaller, more frequent ones
+			TH, as the eSports community, P larger but more spaced apart balance patches to smaller, more frequent ones
 				SF Balance $stats 0, 0, 2
 				Rookie GF Balance $stats 0, 0, 1
-			B: TH, as you, W choose to stay with Team X
+			TH, as you, W choose to stay with Team X
 				SF Balance $stats 0, 0, 2
 				Rookie GF Balance $stats 1, 0, 1
 				Rookie GF Veto $stats 0, 0, 2
-			C: THW create professional sports leagues where performance-enhancing drugs are permitted
+			THW create professional sports leagues where performance-enhancing drugs are permitted
 				SF Balance $stats 1, 1, 2
 				SF Veto $stats 0, 0, 4
 				Rookie GF Balance $stats 0, 0, 1
 		GF
-			A: THP the dominance of Disney optimism to Ghibli optimism on media
+			THP the dominance of Disney optimism to Ghibli optimism on media
 				Balance $stats 0, 0, 1
-			B: THW reveal the information to the public
+			THW reveal the information to the public
 				Balance $stats 0, 1, 1
 				Veto $stats 0, 0, 2
-			C: THS the use of this technology
+			THS the use of this technology
 				Balance $stats 0, 0, 1
