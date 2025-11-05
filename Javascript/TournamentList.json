@@ -1519,5 +1519,17 @@
             "region:World"
         ],
         "url": "International/WUPID.txt"
+    },
+    {
+        "id": "Harapeko",
+        "name": "Harapeko Cup",
+        "short": "",
+        "latest": 2025,
+        "tag": [
+            "NA",
+            "rookie",
+            "region:Domestic"
+        ],
+        "url": "Harapeko.txt"
     }
 ]

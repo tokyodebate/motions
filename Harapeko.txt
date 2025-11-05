@@ -1,0 +1,23 @@
+Harapeko Cup
+	Harapeko Cup 2025
+		R1
+			This House opposes the rapid expansion of fast food chains in developing countries.
+				Balance $stats 7, 6
+		R2
+			TH, as Cafe Harapeko, would focus on quick service (having time limits to seats, focusing on takeouts) rather than maintaining its current style (letting customers linger).
+				Balance $stats 10, 3
+				Info: Currently, there is a trend of cafes occasionally going viral in SNS, and the competition between cafes to maintain their popularity is fierce.
+				Cafe Harapeko is a stylish and cozy café known for its specialty coffee and creative sweets. It offers spacious seating and free Wi-fi, and many regular customers work on their tasks, browse books, or linger with friends. Recently, Cafe Harapeko got viral through Instagram, and its waiting line is getting longer and longer.
+		R3
+			THP world X as opposed to the status quo.
+				Balance $stats 10, 3
+				info: World X is an imaginary world where people do not feel the sense of taste. In this world, eating foods are considered as one sort of biological obligation, which is required to maintain life. People don't feel delight through eating, and it doesn't have social meaning such as dinner
+				meeting（会食）.
+				However, nutritions are still essential for human body and they eat in order to gain them. Food production companies focus on development in terms of nutrition and prices, and consumers
+				seek for the same factors.
+		R4
+			TH as you would take plan A over plan B.
+				Balance $stats 7, 6
+				Info：You are an average 20 year old sophomore in university living independent from your parents. Your hobby is cooking and you are objectively really good at cooking. You have a partner who you started to date with this winter and have been maintaining good relationships until today. Your partner is also 20 years old and belongs to the same college as you. Your partner's birthday is on 6/22 and you are thinking about doing something special for your partner on that day. There are two plans you came up with.
+				A：Reserve a restaurant with beautiful scenery
+				B：Invite your partner to your house and cook your partner’s favorite dish by yourself
