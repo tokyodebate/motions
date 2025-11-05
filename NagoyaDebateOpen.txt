@@ -1,4 +1,121 @@
 Nagoya Debate Open
+	Nagoya Debate Open 2025
+		R1
+			TH as the Japanese government would opt for policies that increase immigration (e.g. more visas) rather than ones that encourage citizens to have more children (e.g. tax benefits)
+				Balance $stats 3, 4, 12
+				Veto $stats 3, 2, 24
+			THS the remilitarization of Japan
+				Balance $stats 0, 2, 12
+				Veto $stats 6, 6, 24
+			THW make voting compulsory in Japan
+				Balance $stats 0, 3, 12
+				Veto $stats 3, 4, 24
+		R2
+			THW mandate prescription for the use of glp-1 medication
+				Balance $stats 1, 6, 12
+				Veto $stats 2, 4, 24
+				Glp-1 is a type of medication used to treat diabetic patients by suppressing appetite and stimulating insulin release. Currently, glp-1 medication is sold over the counter, which has led to a massive increase in demand not only by patients but by individuals seeking to lose weight. Examples include Ozempic and Wegovy.
+			THW mandate all medical universities in Japan to establish the SRAQ
+				Balance $stats 2, 1, 12
+				Veto $stats 3, 7, 24
+			THW allow medical personnel to go on strike
+				Balance $stats 1, 1, 12
+				Veto $stats 7, 1, 24
+				Currently, Japan is facing a shortage of doctors in rural and remote areas, leading to limited access to medical care in these regions. To address this issue, the Japanese health ministry is considering the establishment of special regional admissions quotas. (SRAQ) The quota would be for students who are willing to work in rural or underserved areas. These students would receive significant financial support, such as scholarships and easier admission. In return, they would be obligated to work in those areas for most of their career. If they fail to fulfill this commitment, they would lose their medical license and face heavy financial penalties.
+		R3
+			TH, as NATO, W have approved membership for both countries in 2008
+				Balance $stats 1, 1, 12
+				Veto $stats 2, 9, 24
+				The 2008 NATO Summit was held in Bucharest, Romania on April 24. The summit ended in an agreement that both Georgia and Ukraine would become members of NATO. Unfortunately, it did not set a clear path or timeline towards membership for either country.
+			TH, as the Japanese government, W give up its claims to disputed territories that it currently does not have territorial control over
+				Balance $stats 3, 2, 12
+				Veto $stats 7, 1, 24
+			THBT the international community should unconditionally support democratic movements within authoritarian countries
+				Balance $stats 1, 4, 12
+				Veto $stats 3, 2, 24
+		R4
+			THW ban all features that share your real-time location on SNS platforms
+				Balance $stats 0, 2, 12
+				Veto $stats 3, 6, 24
+			THW ban the promotion of nightlife entertainment (host clubs, girl's bars, kyabakura) on SNS platforms
+				Balance $stats 1, 3, 12
+				Veto $stats 3, 3, 24
+			THW allow governments to censor social media during times of national crisis
+				Balance $stats 4, 2, 12
+				Veto $stats 5, 2, 24
+		Pre QF
+			TH, as a homosexual individual in the United States, W choose lavender marriage over gay marriage
+				Balance $stats 0, 0, 4
+				Lavender marriage is a term used to describe a marriage between two partners that is arranged or maintained primarily to conceal the sexual orientation of one or both partners. Typically, a gay man would marry a lesbian woman to conceal their sexual identity.
+			THO government investment into "marriage businesses"
+				Balance $stats 2, 2, 4
+				Veto $stats 0, 0, 8
+				To tackle low birth rates, advanced states have begun aggressively funding businesses that promote matchmaking and starting a family, commonly called "marriage businesses". Examples include marriage consultation, dating apps, and speed-dating events.
+			THP 'Heisei romance' to 'Reiwa romance' as the prevalent social narrative surrounding romantic relationships
+				Balance $stats 0, 0, 4
+				The ‘Heisei romance’ narrative often focuses on fateful encounters, idealized pure love, and melodrama. The narrative emphasizes devotion and loyalty within a relationship. The ‘Reiwa romance’ narrative instead describes realistic challenges, less emotional baggage, and more casual sexual interactions. Examples include the rise of ‘friends with benefits (セフレ)’ or open relationships.
+		QF
+			THW ban foods that are inhumane ways for the purpose of improving the experience
+				Balance $stats 2, 0, 4
+				Veto $stats 0, 1, 8
+				The consumption of Ortolan birds are widely banned in Europe for cruelty within the preparation process. The birds were traditionally captured alive and confined in darkness to induce overeating. Then, they were drowned alive in cognac, roasted, and then eaten whole. Similarly, delicacies such as foie gras (French) or sannakji (Korean) involve inhumane procedures during processing that cause the animals immense pain, but are still widely consumed to this day. These procedures are mostly undertaken to improve taste and add novelty.
+			THW allow the popular vote to decide the Yokozuna over the current selection process
+				Balance $stats 1, 0, 4
+				Veto $stats 0, 2, 8
+				The Yokozuna is the highest rank given to a sumo wrestler in Japanese professional sumo. Yokozuna are figureheads of immense popularity, becoming symbols of Japanese sumo during their career.  To become a Yokozuna, an Ozeki (second rank) must be recommended by the Yokozuna Deliberation Council (YDC) to the Japan Sumo Association’s Board of Directors. The process has no objective metric and is not public. Once a wrestler becomes a Yokozuna, they cannot be demoted to a lower rank. However, all ranks below the Yokozuna have objective metrics to each rank, and if there is a drop in performance, it is possible to be demoted. The Yokozuna selection process has often been criticized as highly political and scandalous.
+			THR the glorification of religious mandated charity (e.g. zakat, お布施, Tzedakah etc)
+				Balance $stats 1, 0, 4
+				Veto $stats 3, 0, 8
+		SF
+			TH, as the Japanese feminist movement, would actively uncover stories of Japanese comfort women
+				Balance $stats 0, 1, 2
+				Veto $stats 0, 0, 4
+			TH, as the Japanese right-wing, prefers a narrative in which Japan is historically depicted as a victim of imperialism rather than a regional power
+				Balance $stats 0, 0, 2
+				There are two competing narratives within the Japanese right-wing concerning modern history. The first narrative is that Japan was Asia’s first regional power that was able to beat both China and Russia, and that the Japanese Empire was a strong competitor to its Western counterparts. The second narrative emphasizes tragic events such as the bombing of Hiroshima and Nagasaki, wide-spread famine, and suffering during the Pacific war, instead preferring to depict Japan as a victim of military conflict.
+			TH, as Ishiba Shigeru, W personally visit Yasukuni Shrine on August 15th this year, or the 80th anniversary of Japan's surrender
+				Balance $stats 0, 1, 2
+				Veto $stats 0, 1, 4
+				One of the key reasons why Japanese prime ministers have made personal visits to Yasukuni Shrine is to rally support for controversial political agendas. Visits earn them the backing of the LDP’s conservative faction along with older demographics. Examples include Abe visiting Yasukuni to rally support for reinterpretations to article 9, and Koizumi Junichiro for economic reform. Ishiba Shigeru, the current prime minister of Japan, is currently deeply unpopular. He has made no visits to the shrine yet.
+		GF
+			TH, as the animal rights movement, would promote the active euthanisa of victims of Qualzucht
+				Balance $stats 0, 0, 1
+				Qualzucht, a German word roughly translatable to "torture breeding", broadly encompass breeding methods which implant certain traits that make animals suffer. Some examples are Dachshunds (spinal problems) , English and French bulldogs (breathing difficulties) as well as Cavalier King Charles spaniels (heart diseases). While codification of torture breeding is present in documents such as the Animal Welfare Act, the vague wording and inability to implement broad scale legislature means most countries are behind in tackling the problem.
+			THW take the opporunity
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
+				For the purpose of this debate, heaven and hell exists as a space souls go to be punished or rewarded after their death.
+				Hell is a fiery wasteland, where the souls of sinners come to be punished. The ruler of hell commands demon armies and oversees the punishment of all those who have committed great wrongs during their lifetime. This ruler enjoys complete and total control over their domain.
+				Heaven on the other hand is a paradise under the rule of an omniscient, omnipotent deity called the Lord, where the souls of those who’ve lived their lives selflessly come to be rewarded. To maintain this realm, the Lord tasks his servants with a myriad of jobs without much explanation, and the servants work tirelessly to maintain peace and security.
+				You are currently a servant in heaven, and you have been presented with the opportunity to become hell’s new ruler.
+			THP the omegaverse over the Status Quo
+				Balance $stats 0, 0, 1
+				In the Omegaverse, there are two genders, Alpha and Omega. Through sexual activity, Alphas can inseminate Omegas, which make Omegas pregnant. However, all other physical characteristics remain the same, and you cannot tell an Alpha and an Omega apart through external appearance.
+		Rookie SF
+			THBT it is in the best interest of this society to kill the octopus
+				Balance $stats 0, 1, 2
+				Veto $stats 0, 0, 4
+				In Octopia, the Wise Octopus rules as the ultimate authority over the population. The Octopus has complete control over economic policy and state decisions. Everyone’s basic needs are met, but there is no freedom of occupation or opportunity to create additional wealth. Because the Octopus uses its Octomagic to cast an Octospell that inspires unconditional loyalty, there is no dissent, and people work hard.  One day, the Octopus chokes on a fish bone, which weakens it and temporarily breaks the Octospell. Suddenly, everyone is perfectly aware of their situation, and the society is faced with a decision: either kill the octopus and create a democracy, or wait until the Octopus recovers.
+			TH, as you, W establish "Ryouta's Bond" between you and your new puppy
+				Balance $stats 0, 1, 2
+				Veto $stats 0, 1, 4
+				"Ryouta’s Bond" is a technology that biochemcially links an animal and a human being. Both the animal and the human telepathically share emotions and experiences between the two entities. This means emotional distress or utility is shared between the two until the death of one side. You are a prospective dog owner, looking forward to adopting a newly born puppy.
+			THBT Starlight Glimmer should have been executed instead of being forgiven
+				Balance $stats 0, 0, 2
+				In "My Little Pony: Friendship is Magic"
+				the titular character Starlight Glimmer commits a number of crimes against Equestria. Examples include trying to brainwash her pony friends to opt into a toxic cult, going back in time in an attempt to control history, and generally being mean to her friends. Eventually, she is caught, and the ponies decide to forgive her and become her friends again. Starlight Glimmer goes through a redemption arc to become a guidance counselor that has learned from her mistakes and tries to do better.
+		Rookie GF
+			TH, as the feminist movement, W actively use Ghibli heroines as feminist icons over Disney princesses
+				Balance $stats 0, 0, 1
+				Disney movies often depict princesses who are significantly oppressed by a malicious authority, with the story revolving around them breaking the rules and defeating evil with them being independant, vocal, and positive.
+				Ghibli movies depict heroines who must adapt and compromise with their difficulties, often utilizing the help of male supporting figures. Ghibli heroines tend to be more measured, realistic, and have nuanced endings compared to the happy conclusions Disney princesses enjoy.
+			THO Ghibli films that romanticize nationalistic sacrifice during World War II
+				Balance $stats 0, 0, 1
+				‘The Grave of Fireflies’ is a ghibli film that depicts 2 siblings who lose their mother during the Pacific War. They ultimately starve to death. The Wind Rises depicts the story of Jiro Hirokoshi, the inventor of Zero-Sen, Japan’s premier fighter plane, and his internal struggle between family duties and his obligation to the Empire. Both focus on the pain and sacrifice of Japanese citizens during the war, depicting them as victims of circumstance.
+			TH, as Studio Ghibli, would begin utilizing generative AI in their work
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+				Recently, Miyazaki Hayao, the creative director of Studio Ghibli, commented that "AI art is an insult to life itself’ and that he feels ‘disgusted’ by it. The comments stem from both his discomfort in copyright issues surrounding generative AI, but also his intuition that AI feels soulless. However, research suggests that AI generated art would optimize Japanese animation production, cutting down costs and time needed to about half.
 	Nagoya Debate Open 2024
 		R1
 			THW abolish the statute of limitations
@@ -25,16 +142,15 @@ Nagoya Debate Open
 			THW live in universe Beta
 				Balance $stats 1, 0, 14
 				Veto $stats 2, 9, 28
-				In universe Beta your "stats" (i.e: Strength, Agility, Vitality, Vigor, Intelligence, Endurance and Dexterity) are visible in a numerical value much like in a game. Your stats can be set to private (only be viewed by yourself) or public (can be viewed by others in close proximity). Furthermore, stats will increase or decrease depending on what you do with your life. 
-				
+				In universe Beta your "stats" (i.e: Strength, Agility, Vitality, Vigor, Intelligence, Endurance and Dexterity) are visible in a numerical value much like in a game. Your stats can be set to private (only be viewed by yourself) or public (can be viewed by others in close proximity). Furthermore, stats will increase or decrease depending on what you do with your life.
 			THW take the black pill
 				Balance $stats 4, 1, 14
 				Veto $stats 8, 3, 28
-				What would you do if the life you lived up until now was a lie? One day, a leader of the human resistance contacts you and tells you of this falsehood. You have three choices. Take the blue pill and go back to the false world. Take the red pill and wake up into the real world of AI vs human resistance. Take the black pill and die a painless death.  
+				What would you do if the life you lived up until now was a lie? One day, a leader of the human resistance contacts you and tells you of this falsehood. You have three choices. Take the blue pill and go back to the false world. Take the red pill and wake up into the real world of AI vs human resistance. Take the black pill and die a painless death.
 			THW press the button
 				Balance $stats 1, 7, 14
 				Veto $stats 4, 2, 28
-				Imagine there is a button in front of you. Pressing the button would immediately cripple all weapon systems around the world at the cost of technological reversion to that of before the industrial revolution. All forms of technology will immediately cease to function and there is no way for humanity to regain them in the foreseeable future. 
+				Imagine there is a button in front of you. Pressing the button would immediately cripple all weapon systems around the world at the cost of technological reversion to that of before the industrial revolution. All forms of technology will immediately cease to function and there is no way for humanity to regain them in the foreseeable future.
 		R4
 			THBT schools should actively educate students that not helping victims of bullying is a form of complicity
 				Balance $stats 2, 3, 14
@@ -53,7 +169,7 @@ Nagoya Debate Open
 			TH, as you, W choose to be erased
 				Balance $stats 1, 0, 4
 				Veto $stats 2, 1, 8
-				For the sake of this debate, there exists technology that can erase a person from the memories of everyone he or she has interacted with. All physical and digital footprints that the person has will be wiped. You are a middle class worker with an average income with a couple friends and family. You have just been diagnosed with a terminal illness with no hope of a cure in the forseeable future. 
+				For the sake of this debate, there exists technology that can erase a person from the memories of everyone he or she has interacted with. All physical and digital footprints that the person has will be wiped. You are a middle class worker with an average income with a couple friends and family. You have just been diagnosed with a terminal illness with no hope of a cure in the forseeable future.
 			THW make descendants of past wrong doers legally obliged to acts of reparation to the descendants of victims
 				Balance $stats 1, 0, 4
 				Veto $stats 1, 2, 8
@@ -65,7 +181,7 @@ Nagoya Debate Open
 			THBT Ukraine should not have relinquished its nuclear arms
 				Balance $stats 1, 3, 4
 				Veto $stats 0, 0, 8
-				The "Budapest Memorandum concluded arduous negotiations that resulted in Ukraine’s agreement to relinquish the world’s third-largest nuclear arsenal, which the country inherited from the collapsed Soviet Union, and transfer all nuclear warheads to Russia for dismantlement. The signatories of the memorandum pledged to respect Ukraine’s territorial integrity and inviolability of its borders, and to refrain from the use or threat of military force." 
+				The "Budapest Memorandum concluded arduous negotiations that resulted in Ukraine’s agreement to relinquish the world’s third-largest nuclear arsenal, which the country inherited from the collapsed Soviet Union, and transfer all nuclear warheads to Russia for dismantlement. The signatories of the memorandum pledged to respect Ukraine’s territorial integrity and inviolability of its borders, and to refrain from the use or threat of military force."
 		SF
 			THBT Shorei-kai should remove age limit
 				Balance $stats 0, 1, 2
@@ -90,14 +206,14 @@ Nagoya Debate Open
 		Rookie GF
 			THW keep this a secret and continue the existence of the organ farm
 				Balance $stats 0, 0, 1
-				Due to the surplus of demand for organ transplants, technological advancement has focused on cloning perfectly healthy human beings. Success has resulted in the creation of the organ farm: a facility that keeps all clones in stasis (seemingly unaware of their surroundings). Organs from the farm have made organ donations obsolete and millions of lives have been saved. You are the head of the organ farm. One day, you open an encrypted file that shows damning evidence that the clones are as self-aware as human beings. 
+				Due to the surplus of demand for organ transplants, technological advancement has focused on cloning perfectly healthy human beings. Success has resulted in the creation of the organ farm: a facility that keeps all clones in stasis (seemingly unaware of their surroundings). Organs from the farm have made organ donations obsolete and millions of lives have been saved. You are the head of the organ farm. One day, you open an encrypted file that shows damning evidence that the clones are as self-aware as human beings.
 			THW use the empathy link as a form of rehabilitation and punishment in the CJS
 				Balance $stats 0, 0, 1
-				For the purpose of this debate: an empathy link is a newly created technology that can make people live through another person’s experiences from a first-person perspective. There is just one catch, this is not a one way experience. The link can only function by allowing two individuals to share their experiences with each other. 
+				For the purpose of this debate: an empathy link is a newly created technology that can make people live through another person’s experiences from a first-person perspective. There is just one catch, this is not a one way experience. The link can only function by allowing two individuals to share their experiences with each other.
 			TH, as you, W make the trip
 				Balance $stats 1, 0, 1
 				Veto $stats 0, 0, 2
-				The last remnants of humanity are hurtling across the vast expanses of space in search of a new home. The mothership’s scanners have located two potential planets within traveling distance. However, there is a problem. The mothership only has enough fuel to travel to one of the planets. The mothership has one-man spacecrafts that can fly to these planets to see if they are inhabitable but only two capable pilots. You are one of these pilots. Taking the trip would mean leaving your family, friends and all that you know on a one way journey. 
+				The last remnants of humanity are hurtling across the vast expanses of space in search of a new home. The mothership’s scanners have located two potential planets within traveling distance. However, there is a problem. The mothership only has enough fuel to travel to one of the planets. The mothership has one-man spacecrafts that can fly to these planets to see if they are inhabitable but only two capable pilots. You are one of these pilots. Taking the trip would mean leaving your family, friends and all that you know on a one way journey.
 	Nagoya Debate Open 2023
 		R1
 			THO the glorification of success of YouTubers
@@ -113,13 +229,13 @@ Nagoya Debate Open
 				K-Cup 2022 GF
 			Assuming technology, as a debating community, THW make debaters completely anonymous in round rooms (e.g. hide name, gender and appearance, and use voice changer)
 				NDO 2018 SF
-			We are imaging a technology that can measure people’s attributes. Also, the technology can take A’s attributes and transplant them into B. Assuming the technology, THW allow individuals to sell and buy all their attributes. (e.g. intelligence, looks, physical ability, etc.)
+			We are imaging a technology that can measure people's attributes. Also, the technology can take A's attributes and transplant them into B. Assuming the technology, THW allow individuals to sell and buy all their attributes. (e.g. intelligence, looks, physical ability, etc.)
 				K-Cup 2016 R2
 		R4
 			THO athletes express political opinions at the sports game/tournament
 			THP league system to tournament system in students sports competition
 				In the league system, participants (teams) play each other repeatedly, and their ranking will be determined by the combined results of their matches. Except in special cases, the number of matches among participants is same. The definition generally limits matches to round-robin matches.
-				In the tournament system, the winner is determined by repeating the match between the winners. once the participants(teams) lose, they will drop out of the competition.
+				In the tournament system, the winner is determined by repeating the match between the winners. once the participants (teams) lose, they will drop out of the competition.
 			THR excessive cancellation culture toward athletes
 		QF + Rookie SF
 			THBT Japanese government should introduce affirmative action of education (e.g. university quota / scholarship etc...) for the people from regions which have low academic performance
@@ -138,50 +254,50 @@ Nagoya Debate Open
 				This is a classic RPG world (e.g. Dragon Quest III)!! There is a terrible Demon King in this world. Unless the Demon King is defeated, human society will be destroyed. Only legendary hero and his associates can defeat the Demon King. Their journey will be long and terribly tough. Therefore, the Human king is considering granting privileges to them. For example, they can break into inhabitants' houses, search their wardrobes and obtain money.
 	Nagoya Debate Open (2021)
 		R1
-			THW hold corporate owners/executives legally liable for the occupational accidents in workplaces.
-			THW repeal Section 230.
+			THW hold corporate owners/executives legally liable for the occupational accidents in workplaces
+			THW repeal Section 230
 				Section 230 is a piece of Internet legislation in the United States that provides immunity for website platforms from third-party content. It protects websites from lawsuits if a user posts something illegal, although there are exceptions for copyright violations, sex work-related material, and violations of federal criminal law.
-			THW allow the cultural defense in all criminal proceedings.
+			THW allow the cultural defense in all criminal proceedings
 				A "cultural defense" is a defense in criminal trials. It involves the defendant claiming that their actions were motivated by their cultural background and beliefs.
 		R2
-			TH, as FIFA, W boycott the FIFA World Cup Qatar 2022.
+			TH, as FIFA, W boycott the FIFA World Cup Qatar 2022
 				Qatar has faced criticism for its treatment of migrant workers, many of whom are involved in the construction of stadiums and infrastructure for the 2022 World Cup.
-			THR the IOC’s decision to ban “Black Lives Matter” apparel at the 2021 Tokyo Olympics.
+			THR the IOC's decision to ban "Black Lives Matter" apparel at the 2021 Tokyo Olympics
 				The IOC recently placed a ban on any "direct" endorsement of the Black Lives Matter movement, such as BLM t-shirts and sportswear.
-			THR fining Naomi Osaka for skipping out on the press conference.
+			THR fining Naomi Osaka for skipping out on the press conference
 				The French Open recently fined Naomi Osaka for skipping out on post match press conference, which lead to her pulling out of the ongoing event. Osaka cited mental health issues, which lead to the French Open first issuing her a warning and then second a hefty fine. Press conference days and viewerships are two major means of income for large sporting events, as media outlets would have to pay a hefty sum to be able to interview athletes. This money is then funneled into the event to pay the appearance fee for all athletes, the prize money and etc.
 		R3
-			THBT the South Korean government should exempt male K-pop artists with notable achievements from military conscription.
-			THR the decision of The Billboards to stop counting bundled music for their charts.
+			THBT the South Korean government should exempt male K-pop artists with notable achievements from military conscription
+			THR the decision of The Billboards to stop counting bundled music for their charts
 				Bundled music is music (in the form of album sales and streams on Spotify Youtube) that is often added on with or under the price of an added merchandise, such as selling an album with a ticket to a concert or a t-shirt. In July of 2020, Billboard decided to eliminate the practice of counting albums bundled with merchandise and concert tickets on its album and song charts altogether, Under these new rules, albums that are attached to a ticket or merchandise bundle will no longer count for the ranking. The Billboards are a popular platform that tallies the total album sales and releases a weekly rank that is crucial for the popularity for the artist and revenue generation.
 			THS the YOLO lifestyle
 				A YOLO trend (You Only Live Once, 욜로) means a lifestyle or trend that many young people have adopted as a way to better enjoy life in the present, and not to think about saving up for the future.
 		R4
-			THBT revenue from tourism sites associated with indigenous cultures (e.g. Chichen Itza and related Mayan sites in Mexico) should be distributed directly to those communities.
-			THBT Asian immigrants to Western countries should assimilate in the culture of their host country even at the expense of losing their original culture.
-			THW mandates all newly created superheroes to represent racial/sexual minorities.
+			THBT revenue from tourism sites associated with indigenous cultures (e.g. Chichen Itza and related Mayan sites in Mexico) should be distributed directly to those communities
+			THBT Asian immigrants to Western countries should assimilate in the culture of their host country even at the expense of losing their original culture
+			THW mandates all newly created superheroes to represent racial/sexual minorities
 		QF
-			THW weigh shareholder votes based on the length of time their shares have been held.
-			THR the rise of cryptocurrency.
-			THR the creation of the microcredit system in impoverished areas.
+			THW weigh shareholder votes based on the length of time their shares have been held
+			THR the rise of cryptocurrency
+			THR the creation of the microcredit system in impoverished areas
 				Microcredit is the extension of very small loans to impoverished borrowers who typically lack collateral, steady employment, and verifiable credit history. For example, Grameen Bank operating in impoverished areas of Bangladesh provides such microcredits. These banks can implement high or low-interest rates without the intervention of the government.
 		SF
-			THBT progressive rabbis should actively denounce Zionism.
+			THBT progressive rabbis should actively denounce Zionism
 				A rabbi is a spiritual leader or religious teacher in Judaism. Progressive rabbis are rabbis who support the reform of judaism, which is characterized as being relatively liberal (viewing the individual Jew as autonomous and open to progressive values). Zionism is both an ideology and a nationalist movement that espouses the establishment of and support for a Jewish state centered in the area roughly corresponding to the Holy Land, the region of Palestine and/or Israel on the basis of a long Jewish attachment to that land.
-			TH, as the Israeli government, would officially acknowledge all kinds of conscientious objection.
-				A “conscientious objector” is an individual who has claimed the right to refuse to perform military service on the grounds of freedom of thought, conscience, or religion. The Israeli government has been sentencing the objectors (sarvanim in Hebrew) to prison for evading service, although with varying durations.
-			THBT the U.S. should provide aid to Palestine at the expense of weakening ties with Israel.
+			TH, as the Israeli government, would officially acknowledge all kinds of conscientious objection
+				A "conscientious objector" is an individual who has claimed the right to refuse to perform military service on the grounds of freedom of thought, conscience, or religion. The Israeli government has been sentencing the objectors (sarvanim in Hebrew) to prison for evading service, although with varying durations.
+			THBT the U.S. should provide aid to Palestine at the expense of weakening ties with Israel
 		Rookie GF
-			THBT silent rounds should be abolished.
-			THW allow joint team participation in majors.
-				“Majors” are prestigious and highly competitive debate tournaments held annually and internationally. These tournaments span over several days and draw a significant number of participants. Some examples of majors include WUDC, Australs, EUDC, UADC, and ABP
-			THW mandate affirmative action for all debate tournaments.
+			THBT silent rounds should be abolished
+			THW allow joint team participation in majors
+				"Majors" are prestigious and highly competitive debate tournaments held annually and internationally. These tournaments span over several days and draw a significant number of participants. Some examples of majors include WUDC, Australs, EUDC, UADC, and ABP
+			THW mandate affirmative action for all debate tournaments
 				Currently, WUDC and Australs employ an affirmative action policy that requires at least one-third of each institution's contingent to be non cis-male. Representation of nationalities and genders is also taken into account when deciding certain breaks (i.e. judge breaks). The policy was promoted to increase diversity but also to encourage participation from less-represented groups
 		GF
-			THBT access to the internet should be a basic human right in developing countries.
-			THW ban the collection of metadata.
+			THBT access to the internet should be a basic human right in developing countries
+			THW ban the collection of metadata
 				Metadata is data that provides information about other data. For example, if the actual content of a message is data, metadata about the message is when, where, amongst whom, and how the message was sent. It is generally impossible to prevent the collection of metadata without opting out from using services that collect them. Oftentimes, you are required to consent to the collection of your metadata to access sources on the internet, such as Google, Facebook, etc.
-			THP a world in which AI undertakes all court rulings.
+			THP a world in which AI undertakes all court rulings
 	Nagoya Debate Open (2020)
 		R1
 			THW require candidates running for high office (President, Parliament/Diet etc) to have prior experience holding office in regional or local government
@@ -189,18 +305,18 @@ Nagoya Debate Open
 				Microtargeting is a data-driven marketing strategy that allow advertisers to appeal to small groups of people with similar preferences and online activity records. It has been used in political campaigns to reach out to smaller subgroups of political affilication
 			THW censor content that promote anti lockdown protests
 		R2
-			THBT, after meeting their basic needs, individuals have a moral responsibility to donate their wealth towards poverty alleviation.
+			THBT, after meeting their basic needs, individuals have a moral responsibility to donate their wealth towards poverty alleviation
 			Assuming feasibility, THW allow prospective adoptive parents to manipulate the orphans' memory before adoption
 			THW allow the development of AI that reproduce the artwork or personality of the deceased only when they explicitly consent
 		R3
-			THBT the main stream feminist movements should reject choice feminism.
+			THBT the main stream feminist movements should reject choice feminism
 				Choice feminism is a popular form of contemporary feminism, encouraging women to embrace the opportunities they have in life and to see the choices they make as justified and always politically acceptable
 			THBT false accusation of homosexuality should not be permissible as grounds for defamation lawsuits
 				Defamation is any false statement (oral or written) about another person that unjustly harms their reputation. A person who has been defamed can sue the person who did the defaming for damages.
 			THBT the LGBTQ+ movement should include polyamorous people
 		R4
 			THBT tech companies should not participate in government projects that use facial recognition technology for surveillance
-			THW require all companies that research into renewable energy to periodically declassify their findings.
+			THW require all companies that research into renewable energy to periodically declassify their findings
 			THW require articles and reporting by the media about the scientific accomplishment of women to pass the Finkbeiner Test
 				The Finkbeiner Test is a checklist to help journalists avoid gender bias in media articles about women in science. To pass the test, an article about a female scientist must not mention: - That she is a woman - Her husband's job - Her childcare arrangements - How she nurtures her underlings - How she was taken aback by the competitiveness in her field - How she is a role model for other women - How she's the "first woman to..."
 		QF
@@ -213,67 +329,67 @@ Nagoya Debate Open
 				Viktor Orbán is the current Prime Minister of Hungary. His government is known and widely criticized for its conservative and authoritarian policies. Recently, the Hungarian parliament passed a state of emergency law that gives the Prime Minister the power to rule by decree. The parliament has also passed a law to end the legal recognition of trans people.
 			TH, as Israel, W proceed with the unilateral annexation of the West Bank
 				Israeli PM Benjamin Netanyafu is expected to forward a plan to annex large parts of the West Bank this summer under US support. This plan has been strongly rejected by Palestinians and the international community, and would close the possibility of a two-state solution
-			TH, as the Republic of Korea (South Korea), would officially recognize DPRK (North Korea) as an independent state rather than continue to pursue a united Korea.
+			TH, as the Republic of Korea (South Korea), would officially recognize DPRK (North Korea) as an independent state rather than continue to pursue a united Korea
 		GF
 			THBT states should forcibly gain access and disclose the private information (e.g. age, occupation, record of movement and purchase) of people infected by a pandemic decease
 			THW hold international recruitment agencies liable for migrant worker abuses that took place in any part of the chain of their employment deals (e.g. subcontracting in the country of immigration)
-			TH, as a parent from a low-income household of multiple children, W allocate most resources to the child with the most potential.
+			TH, as a parent from a low-income household of multiple children, W allocate most resources to the child with the most potential
 		Rookie GF
-			THR the significant rise of social media as a platform of political activism.
-			THBT governments should prioritize scholarships and fundings for university departments that are deemed essential for society (e.g. Medicine, engineering, law) over those that are deemed unessential (e.g. Art, philosophy, literature).
+			THR the significant rise of social media as a platform of political activism
+			THBT governments should prioritize scholarships and fundings for university departments that are deemed essential for society (e.g. Medicine, engineering, law) over those that are deemed unessential (e.g. Art, philosophy, literature)
 			THBT social movements in democratic countries should prioritize initiatives that directly help the people (joining or initiating charity/NGO activity) on the ground over initiatives that push for policy change
 	Nagoya Debate Open (2019)
-		R1: Feminism
-			In countries where compulsory military service for men exists, THBT feminists should advocate for the conscription of women.
-			THBT policymaking on abortion in Parliament should be carried out exclusively by women.
-			THW actively teach girls to occasionally compromise themselves by playing traditional feminine roles in order to maneuver in male-dominant group.
-		R2: Science & Technology
-			“The surest sign that intelligent life exists elsewhere in the universe is that has never tried to contact us.”
-			THW cease all space exploration activists and instead divert these funds to environmental causes.
-			Assuming that there is high possibility of significant scientific discovery, THBT scientists should always conduct non-ethical experiments including but not limited to animal experiments and gene modification.
-			THBT the usage of the data analytics being the default in team strategies in professional sports has done more harm than good.
+		R1
+			In countries where compulsory military service for men exists, THBT feminists should advocate for the conscription of women
+			THBT policymaking on abortion in Parliament should be carried out exclusively by women
+			THW actively teach girls to occasionally compromise themselves by playing traditional feminine roles in order to maneuver in male-dominant group
+		R2
+			"The surest sign that intelligent life exists elsewhere in the universe is that has never tried to contact us."
+			THW cease all space exploration activists and instead divert these funds to environmental causes
+			Assuming that there is high possibility of significant scientific discovery, THBT scientists should always conduct non-ethical experiments including but not limited to animal experiments and gene modification
+			THBT the usage of the data analytics being the default in team strategies in professional sports has done more harm than good
 				Data analytics: team strategy which statistically analyzes recorded player performance in order to generate the most effective method to win which excludes all other game plans and styles of play.
-		R3: Narrative
-			TH aggressively criticizes the favoritism for having biologically-related children over adoption.
-			THR the narrative which promotes people seeking their own individuality i.e. unique preference, talent, or personality.
-			THBT progressive media should disproportionately cover successful stories of immigrants, rather then portray them as socially excluded or vulnerable.
-		R4: The Classics
-			“We learn from experience that we never learn anything from experience.”
-			THW ban religious or faith-based rehabilitation programmes in prison.
-			THP a world where governments prioritize economic growth over economic redistribution.
-			THW introduce the universal basic income system.
-		QF: Criminal Justice
-			THW jury nullfication as a means of combating racial injustices.
+		R3
+			TH aggressively criticizes the favoritism for having biologically-related children over adoption
+			THR the narrative which promotes people seeking their own individuality i.e. unique preference, talent, or personality
+			THBT progressive media should disproportionately cover successful stories of immigrants, rather then portray them as socially excluded or vulnerable
+		R4
+			"We learn from experience that we never learn anything from experience."
+			THW ban religious or faith-based rehabilitation programmes in prison
+			THP a world where governments prioritize economic growth over economic redistribution
+			THW introduce the universal basic income system
+		QF
+			THW jury nullfication as a means of combating racial injustices
 				Jury Nullification: the process where numbers of a trial jury find a defendant not guilty if they do not support a government’s law, do not believe it is constitutional or humane, or do not support a possible punishment for breaking the law.
-			THBT corporations should be criminally liable for woke-washing as false advertising.
-				Woke-washing is the promoting of progressive values by corporations as a part of their advertising pitch i.e. Mark & Spencer’s LGBTQ sandwich, Nike’s “Kaepernick ad” etc.
-			THW allow parents of convicted criminals to bear a fraction of the total punishment that was originally and exclusively given to the children.
-		SF: International Relations
-			THBT the government of Taiwan should abandon any political and economic strategies calling for independence from the People’s Republic of China.
-			THBT the US Supreme Court should mandate Donald Trump to directly cooperate with, instead of undermine or avoid any Congressional investigations.
-			TH prefers a three-state solution to a two-state solution in the Israeli-Palestinian conflict.
+			THBT corporations should be criminally liable for woke-washing as false advertising
+				Woke-washing is the promoting of progressive values by corporations as a part of their advertising pitch i.e. Mark & Spencer’s LGBTQ sandwich, Nike’s "Kaepernick ad" etc.
+			THW allow parents of convicted criminals to bear a fraction of the total punishment that was originally and exclusively given to the children
+		SF
+			THBT the government of Taiwan should abandon any political and economic strategies calling for independence from the People's Republic of China
+			THBT the US Supreme Court should mandate Donald Trump to directly cooperate with, instead of undermine or avoid any Congressional investigations
+			THP a three-state solution to a two-state solution in the Israeli-Palestinian conflict
 				The three-state solution is an approach to peace in the Israeli-Palestinian conflict by returning control of the West Bank to Jordan and control of the Gaza Strip to Egypt. This solution has gained interest as alternative for two-state solution because it shows allegedly higher possibility to resolve the prolonged conflict with the joined force of Israel, Jordan and Egypt.
-		GF:
-			THW apply the standard of “Preponderance of Evidence”, rather than “Beyond a Reasonable Doubt” in prosecuting police officers who are involved in police brutality.
-				Preponderance of Evidence(POE): lower burden of proof which only requires the prosecution to prove the defendant is moremore gulity than not.(51% bar)
-				Beyond a Rerasonable Doubt(BRD): the highest burden of proof where the prosecution must prove that there is no plausible alternative other than gulity.(95% bar)
-			Assuming the technology exits, THW erase all the memories of soldiers during their deployment in active conflict areas.
-			THR the social norm that vengeance, hostlility and agony towards individuals or tragic events are unhealty forms of self-motivation.
-		Rookie SF: Criminal Justice
-			THW allow the government to access the private social media accounts of convicted criminals.
-			THW castrate convicted rapists.
-			THW apply the death penalty for politicians convicted of serious corruption.
-		Rookie GF: Minorities
-			THW believe that artists from dominant cultural groups should not portray minority cultural groups.
-			TH does not believe in “What doesn’t kill you nakes you stronger.”
-			TH, as the Pope, regrets the commodification of the Christmas tradition i.e. KFC tradition, gift exchange competitions, selling Bible CDs, Christian pop concerts, etc.
+		GF
+			THW apply the standard of "Preponderance of Evidence", rather than "Beyond a Reasonable Doubt" in prosecuting police officers who are involved in police brutality
+				Preponderance of Evidence (POE): lower burden of proof which only requires the prosecution to prove the defendant is moremore gulity than not. (51% bar)
+				Beyond a Rerasonable Doubt (BRD): the highest burden of proof where the prosecution must prove that there is no plausible alternative other than gulity. (95% bar)
+			Assuming the technology exits, THW erase all the memories of soldiers during their deployment in active conflict areas
+			THR the social norm that vengeance, hostlility and agony towards individuals or tragic events are unhealty forms of self-motivation
+		Rookie SF
+			THW allow the government to access the private social media accounts of convicted criminals
+			THW castrate convicted rapists
+			THW apply the death penalty for politicians convicted of serious corruption
+		Rookie GF
+			THW believe that artists from dominant cultural groups should not portray minority cultural groups
+			TH does not believe in "What doesn't kill you nakes you stronger."
+			TH, as the Pope, regrets the commodification of the Christmas tradition i.e. KFC tradition, gift exchange competitions, selling Bible CDs, Christian pop concerts, etc
 	Nagoya Debate Open (2018)
 		R1
 			THW ban pornography which depicts women in submissive manner
 			THW ban religious street preachers in public
 			THW prohibit the media from reporting on the mental illness of those accused of crimes
 		R2
-			THW ban private lawyers from criminal court and establish ‘Public attorneys’ office’ as counter part of ‘Public Prosecutors’ office’.
+			THW ban private lawyers from criminal court and establish 'Public attorneys' office' as counter part of 'Public Prosecutors' office'
 			THBT sex offenders should be monitored with GPS technology
 			THW prohibit criminals from profiting from the publicity of their crimes
 		R3
@@ -283,64 +399,64 @@ Nagoya Debate Open
 		R4
 			In a super-aging society, THW give more votes to the young
 			THBT Japan should actively attract and accept mass immigration
-			TH opposes moral education as an official subject in the school curriculum
+			THO moral education as an official subject in the school curriculum
 		QF
 			THBT affirmative action policies are counterproductive to reduce inequalities
-			As feminists, TH supports ‘mirroring’ as a tactic for fighting misogyny
+			As feminists, THS 'mirroring' as a tactic for fighting misogyny
 				For the purpose of this motion, 'Mirroring' is defined as a practice to re-write male users'misogynist posts on the online sites with gender pronouns switched or keywords reversed.
-			TH regrets categorization of sexual orientation.
+			THR categorization of sexual orientation
 		Rookie GF
-			TH prefers a world without the system of marriage
+			THP a world without the system of marriage
 			THW require individuals to pass a general knowledge test on politics to vote
 			THW abolish all private, vernacular, religious and gender-based schools in favour of a homogeneous public schooling system
 		SF
-			“Assuming technology, as a debating community, THW make debaters completely anonymous in round rooms (e.g. hide name, gender and appearance, and use voice changer)”
+			"Assuming technology, as a debating community, THW make debaters completely anonymous in round rooms (e.g. hide name, gender and appearance, and use voice changer)"
 			THBT debate rounds should be judged by non-debaters who can understand English
-			TH opposes the dominant narrative “hard work always pays off”
+			THO the dominant narrative "hard work always pays off"
 		GF
-			Assuming that a pill is discovered that significantly reduces a person’s IQ, but places them in a perpetual state of happiness. THW ban the pill.
-			Assume that the earth will be destroyed in a near future, when human beings try to evacuate to another planet, THBT the member of spaceships should be elected by lottery, not by individual ability.
-			THBT true democracy should allow its citizens to vote for authoritarianism.
+			Assuming that a pill is discovered that significantly reduces a person's IQ, but places them in a perpetual state of happiness. THW ban the pill
+			Assume that the earth will be destroyed in a near future, when human beings try to evacuate to another planet, THBT the member of spaceships should be elected by lottery, not by individual ability
+			THBT true democracy should allow its citizens to vote for authoritarianism
 	Nagoya Debate Open (2017)
 		R1
-			Suppose that it is financially possible, THW introduce basic income.
-			THBT developed countries should require their multinational corporations to hire a significant portion of their labor from the region where they operate.
-			THW oppose the commercialization of indigenous culture.
+			Suppose that it is financially possible, THW introduce basic income
+			THBT developed countries should require their multinational corporations to hire a significant portion of their labor from the region where they operate
+			THW oppose the commercialization of indigenous culture
 		R2
-			THW impose an aptitude test on parents wishing to have a baby.
-			THW ban sex reassignment surgery on intersexual children.
-				”intersex” is a general term used for a variety of conditions in which a person is born with a reproductive or sexual anatomy that doesn’t seem to fit the typical definitions of female or male.
+			THW impose an aptitude test on parents wishing to have a baby
+			THW ban sex reassignment surgery on intersexual children
+				"intersex" is a general term used for a variety of conditions in which a person is born with a reproductive or sexual anatomy that doesn’t seem to fit the typical definitions of female or male.
 				Ex. Person might be born appearing to be female on the outside, but having mostly male-typical anatomy on the inside.
-			THW ban baby hatch.
-				”baby hatch” is a place where people can bring babies, usually newborn, and abandon them anonymously in a safe place to be found and cared for.
+			THW ban baby hatch
+				"baby hatch" is a place where people can bring babies, usually newborn, and abandon them anonymously in a safe place to be found and cared for.
 		R3
-			TH regrets the rise of porn 2.0.
-				Porn 2.0 named after “Web 2.0”, refers to pornographic websites featureing user-generated contents.It allows free uploading and streaming of pornographic content. Examples include Xvideos, PornHub, Redtube, YouPorn, xHamster, Porn.com and many others.
-			THW not allow individuals in serious financial debt to perform in pornography.
-			THW allow the production of animated child pornography.
+			THR the rise of porn 2.0
+				Porn 2.0 named after "Web 2.0", refers to pornographic websites featureing user-generated contents.It allows free uploading and streaming of pornographic content. Examples include Xvideos, PornHub, Redtube, YouPorn, xHamster, Porn.com and many others.
+			THW not allow individuals in serious financial debt to perform in pornography
+			THW allow the production of animated child pornography
 		R4
-			THBT the US government should abolish privatized prison.
-			THBT parents should be legally liable for the criminal acts committed by their children.
-			THBT indigenous people would be justified in sabotaging (violently or otherwise) economic projects in the event that they are built across or their land without their democratic consent.
+			THBT the US government should abolish privatized prison
+			THBT parents should be legally liable for the criminal acts committed by their children
+			THBT indigenous people would be justified in sabotaging (violently or otherwise) economic projects in the event that they are built across or their land without their democratic consent
 		QF
-			THBT feminist movement should actively seek to include men’s right activist in their movement.
-			THBT the “Black Lives Matter” movement does more harm than good.
-			THBT Okinawa’s “Anti-US military base movement” should not include members from outside Okinawa.
+			THBT feminist movement should actively seek to include men's right activist in their movement
+			THBT the "Black Lives Matter" movement does more harm than good
+			THBT Okinawa's "Anti-US military base movement" should not include members from outside Okinawa
 		SF
-			THBT Japan government should end the “Dowa Policy”.
-				Dowa policy：A series of government policies which aims to improve the living standard of the “Hisabetu-Burakumin”, and resolves the social discrimination against them.
-				These policies may include(not limited to)
-				・Funding to construction projects in “Buraku” communities.
+			THBT Japan government should end the "Dowa Policy"
+				Dowa policy：A series of government policies which aims to improve the living standard of the "Hisabetu-Burakumin", and resolves the social discrimination against them.
+				These policies may include (not limited to)
+				・Funding to construction projects in "Buraku" communities.
 				・Tax deductions and other financial privileges.
 				・Promotion of educational/awareness programs.
-				Hisabetu-Burakumin(Burakumin)：A Japanese social minority group, descendants of feudal-era outcast.
-			THBT Japan should abolish the Imperial system.
-			THBT Yasukuni Shrine should remove the enshrinement of Class-A war criminals.
+				Hisabetu-Burakumin (Burakumin)：A Japanese social minority group, descendants of feudal-era outcast.
+			THBT Japan should abolish the Imperial system
+			THBT Yasukuni Shrine should remove the enshrinement of Class-A war criminals
 		GF
-			THBT the Dalai Lama should announce that he will not reincarnate and declare that the office of the Dalai Lama will henceforth not exist.
+			THBT the Dalai Lama should announce that he will not reincarnate and declare that the office of the Dalai Lama will henceforth not exist
 				Dalai Lama’s reincarnation：
 				Upon the Dalai Lama’s decease, the process of finding the reincarnated Dalai Lama begins. Once a candidate has been found, it must be confirmed by the Panchen Lama to be appointed as the next Dalai Lama.
 				Currently there are two Panchen Lama. Gedhun Choekyi Nyima was appointed as the 11th Panchen lama by Dalai Lama 14th in May 1995. He is currently being held captive by the Chinese government, and his whereabout is unknown. In November 1995, Gyaincain Norbu was appointed as the 11th Panchen Lama by the Chinese government.The current Dalai Lama 14th turns 81 this year.
-			THBT Colombian government should not conclude any peace treaty with FARC, unless it gets a popular support through a national referendum.
-			THBT the United States should end the “War on Drug” policy.
-				“War on Drug” policy：Sets of policies conducted by the United States government which include military aid, and military intervention, as well as harsher prohibition laws with the aim of reducing illegal drug trade.
+			THBT Colombian government should not conclude any peace treaty with FARC, unless it gets a popular support through a national referendum
+			THBT the United States should end the "War on Drug" policy
+				"War on Drug" policy：Sets of policies conducted by the United States government which include military aid, and military intervention, as well as harsher prohibition laws with the aim of reducing illegal drug trade.
