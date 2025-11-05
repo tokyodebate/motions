@@ -1,4 +1,87 @@
 Tokyo IV
+	Tokyo IV 2025
+		R1
+			THR the expectation that loved ones should take responsibility for others' mental health
+				OG $stats 10, 8, 6, 4
+				OO $stats 7, 9, 8, 4
+				CG $stats 5, 7, 8, 8
+				CO $stats 6, 4, 6, 12
+		R2
+			THBT Elon Musk's departure is in the interests of Tesla
+				OG $stats 8, 7, 8, 5
+				OO $stats 11, 6, 7, 4
+				CG $stats 5, 8, 5, 10
+				CO $stats 4, 7, 8, 9
+		R3
+			THR the dominance of third-wave feminism
+				OG $stats 6, 6, 7, 9
+				OO $stats 11, 4, 9, 4
+				CG $stats 3, 7, 9, 9
+				CO $stats 8, 11, 3, 6
+				Third-wave feminism emerged in the 1990s as a response to and continuation of second-wave feminism. It highlighted intersectionality, embraced diversity of experiences, and emphasized individual choice and empowerment. Compared to earlier waves, it was more decentralized and less unified under a single agenda.
+		R4
+			THBT 'wolf warrior diplomacy' is in China's national interest
+				OG $stats 7, 7, 10, 4
+				OO $stats 4, 10, 9, 5
+				CG $stats 10, 5, 5, 8
+				CO $stats 7, 6, 4, 11
+				China's foreign policy was originally guided by Deng Xiaoping's principle of "bide your time, hide your strength," a pragmatic strategy that prioritized quiet economic development over international posturing. However, under Xi Jinping, this policy has been decisively abandoned in favor of a more assertive "wolf warrior" diplomacy, characterized by aggressive, confrontational rhetoric and public displays of strength. A recent escalation in this approach was evidenced by the military parade held on September 3rd, 2025 which was a highly public spectacle that showcased China's advanced military hardware, including new nuclear capabilities, and brought together a powerful anti-Western bloc of leaders, including Russia's Vladimir Putin and North Korea's Kim Jong Un.
+		R5
+			THR the decline of shushin-koyo in Japan
+				OG $stats 9, 7, 7, 4
+				OO $stats 7, 8, 10, 2
+				CG $stats 8, 6, 6, 7
+				CO $stats 3, 6, 4, 14
+				Shūshin koyō, or lifetime employment, was an unwritten social contract where employees committed to a single company for their entire career in exchange for (job security, seniority-based pay increases, and comprehensive benefits.) This system fostered strong company loyalty and a sense of shared destiny between employers and employees. The model began to decline in the 1990s and no longer represents the reality for most Japanese workers, especially for younger generations who are increasingly employed in non-regular positions.
+		Pre QF
+			THS tariff diplomacy
+				OG $stats 1, 3
+				OO $stats 3, 1
+				CG $stats 2, 2
+				CO $stats 2, 2
+		QF
+			THS Berserk's approach to depicting trauma in mainstream media
+				OG $stats 1, 3
+				OO $stats 4, 0
+				CG $stats 2, 2
+				CO $stats 1, 3
+				Berserk is a Japanese manga set in a dark fantasy world inspired by medieval Europe. All the main characters are survivors of childhood trauma. 
+				The manga often uses war metaphors to depict fighting and overcoming trauma, which includes combat as a reflection of spiritual struggle, slaying demons that represent repressed memories, and martial prowess as a proxy for personal growth.
+		SF
+			THS Trump's strikes on Venezuelan cartels
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 0, 2
+				CO $stats 2, 0
+				On September 2, 2025, the U.S. government confirmed that the U.S. Navy carried out a "kinetic strike" on a drug-carrying vessel in the southern Caribbean, allegedly operated by the Venezuelan gang Tren de Aragua. This action, which resulted in the deaths of 11 people, marks a significant shift in U.S. counter-narcotics policy. The U.S. has designated Tren de Aragua as a "narco-terrorist" organization, a label that provides justification for a more aggressive military response beyond traditional interdiction efforts. Venezuelan President Nicolás Maduro's government has condemned the strike as an illegal act of aggression, responding by deploying troops to its borders.
+		GF
+			THS Yukio Mishima's view of life
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				Yukio Mishima (1925–1970) was one of Japan’s most influential postwar writers. In his later works, he criticized Western influences such as capitalism and liberal individualism, and emphasized the pursuit of meaning through collective identity, the acceptance of impermanence, and heroic or transcendent action over material success.
+		ESL SF
+			THS Berserk's approach to depicting trauma in mainstream media
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 1, 1
+				Berserk is a Japanese manga set in a dark fantasy world inspired by medieval Europe. All the main characters are survivors of childhood trauma. 
+				The manga often uses war metaphors to depict fighting and overcoming trauma, which includes combat as a reflection of spiritual struggle, slaying demons that represent repressed memories, and martial prowess as a proxy for personal growth.
+		ESL GF
+			THS Trump's strikes on Venezuelan cartels
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+				On September 2, 2025, the U.S. government confirmed that the U.S. Navy carried out a "kinetic strike" on a drug-carrying vessel in the southern Caribbean, allegedly operated by the Venezuelan gang Tren de Aragua. This action, which resulted in the deaths of 11 people, marks a significant shift in U.S. counter-narcotics policy. The U.S. has designated Tren de Aragua as a "narco-terrorist" organization, a label that provides justification for a more aggressive military response beyond traditional interdiction efforts. Venezuelan President Nicolás Maduro's government has condemned the strike as an illegal act of aggression, responding by deploying troops to its borders.
+		Novice GF
+			TH, as a highly educated professional in an authoritarian state, would refuse work in any organization that is controlled or heavily influenced by the government
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
 	Tokyo IV 2023
 		R1
 			THW only allow university admission on the basis of standardized testing (e.g. SAT, gaokao) as opposed to non-quantitative methods (e.g. essays, interviews)
@@ -58,7 +141,7 @@ Tokyo IV
 				OO $stats 1, 0
 				CG $stats 0, 1
 				CO $stats 0, 1
-				The Liberal Democratic Party (LDP) has dominated the Japanese political landscape since its inception in 1955. At the moment, the LDP, with massive funding, has no real opposition. It alone currently has 276 seats in the House of Representatives of 465 seats and forms a coalition with Komei Party which has 29 seats. 
+				The Liberal Democratic Party (LDP) has dominated the Japanese political landscape since its inception in 1955. At the moment, the LDP, with massive funding, has no real opposition. It alone currently has 276 seats in the House of Representatives of 465 seats and forms a coalition with Komei Party which has 29 seats.
 				Its political ideology is often seen as more conservative than the people: it opposes legalising gay marriage and immigration, it emphasises on traditional family values and nationalism, and it advocates strongly for strengthening Japan’s relationship with the US and further militarisation of Japan.
 		Rookie SF
 			THBT queer movements in developing nations should attempt to cooperate with religious institutions in pushing for their cause
