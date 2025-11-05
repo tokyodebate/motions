@@ -1,4 +1,59 @@
 JPDU Tournament (BP)
+	JPDU Autumn Tournament 2025
+		R1
+			THBT LGBTQ movements should actively disassociate with drag culture
+				OG $stats 3, 3, 1, 4
+				OO $stats 2, 4, 5, 0
+				CG $stats 3, 2, 3, 3
+				CO $stats 3, 2, 2, 4
+				Drag culture refers to a performance culture where individuals, often men, dress and makeup to imitate and often exaggerate female gender signifiers and gender roles for entertainment purposes. In modern times, drag culture is associated with gay culture. It is often celebrated as a form of queer expression and art.
+		R2
+			THP a centralized banking model to a decentralized model
+				OG $stats 4, 4, 2, 1
+				OO $stats 2, 4, 4, 1
+				CG $stats 5, 1, 3, 2
+				CO $stats 0, 2, 2, 7
+				A centralized banking model refers to a system where few banks operate within a country's financial sector. For example, three major mega-banks might account for the majority of lending to individuals and companies within that country. Conversely, a decentralized banking model involves a system with multiple small to medium-sized banks. While some mega-banks may exist under this model, their proportion of financial activity is not significant; the smaller banks, in sum, account for the majority of the activity.
+		R3
+			THP a world where individuals perceive themselves as powerful rather than powerless
+				OG $stats 4, 2, 4, 1
+				OO $stats 1, 4, 4, 2
+				CG $stats 3, 4, 2, 2
+				CO $stats 3, 1, 1, 6
+		R4
+			THW implement ethnic federalism in post-conflict states with ethnic fragmentation
+				OG $stats 1, 3, 3, 4
+				OO $stats 1, 7, 1, 2
+				CG $stats 6, 1, 3, 1
+				CO $stats 3, 0, 4, 4
+				Ethnic federalism is a form of federal system in which the federated regional or state units are defined by ethnicity. Ethnic federal systems have been created in attempts to accommodate demands for ethnic autonomy and manage inter-ethnic tensions within a state. In ethnic federal systems, each ethnic region tends to enjoy high administrative freedom and control over policy.
+		QF
+			TH hopes that Chinese Yuan will become a competing global key currency
+				OG $stats 3, 1
+				OO $stats 2, 2
+				CG $stats 1, 3
+				CO $stats 2, 2
+		SF
+			TH support Serbia to join EU
+				OG $stats 2, 0
+				OO $stats 0, 2
+				CG $stats 2, 0
+				CO $stats 0, 2
+				Serbia, a country that struggles with corruption and a high unemployment rate, has aspired to join the EU for many years. To do so, it would need to align with EU foreign policy, including imposing sanctions on Russia and facing strong pressure to improve relations with Kosovo. Historically, Serbia has maintained close ties with Russia and China.
+		GF
+			TH predicts Liberal Democratic Party will secure more seats in the next House of Representatives election
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				On October 4th, Sanae Takaichi, former Minister for Internal Affairs and Communications, secured victory in the ruling Liberal Democratic Party’s presidential election.
+		Rookie GF
+			THP Kyoto where zoning bylaws impose more strict limits
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+				Zoning bylaws are tools used by municipalities to regulate the use of land. Zoning bylaws include restrictions on building heights, setbacks, site coverage, etc. In 2023, Kyoto City partially relaxed its building height restrictions. Along major roads near Kyoto Station height limits on buildings were eased. In areas facing major roads around Yamashina Station the restrictions were lifted entirely, provided certain conditions are met. For example, if a building includes retail space on the ground floor, constructing high-rise condominiums with over 20 stories is now possible. However, the existing regulations remain in place in the city center. (i.e.In the central arterial roadside districts, buildings are limited to a height of 31 meters, while in the inner mixed-use residential and commercial zones, the limit is 15 meters or less)
 	JPDU Autumn Tournament 2024
 		R1
 			THO Space Tourism
@@ -124,39 +179,39 @@ JPDU Tournament (BP)
 				CO $stats 0, 1
 	JPDU Autumn Tournament 2022
 		R1
-			Assuming feasibility of assessment, THW decide jobs of individuals based on their abilities upon reaching legal adulthood.
+			Assuming feasibility of assessment, THW decide jobs of individuals based on their abilities upon reaching legal adulthood
 		R2
-			THBT the rise of AI illustration technology does more harm than good.
+			THBT the rise of AI illustration technology does more harm than good
 				AI illustration technology uses deep learning to analyse existing illustrations and generate illustrations for specified words.
 		R3
-			THBT the feminist movement should actively seek success in capitalism.
+			THBT the feminist movement should actively seek success in capitalism
 		R4
-			THO Japanese exceptionalism.
+			THO Japanese exceptionalism
 				Japanese exceptionalism is the idea and social narrative that Japan is exceptional in comparison to other nations. Some examples include but are not limited to; Japan has four seasons, Japanese people are hard working, Japanese people are good in STEM fields, Japan is super safe, etc.
-		Open Pre-SF
-			THBT the body positive movement should actively differentiate itself from the fat acceptance movement.
+		Pre SF
+			THBT the body positive movement should actively differentiate itself from the fat acceptance movement
 				The body positive movement is a social movement that originally started as a movement that advocates for the acceptance of marginalised bodies (people with scars, physical disabilities, acid attack survivors, etc.) In recent years, fat acceptance, which is a part of the body positive movement that advocates for self-love and social acceptance of larger bodies, has rapidly become the centre of social attention in relation to the body positive movement.
-		Open SF
-			THS the focus on ESG in the financial industry, even at the expense of traditional monetary objectives.
+		SF
+			THS the focus on ESG in the financial industry, even at the expense of traditional monetary objectives
 				Recently, there has been a rise in ESG (environmental, social, and corporate governance) focused products and actions in the financial industry. Prominent examples include ESG funds which integrate evaluation of ESG factors in investment processes, ESG bonds where funds raised must exclusively be used for sustainable projects, targeted green bond purchase programmes by the central bank, etc. Sometimes these products or actions are criticised for overly prioritising ESG initiatives over traditional objectives like managing financial risks and market efficiency, appropriate monetary policies such as investment returns, etc.
-		OpenGF
-			THR the glorification of genius.
+		GF
+			THR the glorification of genius
 		Rookie SF
-			THW abolish the right to intellectual property.
+			THW abolish the right to intellectual property
 		Rookie GF
-			In an ageing society, THW determine one's pension based on the number of children they raised.
+			In an ageing society, THW determine one's pension based on the number of children they raised
 	JPDU Autumn Tournament 2021
 		R1
-			THW significantly fund female-only tech companies.
+			THW significantly fund female-only tech companies
 		R2
-			TH, as the South Korean government, W push for the end to the Korean War.
+			TH, as the South Korean government, W push for the end to the Korean War
 				The South Korean president Moon Jae-in has been pushing forward the declaration to end the Korean War. This will put the official end to the 1950-53 Korean War, which halted with a ceasefire rather than a peace treaty. Moon's plan after the declaration is to gradually enter a "low-level federation system", which keeps the existence of two separate governments while consolidating political and economic ties (i.e., a consultative body to discuss economic projects between the two Koreas).
 		R3
 			THP a world where individuals do not possess a desire to compete with one another
 		R4
-			In post conflict societies, THBT schools should prioritize reconciliation, even if it comes at the expense of honesty/accuracy, when teaching the next generation.
-		Pre-Semi Finals
-			THS the narrative that technological development (e.g. investing heavily in renewable energy, building sea walls) should be the primary approach to solving climate change.
+			In post conflict societies, THBT schools should prioritize reconciliation, even if it comes at the expense of honesty/accuracy, when teaching the next generation
+		Pre SF
+			THS the narrative that technological development (e.g. investing heavily in renewable energy, building sea walls) should be the primary approach to solving climate change
 		SF
 			THO the rise of escapist art
 				Escapism is the tendency to seek distraction and relief from unpleasant realities, especially by seeking entertainment or engaging in fantasy.
@@ -164,50 +219,50 @@ JPDU Tournament (BP)
 			THP a world where the Task Manager chip was and is still used
 				The Task Manager chip is a microchip that when installed and activated in one's brain, suppresses all emotions (including but not limited to greed, empathy, fear) exclusively in the process of decision making. It allows one to make the most rational and efficient decision, based on information currently available to them.
 		GF
-			THBT it is in the interest of Japan to acquire enemy base strike capabilities.
+			THBT it is in the interest of Japan to acquire enemy base strike capabilities
 				The Japanese government is recently considering acquiring capabilities for striking foreign military bases to prevent missile attacks. It argues that exercising such capabilities would be within the limitations set by Article 9 of the Japanese Constitution, which the opposition contests. The move comes after the government abandoned a plan to deploy the Aegis Ashore land-based ballistic missile defense system.
 	JPDU Autumn Tournament 2020
 		R1
-			THBT children should be taught from young age that harshness is never compatible with good intensions.
+			THBT children should be taught from young age that harshness is never compatible with good intensions
 		R2
-			THW tax male consumer more when they buy services/products from corporations with huge gender pay-gaps.
+			THW tax male consumer more when they buy services/products from corporations with huge gender pay-gaps
 		R3
 			THBT gay and lesbian communities should actively advocate against the idealization of monogamous romantic relationships
 		R4
-			THO retreatment of foreign capital from coal-fired power plant businesses in developing countries.
+			THO retreatment of foreign capital from coal-fired power plant businesses in developing countries
 		QF
-			THW legally require adtech giants(e.g. Facebook and Google) to pay traditional media organizations when sharing or displaying their content.
+			THW legally require adtech giants (e.g. Facebook and Google) to pay traditional media organizations when sharing or displaying their content
 		SF
 			THBT Lebanon should aim to abolish confessionalism
 				Lebanon’s political system is known as confessionalism. This parcels out political power according to sectarian quotas, with each sect usually led by one or several members of prominent political families. This is the product of a decades-old power-sharing arrangement among leaders of Lebanon’s 18 religious sects, the most important being the Sunni and Shia Muslims and Maronite Christians. In this system, political parties were formed along religious lines and each sect claimed different government ministries. It is under the domestic and international criticism following the economic crisis and a disasterous explosion at Beiruit.
 		GF
-			THBT the intimate ties between the MOF and banks centered around the main-bank system had done more harm than good to the Japanese economy.
-				The “main-bank system” was a unique feature of Japanese economy from the mid-1960s to the mid 1980s where the “main-banks” supported their borrowers through long-term relationships, sizable lending, and cross shared stocks.
-				Conventionally the bank that had the most lending to the firm took the roll of “main-bank”. The system was sustained not only with tradition, but also with leadership of the ministry of finance(Okura-sho) to sustain this system by regulating the capital market heavily so that banks engage mainly in commercial banking.
+			THBT the intimate ties between the MOF and banks centered around the main-bank system had done more harm than good to the Japanese economy
+				The "main-bank system" was a unique feature of Japanese economy from the mid-1960s to the mid 1980s where the "main-banks" supported their borrowers through long-term relationships, sizable lending, and cross shared stocks.
+				Conventionally the bank that had the most lending to the firm took the roll of "main-bank". The system was sustained not only with tradition, but also with leadership of the ministry of finance (Okura-sho) to sustain this system by regulating the capital market heavily so that banks engage mainly in commercial banking.
 				The link between the MOF and banks went beyond sustainance of the main-bank system to create mutually beneficial formal and informal ties where the MOF was able to nudge banks to commit to strategically important industries to foster export-led growth, while the banks were given protection from competition and failures.
 		Rookie SF
-			THW not punish people below the poverty line for economic crimes.
+			THW not punish people below the poverty line for economic crimes
 				Economic crime, also known as financial crime, refers to illegal acts committed by an individual or a group of individuals to obtain a financial or professional advantage.
 		Rookie GF
 			THR the romanticization of villains and antiheroes/antiheroines in literature, movie and other pop culture artifacts. (e.g. Joker in Batman; Thanos in the Avengers; Don Juan etc.)
 	JPDU Autumn Tournament 2019
 		R1
-			THR the rise of surveillance capitalism as a business model.
+			THR the rise of surveillance capitalism as a business model
 		R2
-			TH opposes the narrative that having a child is intrinsically fulfilling experience.
+			THO the narrative that having a child is intrinsically fulfilling experience
 		R3
-			Given a way to accurately measure an individual’s empathy, THW only allow individuals with high levels of empathy for people beyond their immediate circles, to vote in election.
+			Given a way to accurately measure an individual's empathy, THW only allow individuals with high levels of empathy for people beyond their immediate circles, to vote in election
 		R4
-			THS female vigilante groups in areas with chronically high rate of crimes against women(e.g. Gulabi Gang in India).
+			THS female vigilante groups in areas with chronically high rate of crimes against women (e.g. Gulabi Gang in India)
 		QF
-			THBT the U.S. government should cap copay for prescription drugs.
+			THBT the U.S. government should cap copay for prescription drugs
 				Copay is a fixed amount paid by a patient for receiving a particular health care service, with the remaining balance covered by the person’s insurance company.The Capping Prescription Costs Act of 2018 was introduced by Elizabeth Warren. The bill caps prescription drug copays at $250/month for individuals and $500/month for families. Any amount exceeding the cap will be covered by insurance companies.
 		SF
-			THBT the IMF should bail out countries heavily indebted to China only when they agree to cancel further infrastructure projects with China.
+			THBT the IMF should bail out countries heavily indebted to China only when they agree to cancel further infrastructure projects with China
 		GF
-			THBT Japanese government should stop memorialization of their soldiers’ deaths during WWⅡ.
+			THBT Japanese government should stop memorialization of their soldiers' deaths during WWⅡ
 		Rookie GF
-			THW ban extremist political parties.
+			THW ban extremist political parties
 	JPDU Autumn Tournament 2018
 		R1
 			THR the societal emphasis of charity/volunteering as a virtue
@@ -215,7 +270,7 @@ JPDU Tournament (BP)
 			THS active racebending which is favourable towards socially underprivileged races (i.e., African American, Asian)
 				Racebending is an act that changes character’s perceived race or ethnicity during the adoption of a work from one medium to another. (i.e., Black James Bond, White female Ancient One in Doctor Strange.)
 		R3
-			THW abolish all regulations against service industry (such as sanitary condition of the hotel or additional car license for cabbing) except for those related to immediate impact to one’s life
+			THW abolish all regulations against service industry (such as sanitary condition of the hotel or additional car license for cabbing) except for those related to immediate impact to one's life
 		R4
 			THBT the environmental movement should abandon the narrative of personal responsibility in favor of one which emphasizes institutional accountability
 		QF
@@ -225,7 +280,7 @@ JPDU Tournament (BP)
 			THBT Feminism movement should not celebrate Mohammed bin Salman
 				Mohammed bin Salman is the Crown Prince of Saudi Arabia. He has led the reform in Saudi Arabia including its religious policies, such as the removal of ban on female drivers. His leadership, however, is under the critique by human right groups due to the way of reformation
 		GF
-			TH prefers the world with one unified currency
+			THP the world with one unified currency
 		Rookie GF
 			THBT student loans should mandate repayment only to those who are capable of paying it back (incl. not limited to: have a stable job or be a child of wealthy parents)
 	JPDU Tournament 2017
@@ -239,31 +294,31 @@ JPDU Tournament (BP)
 		R4
 			THW prefer world in which outcomes of life (such as education, employment, etc.) is determined by machine intelligence rather than human free will
 		R5
-			THR the recent liberal trend to criticize western societies adoptintg non western culture i.e. music, fashion, or food.
-		Pre-Semi
+			THR the recent liberal trend to criticize western societies adoptintg non western culture i.e. music, fashion, or food
+		Pre Semi
 			THW only allow medical research and treatment for the specific purpose of pain alleviation and never for life prolongment or death prevention
 		SF
-			THW moonlight as an escort.
+			THW moonlight as an escort
 				You are young and successful female feminist leading a decent middle class life. You are eager to experience life to the fullest extent.
 		GF
-			THW use the weapon.
+			THW use the weapon
 				You are a commander and losing at war. In your possession is a weapon that ends the war in a victory. The cost of using this is the life of every soldier in the battlefield, including your own. You have no time to command them to evacuate.
 	34th JPDU Tournament (2016)
 		R1
-			THW mandate equal primetime coverrage for Paralumpic and Olympic games.
+			THW mandate equal primetime coverrage for Paralumpic and Olympic games
 		R2
-			THW prohibit the use of automated weapon systems.
+			THW prohibit the use of automated weapon systems
 		R3
-			THBT developed countries should not require developing countries to adhere to any environmental restrictions.
+			THBT developed countries should not require developing countries to adhere to any environmental restrictions
 		R4
-			THW allow pharmaceutical corporations to advertise prescription drugs directly to consumers.
+			THW allow pharmaceutical corporations to advertise prescription drugs directly to consumers
 		QF
-			TH, as South Korea, supports the invasion of North Korea.
+			TH, as South Korea, supports the invasion of North Korea
 		SF
-			TH, as a feminist, opposes Boob Aid.
-				Boob Aid is a charity event organized by Japanese TV show advocating “Stop! AIDS.” In this event, female porn stars allow participants to squeeze their bare breast in exchange for a donation to Japan Foundation for AIDS Prevention.
+			TH, as a feminist, opposes Boob Aid
+				Boob Aid is a charity event organized by Japanese TV show advocating "Stop! AIDS." In this event, female porn stars allow participants to squeeze their bare breast in exchange for a donation to Japan Foundation for AIDS Prevention.
 		GF
-			THW no longer fund arts.
+			THW no longer fund arts
 	32nd JPDU Tournament (2015)
 		R1
 			THW legalize dueling to the death
@@ -272,43 +327,43 @@ JPDU Tournament (BP)
 		R3
 			THBT feminist movement should never oppose Burka
 		R4
-			Given that 100% proof that (the) God(s) does NOT exist is discovered, THW never disclose the information, assuming it is possible
+			Given that 100% proof that (the) God (s) does NOT exist is discovered, THW never disclose the information, assuming it is possible
 		QF
-			TH supports tradable refugee quota as a solution to migrant crisis in EU Info: The European Commission proposed a quota system for distributing the responsibility for asylum seeker across EU member states. In this system states can sell all or part of their quotas to other states.
+			THS tradable refugee quota as a solution to migrant crisis in EU Info: The European Commission proposed a quota system for distributing the responsibility for asylum seeker across EU member states. In this system states can sell all or part of their quotas to other states
 		SF
-			THW forcibly remove poor people from inner city Info: Inner City – The term “inner city”is used as a term for lower-income residential districts like slum in the central area of a major city metropolis.
+			THW forcibly remove poor people from inner city Info: Inner City – The term "inner city"is used as a term for lower-income residential districts like slum in the central area of a major city metropolis
 		GF
 			THBT parents and educators should actively encourage children to invest in their physical appearance and attractiveness
 	30th JPDU Tournament (2014)
 		R1: WAKE UP CALL
-			TH, as women, would not shave/wax their body hair.
+			TH, as women, would not shave/wax their body hair
 		R2: NO ONE KNOWS
 			TH despises conceptual arts
 		R3: HELL YEAH
-			THBT the pope should declare that anyone guilty of sexually abusing a child will go to hell, without exception.
+			THBT the pope should declare that anyone guilty of sexually abusing a child will go to hell, without exception
 		R4: WHERE THE SUN RISES
-			THW ban the public depiction of the national flag of Imperial Japan.
+			THW ban the public depiction of the national flag of Imperial Japan
 		QF:
-			TH regrets the emergence of umbrella term “queer”.
+			THR the emergence of umbrella term "queer"
 		SF:
-			Assuming technology, THW make individuals physically incapable of committing all crimes.
+			Assuming technology, THW make individuals physically incapable of committing all crimes
 		GF:
-			THBT Scotland made the wrong decision.
+			THBT Scotland made the wrong decision
 	28th JPDU Tournament(2013)
 		R1
-			THBT schools should put students into classes according to their academic ability from the early stage of education.
+			THBT schools should put students into classes according to their academic ability from the early stage of education
 		R2
-			THW require the creators of artistic works which depict negative stereotypes of disenfranchised groups to pay a portion of their profits to those groups.
+			THW require the creators of artistic works which depict negative stereotypes of disenfranchised groups to pay a portion of their profits to those groups
 		R3
-			THBT the countries which militarily intervene in another country should receive a significant number of the people who are harmed in the conflict as refugees.
+			THBT the countries which militarily intervene in another country should receive a significant number of the people who are harmed in the conflict as refugees
 		R4
-			THW establish the independent commission of authorizing pornography which only consists of women.
-		Pre-QF
-			THBT the criminal cases should be tried by jury.
+			THW establish the independent commission of authorizing pornography which only consists of women
+		Pre QF
+			THBT the criminal cases should be tried by jury
 		QF
-			THBT in times of economic crisis, economic bodies should withhold information which may damage market confidence.
+			THBT in times of economic crisis, economic bodies should withhold information which may damage market confidence
 		SF
-			THBT in societies with rapidly increasing population, the state provision of welfare for family should be contingent upon the long-term, stable use of contraception.
+			THBT in societies with rapidly increasing population, the state provision of welfare for family should be contingent upon the long-term, stable use of contraception
 		GF
 			THBT tax evasion should be punished with the loss of citizenship
 	26th JPDU Tournament (2012)
@@ -320,11 +375,11 @@ JPDU Tournament (BP)
 			THBT liberal democratic countries should not set the limitation of accepting refugees from conflict
 		R4
 			THW fund state funding schools which exclusively admit LGBT students who choose to attend
-		Pre-QF
+		Pre QF
 			THW set quota representing poor in political arena
 		QF
-			THW allow all communities to use the ‘N-word’
+			THW allow all communities to use the 'N-word'
 		SF
-			THBT US should use military forces and secure border in order to achieve ‘Land for Peace’
+			THBT US should use military forces and secure border in order to achieve 'Land for Peace'
 		GF
-			TH supports popularism
+			THS popularism
