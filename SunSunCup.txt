@@ -1,4 +1,41 @@
 Sun Sun Cup
+	Sun Sun Cup 2025
+		R1
+			TH, as an Olympic athlete, W choose to participate in the Enhanced Games
+				OG $stats 1, 0, 0, 6
+				OO $stats 1, 4, 2, 0
+				CG $stats 1, 1, 5, 0
+				CO $stats 4, 2, 0, 1
+				Info: The multi-sport Enhanced Games (Enhanced Games) is a sports tournament that allows athletes to use performance-enhancing substances. Participants are permitted to use some substances/treatments that are banned from elite sport (e.g. anabolic steroids, growth hormones, testosterone, etc), but there will be some doping measures under medical supervision, such as banning cocaine and heroin. It is backed by billionaire Peter Thiel and large monetary incentives have been offered to athletes who compete and break records. The first event is planned to be held in Las Vegas, from 21-24 May 2026.
+		R2
+			THBT the feminist movement should prioritise the masculinisation of private spaces over the feminisation of public spaces in its advocacy
+				OG $stats 3, 0, 3, 1
+				OO $stats 0, 1, 1, 5
+				CG $stats 3, 1, 3, 0
+				CO $stats 1, 5, 0, 1
+				The masculinisation of private spaces refers to efforts to involve men in private life tasks (housework, care system, etc.).
+				The feminisation of public spaces refers to efforts to involve women in public life (taking positions of power, joining the work force, etc.).
+		R3
+			THR the trend of minimalism
+				OG $stats 0, 2, 2, 3
+				OO $stats 2, 2, 3, 0
+				CG $stats 2, 2, 1, 2
+				CO $stats 3, 1, 1, 2
+				Minimalism is a lifestyle that involves getting rid of unnecessary things and living with only what is truly essential.
+		GF
+			THS Japanese Universities implementing international tuition
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				Many countries, most notably the United States, implement a differential tuition model for higher education where international students pay substantially more than their domestic counterparts  (International tuition) . This disparity is especially pronounced in public universities, where it is not uncommon for tuition fees for international students to be as much as four times higher than those for in-state students.
+		Rainy GF
+			TH, as Elsa, W accept the request from Anna
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				In Frozen (the movie), Elsa, the newly crowned Queen of Arendelle, accidentally revealed her magical ice powers and fled into the mountains, escaping from the kingdom. Anna, her younger sister, chased after Elsa and requested her to come back to the kingdom. Although Anna is loyal to her sister, they have grown emotionally distant after years of separation, due to Elsa accidentally using her powers on Anna once. This has led to their bond being strained and uncertain.
 	Sun Sun Cup 2024 (10.12)
 		R1
 			THW ban zoo
@@ -54,13 +91,13 @@ Sun Sun Cup
 				You are an average level debater trying to lead a successful career. During your last year as a competitive debater, a skilled debater secretly tells you about an illegal performance enhancing drug called "the brownie". The illegal drug temporarily boost your debate skills, with the side effect being an insane addiction to debate competitions. The senpai tells you that all the top debaters take "the brownie" for some financial cost.
 	Sun Sun Cup 2021 (10.23)
 		R1:
-			THW grant young quota for parliament in aging society.
+			THW grant young quota for parliament in aging society
 		R2:
-			THBT actors from minority groups should not act as stereotypical characters of their own groups.
+			THBT actors from minority groups should not act as stereotypical characters of their own groups
 		R3:
-			THW not use public money on life extending medical care for people over certain age.
+			THW not use public money on life extending medical care for people over certain age
 		GF:
 			THBT people should have non-scientific way of understanding the world. (religion, myth, fortune telling, etc.)
 		SGF:
-			THR the glorification of objectivity in social discourse.
+			THR the glorification of objectivity in social discourse
 				Being objective in social discourse refers to putting strong emphasis on truth independent from individual subjectivity (bias caused by one's perception, emotions, or imagination).
