@@ -1,0 +1,63 @@
+Hit-U Intervarsity
+	Hit-U Intervarsity 2025
+		R1
+			THBT gay rights movements should denounce entertainment contents which feature same sex relationships produced by non-LGBT producer (e.g., BL comics produced by heterosexual woman)
+				OG $stats 3, 4, 3, 1
+				OO $stats 4, 3, 2, 2
+				CG $stats 3, 2, 3, 3
+				CO $stats 1, 2, 3, 5
+		R2
+			THP out-of-school youth policies that support non-formal education (e.g., alternative schools, homeschooling, vocational education, etc.), as opposed to reintegration to formal education
+				OG $stats 4, 2, 4, 1
+				OO $stats 3, 1, 3, 4
+				CG $stats 2, 5, 2, 2
+				CO $stats 2, 3, 2, 4
+				For the purposes of this debate, "out-of-school youth" refers to young people who do not currently attend formal education due to reasons such as chronic absenteeism, school refusal, expulsion, or voluntary withdrawal.
+		R3
+			TH predicts that the new leadership in South Korea and Japan will lead to a stronger trilateral security cooperation
+				OG $stats 0, 3, 1, 7
+				OO $stats 3, 1, 4, 3
+				CG $stats 3, 5, 3, 0
+				CO $stats 5, 2, 3, 1
+				Both South Korea and Japan saw a change in leadership in 2025: centre-left Lee Jae-myung was elected president in South Korea, and Sanae Takaichi of Japan's Liberal Democratic Party (LDP) became the country's prime minister. Up until now, there has been a gradual rapprochement between South Korea and Japan, and the security cooperation among the two countries and the US (referred to in the motion as "trilateral security cooperation") has been on the rise.
+		R4
+			THBT development organizations should prioritize sector specialization over country specialization
+				OG $stats 0, 5, 3, 1
+				OO $stats 3, 2, 3, 1
+				CG $stats 3, 1, 3, 2
+				CO $stats 3, 1, 0, 5
+				In international development, non-governmental organizations that receive development aid may pursue "sector specialization", focusing on one specific sector (such as healthcare, education, or job training) and implementing similar projects across multiple countries.
+				On the other hand, "country specialization" is a strategy whereby the organization engages across multiple sectors simultaneously but operates within a specific country.
+		R5
+			When deciding divorce asset division, THBT courts should exclude the fault of each spouse and make a judgment solely based on economic factors
+				OG $stats 3, 1, 7, 0
+				OO $stats 3, 3, 2, 3
+				CG $stats 1, 7, 1, 2
+				CO $stats 4, 0, 1, 6
+				In a divorce lawsuit, courts decide how to divide the assets jointly accumulated during the marriage between the spouses. It accounts for economic factors, including each spouse's financial and non-financial contributions, future needs, and debts. The court may adjust the division ratio to disadvantage the spouse deemed as at fault for the divorce (i.e., adjust from 5:5 to 6:4).
+		Pre SF
+			In democracies with one dominant political party, THBT it is in the interest of the opposition parties to prioritize value-driven advocacy (e.g. integrity, transparency, anti-corruption) rather than policy-driven advocacy (e.g. unemployment, education, the environment)
+				OG $stats 0, 2
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 1, 1
+		SF
+			THR the trend of large accounting firms (e.g., Deloitte, Ernst & Young (EY), Klynveld Peat Marwick Goerdeler (KPMG), and PricewaterhouseCoopers (PwC), etc.) expanding their business into management consulting
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 2, 0
+				CO $stats 0, 2
+		GF
+			THP a world with the widespread culture of indebtedness
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				For the purposes of this debate, the "culture of indebtedness" is an ethical norm that states "what you owe must be repaid". The application of the norm can range from interpersonal relationships to the collective identity of the community.
+		ESL GF
+			Under veil of ignorance, THW choose to be born with a high emotional sensitivity rather than with low emotional sensitivity
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				For the purposes of this debate, "emotional sensitivity" refers to the degree to which an individual perceives, internalizes, and reacts to emotional stimuli — both their own and others'.
