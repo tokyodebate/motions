@@ -1543,5 +1543,17 @@
             "region:Asia"
         ],
         "url": "International/HitUIV.txt"
+    },
+    {
+        "id": "GoldCup",
+        "name": "Gold Cup",
+        "short": "",
+        "latest": 2025,
+        "tag": [
+            "NA",
+            "open",
+            "region:Domestic"
+        ],
+        "url": "GoldCup.txt"
     }
 ]

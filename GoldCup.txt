@@ -1,0 +1,14 @@
+Gold Cup
+	Gold Cup 2025
+		R1
+			THW never negotiate with terrorists
+				Balance $stats 3, 2
+		R2
+			THBT two dimensional lover is better than three dimensional lover
+				Balance $stats 3, 2
+		R3
+			THR the normalization of cosmetic surgery in pop culture (e.g. comic, cartoon, games, J-pop, K-POP, movies, television, fashion, and social media etc)
+				Balance $stats 2, 3
+		GF
+			THP a world with Destiny Plan"
+				The Destiny Plan is a fictional social system that appears in the anime series Mobile Suit Gundam SEED DESTINY (機動戦士ガンダムSEED DESTINY). In this system, every individual is assigned their role in society based on their genetic traits. People’s careers, social positions, and even personal roles are determined by scientific analysis of their DNA. Once assigned, these roles cannot be changed, and personal choice or effort does not affect the assignment.
