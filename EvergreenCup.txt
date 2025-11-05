@@ -1,4 +1,62 @@
 Evergreen Cup
+	Evergreen Cup 2025
+		R1
+			THS a zero-tolerance policing strategy (e.g., immediate detention and return to guardians) towards minors congregating in areas like To-yoko
+				OG $stats 1, 7, 2, 1
+				OO $stats 4, 2, 4, 1
+				CG $stats 3, 2, 2, 4
+				CO $stats 3, 0, 3, 5
+				In recent years, there has been an increasing number of well-known gathering spots for teenagers and young people such as "To-yoko" (トー横) in Shinjuku (Tokyo), "Guri-shita"（グリ下）near Do-ton bori (Osaka Pref.), and "Don-yoko" （ドン横）in Nagoya (Aichi Pref.).
+				These areas have gained attention for issues such as youth homelessness, exploitation, and the lack of adult supervision. While some see it as a place of community and escape, it also highlights serious social problems, including child welfare concerns and the need for better support systems.
+		R2
+			TH, as you, W accept the offer
+				OG $stats 6, 2, 2, 1
+				OO $stats 2, 2, 5, 2
+				CG $stats 0, 2, 2, 7
+				CO $stats 3, 5, 2, 1
+				"You are a third year university student in Japan.  You have a friend in the same club who you have went on a date for two times.   You and your friend are deeply engaged in that club and you only belong to that club.  You are highly conscious about the Japanese norm of third date is the best timing for you to confess love.  However, you are not wiling to become a partner with that person but you are willing to be good friends with the person.  Now, you are offered to go on a third date next week.
+				"
+		R3
+			THBT the feminist movement should actively oppose the depiction of hairless female bodies as the norm in advertisements (e.g. hair removal and beauty product ads, actresses in commercials always shown without body hair)
+				OG $stats 2, 3, 3, 3
+				OO $stats 1, 5, 5, 0
+				CG $stats 2, 2, 3, 4
+				CO $stats 6, 1, 0, 4
+		R4
+			THBT Bundesliga should scrap the 50+1 rule
+				OG $stats 2, 2, 5, 2
+				OO $stats 4, 4, 0, 3
+				CG $stats 2, 2, 4, 3
+				CO $stats 3, 3, 2, 3
+				Bundesliga is the professional association soccer league in Germany and at the top of the German soccer league system The 50+1 rule is an informal term used to refer to a clause in the regulations of the Bundesliga.
+				The clause states that, in order to obtain a license to compete in the Bundesliga, a club and, by extension, the fans must hold a majority of its own voting rights. Football clubs will not be allowed to play in the Bundesliga if commercial investors have more than a 49 percent stake.
+		QF
+			THP a world where the narrative of the "test of God" does not exist
+				OG $stats 3, 1
+				OO $stats 2, 2
+				CG $stats 1, 3
+				CO $stats 2, 2
+				For the purpose of this debate, the "test of God" refers to the narrative in which religious followers are taught that their difficulties in life (such as personal struggles, relationship problems, economic hardship, or natural disasters) are tests of God through which their spiritual and emotional strengths are tested.
+		SF
+			Assuming feasibility, THW assassinate Putin
+				OG $stats 2, 0
+				OO $stats 1, 1
+				CG $stats 0, 2
+				CO $stats 1, 1
+		GF
+			THR the trend of "die alone efficiently"
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				In recent years, certain amount of people begin following the practice of "die alone efficiently" - the concept to finish your life alone without getting married or having children, and also trying to prevent causing others inconvenience by your death/terminal conditions.
+		Rookie GF
+			TH, as an average woman in Japan, Would rather live a life dedicated to a passionate "Oshi-katsu" than a life pursuing conventional success (e.g., career advancement, building a family)
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				Oshi-katsu (推し活) refers to activities that fans do to support or enjoy their favorite person or character (known as an oshi), such as attending events, buying merchandise, or engaging online. It's a flexible form of fandom, and while many people focus their passion on a single target, it's also common to change who they support (oshi-hen) or have multiple favorites over time.
 	2024
 		R1
 			THP a world where there is one dominant interpretation/ denomination of major religions, rather than separated sets of doctrines and beliefs
@@ -63,11 +121,11 @@ Evergreen Cup
 			THBT developing countries should require their citizens to work for a certain period of time in their country of origin after graduating from university
 		R4
 			THBT developing countries should require their citizens to work for a certain period of time in their country of origin after graduating from university
-		Open Pre-Semifinals
+		Pre SF
 			THS the increasing prevalence of nihilism among young people
-		Open Semifinals
+		SF
 			THBT NATO should actively accelerate the approval of Ukraine's membership to consolidate deterrence against Russia
-		Open GF
+		GF
 			THP a world in which the industrial revolution has not happened
 		Rookie Pre GF
 			THO organized religion (e.g. Christianity, Islam, Judaism)
@@ -75,11 +133,11 @@ Evergreen Cup
 			THBT after achieving an adequate level of financial stability, individuals should focus heavily on the service of others
 	2020
 		R1
-			Assuming feasibility, THW forcibly delete all soldiers’ memories of combat situations upon their discharge.
+			Assuming feasibility, THW forcibly delete all soldiers' memories of combat situations upon their discharge
 		R2
-			TH, as a PrettyCure(プリキュア), W actively use their powers to instill democracy in dictatorial regimes.
-				Pretty Cure(プリキュア) is a group of superheroes who, with the assistance of creatures known as fairies, use their magical powers(i.e. discharging a beam from their hands) and enhanced strength to fight against evil forces who bring misery to the Earth. They are also known as feminist icons. However, in these days Pretty Cure have been showing a variety of members, such as fairies, androids, and even boys. The essence of them lies in being dignified and brave in tackling difficulties, so they fight to protect everyone’s smile.
+			TH, as a PrettyCure (プリキュア), W actively use their powers to instill democracy in dictatorial regimes
+				Pretty Cure (プリキュア) is a group of superheroes who, with the assistance of creatures known as fairies, use their magical powers (i.e. discharging a beam from their hands) and enhanced strength to fight against evil forces who bring misery to the Earth. They are also known as feminist icons. However, in these days Pretty Cure have been showing a variety of members, such as fairies, androids, and even boys. The essence of them lies in being dignified and brave in tackling difficulties, so they fight to protect everyone’s smile.
 		R3
-			THBT developing countries should severely restrict the foreigner’s right to purchase real estate
+			THBT developing countries should severely restrict the foreigner's right to purchase real estate
 		GF
-			THW immediately return all treasures and artifacts to indigenous groups that originally possessed them.
+			THW immediately return all treasures and artifacts to indigenous groups that originally possessed them
