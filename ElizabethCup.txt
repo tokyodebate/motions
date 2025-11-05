@@ -1,4 +1,19 @@
 Elizabeth Cup
+	Elizabeth Cup 2025
+		1
+			THW provide welfare in the form of basic goods and services rather than cash payments
+				Balance $stats 19, 17
+		2
+			THP Momochan’s world over the current world
+				Balance $stats 17, 20
+				Momochan's world is a world where animals can talk to humans as well as to each other. In Momochan’s world, the intelligence level of the animals stays the same as in the current world.
+		3
+			THO the widespread use of generative AI (e.g. ChatGPT, Deepseek, etc.) as a person to consult your problems to
+				Balance $stats 12, 26
+		4
+			TH, as you, would pursue a romantic relationship with A
+				Balance $stats 22, 15
+				You are informed that your long time friend, A, has had a crush on you for a long time. You like A’s character and enjoy spending time with A. You are thankful that A has supported you during your recent breakup.
 	21th Elizabeth Cup (2024)
 		R1
 			THW make political voting mandatory
@@ -12,7 +27,7 @@ Elizabeth Cup
 		R4
 			THO "pay-to-win" games
 				Balance $stats 20, 12
-				"Pay-to-win" (課金制) is a model of games that are adopted by many online game companies. Although they are initially free to play, players can use money to gain significant advantages over their opponents and to upgrade their experience. An example of a "pay-to-win" game is social games (ソシャゲ) where you can buy items such as skins, weapons, abilities etc. 
+				"Pay-to-win" (課金制) is a model of games that are adopted by many online game companies. Although they are initially free to play, players can use money to gain significant advantages over their opponents and to upgrade their experience. An example of a "pay-to-win" game is social games (ソシャゲ) where you can buy items such as skins, weapons, abilities etc.
 	20th Elizabeth Cup (2023)
 		R1
 			THW impose a fat tax on unhealthy food
@@ -22,10 +37,10 @@ Elizabeth Cup
 				Balance $stats 20, 16
 		R3
 			Assuming feasibility, TH, as you, W go out with "A" rather than "B"
+				Balance $stats 15, 21
 				In this debate, you are an average person. You hope to marry the next person you go out with.
 				"A" is a widely-known famous celebrity (i.e. actor, idol) and you love A so much.
 				Your friend, "B",  is an average person. You have known "B" for a couple of years. You really like and can love "B", but less than "A".
-				Balance $stats 15, 21
 		R4
 			THBT students should have right to choose their teachers
 				Balance $stats 21, 15
