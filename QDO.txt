@@ -1,4 +1,60 @@
 Kyushu Debate Open
+	Kyushu Debate Open 2025
+		R1
+			THR the normalization of individualized entertainment
+				OG $stats 2, 1, 2, 4
+				OO $stats 4, 2, 3, 0
+				CG $stats 0, 1, 3, 5
+				CO $stats 3, 5, 1, 0
+				For the purposes of this debate, the normalization of individualized entertainment refers to the widespread cultural shift in which consuming entertainment became primarily a private, personal activity rather than a shared, collective one. 
+				This included the rise of portable and personal devices (e.g., Walkman, Game Boy, iPod, smartphones), the expectation that individuals carry their own sources of music, games, and media, and the embedding of these practices into everyday life such that private entertainment became the social norm across generations and societies.
+		R2
+			THP a world in which all pro league baseball teams in Japan follow the regional recruitment model
+				OG $stats 2, 2, 1, 4
+				OO $stats 3, 3, 3, 0
+				CG $stats 2, 1, 4, 2
+				CO $stats 2, 3, 1, 3
+				Currently in Japan’s Nippon Professional Baseball (NPB), players are recruited through a national draft. Any team can bid for any eligible player, and if multiple teams want the same player, a lottery decides who gets him. This means rosters are built from talent across the whole country, and while teams are regionally branded (e.g., Hanshin Tigers = Kansai, Hiroshima Carp = Hiroshima), their players are not necessarily local. Under a regional recruitment model, each team would only be allowed to sign players who were either born in, or spent much their youth in, that team’s designated region. For example, the Hiroshima Carp could only field players from Hiroshima Prefecture or nearby areas, and the Yomiuri Giants would be limited to talent from Tokyo.
+		R3
+			THS states pursuing the goal of energy self-sufficiency
+				OG $stats 2, 3, 3, 1
+				OO $stats 2, 5, 1, 1
+				CG $stats 1, 1, 2, 5
+				CO $stats 4, 0, 3, 2
+				For the purposes of this debate, energy self-sufficiency refers to a state’s ability to meet its domestic energy needs primarily through its own resources, without relying heavily on foreign imports. Policies that may be enacted to pursue this goal may include: expanding renewable energy (e.g., solar, wind, hydro), developing domestic fossil fuel reserves, investing in nuclear power, subsidizing local energy production, and imposing tariffs or restrictions on imported energy.
+		R4
+			THBT educational institutions should never attempt to restrict the freedom of expression of students or staff
+				OG $stats 1, 2, 4, 2
+				OO $stats 2, 3, 3, 1
+				CG $stats 5, 2, 0, 2
+				CO $stats 1, 2, 2, 4
+		QF
+			THP a world where religions did not attribute spiritual authority to sacred or holy sites
+				OG $stats 4, 0
+				OO $stats 0, 4
+				CG $stats 3, 1
+				CO $stats 1, 3
+		SF
+			THP to be born as an average citizen in Tokyo over rural Kyushu
+				OG $stats 2, 0
+				OO $stats 2, 0
+				CG $stats 0, 2
+				CO $stats 0, 2
+		Novice GF
+			THBT immigrant communities should embrace the "model minority" stereotype
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				For the purposes of this debate, the "model minority" stereotype refers to a social narrative in which certain immigrant or ethnic minority groups are portrayed as highly successful, law-abiding, hardworking, and academically or economically prosperous.
+		GF
+			TH predicts that the Middle East will go through another Arab Spring within the next decade
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				The Arab Spring refers to a series of mass protests, uprisings, and popular mobilizations that began in Tunisia in late 2010 and spread across the Middle East and North Africa. These movements were driven by frustration with authoritarianism, corruption, unemployment, and inequality.
+				For the purposes of this debate, an "Arab Spring" refers to a regional wave of large-scale grassroots uprisings seeking political change, regardless of whether they result in reforms, regime collapse, or state repression.
 	QDO 2024
 		R1
 			THO the "Fairness Doctrine" in journalism
@@ -54,95 +110,95 @@ Kyushu Debate Open
 				CO $stats 0, 1
 	QDO 2019
 		R1 Theme: Decent Work and Economic Growth
-			THR the dominance of networking culture in the workplace.
+			THR the dominance of networking culture in the workplace
 				Networking is the action or process of interacting with others to exchange information and develop professional or social contacts. Examples of networking events are buffet-style dinner party and workshops with group discussions.
 		R2 Theme: Peace, Justice and Strong Institutions
-			THW prohibit the use of predictive algorithms in criminal trials.
+			THW prohibit the use of predictive algorithms in criminal trials
 				Predictive analytics is the precess of using data analytics to make predictions based on big data (e.g. age, race, religion, gender). Judges can employ algorithms to predict the likelihood an offender will commit further crimes, their flight risk, and a handful of other factors. These outputs are then used to determine sentencing, bail, or whether to grant (or deny) parole.
 		R3 Theme: Reduced Inequalities
-			THBT social movements should abandon the tactic of publicly shaming individuals in order to accomplish change.
+			THBT social movements should abandon the tactic of publicly shaming individuals in order to accomplish change
 		R4 Theme: Environment (Clean Water and Sanitation, Responsible Consumption and Production, Climate Action, Life Below Water, Life on Land)
-			THW hold heads of corporations criminally liable for significant environmental damages caused by their corporations.
-		Open Quarter Finals Theme: Development (No Poverty x Industry, Innovation and Infrastructure x Sustainable Cities and Communities)
-			THBT developing countries should require their citizens to work for a minimum period of time in their country of origin after graduating from university.
-		Open Semi Finals Theme: Quality Education x Gender Equality
-			TH, as a parent, would teach their daughters to embrace the ideal of the “independent women”.
+			THW hold heads of corporations criminally liable for significant environmental damages caused by their corporations
+		QF Theme: Development (No Poverty x Industry, Innovation and Infrastructure x Sustainable Cities and Communities)
+			THBT developing countries should require their citizens to work for a minimum period of time in their country of origin after graduating from university
+		SF Theme: Quality Education x Gender Equality
+			TH, as a parent, would teach their daughters to embrace the ideal of the "independent women"
 				The ideal of the ‘independent women’ refers to the ideal that a woman ought to be entirely self sufficient, and should not have to receive external validation to feel good about herself and to be able to achieve success. This ideal pushes the notion that being financially and environmentally independent is best for women.
-		Grand Final
-			THBT we should prioritize policies that seek to help people currently alive, over those that seek tomprotect the future.
+		GF
+			THBT we should prioritize policies that seek to help people currently alive, over those that seek tomprotect the future
 		Rookie GF Theme: Quality Education
-			THR the narrative that university education is the primary path to success.
+			THR the narrative that university education is the primary path to success
 	QDO 2018
 		R1
-			THBT developed countries should pay developing countries to protect ecologically important land and/or waters from economic exploitation(e.g. deforestation, mining, fishing).
+			THBT developed countries should pay developing countries to protect ecologically important land and/or waters from economic exploitation (e.g. deforestation, mining, fishing)
 		R2
-			TH rejects all narratives that depict insect-jisatsu as honorable.
+			TH rejects all narratives that depict insect-jisatsu as honorable
 		R3
-			Assuming the development of AI medical robots that are proven to perform better than human doctors,THW conceal all incidents of medical accidents caused by AI.
+			Assuming the development of AI medical robots that are proven to perform better than human doctors,THW conceal all incidents of medical accidents caused by AI
 		R4
-			THW institute quota for female leaders in academic institutions/organizations.
-		Pre-QF
-			THBT it is never justified to assassinate state-sponsored scientists and researchers conducting research about weapons of mass destruction.
+			THW institute quota for female leaders in academic institutions/organizations
+		Pre QF
+			THBT it is never justified to assassinate state-sponsored scientists and researchers conducting research about weapons of mass destruction
 		Novice SF
-			THS the complete freedom of movement for refugees.
+			THS the complete freedom of movement for refugees
 		QF
-			THBT LGBTQ+ activists in non-Western countries should use and advocate for LGBTQ+ rights and individuals using their local historical terms instead of Western terminology.
-				Non-Western countries have rich histories and communities of non-binary/LGBTQ+ individuals, including mahjie(Singapore), Jathil(Indonesia), calabai(Bugis), cult of Tu’er Shen(China), Hijra(India), among others.
+			THBT LGBTQ+ activists in non-Western countries should use and advocate for LGBTQ+ rights and individuals using their local historical terms instead of Western terminology
+				Non-Western countries have rich histories and communities of non-binary/LGBTQ+ individuals, including mahjie (Singapore), Jathil (Indonesia), calabai (Bugis), cult of Tu’er Shen (China), Hijra (India), among others.
 		SF
-			THW hold bystanders of all sexual harassment liable for their failure to help.
+			THW hold bystanders of all sexual harassment liable for their failure to help
 		Novice GF
-			THBT educational institutions in developed countries should mandate a year-long work/study-abroad program in a developing country for their students.
+			THBT educational institutions in developed countries should mandate a year-long work/study-abroad program in a developing country for their students
 		GF
-			THR the stigmatization of outsourcing eldercare* in Asian societies.
+			THR the stigmatization of outsourcing eldercare* in Asian societies
 				*sending your parents to assisted care facilities retirement communities
 	QDO 2017
-		Round1
-			THR the media focus on the gender of successful female professionals. (i.e. “female” president, “female” scientist).
-		Round2
-			In liberal democracies where Catholicism is a prominent religion, THBT governments should mandate the Catholic Church to denounce and remove verses used by communities to forward violence and discrimination.
-		Round3
-			THW disallow the state practice of naturalizing foreign athletes to serve on national sports teams.
-		Round4
-			THBT the international community should abandon attempts to denuclearize North Korea.
-		Oct-final
-			In times of crisis, THBT the state should withhold information that may damage public confidence.
-		Quater-final
-			THW permit employers to fire employees who publicly demonstrate politically extremist ideologies.
-		Semi-final
-			TH supports the establishment of citizen-initiated recall election procedures to remove elected officials.
-		Grand-final
-			Motion: As the officer, THW resign.
+		R1
+			THR the media focus on the gender of successful female professionals. (i.e. "female" president, "female" scientist)
+		R2
+			In liberal democracies where Catholicism is a prominent religion, THBT governments should mandate the Catholic Church to denounce and remove verses used by communities to forward violence and discrimination
+		R3
+			THW disallow the state practice of naturalizing foreign athletes to serve on national sports teams
+		R4
+			THBT the international community should abandon attempts to denuclearize North Korea
+		Oct-GF
+			In times of crisis, THBT the state should withhold information that may damage public confidence
+		Quater-GF
+			THW permit employers to fire employees who publicly demonstrate politically extremist ideologies
+		SF
+			THS the establishment of citizen-initiated recall election procedures to remove elected officials
+		GF
+			Motion: As the officer, THW resign
 				Situation/Info slide: You are a respected, high-ranking, heterosexual officer in the military. In the past, you have publicly advocated for LGBT rights within the army and have worked hard to improve how they are treated. A newly elected conservative government has enacted a ban on LGBT’s serving in the army.
 		Rookie Semi
-			THW make all salaries and employment terms publicly accessible.
+			THW make all salaries and employment terms publicly accessible
 		Rookie GF
-			THBT schools should prioritize character development over academic performance.
+			THBT schools should prioritize character development over academic performance
 	Kyushu Cup 2016 SUB-TOURNAMENT
-		Round 1
+		R1
 			THW eliminate all grades-based university scholarships
-		Round 2
+		R2
 			TH, as feminist, would support cheerleading
-		Round 3
+		R3
 			THW require voters to pass a competency test before voting in elections
 	Kyushu Cup 2016 MAIN TOURNAMENT
-		Round 1
+		R1
 			THW remove the Olympic quota system
 				Under the Olympic quota system, every country is usually only allowed to send a maximum of 1 or 2 athletes per event, depending on the sport. This rule applies even if the same country produces many athletes in the top world rankings of their respective sport. Sports that apply the Olympic quota system include wrestling, swimming, badminton etc.
-		Round 2
-			TH regrets the prevalence of financial ties between universities and corporations (e.g. research, job hunting workshop, etc.)
-		Round 3
+		R2
+			THR the prevalence of financial ties between universities and corporations (e.g. research, job hunting workshop, etc.)
+		R3
 			THBT Facebook should actively try to prevent a Trump presidency
-		Round 4
+		R4
 			THBT any official inter-government resolution of war atrocities must receive the approval of victims
-		Quarter-Finals
+		QF
 			THW allow individuals pay the state to buy exemption from compulsory military service
-		Semi-Finals
+		SF
 			THBT recidivism should not be an aggravating factor in criminal sentencing
 				An aggravating factor is any fact or circumstance that increases the severity or culpability of a criminal act. Aggravating factors include recidivism, lack of remorse, amount of harm to the victim, or committing the crime in front of a child, among many others
-		Novice Grand Finals
+		Novice GF
 			Assuming the technology exists, THW allow individuals to erase their own memory
-		Grand Finals
-			THBT feminist movement should abandon the narrative of ‘‘choice’’ as its metric of empowerment
+		GF
+			THBT feminist movement should abandon the narrative of ''choice'' as its metric of empowerment
 	Kyushu Cup 2015 Sub Tournament
 		R1
 			THW prohibit the sexualization of adolescent celebrities
@@ -151,14 +207,14 @@ Kyushu Debate Open
 		R3
 			THW impose university entrance quota for marginalized minorities
 		GF
-			TH regrets the rise of animal right activism
+			THR the rise of animal right activism
 	Kyushu Cup 2015 Main Tournament
 		R1
 			THBT former colonizer nations should return artifacts of significant cultural heritage to places of their origin
 		R2
 			THW impose strict liability on the state in cases of epidemic outbreaks (e.g. MERS, Ebola, SARS, etc)
 		R3
-			THBT public universities should only offer majors that are deemed to be in the society’s interest
+			THBT public universities should only offer majors that are deemed to be in the society's interest
 		R4
 			THW ban the development of artificial intelligence technologies that can learn to do complex tasks and thus would cause human labor to be unnecessary
 		QF
@@ -166,33 +222,33 @@ Kyushu Debate Open
 		SF
 			As governments in states where Ashley Madison is operational, THW shut down Ashley Madison
 		Rookie GF
-			TH supports the right to commit suicide
+			THS the right to commit suicide
 		GF
-			TH regrets the acceptance of political correctness as a social norm in western liberal democracies
+			THR the acceptance of political correctness as a social norm in western liberal democracies
 	Kyushu Cup 2014 Sub Tournament (NA style)
 		R1: Corporate Culture
-			THW make the board of executives criminally liable if their workers commit suicide due to overwork.
+			THW make the board of executives criminally liable if their workers commit suicide due to overwork
 		R2: Spirit of Sports
-			THW prohibit developing countries from hosting international sporting events.
+			THW prohibit developing countries from hosting international sporting events
 		R3: Providing Perspectives
-			THW oblige the media to publish the story of criminals from criminals’ perspectives.
+			THW oblige the media to publish the story of criminals from criminals' perspectives
 		R4: Female’s Fashion
-			THBT the feminist movement should oppose fashionable burka.
+			THBT the feminist movement should oppose fashionable burka
 				Burka is becoming more fashionable than before it includes burka with modern, fashionable designs and new ways of wearing burka.
 	Kyushu Cup 2014 Main Tournament (BP style)
-		Round 1: Contemporary Communication
-			TH regrets the prevalence of smart phones in youth culture.
-		Round 2: Proper Politics
-			THW not indicate party affiliation of candidates during elections.
-		Round 3: Designing Disney
-			As feminists, THBT Disney should feature a slutty princess.
-		Round 4: Hello Heintz
-			Assuming he stole the medicine, THW not press criminal charges against Heinz.
+		R1: Contemporary Communication
+			THR the prevalence of smart phones in youth culture
+		R2: Proper Politics
+			THW not indicate party affiliation of candidates during elections
+		R3: Designing Disney
+			As feminists, THBT Disney should feature a slutty princess
+		R4: Hello Heintz
+			Assuming he stole the medicine, THW not press criminal charges against Heinz
 				Heinz’s wife is terminally ill. A researcher invented a medicine which has a high possibility to cure, but it is extremely expensive as it costs 10 times more than the cost that is required to make the medicine. He tried to gather the money by every measure possible, and got ½ of the money required. He then negotiated with a researcher (including an offer to pay the rest later) but the researcher rejected by saying he wants to make money out of it as he developed it. Without the medicine, Heinz’s wife will die for sure very soon.
-		Pre-Semi Final: Interesting International Issues
-			THBT Israel’s ground invasion into Gaza is justified.
+		Pre SF: Interesting International Issues
+			THBT Israel's ground invasion into Gaza is justified
 		Semi Fina: My Minor
-			THW grant minors the right to euthanasia without the need of parental consent.
-		Grand Final: Right Right
-			THW recognize the individual’s right to be forgotten.
-				The right to be forgotten is a concept that has been discussed and put into practice in the EU in the context of the internet (such as social networking sites / search engines). The issue has arisen from the desires of some individuals to “determine the development of his life in an autonomous way, without being perpetually or periodically stigmatized as a consequence of a specific action performed in the past”.
+			THW grant minors the right to euthanasia without the need of parental consent
+		GF: Right Right
+			THW recognize the individual's right to be forgotten
+				The right to be forgotten is a concept that has been discussed and put into practice in the EU in the context of the internet (such as social networking sites / search engines). The issue has arisen from the desires of some individuals to "determine the development of his life in an autonomous way, without being perpetually or periodically stigmatized as a consequence of a specific action performed in the past".
