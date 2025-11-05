@@ -1,16 +1,16 @@
 Elizabeth Cup
 	Elizabeth Cup 2025
-		1
+		R1
 			THW provide welfare in the form of basic goods and services rather than cash payments
 				Balance $stats 19, 17
-		2
+		R2
 			THP Momochan’s world over the current world
 				Balance $stats 17, 20
 				Momochan's world is a world where animals can talk to humans as well as to each other. In Momochan’s world, the intelligence level of the animals stays the same as in the current world.
-		3
+		R3
 			THO the widespread use of generative AI (e.g. ChatGPT, Deepseek, etc.) as a person to consult your problems to
 				Balance $stats 12, 26
-		4
+		R4
 			TH, as you, would pursue a romantic relationship with A
 				Balance $stats 22, 15
 				You are informed that your long time friend, A, has had a crush on you for a long time. You like A’s character and enjoy spending time with A. You are thankful that A has supported you during your recent breakup.

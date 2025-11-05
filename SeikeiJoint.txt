@@ -1,12 +1,12 @@
 Seikei Joint
 	Seikei Joint 2025
-		1
+		R1
 			THBT social media does more harm than good(e.g. Tiktok, X, Instagram etc...)
 				Balance $stats 9, 8
-		2
+		R2
 			THW deprive the elderly of their driver’s license in Japan
 				Balance $stats 8, 9
-		3
+		R3
 			THBT choosing a career based on money is better than a career based on passion
 				Balance $stats 8, 9
 	Seikei Joint 2024

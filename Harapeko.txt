@@ -1,7 +1,7 @@
 Harapeko Cup
 	Harapeko Cup 2025
 		R1
-			This House opposes the rapid expansion of fast food chains in developing countries.
+			THO the rapid expansion of fast food chains in developing countries.
 				Balance $stats 7, 6
 		R2
 			TH, as Cafe Harapeko, would focus on quick service (having time limits to seats, focusing on takeouts) rather than maintaining its current style (letting customers linger).
