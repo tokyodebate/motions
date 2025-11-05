@@ -1,4 +1,46 @@
 Icho Cup
+	16th icho cup 2025
+		R1
+			TH, as parents of an academically gifted child, W choose not to grade-skip their child at any grade level
+				Balance $stats 14, 18
+		R2
+			THBT when forming human relationships, one should assume that, people are fundamentally bad than good
+				Balance $stats 13, 19
+		R3
+			THBT free trade does more harm than good to the developing countries
+				Balance $stats 14, 18
+				Free trade is a policy where countries trade with each other without barriers like tariffs, quotas, or other restrictions.
+		R4
+			THBT big companies should a female quota for their incoming employees
+				Balance $stats 16, 16
+		OF
+			THP a world without anger
+				Balance $stats 6, 2
+		QF
+			THBT membership in crime syndicates should be criminalized
+				Balance $stats 1, 3
+				Crime syndicates are groups such as yakuzas, mafias, and gangs. Oftentimes, the people who actually commit crimes (e.g. kidnapping, drug trafficking, and fraud) are members from relatively poor communities, and they are not the bosses of the organizations.
+		SF
+			THP deterministic beliefs as a coping mechanism contrary to free will
+				Balance $stats 1, 1
+				For the purpose of this debate "deterministic beliefs" refer to the idea that individuals behaviors and experiences (such as mental illness) are ultimately shaped by factors beyond their control (e.g.genetics, enviornment,trauma).
+				In contrast, "Belief in free will" refers to the belief that individuals have meaningful control over their choices and actions. A coping mechanism is a psychological strategy or belief system that individuals use to manage stress, emotional pain, or hard situations in life.
+		GF
+			THP a world where the dominant narrative portrayed in entertainment media is the "collective action" rather than "chosen one"
+				Balance $stats 1, 0
+				In popular media, the "Chosen One Narrative" refers to stories where a single character’s unique abilities or destiny gives them significant agency in overcoming challenges, making them solely responsible for the success or failure of a revolution or quest. (e.g., Harry Potter, Star Wars, The Matrix).In contrast, collective action narratives depicts ordinary individuals standing against overwhelming odds through teamwork and shared responsibility. (e.g., Les Misérables, with its citizens' rebellion, or A Bug's Life, where small insects unite against oppressors)
+		Novice QF
+			THBT people should focus more on developing their personal strengths than trying to overcome weaknesses
+				Balance $stats 3, 1
+		Novice SF
+			THW legalize sports betting
+				Balance $stats 1, 1
+				Sports betting is a major source of income for various sports ranging from established ones such as soccer to less popular ones such as horseracing and boat racing. For example, in the English Football League, sponsorships from betting firms were valued at around £40 million.
+		Novice GF
+			TH, as you, W choose to quit school and pursue a professional career as a Muay Thai player
+				Balance $stats 0, 1
+				Muay Thai, often called "Thai boxing," is the national sport of Thailand. It's incredibly popular and deeply ingrained in Thai culture. Becoming a champion can bring significant fame. However, this dream often involves starting training at a very young age, intense physical effort, and skipping school.
+				You are a young individual dreaming to become a Muay Thai player.
 	15th Icho Cup (2024)
 		R1
 			THBT developing countries should require citizens to work in their home country for a certain period of time after graduating from university
@@ -33,7 +75,7 @@ Icho Cup
 		SF
 			THR the existence of "wall of shame" in Peru
 				Balance $stats 0, 2
-				Wall of shame in Peru refers to a wall built for approximately 10 kilometers on a hill southeast of the capital, Lima.  The wall completely separates the area with rich and middle-income people living on one side, and poor people living on the other side. The wall was built by rich to improve public security by preventing the poor to come into their areas.  Between these two areas, there is a significant difference in the living environment including but not limited to infrastructure.
+				Wall of shame in Peru refers to a wall built for approximately 10 kilometers on a hill southeast of the capital, Lima. The wall completely separates the area with rich and middle-income people living on one side, and poor people living on the other side. The wall was built by rich to improve public security by preventing the poor to come into their areas. Between these two areas, there is a significant difference in the living environment including but not limited to infrastructure.
 		GF
 			TH, as you, W publicly accuse your friend of doping
 				Balance $stats 1, 0
@@ -63,32 +105,32 @@ Icho Cup
 			THBT the environmental movement should take more radical action in the fight against climate change (e.g., blocking roads, vandalism, blowing up pipelines etc.)
 		Novice GF: "I'm Japanese" "Oh, Sushi!"
 			THR the narrative that one should be true to their culture
-				“Being True To Your Culture” is embracing and preserving the traditions, values, customs, and practices that are characteristic of a particular group or community. It involves showing respect for one's cultural heritage and identity, and often involves participating in activities, rituals, and behaviors that are in line with that culture's norms and beliefs.
+				"Being True To Your Culture" is embracing and preserving the traditions, values, customs, and practices that are characteristic of a particular group or community. It involves showing respect for one's cultural heritage and identity, and often involves participating in activities, rituals, and behaviors that are in line with that culture's norms and beliefs.
 	Icho Cup 2022
 		R1:
-			THW legalize organ transplant for profit.
+			THW legalize organ transplant for profit
 		R2:
-			THW set mandatory retirement age for all politicians.
+			THW set mandatory retirement age for all politicians
 		R3:
-			THW introduce a separate category for female researchers in academic accolades (e.g. Noble Prize for women).
+			THW introduce a separate category for female researchers in academic accolades (e.g. Noble Prize for women)
 		R4:
-			THBT developing countries should prioritize vocational education over higher education.
+			THBT developing countries should prioritize vocational education over higher education
 		OOF:
-			THBT Twitter does more harm than good.
+			THBT Twitter does more harm than good
 		OQF:
-			Assuming feasibility, THP a world where all artworks are anonymous.
+			Assuming feasibility, THP a world where all artworks are anonymous
 		OSF:
-			THR the rise of startup culture.
+			THR the rise of startup culture
 				"Startup culture" encourages young people to start their own businesses over pursuing more traditional career paths.
 		OGF
-			THP a world where children are raised communally.
-				For the purposes of this debate, "raised communally" means that from shortly after their birth, children are taken from their birth parent(s) and raised together with other children by their wider community. Parental duties such as providing food, housing, education and other forms of care are shared between members of that community.
+			THP a world where children are raised communally
+				For the purposes of this debate, "raised communally" means that from shortly after their birth, children are taken from their birth parent (s) and raised together with other children by their wider community. Parental duties such as providing food, housing, education and other forms of care are shared between members of that community.
 		NQF:
-			THBT social media has done more harm than good for democracy.
+			THBT social media has done more harm than good for democracy
 		NSF:
-			THBT medical patent protections should be suspended during a healthcare crisis.
+			THBT medical patent protections should be suspended during a healthcare crisis
 		NGF:
-			TH, as you, would use the technology to recreate your deceased family member.
+			TH, as you, would use the technology to recreate your deceased family member
 				You are an individual who has lost your one and only family member who you had loved deeply. Years have passed, and you are still unable to get over the grief. One day, you come across a technology that is able to recreate deceased individuals as non-sentient Als. This AI can imitate deceased loved ones in appearance, personality and mannerisms.
 	2021
 		R1
@@ -96,25 +138,25 @@ Icho Cup
 		R2
 			THW allow terminally ill patients to take medicines that haven't completed clinical testing
 		R3
-			Assuming feasibility, THW erase society's memory and evidence of the criminal past of former convicts after their release from prison.
+			Assuming feasibility, THW erase society's memory and evidence of the criminal past of former convicts after their release from prison
 		R4
-			THBT super-aging society should prioritize the influx of immigrants rather than incentivizing their citizens to give birth.
+			THBT super-aging society should prioritize the influx of immigrants rather than incentivizing their citizens to give birth
 		Novice QF
 			Assuming feasibility, THW erase the sense of fear from soldiers
 		Novice SF
 			THBT multinational corporations operating in developing nations should be compelled to follow the strict environmental standards of western liberal democracies
 		Novice GF
-			TH Prefers a world without the commercialization of sports.
+			THP a world without the commercialization of sports
 				Commercialization is the process of bringing new products or services to market. The commercialization of sports is that aspect of the sports enterprise that involves the sale, display, or use of sport or some aspect of sport so as to produce income.
 		OF
 			Assuming feasibility, THW erase the sense of fear from soldiers
-		Quarterfinals
+		QF
 			THBT multinational corporations operating in developing nations should be compelled to follow the strict environmental standards of western liberal democracies
-		Semifinals
-			THBT femvertising does more harm than good for feminist movements.
+		SF
+			THBT femvertising does more harm than good for feminist movements
 				"Femvertising" is a type of advertising that employs pro-female talents, messages and imagery to empower women and girls.
-		Grand Final
-			In times of national crisis (e.g. natural disaster, health crisis, economic crisis), THW actively promote the narrative that individuals should make a sacrifice for the collective good.
+		GF
+			In times of national crisis (e.g. natural disaster, health crisis, economic crisis), THW actively promote the narrative that individuals should make a sacrifice for the collective good
 	2020
 		R1
 			THW allow students to choose their teachers
@@ -124,62 +166,62 @@ Icho Cup
 			THW criminalize gang memberships
 		R4
 			THBT all public servants should have the right to strike
-		Pearl Pre-Quarterfinals
+		Pearl Pre QF
 			THW allow clinical trials which intentionally infect healthy, consenting individuals with COVID-19 in the effort to develop a vaccine
-		Diamond Quarterfinals
+		Diamond QF
 			THW legalize euthanasia for all terminally ill patients
-		Pearl Quarterfinals
+		Pearl QF
 			THBT the Headmaster/Headmistress of Hogwarts School of Witchcraft and Wizardry should abolish the house system
-				Hogwarts School of Witchcraft and Wizardry is a fictional school of magic that appears in the Harry Potter franchise. When students enter the school at age 11, they are sorted by a sentient magic hat (known as The Sorting Hat) into one of 4 “houses”, groups in which they remain for the next 7 years of their education. The houses are each affiliated with a trait (Bravery, Intelligence, Loyalty, and Ambition), and the Sorting Hat has the ability to look into the minds of the students and sort them, without failure, into the house which most fits their temperament and aptitude. As students eat, sleep, and study with their housemates, assigned houses largely define their social circles and school lives. Students are awarded/penalized “points” for their achievements and misbehaviors, and the houses compete to see which group has the most points at the end of the year
-		Diamond Semifinals
-			THW allow the use of performance enhancing drugs in professional sports.
-		Pearl Semifinals
+				Hogwarts School of Witchcraft and Wizardry is a fictional school of magic that appears in the Harry Potter franchise. When students enter the school at age 11, they are sorted by a sentient magic hat (known as The Sorting Hat) into one of 4 "houses", groups in which they remain for the next 7 years of their education. The houses are each affiliated with a trait (Bravery, Intelligence, Loyalty, and Ambition), and the Sorting Hat has the ability to look into the minds of the students and sort them, without failure, into the house which most fits their temperament and aptitude. As students eat, sleep, and study with their housemates, assigned houses largely define their social circles and school lives. Students are awarded/penalized "points" for their achievements and misbehaviors, and the houses compete to see which group has the most points at the end of the year
+		Diamond SF
+			THW allow the use of performance enhancing drugs in professional sports
+		Pearl SF
 			THBT all social media should be completely demetricated
 				Social media demetrication is the process of removing all metrics such as likes, number of followers etc. from all posts and accounts.
-		Diamond Grand Final
+		Diamond GF
 			THP a world without marriage
-		Pearl Grand Final
-			This House Supports a permanent move to online tertiary education
+		Pearl GF
+			THS a permanent move to online tertiary education
 	2019
 		R1
-			THW introduce a female quota in parliament.
+			THW introduce a female quota in parliament
 		R2
-			TH opposes peace education that uses shocking graphic images of war victims.
+			THO peace education that uses shocking graphic images of war victims
 		R3
 			THW ban sacrilegious arts
-				To make this motion clear, “”Sacreligous art”” is art which severely insults a religion or their God.
+				To make this motion clear, ""Sacreligous art"" is art which severely insults a religion or their God.
 		R4
-			THBT developing states should prioritize the education for the mass over the education for creating elites.
-		Double-Oct Finals
-			THW require individuals to pass a general knowledge test in order to gain the right to vote.
-		Oct Finals
-			TH supports the usage of violence by environmental campaign groups to achieve their goals.
-		Quarter Finals
-			THW offer dictators immunity in return for leaving power.
-		Semi Finals
-			THW abolish labor unions and labor protections during times of economic crisis.
-		Grand Final
-			TH prefers a world without religion.
+			THBT developing states should prioritize the education for the mass over the education for creating elites
+		DOF
+			THW require individuals to pass a general knowledge test in order to gain the right to vote
+		OF
+			THS the usage of violence by environmental campaign groups to achieve their goals
+		QF
+			THW offer dictators immunity in return for leaving power
+		SF
+			THW abolish labor unions and labor protections during times of economic crisis
+		GF
+			THP a world without religion
 	2018
 		R1
-			THW ban negative campaigning in political elections.
+			THW ban negative campaigning in political elections
 		R2
-			THW force doctors to tell the true condition of illnesses directly to patients.
+			THW force doctors to tell the true condition of illnesses directly to patients
 		R3
 			THW force religious schools to provide sex education. (including contraception and existence of abortion)
 		R4
-			THBT social media (i.e. Facebook, Twitter, etc.) should actively remove content that they deem to be fake news from their platforms.
+			THBT social media (i.e. Facebook, Twitter, etc.) should actively remove content that they deem to be fake news from their platforms
 		Double-Oct
-			THBT CEOs of large corporations should be selected by employees rather than shareholders.
+			THBT CEOs of large corporations should be selected by employees rather than shareholders
 		OF
-			THW nationalize pharmaceutical industry.
+			THW nationalize pharmaceutical industry
 				Pharmaceutical industry is made of companies that discover, develop, produce and market drugs as different types of medicine.
 		QF
-			THW ban all non essential forms of cosmetic surgery.
+			THW ban all non essential forms of cosmetic surgery
 		SF
-			THW monitor sex offenders with GPS technology.
+			THW monitor sex offenders with GPS technology
 		GF
-			THW prohibit slum tourism.
+			THW prohibit slum tourism
 				Slum tourism is a type of tourism that involves visiting and seeing impoverished areas.
 	2017
 		R1
@@ -188,17 +230,17 @@ Icho Cup
 			THW never bail out big failing companies
 		R3
 			THW legalize surrogacy for profit
-				Surrogacy is a method or agreement whereby a woman agrees to carry a pregnancy for another person or persons, who will besome the newborn child’s parent(s) after birth. It is currently taking place mainly in developing countries, such as in Southeast Asia, South Asia and Latin America.
+				Surrogacy is a method or agreement whereby a woman agrees to carry a pregnancy for another person or persons, who will besome the newborn child’s parent (s) after birth. It is currently taking place mainly in developing countries, such as in Southeast Asia, South Asia and Latin America.
 		R4
 			THW ban animal experiments
-		Pre-OF
+		Pre OF
 			THBT medeia should not report the news on suicide (including but not limited to one by famous individuals)
 		QF
-			THBT developing country should not host international sporting events.
+			THBT developing country should not host international sporting events
 		SF
 			THW abolish plea-bargaining
 		GF
-			THBT opinion polls do more harm than good for democracy.
+			THBT opinion polls do more harm than good for democracy
 	2016
 		R1
 			THW establish exclusive schools for the LGBTQ
@@ -208,14 +250,14 @@ Icho Cup
 			THBT Japan should actively attract and accept mass immigration
 		R4
 			THW give more votes to the young
-		Pre-OF
+		Pre OF
 			In case of a life-threatening illness or injury, THW NOT allow parents to deny medical treatment to their children on religious grounds
 		OF
 			THW criminalize the payment of ransom to terrorist groups
 		QF
 			In countries where abortion is legal, THW ban the use of technology to check whether the fetuses have disability or not
 		SF
-			THW ban all  porngraphy
+			THW ban all porngraphy
 		GF
 			THW legalize active euthanasia for anyone who wishes to die (not limited to terminally ill patients)
 	2015
@@ -228,7 +270,7 @@ Icho Cup
 			THW legalize the usage of all recreational drugs including but not limited to marijuana, cocaine, and MDMA
 		R4
 			THW ban the consumption of meat
-		Pre-OF
+		Pre OF
 			THW prohibit corporations from accessing the criminal records of their job applicants
 		OF
 			THW reduce welfare support on compulsive gamblers
@@ -240,89 +282,89 @@ Icho Cup
 			THW legalize the buying and selling of sexual services (i.e. prostitution)
 	2014
 		R1
-			THW ban all forms of physical corporal punishments in school.
+			THW ban all forms of physical corporal punishments in school
 		R2
-			THW prohibit prisoners from publishing books of their crime.
+			THW prohibit prisoners from publishing books of their crime
 		R3
-			THBT sex tourism does more harm than good in developing countries.
+			THBT sex tourism does more harm than good in developing countries
 				Sex tourism is a form of travel planned specifically for the purpose of prostitution. Sex tourism is often promoted by the state to encourage tourists from wealthy nations.
 		R4
-			THW ban sacrificing animals on religious grounds.
+			THW ban sacrificing animals on religious grounds
 		OF
-			THW allow the police to use racial profiling.
+			THW allow the police to use racial profiling
 				Racial profilig is a police-initiated action that relies on race. ex:.Police questions a pedestrian on the basis of race.
 		QF
-			THW prohit all pools/baths(sentos) that are open to public from rejecting customers with tatoo
+			THW prohit all pools/baths (sentos) that are open to public from rejecting customers with tatoo
 				Recently, tattoo is gaining popularity as a fashion, a way to express identity. Still, many people perceive the image of being related to gangs, or criminal organizations as true in some cases.
 		SF
-			Assuming that the goverment owns individuals’ information (such as ethnic background, criminal record,wedding experience,etc,) THW allow individuals to know any information about their partner before marriage without his/her consent.
+			Assuming that the goverment owns individuals' information (such as ethnic background, criminal record,wedding experience,etc,) THW allow individuals to know any information about their partner before marriage without his/her consent
 		GF
-			THW ban religious political parties.
+			THW ban religious political parties
 	2013
 		R1
-			THBT students should bully each other during classes as a part of moral education curriculum.
+			THBT students should bully each other during classes as a part of moral education curriculum
 		R2
-			You have a crush on someone. In order to be in a relationship with him/her, you want to ask for help. THBT you sould seek advice from the same gender as yourself than the gender of the person you have a crush on.
+			You have a crush on someone. In order to be in a relationship with him/her, you want to ask for help. THBT you sould seek advice from the same gender as yourself than the gender of the person you have a crush on
 		R3
-			THW give more votes to the poor.
+			THW give more votes to the poor
 		R4
-			THW force religious schools to provide sex education (including contraception and existence of abortion).
+			THW force religious schools to provide sex education (including contraception and existence of abortion)
 		R5
-			THBT lifestyle factors (such as smoking and obesity) should be a legitimate reason for employment.
+			THBT lifestyle factors (such as smoking and obesity) should be a legitimate reason for employment
 		OF
-			THW erase criminal records of individuals who have been punished.
+			THW erase criminal records of individuals who have been punished
 		QF
-			THBT beauty contest does more harm than good for women.
+			THBT beauty contest does more harm than good for women
 		SF
-			THBT the media should not disclose ethnic backgrounds of individuals who were convicted of violent crimes.
+			THBT the media should not disclose ethnic backgrounds of individuals who were convicted of violent crimes
 		GF
-			In a country where euthanasia is legalized, THW legalize dueling to death based on consent.
+			In a country where euthanasia is legalized, THW legalize dueling to death based on consent
 	2012
 		R1
-			THW prohibit children from being engaged in professional sports.
+			THW prohibit children from being engaged in professional sports
 		R2
-			THBT it is better for entrance examinee of university to make boyfriends/girlfriends.
+			THBT it is better for entrance examinee of university to make boyfriends/girlfriends
 		R3
-			THW allow public servants to strike.
+			THW allow public servants to strike
 		R4
-			THBT political parties should make their pre-election promises binding, the breaking of which would trigger immediate elections.
+			THBT political parties should make their pre-election promises binding, the breaking of which would trigger immediate elections
 		OF
-			THW ban advertisement of junk foods.
+			THW ban advertisement of junk foods
 		QF
-			THBT doctors from developing countries should not be allowed to migrate to developing countries.
+			THBT doctors from developing countries should not be allowed to migrate to developing countries
 		SF
-			THW ban political lobbying.
+			THW ban political lobbying
 		GF
-			THBT developing countries should nationalize natural resources.
+			THBT developing countries should nationalize natural resources
 	2011
 		R1
-			THW allow grade skipping in compulsory education.
+			THW allow grade skipping in compulsory education
 		R2
-			THBT when dating for the first time, it is better to date someone with a lot of dating experience than someone who has never dated before.
+			THBT when dating for the first time, it is better to date someone with a lot of dating experience than someone who has never dated before
 		R3
-			THW legalize child labor in developing countries.
+			THW legalize child labor in developing countries
 		R4
-			THW ban animal sports.
+			THW ban animal sports
 		OF
-			THW set a quota on females in the board of directors of business corporations.
+			THW set a quota on females in the board of directors of business corporations
 		QF
-			THW prohibit candidates from committing personal attacks during elections (negative campaign).
+			THW prohibit candidates from committing personal attacks during elections (negative campaign)
 		SF
-			THW ban the broadcasting of suicide.
+			THW ban the broadcasting of suicide
 		GF
-			THW allow the torturing of terrorists after being found guilty.
+			THW allow the torturing of terrorists after being found guilty
 	2010
 		R1
-			THW allow surrogacy for profit.
+			THW allow surrogacy for profit
 		R2
-			THBT summer is better than winter for university student couples.
+			THBT summer is better than winter for university student couples
 		R3
-			THW impose chemical castration on sex offenders.
+			THW impose chemical castration on sex offenders
 		R4
-			THW ban all animal testing.
+			THW ban all animal testing
 		QF
-			THW charge citizens for the use of ambulances.
+			THW charge citizens for the use of ambulances
 		SF
-			THW never bail out any big failing companies.
+			THW never bail out any big failing companies
 		GF
-			THW directly elect Prime Ministers.
+			THW directly elect Prime Ministers
