@@ -1,4 +1,112 @@
 Gemini Cup
+	Gemini Cup 2025
+		R1
+			THBT it is in the interest of the Catholic Church to liberalise (e.g. WGM right, compatibility with science)
+				Balance $stats 1, 0, 10
+				Veto $stats 7, 4, 20
+			THBT the secularization of religious celebrations (e.g. Halloween, Hatsumode) is in the religious organization's interest
+				Balance $stats 4, 1, 10
+				Veto $stats 1, 3, 20
+			THP a world where people don't possess selfishness
+				Balance $stats 0, 4, 10
+				Veto $stats 2, 3, 20
+		R2
+			THO commercial animal cafes
+				Balance $stats 1, 4, 10
+				Veto $stats 4, 2, 20
+			THP a world where humans had a 'half full' disposition to world where humans have a 'half empty' disposition
+				Balance $stats 0, 3, 10
+				Veto $stats 3, 6, 20
+				For the purpose of this debate, humans can have two dispositions when imagining how things could be different. The 'half empty' disposition involves imagining that things could be better. The 'half full' disposition involves imagining that things could be worse. These dispositions do not solely apply to how things could change in the future, but also to potential counterfactuals. e.g.)if they were imagining how their life might be different, a 'half empty' person would imagine that it could be happier or rich but on the other hand a 'half full' person would imagine that it could have been much unhappier or poor.
+			TH, as you, W take the suggestion
+				Balance $stats 0, 2, 10
+				Veto $stats 3, 2, 20
+				You are a boy and were born on a remote island, to a couple of zoologists from an aristocratic family. Unfortunately, during a field study, a ferocious leopard attacked and killed your parents. You were rescued by a female gorilla and raised as her child, the same as her other baby gorillas. For 20 years, you got used to the environment thanks to your mother gorilla, but at the same time you understood that you were not a real gorilla but a different species.
+				Your mother gorilla feels sorry for having raised you as a different species. One day, you happened to meet another zoologist who had come to this island, and you realized that you were human. As the zoologist shows you human civilization, you feel gradually closer to it. The zoologist suggested that you could go back to your original home to live as a human with your nice relatives who has long worried about your safety.
+				In this debate, we assume that once you choose, you can never go back to the island or  your relatives.
+		R3
+			THP "Imprisonment"over "Detention" as a form of punishment in Japanese criminal justice system
+				Balance $stats 1, 5, 10
+				Veto $stats 2, 2, 20
+				Under the system of "Imprisonment", all inmates were obligated to engage in specific forms of labor within the prison. In contrast, under the "Detention" system, labor is no longer mandatory. Instead, prisons are now able to design and implement rehabilitation programs tailored to each inmate’s individual needs.Examples of such rehabilitation programs include playing musical instruments to enhance cognitive functions, having open conversations with prison staff, or participating in activities like board games and choir singing to learn how to interact with others.
+				Under both systems, the maximum amount of time inmates can be required to engage in labor or rehabilitation programs is limited to eight hours per day.
+			THP a world where only the buyer of illegal sexual services are criminalized as opposed to only the seller
+				Balance $stats 1, 1, 10
+				Veto $stats 6, 3, 20
+			THP a world where all suspects of groping are forced to undergo criminal trial
+				Balance $stats 0, 2, 10
+				Veto $stats 2, 5, 20
+				For the purpose of this debate groping (in japanese 痴漢) refers to non-consentingly and inappropriately touching or fondling another person.  In vast majority of instances in the status quo groping is solved through the suspect paying money outside the court to avoid being sued by the victim.  In many cases out of court settlement involves several promises between the suspect and the victim such as confidentiality obligation.
+		R4
+			Assuming you are capable of being assigned in either lab, THW choose Lab A over Lab B
+				Balance $stats 2, 2, 10
+				Veto $stats 6, 0, 20
+				You are an average university student who majors in chemistry,and it’s about time to decide which research lab to join. Here, you have two options.
+				Lab A) Prioritize compatibility with professors and atmosphere of the lab - you have tea breaks everyday, core time is not that strict and you like the professor very much (so-called white lab), but you are not interested in the research subjects at all.
+				Lab B) Prioritize research subjects - although this lab is a so-called black lab with very long core time, high expectations of commitment and the professors are also strict, you are attracted to the research subject and advantageous to job hunting / future career.
+			TH, as the player, Would fight against the AI
+				Balance $stats 1, 1, 10
+				Veto $stats 1, 7, 20
+				You are the world's most renowned player of a mind sport (e.g., Chess, Go, Shogi), and you are undefeated in your official career.
+				Recently, an AI has been developed that is hailed as being overwhelmingly stronger than any human player, capturing significant media attention. The AI's creator has issued a public challenge to you via social media to face the AI in a high-profile match.
+				This match will be livestreamed globally on major television networks and social media platforms. This is a one-time opportunity; if you decline, you will never get another chance to play against this AI.
+			TH, as the parent, W publicly expose the past bullying incident and the school's inadequate handling of it through social media on the eve of the "Koshien"
+				Balance $stats 1, 3, 10
+				Veto $stats 3, 3, 20
+				You are the parent of a son who was a member of a prestigious and historically dominant high school baseball team, renowned for producing professional players. Your son was forced to transfer schools due to severe bullying and physical assault from senior teammates.
+				You reported the incident to the school, believing the perpetrators and the coaching staff would face consequences. The school's investigation confirmed the bullying occurred, but their only action was to issue a formal warning. No one was punished.
+				Now, time has passed. The same coaches are still in charge, and the team—led by the very players who were the perpetrators—has just qualified for "Koshien," the prestigious national high school baseball championship which receives massive media coverage. Your son never talks about Koshien and appears to be adjusted at his new school.
+		Pre SF
+			THBT tech companies should provide long-term support for legacy versions of their widely adopted AI models（e.g. GPT-4o）
+				Balance $stats 0, 0, 2
+				The #keep4o movement is a grassroots campaign initiated by users and developers who rely on OpenAI's GPT-4o model. Following the announcement of its successor, GPT-5, and a planned deprecation timeline for GPT-4o, the movement emerged to pressure OpenAI into providing continued, long-term support for the older model. Proponents of #keep4o argue that GPT-4o possesses a unique "creative spark," reliability, and predictable behavior that they claim the newer, more "optimized" GPT-5 lacks. They also highlight the costs and labor required to migrate their established applications and workflows to a new system with different characteristics. OpenAI maintains that supporting legacy models is unsustainable and that GPT-5 is superior on all key performance benchmarks.
+			THP that the AI industry adopt an approach of responsible production rather than prohibition in handling AI-generated porn
+				Balance $stats 1, 1, 2
+				Veto $stats 0, 0, 4
+			THBT multinational corporations should keep large amount of internal reserves, instead of focusing on current investments and shareholder returns
+				Balance $stats 0, 0, 2
+				Internal reserves refers to funds that a company sets aside for future use, typically to manage fluctuations in profits or to meet specific future needs. It's a way for a company to build up financial strength and cushion against potential risks or opportunities.
+		SF
+			THBT the premium placed on debate recoding when improving debating skills has done more harm than good
+				Balance $stats 1, 0, 2
+				Veto $stats 1, 0, 4
+			THR the narraive that "Justice will always conquer"
+				Balance $stats 0, 0, 2
+			THS the pessimistic view towards perfectionism
+				Balance $stats 0, 1, 2
+				Veto $stats 0, 1, 4
+		GF
+			THR the supreme court decision
+				Balance $stats 0, 0, 1
+				The film "From Miyamoto to you" had initially been approved to receive a public grant under Japan’s Culture and Art Promotion Budget Subsidy, administered by the Japan Arts Council. Subsequently, the Council’s chairperson reversed the decision, denying the grant on the grounds that a cast member had a final criminal conviction under the Narcotics and Psychotropics Control Act, arguing that funding the film would harm "public interest".  Supreme Court of Japan ruled the denial as unlawful, resulting in the film receiving the subsidy.
+			TH, as the feminist movement, would actively condemn and campaign against the use of feminist rhetoric by right-wing nationalist parties (i.e., femonationalism)
+				Balance $stats 0, 1, 1
+				Veto $stats 0, 0, 2
+				Femonationalism is a political term describing a strategy where right-wing nationalist or populist movements use the language and concepts of feminism to advance their own agendas, which are often anti-immigrant or xenophobic. This rhetoric is typically used to frame a specific group, often immigrants (particularly from Muslim-majority countries), as an external threat to the nation's "progressive" values and the safety of "native" women (e.g. "We cannot endorse any immigration policy that fails to first guarantee the safety and security of our nation's women.").
+			THBT humanity has a moral obligation on veganism
+				Balance $stats 0, 0, 1
+		Rookie SF
+			THBT emerging influencers should not do egosurfing in social media
+				Balance $stats 0, 1, 2
+				Veto $stats 0, 0, 4
+				Egosurfing is the practice of searching for your own name, username, or your work on the internet to see what information is available about yourself or what others are saying about you.
+			THR the rise of K-pop in Japan
+				Balance $stats 0, 0, 2
+			THBT the rise of dark humorous contents (e.g. きょういくばんぐみ) does more harm than good
+				Balance $stats 1, 0, 2
+				Veto $stats 1, 0, 4
+				"きょういくばんぐみ (kyo-iku bangumi)", catchy SNS content reminiscent of NHK’s educational shows, depicts themes of social maladjustment, life weariness, and anxiety with dark humor. This content is popular among the younger generation, with pop-up stores and its theme song ranking first on the Spotify chart, etc. The main character, Tama, is an adorable but introverted and maladjusted animal. In this anime, however, harsh modern society overwhelms Tama, causing him severe depression, including self-injury and bloody scenes in which he kills others who blame him.
+		Rookie GF
+			THR the popularlization of the term "ikumen"
+				Balance $stats 0, 0, 1
+				Ikumen is a Japanese term that comes from "ikuji" (childcare) and "men" (man). This word refers to men, particularly fathers, who take an active role in childcare and housework
+			THR the narrative of ""I'm just a girl.""
+				Balance $stats 0, 0, 1
+				The ""I'm just a girl"" narrative is a phrase used to imply vulnerability or dependence, often reflecting traditional gender roles. In pop culture, songs like No Doubt's ""I'm Just a Girl"" critique these roles, while social media trends such as ""girl dinners"" or ""girl math"" portray women embracing stereotypical femininity and often include the nuance of irony.  Additionally, women in films and TV are frequently shown in need of rescue or guidance. Conversely, men are often expected to be more forgiving of women's perceived flaws or mistakes and are pressured to fulfill protective roles, reinforcing these dynamics.
+			THBT the slogan of "No to BMI starting with 1 or weight starting with 4" is in the interest of "Kenko Taikei" ("healthy body") movement
+				Balance $stats 1, 0, 1
+				Veto $stats 0, 0, 2
+				"Kenko Taikei" ("healthy body") trend was an online movement in Japan that promoted maintaining a body considered "healthy" rather than extremely thin or highly muscular. It was often associated with slogans of "No to BMI starting with 1 or weight starting with 4"
 	Gemini Cup 2023
 		R1
 			THW divide electorates in representative democracy based on age group/generation rather than region
@@ -65,7 +173,7 @@ Gemini Cup
 			THP a world in which a Plumbob indicating the mental and physical health of each person exists
 				Balance $stats 1, 0, 2
 				Veto $stats 0, 1, 4
-				For the purpose of this debate, the "Plumbob" is a glowing crystal that is suspended above each individuals' head and is a fairly accurate reflection of the people's current health. If the person is in very good health, the Plumbob will be a bright, deep green. As the people's health deteriorates, the green will become paler until it becomes neutral white, yellow, orange, red, and even deeper shades of red when in worse conditions. 
+				For the purpose of this debate, the "Plumbob" is a glowing crystal that is suspended above each individuals' head and is a fairly accurate reflection of the people's current health. If the person is in very good health, the Plumbob will be a bright, deep green. As the people's health deteriorates, the green will become paler until it becomes neutral white, yellow, orange, red, and even deeper shades of red when in worse conditions.
 				Plumbobs do not simply reflect one's momentary mood.
 			THP the Brave New World to the status quo
 				Balance $stats 0, 0, 2
@@ -93,237 +201,230 @@ Gemini Cup
 				Balance $stats 0, 0, 1
 	Gemini Cup 2022
 		R1
-			THS the existence of female vigilante groups in developing countries.
-			TH, as a climate activist, W oppose Japan's efforts to restart aging thermal power plants amid the ongoing power shortage crisis.
-			THR social movements delegitimizing what people say, due to their lack of lived experiences on the subject.
-
+			THS the existence of female vigilante groups in developing countries
+			TH, as a climate activist, W oppose Japan's efforts to restart aging thermal power plants amid the ongoing power shortage crisis
+			THR social movements delegitimizing what people say, due to their lack of lived experiences on the subject
 		R2
-			THBT debaters should not pursue persuasiveness of their speeches at the expense of factual correctness.
+			THBT debaters should not pursue persuasiveness of their speeches at the expense of factual correctness
 			Assuming technology, THP a world in which individuals can buy and sell their natural talents and traits. (e.g. Athletic ability, Intelligence, Musical Talent)
-			THP a world in which Recall regularly records and distributes memories at a global scale.
+			THP a world in which Recall regularly records and distributes memories at a global scale
 				Recall is a supernatural phenomenon that records a copy of the recent memories of a randomly chosen target without their knowledge. It then remotely implants this copy in the memory of a second randomly chosen target, who upon recalling the memory experiences it in the same way as the person from which it was recorded (e.g. they have the same emotional response to that memory).
-				
 		R3
-			THO disaster capitalism.
+			THO disaster capitalism
 				Disaster capitalism refers to when private interests descend on a particular region in the wake of major destabilizing events, such as war, government upheaval, and natural disaster. An example of disaster capitalism is after the Earthquake and Tsunami in South Asia where developers seized land to build resorts and other ventures while local farmers and residents were evacuating their homes.
-			THR surveillance capitalism.
+			THR surveillance capitalism
 				Surveillance capitalism is the monetization of data captured through monitoring people's movements and behavior online and in the physical world. Consumer surveillance is most commonly used for targeted marketing and advertising. Marketers combine demographic information with data about people's online activities (e.g. search activity, websites visited, posts and conversations in social media) to focus marketing efforts where they are most likely to be met with success. In more direct monetization, many companies also sell customer data to partners and other third parties.
-			THBT developing countries should heavily prioritise the massive construction of infrastructure over the direct provision of financial benefit (including but not limited to cash, subsidies for education and medicine) to citizens.
-
+			THBT developing countries should heavily prioritise the massive construction of infrastructure over the direct provision of financial benefit (including but not limited to cash, subsidies for education and medicine) to citizens
 		R4
-			THO the spread of self diagnose of mental health.
-			THBT doctors should report all suspected cases of domestic violence.
-			THO the creation of saviour babies.
+			THO the spread of self diagnose of mental health
+			THBT doctors should report all suspected cases of domestic violence
+			THO the creation of saviour babies
 				A saviour baby is a child who is born in order to provide a stem cell transplant to a sibling that is affected with a fatal disease, such as cancer. By using gene testing technology, the baby is ensured to have genes that make the transplant successful.
-				
-		Open QF
-			THW ban art glorifying suicide. (e.g. 夜に駆ける(Yoru-ni-kakeru), 13 Reasons Why)
-			In post-conflict contexts, TH prefers the creation of art with messages of unity and hope, rather than art that seeks to commemorate previous or current suffering.
-			THR that the celebration of opulence is a prominent theme within minority art. (e.g. ""I Get Money"" by 50 cent, ""I’m So Paid"" by Akon)
-
-		Open SF
+		QF
+			THW ban art glorifying suicide. (e.g. 夜に駆ける (Yoru-ni-kakeru), 13 Reasons Why)
+			In post-conflict contexts, THP the creation of art with messages of unity and hope, rather than art that seeks to commemorate previous or current suffering
+			THR that the celebration of opulence is a prominent theme within minority art. (e.g. ""I Get Money"" by 50 cent, ""I'm So Paid"" by Akon)
+		SF
 			THW require tech start-ups to guarantee the right to repair. (including but not limited: providing replacement parts, not adopting design features to prevent repairs, and publishing repair information)
-				Social movements such as iFixit have been fighting for a “right to repair”. The main goal of these movements is granting people the ability to repair their own devices by providing the necessary knowhow and tools. Recently, there have been several lawsuits in which consumers have sued companies for disabling self-repairs and in 2022, Apple announced the Self Service Repair Programme, in which they provide repair tools and manuals for their users.
-			In the context of US-China Tech Decoupling, TH, as Taiwan, would align exclusively with the US rather than continue a relationship with China.
+				Social movements such as iFixit have been fighting for a "right to repair". The main goal of these movements is granting people the ability to repair their own devices by providing the necessary knowhow and tools. Recently, there have been several lawsuits in which consumers have sued companies for disabling self-repairs and in 2022, Apple announced the Self Service Repair Programme, in which they provide repair tools and manuals for their users.
+			In the context of US-China Tech Decoupling, TH, as Taiwan, would align exclusively with the US rather than continue a relationship with China
 				Tech decoupling refers to the decrease in interdependence of the US and Chinese technology supply chains. This encompasses export/import controls and pressuring firms to diversify manufaturing plants. Taiwan, which includes the world's largest contract semiconductor producers, is under pressure to pick a side in the US-China rivalry for technological supremacy. The decoupling has also posed big questions for TSMC and other Taiwanese corporations on whether to commit themselves to the larger US market, or to the faster-growing China.
-			THS the rise of distributed social networks.
+			THS the rise of distributed social networks
 				A distributed social network (e.g. Mastodon, Diaspora) is an open source technology that allows individuals to easily duplicate and establish their own social networking platforms. These platforms exist as alternatives to established social media services, such as Facebook or Twitter.
-
-		Open GF
-			THS the establishment of an independent nation for indigenous Americans within the territory of the US, the founding of which is supported by the American government.
-			THS the creation of charter cities in developing nations.
-				“Charter Cities"" are tracts of uninhabited land set aside by host nations that would be semi-autonomous and administered by a developing third-party government. Citizens of the host nation could move in and out as they so desire. In recent years, Honduras has explored the option of establishing a charter city administered by the Canadian government.
-			THS the use of forced population transfers that create separate, ethnically homogenous states as a solution to prolonged ethnic conflict.
-
+		GF
+			THS the establishment of an independent nation for indigenous Americans within the territory of the US, the founding of which is supported by the American government
+			THS the creation of charter cities in developing nations
+				"Charter Cities"" are tracts of uninhabited land set aside by host nations that would be semi-autonomous and administered by a developing third-party government. Citizens of the host nation could move in and out as they so desire. In recent years, Honduras has explored the option of establishing a charter city administered by the Canadian government.
+			THS the use of forced population transfers that create separate, ethnically homogenous states as a solution to prolonged ethnic conflict
 		Rookie GF
-			THW abolish the 60-vote rule.
-				In the US Senate, there is a rule that 60 out of 100 votes are needed to end debate and move to a vote on a bill, (60-vote rule) so that in principle, the final voting process happens after constructive discussions and necessary inter-party concessions.  By utilizing this rule, an opposing minority of at least 41 members can prevent the passage of a bill by voting to not end debate on a bill, even if a supporting majority of at least 51 members could later pass it.
-			THBT former colonizer countries should accept higher numbers of refugees even when faced with democratic opposition.
-			THBT local municipalities in developing countries should allocate significant portions of their budget via Participatory Budgeting.
+			THW abolish the 60-vote rule
+				In the US Senate, there is a rule that 60 out of 100 votes are needed to end debate and move to a vote on a bill, (60-vote rule) so that in principle, the final voting process happens after constructive discussions and necessary inter-party concessions. By utilizing this rule, an opposing minority of at least 41 members can prevent the passage of a bill by voting to not end debate on a bill, even if a supporting majority of at least 51 members could later pass it.
+			THBT former colonizer countries should accept higher numbers of refugees even when faced with democratic opposition
+			THBT local municipalities in developing countries should allocate significant portions of their budget via Participatory Budgeting
 				Participatory budgeting (PB) is a type of citizen sourcing in which ordinary people decide how to allocate part of a municipal or public budget through a process of democratic deliberation and decision-making. Under a PB scheme, a sample of the public is selected to engage in discussions to draw up a budget with the help of experts.
 	Gemini Cup 2021
 		R1
-			THP developmental dictatorship over democracy in developing countries.
-			THR the use of mockery by left-wing media in covering the far right.
-			THW give parents additional votes to vote on behalf of their children.
+			THP developmental dictatorship over democracy in developing countries
+			THR the use of mockery by left-wing media in covering the far right
+			THW give parents additional votes to vote on behalf of their children
 		R2
-			THBT the internet has brought us closer to achieving a communist utopia.
-			THP a world where individuals believe that all course of events are predetermined to occur.
-			THO the narrative that it is desirable to repress strong emotions.
+			THBT the internet has brought us closer to achieving a communist utopia
+			THP a world where individuals believe that all course of events are predetermined to occur
+			THO the narrative that it is desirable to repress strong emotions
 		R3
-			TH, as the eSports community, P larger but more spaced apart balance patches to smaller, more frequent ones.
+			TH, as the eSports community, P larger but more spaced apart balance patches to smaller, more frequent ones
 				Balance patches are updates that are released by game developers which change game mechanics and balance, as well as occasionally add new content. They are usually aimed to make strong characters/strategies weaker and vice versa to maintain the balance and fairness of the game.
-			THBT the Bundesliga should abolish the “50+1 rule”.
+			THBT the Bundesliga should abolish the "50+1 rule"
 				The "50+1 rule" is an informal term used to refer to a clause in the regulations of the German Football League (the Bundesliga). The clause states that, in order to obtain a license to compete in the Bundesliga, the club's fans must hold a majority of its own voting rights.
-			THW establish quotas for immigrants on national sports teams.
+			THW establish quotas for immigrants on national sports teams
 		R4
-			THS the narrative that all cops are bastards.
+			THS the narrative that all cops are bastards
 				All cops are bastards (ACAB, 1312, etc.) is a slogan which originated in British crime/prison culture, and is considered a hate symbol against police officers. In the wake of the murder of George Floyd, this slogan has seen increased use by protestors and activists.
-			THBT the state should pay reparations to individuals convicted in the past for actions that are no longer recognized as a crime.
+			THBT the state should pay reparations to individuals convicted in the past for actions that are no longer recognized as a crime
 			THW force priests to report the confession of serious crimes to the police
 				A confession is an occasion when a Christian tells a priest, formally and privately, what they have done wrong so that they can be forgiven.
 		QF
-			You are an author who is trying to warn against climate change. Rather than write a dystopian sci-fi novel on the aftermath of climate change, THW write a similar fantasy novel (magic brooms instead of hovercrafts, spells instead of laser guns, etc) where using magic slowly but irreversibly harms the Earth.
-			THR the success of white artists who use cultural modes of expression that come from minority cultures (e.g. Rap, Jazz, Hip-hop, etc.).
-			THBT the feminist movement should actively support #NotAllMen.
+			You are an author who is trying to warn against climate change. Rather than write a dystopian sci-fi novel on the aftermath of climate change, THW write a similar fantasy novel (magic brooms instead of hovercrafts, spells instead of laser guns, etc) where using magic slowly but irreversibly harms the Earth
+			THR the success of white artists who use cultural modes of expression that come from minority cultures (e.g. Rap, Jazz, Hip-hop, etc.)
+			THBT the feminist movement should actively support #NotAllMen
 		SF
-			TH, as the EU, W remove Hungary from the EU.
+			TH, as the EU, W remove Hungary from the EU
 				Hungary has repeatedly violated EU principles since Orbán Viktor became prime minister. For example, it expanded the prime minister's authority indefinitely, seized control of the domestic media and regulated freedom of expression, cracked down on minorities, and passed an anti-LGBT law in June. It has also strengthened ties with China and Russia. The EU has imposed sanctions and recommendations on Hungary since 2018, but has not improved and continues to crack down on democracy.
-			THBT the United States should pursue aggressive containment of China (e.g. economic sanctions, diplomatic threats, remilitarization of South China Sea and Japan, countering China's influence in various regions).
-			TH, as Malala, W focus on activism pushing the Taliban government to be more progressive rather than criticizing its existence.
+			THBT the United States should pursue aggressive containment of China (e.g. economic sanctions, diplomatic threats, remilitarization of South China Sea and Japan, countering China's influence in various regions)
+			TH, as Malala, W focus on activism pushing the Taliban government to be more progressive rather than criticizing its existence
 		GF
-			As a country with a large cosmetic surgery industry (i.e. Korea), THW nationalize the cosmetic surgery industry.
-			THW require the consent of any twin siblings in addition to the patient when storing genetic information in public databanks.
-			Assuming vaccines for Covid-19 are widely accessible to everyone, THBT hospitals should deprioritize Covid-19 patients who are willingly unvaccinated in emergency care.
+			As a country with a large cosmetic surgery industry (i.e. Korea), THW nationalize the cosmetic surgery industry
+			THW require the consent of any twin siblings in addition to the patient when storing genetic information in public databanks
+			Assuming vaccines for Covid-19 are widely accessible to everyone, THBT hospitals should deprioritize Covid-19 patients who are willingly unvaccinated in emergency care
 	Gemini Cup 2020
 		R1
 			THW allow pro-life organisations to pay women considering abortion to carry their pregnancies to term
 			THBT feminist movement should actively discourage women to have children
 			THBT the creation of feminist icons and their cults of personality are good for the feminist movement
 		R2
-			THBT the countries which militarily intervene in another country should receive a significant number of the people who are harmed in the conflict as refugees.
+			THBT the countries which militarily intervene in another country should receive a significant number of the people who are harmed in the conflict as refugees
 			THBT former colonial powers should aggressively favor their former colonies in trade (e.g. preferential trade terms, prioritization of trade deals etc.)
 			THBT Japan should actively attract and accept mass immigration
 		R3
-			THW ban advocacy for religious belief in public places.
-			TH opposes organized religion.
-			THW require children in isolated communities to live outside their community for a few years.
+			THW ban advocacy for religious belief in public places
+			THO organized religion
+			THW require children in isolated communities to live outside their community for a few years
 		R4
 			THBT progressive movements should not doxx
 				Doxxing is an internet-based practice of researching and broadcasting private or identifiable information (e.g. name, address, occupation etc.) about an individual or organization.
-			THR the exclusion of privileged minorities in minority discourse.
+			THR the exclusion of privileged minorities in minority discourse
 			THR corporate participation in social justice issues (eg LGBTQIA +, Racial relations, Abortion)
 		OF
-			THBT Western liberal democracies should ban imports of consumer goods made by child labour.
-			THW require all sold products to clearly display their price in Dead Children Currency.
+			THBT Western liberal democracies should ban imports of consumer goods made by child labour
+			THW require all sold products to clearly display their price in Dead Children Currency
 				According to Population Services International, a respected charity research group, 1 dead child = $650-$1000. The dead child tends to refer to an African kid who died because you didn’t give it to charity.
-			THW prohibit the use of automated weapon systems.
+			THW prohibit the use of automated weapon systems
 		QF
-			THBT art related to LGBTQ+ should be exclusively created by LGBTQ+ artists.
-			THBT government should not fund contemporary art.
+			THBT art related to LGBTQ+ should be exclusively created by LGBTQ+ artists
+			THBT government should not fund contemporary art
 				Contemporary art is known for the use of materials, methods, and subjects that challenge the strict boundaries of traditional aesthetics. It is characterized by great diversity and a lack of a uniform organizing principle.
-			TH would allow the “Cultural Defence” in all criminal proceedings.
-				A “cultural defense” is a defense to the prosecution in criminal proceedings which claims that the defendant’s punishment for criminal conduct should be diminished because of the cultural differences. A “cultural defense” is often argued when the defendant had a minority background which holds values that are antithetical to the society at large.
+			THW allow the "Cultural Defence" in all criminal proceedings
+				A "cultural defense" is a defense to the prosecution in criminal proceedings which claims that the defendant’s punishment for criminal conduct should be diminished because of the cultural differences. A "cultural defense" is often argued when the defendant had a minority background which holds values that are antithetical to the society at large.
 		SF
-			TH, as the U.S., would “reform the police” rather than “defund the police”.
+			TH, as the U.S., would "reform the police" rather than "defund the police"
 				Reform the police is to transform the values, culture, policies and practices of police organizations so that police can perform their duties with respect for democratic values, human rights and the rule of law. Defund the police is to divest funds from police departments and reallocating them to non-policing forms of public safety and community support, such as social service, youth services, housing, education, healthcare and drug rehabilitation.
-			THW allow Japanese to opt out of the national pension system.
-			THBT economic development organizations(e.g. IMF and World Bank) should make aid conditional upon democratic reform (e.g. transparency in election, participation in voting).
+			THW allow Japanese to opt out of the national pension system
+			THBT economic development organizations (e.g. IMF and World Bank) should make aid conditional upon democratic reform (e.g. transparency in election, participation in voting)
 		GF
-			THR the rise of populism in liberal western democracies.
-			THBT prominent social activists should choose not to run for public office.
-			THW ban lobbying.
+			THR the rise of populism in liberal western democracies
+			THBT prominent social activists should choose not to run for public office
+			THW ban lobbying
 	Pre Gemini Cup 2020
 		R1
-			THW instill nationalism in primary school education.
-			THW promote teachers purely by student evaluation.
-			THW desegregate schools in states with high racial tensions.
+			THW instill nationalism in primary school education
+			THW promote teachers purely by student evaluation
+			THW desegregate schools in states with high racial tensions
 		R2
-			THBT corporation should have the right to include a clause in their employment contract for women to legally agree not to pregnant.
-			TH as the feminist movement would support women using their sexuality/femininity to climb up the social ladder.
-			THW legalize surrogacy for profit.
+			THBT corporation should have the right to include a clause in their employment contract for women to legally agree not to pregnant
+			TH as the feminist movement would support women using their sexuality/femininity to climb up the social ladder
+			THW legalize surrogacy for profit
 		R3
-			THW transfer a government’s power to technocrats during a crisis (economic recession, covid-19 etc.).
-			THBT politicians should be binded to their manifesto.
-			THW give extra votes to citizens based on their performance on a current affairs test.
+			THW transfer a government's power to technocrats during a crisis (economic recession, covid-19 etc.)
+			THBT politicians should be binded to their manifesto
+			THW give extra votes to citizens based on their performance on a current affairs test
 		R4
-			THBT the disability rights movement should oppose “inspiration porn”.
-				“inspiration porn” is any picture, video, memo, or feel-good article that displays a person with a disability doing an ordinary activity.
-			TH, as a vegan movement, would abandon the total push against animal-based products and instead focus on the humane rearing of animals.
-			THS diversity quotas for university admissions.
+			THBT the disability rights movement should oppose "inspiration porn"
+				"inspiration porn" is any picture, video, memo, or feel-good article that displays a person with a disability doing an ordinary activity.
+			TH, as a vegan movement, would abandon the total push against animal-based products and instead focus on the humane rearing of animals
+			THS diversity quotas for university admissions
 	Gemini Cup 2019
 		R1: Education
-			THBT schools actively rank children based on their achievements and encourage competition.
-			THR the rise of university enrollment in developed countries.
-			THR the dominant narrative in children’s education that good always wins.
+			THBT schools actively rank children based on their achievements and encourage competition
+			THR the rise of university enrollment in developed countries
+			THR the dominant narrative in children's education that good always wins
 		R2: Media
-			THR progressive movements broadcasting private information of an individual or an organization on SNS as a means of punishment.
-			THW deny broadcasting rights to news channels that consistently fail to meet a minimum truth requirement.
-			THW prohibit the media from reporting on the mental illness of those accused of crimes.
+			THR progressive movements broadcasting private information of an individual or an organization on SNS as a means of punishment
+			THW deny broadcasting rights to news channels that consistently fail to meet a minimum truth requirement
+			THW prohibit the media from reporting on the mental illness of those accused of crimes
 		R3: Identity
 			THW make tax exemption to religious organizations contingent upon them not discriminating (e.g. refusing to perform religious services, not allowing participation by homosexuals.)
-			THW impose a male privilege tax.
-			THW pay a salary to stay-at-home parents.
+			THW impose a male privilege tax
+			THW pay a salary to stay-at-home parents
 		R4: Environment
-			THW make developmental aid to developing countries contingent on whether they follow an environmentally friendly agenda.
-			THW shorten the patents of green technologies by large corporations.
-			THBT countries that are major polluters should accept environmental refugees.
+			THW make developmental aid to developing countries contingent on whether they follow an environmentally friendly agenda
+			THW shorten the patents of green technologies by large corporations
+			THBT countries that are major polluters should accept environmental refugees
 		OF
-			THBT election campaigns should be fully financed by the state.
-			THBT political comedians does more harm than good for democracy.
-			THW make the weight of votes proportionate to a person’s expected remaining lifespan.
+			THBT election campaigns should be fully financed by the state
+			THBT political comedians does more harm than good for democracy
+			THW make the weight of votes proportionate to a person's expected remaining lifespan
 		QF
-			THW only subsidize art that is understandable to the average viewer.
-			THBT disabled parents should be able to ensure that their children be born disabled.
-			THS the use of sex appeal to generate interest in female sports.
+			THW only subsidize art that is understandable to the average viewer
+			THBT disabled parents should be able to ensure that their children be born disabled
+			THS the use of sex appeal to generate interest in female sports
 		SF
-			THR the nagative stigma of lobbying.
-			THR the stigmatization of selfishness.
-			THR the narrative of having one great calling or purpose in life.
+			THR the nagative stigma of lobbying
+			THR the stigmatization of selfishness
+			THR the narrative of having one great calling or purpose in life
 		GF
-			You are the leader of prominent feminist political party which enjoys reasonable support but is highly unlikely to win an election on its own. The recently elected head of state, with a historically poor record with women’s rights, has asked for your party to be part of a coalition government. THW accept the offer.
-			TH, as an openly non-heterosexual individual, would not date people in the closet.
-			THR the rise of political correctness.
+			You are the leader of prominent feminist political party which enjoys reasonable support but is highly unlikely to win an election on its own. The recently elected head of state, with a historically poor record with women's rights, has asked for your party to be part of a coalition government. THW accept the offer
+			TH, as an openly non-heterosexual individual, would not date people in the closet
+			THR the rise of political correctness
 	Pre-Gemini Cup 2019
 		R1
-			THW limit companies ability to replace workers with technology.
-			THW allow individuals to opt out of employment provisions and regulations relating to health and safety in return for increased pay.
-			THBT corporations should have the right to include a clause in their employment contracts for women to legally agree not to get pregnant.
+			THW limit companies ability to replace workers with technology
+			THW allow individuals to opt out of employment provisions and regulations relating to health and safety in return for increased pay
+			THBT corporations should have the right to include a clause in their employment contracts for women to legally agree not to get pregnant
 		R2
-			THW make the hosting of the Olympics contingent on a majority vote by referenda by the host country.
-			THW prohibit religious leaders and organizations from endorsing, supporting, or commenting on any political party or candidate.
+			THW make the hosting of the Olympics contingent on a majority vote by referenda by the host country
+			THW prohibit religious leaders and organizations from endorsing, supporting, or commenting on any political party or candidate
 			THW require all citizens to perform two years of national civic services (ex. Healthcare, education, etc.)
 		R3
-			THS communal child rearing.
-			TH opposes individual evaluation and accolades in activities competed by teams (e.g. Most Valuable Player, Speaker Score).
-			THBT black entertainers should not use the “N” word.
+			THS communal child rearing
+			THO individual evaluation and accolades in activities competed by teams (e.g. Most Valuable Player, Speaker Score)
+			THBT black entertainers should not use the "N" word
 				Communal child rearing is the system of raising children as a whole society. In this system, biological parents lose parental right to their children, and the countries lose parental right to their children, and the communities give necessities of lives, educations and money for independence etc. to all children equally. Also, parents and children live apart, and don’t keep special connection to each other.
 		R4
-			THW ban inheritance.
-			THW not punish people who live below the poverty line for economic crimes that they have committed.
-			THW introduce quota for people from working- class background in management.
+			THW ban inheritance
+			THW not punish people who live below the poverty line for economic crimes that they have committed
+			THW introduce quota for people from working- class background in management
 	Gemini Cup (2018)
 		R1
-			As feminist movement, TH regrets the rise of songs of female pop artists that glorify assertive female sexuality.
-			THBT the feminist movement should actively discourage women to take risky behavior (wearing seductive clothing, drinking alcohol etc) in order to avoid sexual assault.
+			As feminist movement, THR the rise of songs of female pop artists that glorify assertive female sexuality
+			THBT the feminist movement should actively discourage women to take risky behavior (wearing seductive clothing, drinking alcohol etc) in order to avoid sexual assault
 			THBT the feminist movement should actively support gender exclusive schools
 		R2
-			THW allocate research funds in public universities based purely on utility factors.
-				”Utility factor” refers to the tangible, foreseeable impact on society produced by academic research. The utility factor is determined by the universities.
-			TH regrets the narrative that going to a prestigious universities is a prerequisite for success.
-			THBT scientists should not report the empiric results which may conclude a certain race / ethnicity is inferior to others on the aspect of neuroscience.
+			THW allocate research funds in public universities based purely on utility factors
+				"Utility factor" refers to the tangible, foreseeable impact on society produced by academic research. The utility factor is determined by the universities.
+			THR the narrative that going to a prestigious universities is a prerequisite for success
+			THBT scientists should not report the empiric results which may conclude a certain race / ethnicity is inferior to others on the aspect of neuroscience
 		R3
-			TH supports the rise of fat acceptance movement.
-				“Fat acceptance movement” is a social movement seeking to change anti-fat bias in social attitudes. Recently the movement has been criticized for ignoring health issues that many studies have shown to be linked to obesity.
-			THW prioritize victims over state when providing post-war compensation.
-			In countries where the population is ethnically diversed, THW force ethnic minorities to provide education in national language instead of their native toungue.
+			THS the rise of fat acceptance movement
+				"Fat acceptance movement" is a social movement seeking to change anti-fat bias in social attitudes. Recently the movement has been criticized for ignoring health issues that many studies have shown to be linked to obesity.
+			THW prioritize victims over state when providing post-war compensation
+			In countries where the population is ethnically diversed, THW force ethnic minorities to provide education in national language instead of their native toungue
 		R4
-			THW ban gated communities.
-			THBT parents should be given access to children’s passwords of social networking accounts.
-			TH opposes peace education that uses shocking graphic images of war victims.
+			THW ban gated communities
+			THBT parents should be given access to children's passwords of social networking accounts
+			THO peace education that uses shocking graphic images of war victims
 		OF
-			THBT developing countries should impose a life-long taxation on their citizens who have completed tertiary education and decided to migrate.
-			THBT development of infrastructure in developing countries should be led by the state, as opposed to the private sector.
-			THBT in times of high unemployment, governments should remove all minimum standard regulations in the labour market.
+			THBT developing countries should impose a life-long taxation on their citizens who have completed tertiary education and decided to migrate
+			THBT development of infrastructure in developing countries should be led by the state, as opposed to the private sector
+			THBT in times of high unemployment, governments should remove all minimum standard regulations in the labour market
 		QF
-			Chemical castration is a castration via drugs to eliminate sexual desire. It does not remove the organs nor is it a form of sterilization.
-			THW impose chemical castration on sexual offenders instead of imprisonment.
-			THW not allow out-of-court settlements for workplace discrimination and harassment.
-			THW criminalize violent fouls in sports.
+			Chemical castration is a castration via drugs to eliminate sexual desire. It does not remove the organs nor is it a form of sterilization
+			THW impose chemical castration on sexual offenders instead of imprisonment
+			THW not allow out-of-court settlements for workplace discrimination and harassment
+			THW criminalize violent fouls in sports
 		SF
-			In Western liberal democratic countries which accept a substantial number of immigrants, THW adopt policies that try to integrate them into mainstream society as opposed to actively focus on building exclusive communities (residences, workplaces, schools, social gathering places, entertainment centers, etc. )
-			THBT it is legitimate for states to exaggerate threats to pass unpopular legislation deemed to be in the interest of national security.
+			In Western liberal democratic countries which accept a substantial number of immigrants, THW adopt policies that try to integrate them into mainstream society as opposed to actively focus on building exclusive communities (residences, workplaces, schools, social gathering places, entertainment centers, etc.)
+			THBT it is legitimate for states to exaggerate threats to pass unpopular legislation deemed to be in the interest of national security
 			THBT the environmental activists should never use violence as a strategy to forward their case
 		GF
-			Info: You are a closeted homosexual living in a discriminatory society. And you are the CEO of a successful company.
-			TH,as you, would remain in closeted.
-			Assuming that individual’s happiness is measurable by the state, THW levy a tax proportionally to happiness.
-			TH prefers to live in a world where individual success and failure are seen as consequences of random events as opposed to individual’s personal choices.
+			Info: You are a closeted homosexual living in a discriminatory society. And you are the CEO of a successful company
+			TH,as you, would remain in closeted
+			Assuming that individual's happiness is measurable by the state, THW levy a tax proportionally to happiness
+			THP to live in a world where individual success and failure are seen as consequences of random events as opposed to individual's personal choices
 	Pre Gemini Cup(2018)
 		R1
-			TH regrets movies glorifying anti-social behavior
+			THR movies glorifying anti-social behavior
 			THW ban racist and extremist political parties
-			THBT the disability community should oppose TV program which inspirational portray people with with disabilities.
+			THBT the disability community should oppose TV program which inspirational portray people with with disabilities
 		R2
 			THW sanction tax havens
 				A tax haven is a country/area with virtually very low rates of taxation, and utilized for tax saving by corporations and billionaries.
@@ -334,7 +435,7 @@ Gemini Cup
 			THW legalize performance enhancing drugs in professional sports
 			THW legalize the sale of human organs
 		R4
-			THBT consumers living in the first world should boycott “fast fashion”
+			THBT consumers living in the first world should boycott "fast fashion"
 				‘Fast fashion’ retailers are clothing retailers who deliver current, up-to-trend clothing styles to mass consumers at a low price. Typically, they achieve this by deriving designs from new fashion shows, outsourcing production, and aggressive marketing. Examples of ‘fast fashion’ retailers include Zara, H&M, and UNIQLO.
 			THBT post-conflict societies should destroy all artwork created in support of a fallen dictator
 			THBT humanitarian organizations should be allowed to give funding, resources or services to illegal armed groups when this is made a condition for access to vulnerable civilians
@@ -350,7 +451,7 @@ Gemini Cup
 			THBT illegally gathered evidence should not be admissible in criminal trials
 		R3 Motions
 			THW not impose any restriction on abortion regardless of the stages of pregnancy
-			THBT doctors should report suspected cases of domestic violence to the police regardless of the patient’s consent
+			THBT doctors should report suspected cases of domestic violence to the police regardless of the patient's consent
 			THW grant those diagnosed with terminal illness the right to access to treatments that have not completed clinical testing
 		R4 Motion
 			THW allow strikes by those working in essential state services
@@ -361,7 +462,7 @@ Gemini Cup
 			THW allow individuals to pay the state to buy exemption from compulsory military service
 			In post-conflict societies, THBT the government should mandate society diversity in community living (e.g. housing, schools, workplace)
 		QF
-			THBT media should not emphasize successful women’s feminine features
+			THBT media should not emphasize successful women's feminine features
 			THBT social movements in democratic countries should drive social change through the courts rather than the legislature
 			In a country where feminism is not widely accepted, THBT the feminist movement should form one single movement, rather than diverse types of movements under different feminist ideologies
 				Femininity is a set of attributes, behaviors, and roles generally associated with girls and women. Femininity is socially constructed, but made up of both socially-defined and biologically-created factors. Traits traditionally cited as feminine include gentleness, empathy, and sensitivity.
@@ -389,64 +490,64 @@ Gemini Cup
 			THW allow emplyees to choose not to receive any basic provision in their labor contracts in exchange for a proportional increase in wage
 				Employees are provided basic welfare through labor contracts. This includes health and safety standards in the working environment, protection from unfair dismissals, and other conditions to protect employees.
 		R4
-			TH prefers a world without marriage
+			THP a world without marriage
 			THW prosecute suspected rapists without the formal complaint from the victim
 			THBT media should actively portray terrorists as criminals with legitimate grievances rather than demonizing them
 	Gemini Cup (2016)
 		R1
-			THBT governments of developing countries should actively invest in sex tourism.
-			THW ban sadomasochism.
-			TH opposes the use of sex appeal intended to gain intrest in female sports.
+			THBT governments of developing countries should actively invest in sex tourism
+			THW ban sadomasochism
+			THO the use of sex appeal intended to gain intrest in female sports
 		R2
-			THW prohibit the police from guising as children online in order to catch paedophiles.
-			THBT court should consider victims’ forgiveness as a mitigating factor when sentencing offenders.
-			THW allow the police to implement racial profiling.
+			THW prohibit the police from guising as children online in order to catch paedophiles
+			THBT court should consider victims' forgiveness as a mitigating factor when sentencing offenders
+			THW allow the police to implement racial profiling
 		R3
-			THW allow medical professionals to opt out of performing treatments on the basis of conscience.
-			THBT we should stop the attempt to find a ‘cure’ for autism.
-			THBT important decisions about children’s health should be made by medical professionals and not by their parents.
+			THW allow medical professionals to opt out of performing treatments on the basis of conscience
+			THBT we should stop the attempt to find a 'cure' for autism
+			THBT important decisions about children's health should be made by medical professionals and not by their parents
 		R4
-			THBT the media should not report on the mental illness of criminals.
-			THW provide welfare in the form of basic goods and services rather than in the form of cash payments.
-			THW allow parents to vote on behalf of their children.
+			THBT the media should not report on the mental illness of criminals
+			THW provide welfare in the form of basic goods and services rather than in the form of cash payments
+			THW allow parents to vote on behalf of their children
 		OF
-			THBT universities should introduces a female quota in their STEM (Science, Technology, Engineering and Math) faculties.
-			THBT advertisements do more harm than good to consumers.
-			THW not require real estate agencies to disclose information concerning past incidents of suicide and crime that happened in their properties.
+			THBT universities should introduces a female quota in their STEM (Science, Technology, Engineering and Math) faculties
+			THBT advertisements do more harm than good to consumers
+			THW not require real estate agencies to disclose information concerning past incidents of suicide and crime that happened in their properties
 		QF
-			THBT the west should arm and assist local militia in order to combat terrorists.
-			THBT western states should stop interventions (such as tied aid and sanctions) to enforce democracy in developing nations.
-			THR the denomintion of the global fight against terrorism as the “war on terror”
+			THBT the west should arm and assist local militia in order to combat terrorists
+			THBT western states should stop interventions (such as tied aid and sanctions) to enforce democracy in developing nations
+			THR the denomintion of the global fight against terrorism as the "war on terror"
 		SF
-			TH prefers a world without the system of marriage.
-			THW allow jury nullification.
+			THP a world without the system of marriage
+			THW allow jury nullification
 				Jury nullification occurs in a trial when a jury acquits a defendant even though the members of the jury believe the defendant to be guilty of the charges. This may occur when the member of the jury disagree with the law the defendant has been charged with breaking, or believe that the law should not be applied in that particular case.
-			THW ban racist and extremist political parties.
+			THW ban racist and extremist political parties
 		GF
-			THW require religious schools to give safe sex education regardless of parental consent.
-			THBT states should not instill nationalism through education.
-			THBT students should bully each other during classes as a part of moral education.
+			THW require religious schools to give safe sex education regardless of parental consent
+			THBT states should not instill nationalism through education
+			THBT students should bully each other during classes as a part of moral education
 		Masters’ Debate
-			THW end all state funding to art.
-			THW leagalize dueling to the death.
-			THW ban all forms of pornography.
+			THW end all state funding to art
+			THW leagalize dueling to the death
+			THW ban all forms of pornography
 	Pre-Gemini Cup (2016)
 		R1
-			THW allow corporations to pay higher wages to employees who agree not to have children.
-			THBT women should be criminally liable for harms to their fetus that resul from their lifestyle choices.
-			THW aggressively sexualize men in the fight for gender equality.
+			THW allow corporations to pay higher wages to employees who agree not to have children
+			THBT women should be criminally liable for harms to their fetus that resul from their lifestyle choices
+			THW aggressively sexualize men in the fight for gender equality
 		R2
-			THW prohibit public depictions of the Prophet Muhammad.
-			THW ban proselytization in public.
-			THW prohibit methods of animal slaughter prescribed by religions that cause prolonged pain to the animals involved.
+			THW prohibit public depictions of the Prophet Muhammad
+			THW ban proselytization in public
+			THW prohibit methods of animal slaughter prescribed by religions that cause prolonged pain to the animals involved
 		R3
-			THW not give financial assitance for the reconstruction of disaster prone areas.
-			THW allow athletes to use performance enhancing drugs.
+			THW not give financial assitance for the reconstruction of disaster prone areas
+			THW allow athletes to use performance enhancing drugs
 			THBT politicians should not resign over private affairs. (such as sex scandals and family problems)
 		R4
-			THBT NGO’s/charities should refuse sposorships from entities that do not act in accordance with their aims.
-			THBT LGBT movement should oppose LGBT people who make self-depreciating jokes about their sexuality.
-			THBT the acdaemy award nominations should have a quota for racial minorities.
+			THBT NGO's/charities should refuse sposorships from entities that do not act in accordance with their aims
+			THBT LGBT movement should oppose LGBT people who make self-depreciating jokes about their sexuality
+			THBT the acdaemy award nominations should have a quota for racial minorities
 	Gemini Cup (2015)
 		R1
 			THBT the feminist movement should oppose popular fairy tales which portray traditional gender roles
@@ -458,7 +559,7 @@ Gemini Cup
 			THBT neighborhoods should have a right to veto construction of military bases by referendum
 		R3: これからの「學校」の話をしよう。
 			THW establish segregated schools for youth who self-identify themselves as sexual minorities
-			TH opposes peace education that uses shocking graphic images of victims of war
+			THO peace education that uses shocking graphic images of victims of war
 			THBT universities in liberal democracies should not accept the children of the ruling elite of oppressive regimes
 		R4: So diverse,beyond the hands of adj core
 			THW abolish plea-bargaining
@@ -469,8 +570,8 @@ Gemini Cup
 				A credit rating is an evaluation of the credit worthiness of a debtor, especially a business (company) or a government, but not individual consumers.
 			THW prohibit journalists from going to conflict areas
 			THBT the gay rights movement should abandon the claim that sexuality is not a choice
-		Master’s round
-			TH regrets the narratives that Japan is the victim of WWII (e.g. Emphasis on Hiroshima and Nagasaki, less emphasis on invasion of other nations and islands)
+		Master’s
+			THR the narratives that Japan is the victim of WWII (e.g. Emphasis on Hiroshima and Nagasaki, less emphasis on invasion of other nations and islands)
 			THW never die for a country
 			THW introduce mandatory military conscription
 		QF
@@ -484,16 +585,16 @@ Gemini Cup
 		GF
 			THW give public the power, via referendum, to pardon whistleblowers
 			THBT freedom of speech should include the right to offend religion
-			TH opposes Chinese censorship on its citizens
+			THO Chinese censorship on its citizens
 	Gemini Cup (2014)
 		R1: The Vulnerables -Animal・The weak・The battered-
 			THW ban animal performance
 			THBT hacktivism is a legitimate form of protest against large corporations
-			THW mandate doctors to report all cases of suspected domestic violence.
+			THW mandate doctors to report all cases of suspected domestic violence
 		R2: Media -Something exist in between-
 			THBT journalists who cover people in distress have a moral obligation to act as good samaritarians
-			THBT black entertainers should not use the “N” word
-			THW aggressively promote “Nuclear Family” on primetime Indian television
+			THBT black entertainers should not use the "N" word
+			THW aggressively promote "Nuclear Family" on primetime Indian television
 		R3: Environment -Our Blue Planet-
 			THW rather use resources to adapt to climate change change than to prevent it
 			THBT those who caused severe damage on environment should be tried under universal jurisdiction
@@ -507,16 +608,16 @@ Gemini Cup
 			THBT the developed nations with high unemployment rate should stop providing developmental aid for foreign countries
 			Assuming attractiveness of individual based on appearance (both face and shape) is measurable, THBT state should pay/compensate for individuals who are less
 		QF: International Relations -Power! Peace! Ideology!-
-			THBT Arabic Nations should stop selling oil to countries that restrict Islamic dresses until the restrictions are removed.
+			THBT Arabic Nations should stop selling oil to countries that restrict Islamic dresses until the restrictions are removed
 			THBT the EU should lift its ban on exporting sedatives used in lethal injections to the USA
-			THBT NATO should have been dissolved when the Warshaw Pact ended.
+			THBT NATO should have been dissolved when the Warshaw Pact ended
 		SF: Technology -Use your imagination!-
 			Assuming feasibility, THW allow people to voluntarily erase their memories
 			Assuming technology was perfected, THW financially reward men who gave his children a birth
 			THW allow human cloning for military purpose
 		GF: Social Justice -What is the right thing to do?-
-			As liberals, we should seek for the removal of all speech crimes.
-			In a world with unwanted children, as self-described pro-life activists, we are morally obliged to take an unwanted child as our child.
+			As liberals, we should seek for the removal of all speech crimes
+			In a world with unwanted children, as self-described pro-life activists, we are morally obliged to take an unwanted child as our child
 			As gay rights activist, we should campaign for the abolition of marriage, rather than (gay) marriage
 	Pre Gemini Cup (2014)
 		R1: Blood & Care-The strength of our consanguineous bond-
@@ -533,248 +634,248 @@ Gemini Cup
 			THBT post-conflict societies should set a history curriculum that emphasises the wrongs done by their own community during that conflict
 		R4: Various Movements-We should move!!…but to this way or to that way?-
 			THW decriminalize graffiti in public spaces
-			THBT the increase of diversity among progressive movements is rather harming the movement itself.
+			THBT the increase of diversity among progressive movements is rather harming the movement itself
 			THBT self-declared feminists should not be full-time housewives
 	13th Gemini Cup(2013)
 		R1: Love Sexy キラキラ ☆Dynamite Saturday Morning Fever☆
-			THW force luxury designer brands (such as Louis Vuitton, CHANEL) to include plus-size for their collections.
-			THW criminalize cosmetic surgery of pets.
-			THBT female artists should not allow themselves to be objectified in their music videos.
+			THW force luxury designer brands (such as Louis Vuitton, CHANEL) to include plus-size for their collections
+			THW criminalize cosmetic surgery of pets
+			THBT female artists should not allow themselves to be objectified in their music videos
 		R2: 痛い
-			THW make blood donation mandatory.
-			THW allow those diagnosed with terminal illnesses to access treatments that have not completed clinical testing.
-			THW include graphic images of the process and consequence of abortion in the teaching of sex education in public schools.
+			THW make blood donation mandatory
+			THW allow those diagnosed with terminal illnesses to access treatments that have not completed clinical testing
+			THW include graphic images of the process and consequence of abortion in the teaching of sex education in public schools
 		R3: これからの「浅井」の話をしよう
-			THBT media should reveal their sources of information in criminal cases upon courts’ requests.
-			THW hold accountants accountable when they fail to recognize crimes (such as insider trading) happening within the companies they are in charge of.
-			THW impose harsher punishment upon frauds carried out under religion.
+			THBT media should reveal their sources of information in criminal cases upon courts' requests
+			THW hold accountants accountable when they fail to recognize crimes (such as insider trading) happening within the companies they are in charge of
+			THW impose harsher punishment upon frauds carried out under religion
 		R4: 夜のパートナー♡
-			THW legalize incest.
-			THBT pedophilia can be allowed if an adolescent’s parents consent to the relationship.
-			THW legalize public nudity.
+			THW legalize incest
+			THBT pedophilia can be allowed if an adolescent's parents consent to the relationship
+			THW legalize public nudity
 		OF: お母さん「じゅんこ早く起きなさい」
-			TH oppose tiger-parenting as a form of education.
+			TH oppose tiger-parenting as a form of education
 				The tiger parent is an extremely strict parent who makes his/her children work excessively hard and severely restricts their free time so that they can continually achieve the highest grades.
-			THW impose legal duty of care on adult children for their parents.
-			THBT parents who seek to have biological children should fulfill the same requirements as those who seek to adopt (such as sufficient economic capability, passing of personality tests, no criminal record).
+			THW impose legal duty of care on adult children for their parents
+			THBT parents who seek to have biological children should fulfill the same requirements as those who seek to adopt (such as sufficient economic capability, passing of personality tests, no criminal record)
 		QF: となりのYAMADAくん家
-			In the aftermath of ethnic conflicts, THW allocate the equal number of seats in the national parliament to each ethnic group, regardless of the ethnic demography.
-			THBT regional bodies are better than international bodies in undertaking military intervention.
-			THBT international sporting events should not be held in countries with high ethnic tension.
+			In the aftermath of ethnic conflicts, THW allocate the equal number of seats in the national parliament to each ethnic group, regardless of the ethnic demography
+			THBT regional bodies are better than international bodies in undertaking military intervention
+			THBT international sporting events should not be held in countries with high ethnic tension
 		SF: 소수자
-			THBT gay rights movements should oppose subcultures which portrait “Boys’ Love” / “Girls’ Love”.
-			Assuming that there is a perfect technology which carries a full term pregnancy in an incubator, THBT feminist movements should oppose biological pregnancies.
-			THW ban racial segregation in prisons.
+			THBT gay rights movements should oppose subcultures which portrait "Boys' Love" / "Girls' Love"
+			Assuming that there is a perfect technology which carries a full term pregnancy in an incubator, THBT feminist movements should oppose biological pregnancies
+			THW ban racial segregation in prisons
 		GF: ジェミニのモーションが嫌いでも…私のことは嫌いにならないでくださいっ！！
-			THBT the issues of death penalty should be up to courts, rather than parliaments.
-			THBT Japanese government has a moral obligation not to export nuclear power plants to foreign countries.
-			TH support the right to defend property during a natural disaster (such as Tsunami, or bushfire).
+			THBT the issues of death penalty should be up to courts, rather than parliaments
+			THBT Japanese government has a moral obligation not to export nuclear power plants to foreign countries
+			TH support the right to defend property during a natural disaster (such as Tsunami, or bushfire)
 		Masters’ Cup: self-described progressive debaterのみなさまへ
-			THW never consider “diversity” in selecting breaking adjudicators and adjudication core.
-			Assuming that people reasonably understand English, THBT randomly selected ordinary people should judge.
-			THBT Japanese debate community should abolish “love motion”.
+			THW never consider "diversity" in selecting breaking adjudicators and adjudication core
+			Assuming that people reasonably understand English, THBT randomly selected ordinary people should judge
+			THBT Japanese debate community should abolish "love motion"
 	Pre-Gemini Cup(2013)
 		R1: そふとさきいか
-			THW subsidize female movie directors.
-			THW prohibit the price gouging after natural disasters.
-			THW criminalize adultery.
+			THW subsidize female movie directors
+			THW prohibit the price gouging after natural disasters
+			THW criminalize adultery
 		R2: はーどあたりめ
-			THW ban the cosmetic use of Photoshop in advertisement.
-			THW ban the use of religious items and symbols as a part of fashion.
-			THBT free speech should extend to offensive arts.
+			THW ban the cosmetic use of Photoshop in advertisement
+			THW ban the use of religious items and symbols as a part of fashion
+			THBT free speech should extend to offensive arts
 		R3: 噛めば噛むほど味が出るreligion＋α
 			THW ban religions from advocating self-harm as a form of penance. (such as self-immolation of Tibetan monks)
-			THW not allow religious communities to expel their members on the basis of views or actions that contradict doctrinal teachings.
-			THW ban “Neko Café”.
+			THW not allow religious communities to expel their members on the basis of views or actions that contradict doctrinal teachings
+			THW ban "Neko Café"
 		R4: もしかしたら たしかに そうかもしれんぽい気が しなくもない
-			THBT soldiers who have fought for foreign countries should be granted citizenship of these countries.
-			THW allow people who finish their compulsory education to re-enter the schools for compulsory education.
-			THW limit (but, not abolish) the right to vote of the elderly.
+			THBT soldiers who have fought for foreign countries should be granted citizenship of these countries
+			THW allow people who finish their compulsory education to re-enter the schools for compulsory education
+			THW limit (but, not abolish) the right to vote of the elderly
 	12th Gemini Cup(2012)
 		R1: Education
-			THBT universities should not give academic credit for volunteer work.
-			THW allow teachers to physically punish their students at school regardless of parental consent.
+			THBT universities should not give academic credit for volunteer work
+			THW allow teachers to physically punish their students at school regardless of parental consent
 			THW pay teachers progressive salary according to the academic performance of their students
 		R2: Legal Status
-			THW abolish the mSSinimum age requirement for marriage.
-			THW criminalize the membership of criminal organizations, even if he/she doesn’t commit crimes on his/her own.
-			THBT voting eligibility should be based on the passing of civic tests instead of age.
+			THW abolish the mSSinimum age requirement for marriage
+			THW criminalize the membership of criminal organizations, even if he/she doesn't commit crimes on his/her own
+			THBT voting eligibility should be based on the passing of civic tests instead of age
 		R3: International Relations
-			THBT it is legitimate to use aid to buy votes in international organisations.
+			THBT it is legitimate to use aid to buy votes in international organisations
 			THBT after a humanitarian intervention has halted human rights abuses, the occupation forces should leave at once if the population so wishes
-			THBT Israel should assassinate Iran’s nuclear scientists.
+			THBT Israel should assassinate Iran's nuclear scientists
 		R4: Environment
-			THW forcibly remove the homeless from the streets and place them in rehabilitation.
-			THBT carbon trading is more effective in combating global warming than emission tax.
-			THW make the development of eco-friendly industry a condition for receiving non-emergency aid.
+			THW forcibly remove the homeless from the streets and place them in rehabilitation
+			THBT carbon trading is more effective in combating global warming than emission tax
+			THW make the development of eco-friendly industry a condition for receiving non-emergency aid
 		OF: The end justifies the means.
-			THBT evidence which is illegally obtained should be admissible in criminal trials.
-			THW take and use the organs of executed death row convicts regardless of consent.
-			THBT the 3rd world countries should recognize the necessity of sweatshops.
+			THBT evidence which is illegally obtained should be admissible in criminal trials
+			THW take and use the organs of executed death row convicts regardless of consent
+			THBT the 3rd world countries should recognize the necessity of sweatshops
 		QF: Justice
-			THBT the protection of the environment should be considered a mitigating factor when sentencing eco-terrorists.
-			THW impose progressive fine on offenders based on their assets.
-			THW abolish enhanced punishment based on hate crime law.
+			THBT the protection of the environment should be considered a mitigating factor when sentencing eco-terrorists
+			THW impose progressive fine on offenders based on their assets
+			THW abolish enhanced punishment based on hate crime law
 		SF: Freedom
-			THW allow public servants to criticize their government.
-			THW prosecute parents who take their children to another legal jurisdiction in order to carry out an act which is illegal in their home country.
-			THW legalize sadomasochism.
+			THW allow public servants to criticize their government
+			THW prosecute parents who take their children to another legal jurisdiction in order to carry out an act which is illegal in their home country
+			THW legalize sadomasochism
 		GF: Public Discourse
-			THBT entertainment awards should not be bestowed on individuals who have committed crime.
-			THW ban publication of political opinion polls.
+			THBT entertainment awards should not be bestowed on individuals who have committed crime
+			THW ban publication of political opinion polls
 			THW televise the executions of criminals
 	11th Gemini Cup(2011)
 		R1
-			THW legalize bestiality.
+			THW legalize bestiality
 		R2
-			THBT developing nations should nationalize their natural resourses.
+			THBT developing nations should nationalize their natural resourses
 		R3
-			THBT Latinos should have the right to be taught in Spanish.
+			THBT Latinos should have the right to be taught in Spanish
 		R4
-			THW introduce plea-bargaining.
+			THW introduce plea-bargaining
 		OF
-			THW prohibit criminals from publishing descriptions of their crimes.
+			THW prohibit criminals from publishing descriptions of their crimes
 		QF
-			THBT the United States government should send troops to Mexico to fight against drug cartels.
+			THBT the United States government should send troops to Mexico to fight against drug cartels
 		SF
-			THW dissolve all political parties.
+			THW dissolve all political parties
 		GF
-			THW allow abortion on the grounds of disability.
+			THW allow abortion on the grounds of disability
 	10th Gemini Cup(2010)
 		R1
-			THW abolish teaching licenses and employ teachers without them.
+			THW abolish teaching licenses and employ teachers without them
 		R2
-			THW ban abortion at all stages of pregnancy.
+			THW ban abortion at all stages of pregnancy
 		R3
-			THBT the head coach of the Japanese national football team should be decided through the votes of the fans and not by Japan Football Association.
+			THBT the head coach of the Japanese national football team should be decided through the votes of the fans and not by Japan Football Association
 		R4
-			THBT the developed world should unconditionally accept environmental refugees.
+			THBT the developed world should unconditionally accept environmental refugees
 		OF
-			THBT the EU parliament should inspect the budget bills of its member states before they are approved by the domestic legislative bodies.
+			THBT the EU parliament should inspect the budget bills of its member states before they are approved by the domestic legislative bodies
 		QF
-			THW ban fictional publications that demonize certain religions, races, or ethnicities.
+			THW ban fictional publications that demonize certain religions, races, or ethnicities
 		SF
-			THW ban companies from going to the third world in order to avoid the first world restrictions on human drug testing.
+			THW ban companies from going to the third world in order to avoid the first world restrictions on human drug testing
 		GF
-			THW completely ban the broadcast of suicide.
+			THW completely ban the broadcast of suicide
 	9th Gemini Cup (2009)
 		R1
-			THW allow students to choose their public schools.
+			THW allow students to choose their public schools
 		R2
-			THBT arranged marriage is better than love marriage.
+			THBT arranged marriage is better than love marriage
 		R3
-			THBT individual rights are more important than security.
+			THBT individual rights are more important than security
 		R4
-			THW ban the export of arms to the Middle East.
+			THW ban the export of arms to the Middle East
 		OF
-			THBT EU should stop subsidizing Agriculture.
+			THBT EU should stop subsidizing Agriculture
 		QF
-			THW amend article 9.
+			THW amend article 9
 		SF
-			THBT Japanese government should give the legislative power to the government at the prefecture level.
+			THBT Japanese government should give the legislative power to the government at the prefecture level
 		GF
-			THW abolish beauty contests.
+			THW abolish beauty contests
 	8th Gemini Cup (2008)
 		R1
-			THBT Japanese government should impose fat tax on people who have metabolic syndrome.
+			THBT Japanese government should impose fat tax on people who have metabolic syndrome
 		R2
-			THBT International Olympic Committee should allow athletes to use performance enhancing drugs.
+			THBT International Olympic Committee should allow athletes to use performance enhancing drugs
 		R3
-			THBT international standard is more important than tradition.
+			THBT international standard is more important than tradition
 		R4
-			THW impose military sanctions on Myanmar.
+			THW impose military sanctions on Myanmar
 		OF
-			THW promote genetically modified food.
+			THW promote genetically modified food
 		QF
-			THBT the Japanese Government should fully finance election costs.
+			THBT the Japanese Government should fully finance election costs
 		SF
-			THW dismantle United Nations Security Council.
+			THW dismantle United Nations Security Council
 		GF
-			THW abolish death penalty.
+			THW abolish death penalty
 	7th Gemini Cup (2007)
 		R1
-			THW oblige teachers to renew their licenses.
+			THW oblige teachers to renew their licenses
 		R2
-			THBT YouTube brings more harm than good.
+			THBT YouTube brings more harm than good
 		R3
-			THW amend article 9.
+			THW amend article 9
 		R4
-			THBT developing countries should be responsible for environmental risks in the future.
+			THBT developing countries should be responsible for environmental risks in the future
 		QF
-			THW use gambling to rejuvenate economic depressed zones.
+			THW use gambling to rejuvenate economic depressed zones
 		SF
-			THW forcefully intervene in case of domestic violence even without a victim’s request.
+			THW forcefully intervene in case of domestic violence even without a victim's request
 		GF
-			THW welcome immigrants.
+			THW welcome immigrants
 	6th Gemini Cup (2006)
 		R1
-			THW force all parents to take childcare leave.
+			THW force all parents to take childcare leave
 		R2
-			THBT MIXI does more harm than good for university students.
+			THBT MIXI does more harm than good for university students
 		R3
-			THW invade somewhere.
+			THW invade somewhere
 		R4
-			THW privatize water service in developing countries.
+			THW privatize water service in developing countries
 		QF
-			THBT luxury is an enemy.
+			THBT luxury is an enemy
 		SF
-			THW allow surrogacy for profit.
+			THW allow surrogacy for profit
 		GF
-			THW prohibit any kinds of remission for criminals.
+			THW prohibit any kinds of remission for criminals
 	5th Gemini Cup (2005)
 		R1
-			THW prohibit advertisement of consumer credit.
+			THW prohibit advertisement of consumer credit
 		R2
-			THW prioritize dating over debating.
+			THW prioritize dating over debating
 		R3
-			THW accept immigrants.
+			THW accept immigrants
 		R4
-			THW allow pre-implantation genetic diagnosis.
+			THW allow pre-implantation genetic diagnosis
 		QF
-			THBT insanity is not equivalent to “not guilty”.
+			THBT insanity is not equivalent to "not guilty"
 		SF
-			THW impose fat tax.
+			THW impose fat tax
 		GF
-			THBT Japan should arm herself with nuclear weapons.
+			THBT Japan should arm herself with nuclear weapons
 	4th Gemini Cup (2004)
 		R1
-			THW abolish coming of age ceremony (so called Seijin-shiki).
+			THW abolish coming of age ceremony (so called Seijin-shiki)
 		R2
-			THBT Japan should withdraw the SDF from Iraq immediately.
+			THBT Japan should withdraw the SDF from Iraq immediately
 		R3
-			THW legalize euthanasia.
+			THW legalize euthanasia
 		GF
-			THBT going to Tokyo Disney Land is better than going to theatre for couples.
+			THBT going to Tokyo Disney Land is better than going to theatre for couples
 	3rd Gemini Cup (2003)
 		R1
-			THW have national holidays in June.
+			THW have national holidays in June
 		R2
-			THBT “slow life” is better than “fast life”.
+			THBT "slow life" is better than "fast life"
 		R3
-			THBT we should keep scenery than construct buildings.
+			THBT we should keep scenery than construct buildings
 		SF
-			THW compensate SARS.
+			THW compensate SARS
 		GF
-			THBT smart diplomacy is better than smart bombing.
+			THBT smart diplomacy is better than smart bombing
 	2nd Gemini Cup (2002)
 		R1
-			THW privatize postal service.
+			THW privatize postal service
 		R2
-			It’s better to go out and watch World Cup than debating here.
+			It's better to go out and watch World Cup than debating here
 		R3
-			THW prohibit whale hunting.
+			THW prohibit whale hunting
 		SF
-			THBT expansion of EU brings harms than benefits.
+			THBT expansion of EU brings harms than benefits
 		GF
-			THBT the Japanese Government should freeze ODA for China.
+			THBT the Japanese Government should freeze ODA for China
 	1st Gemini Cup (2001)
 		R1
-			THBT we should set the alarm for summer time.
+			THBT we should set the alarm for summer time
 		R2
-			THW support free trade.
+			THW support free trade
 		R3
-			Let’s hunt your boyfriend or girlfriend on the website.
+			Let's hunt your boyfriend or girlfriend on the website
 		SF
-			THW prohibit patenting on genetic information.
+			THW prohibit patenting on genetic information
 		GF
-			THBT ”no pain, no gain”.
+			THBT "no pain, no gain"
