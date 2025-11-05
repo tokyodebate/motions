@@ -1,4 +1,30 @@
 Philosophy Open
+	Philosophy Open 2025
+		R1
+			Assuming that all state frameworks (e.g. Government, cabinet, etc) has suddenly disappeared, THBT individuals have moral obligation to adhere to codified laws/rules
+				OG $stats 1, 1, 0, 2
+				OO $stats 1, 2, 1, 0
+				CG $stats 1, 1, 1, 1
+				CO $stats 1, 0, 2, 1
+		R2
+			THBT compensation is unachievable
+				OG $stats 2, 2, 0, 0
+				OO $stats 1, 1, 2, 0
+				CG $stats 0, 0, 2, 2
+				CO $stats 1, 1, 0, 2
+		R3
+			THBT biopolitics (e.g. collection of personal health record, health data tracking devices etc) has gone too far
+				OG $stats 0, 0, 3, 1
+				OO $stats 2, 2, 0, 0
+				CG $stats 2, 0, 0, 2
+				CO $stats 0, 2, 1, 1
+		GF
+			THBT this ship is still the Ship of Theseus
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
+				Theseus had a ship. Over the course of the ship’s lifetime, every plank of wood has been individually replaced.
 	Philosophy Open 2019
 		R1
 			THBT it is immoral to give birth to a new life
@@ -11,12 +37,12 @@ Philosophy Open
 			THW ban abortion at all stages of pregnancy
 	Philosophy Open 2018
 		R1
-			THBT people of the present generation do not have any duties with regards to unborn people of future generations.
+			THBT people of the present generation do not have any duties with regards to unborn people of future generations
 		R2
-			Assuming that there is a drug that can induce a life-long coma in which one experiences the state of absolute happiness without requiring any further care until physical death from old age, THW immediately administer it to all humans.
+			Assuming that there is a drug that can induce a life-long coma in which one experiences the state of absolute happiness without requiring any further care until physical death from old age, THW immediately administer it to all humans
 		R3
 			THBT if you choose to treat your lover and not the complete stranger, you will be morally blameworthy
 				Assuming that Ebola has spread to Japan, and you are a doctor who has just invented the cure, but only have one indivisible portion of it, and the only two patients in your care are your lover and a complete stranger, both of whom are in critical condition and will certainly die without treatment within a few hours.
 		GF
-			TH opposes the idea of Social Contract as a rationale for citizens’ obligation to obey the state’s coercive decisions (such as laws and policies).
+			THO the idea of Social Contract as a rationale for citizens' obligation to obey the state's coercive decisions (such as laws and policies)
 				Social Contract is a political theory that attempts to justify coercion of citizens by the state by claiming that the state exists because citizens agreed to establish it to promote common good. This agreement is usually referred to as the Social Contract.
