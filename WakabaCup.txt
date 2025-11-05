@@ -1,4 +1,24 @@
 Wakaba Cup
+	Wakaba Cup 2025
+		R1
+			THR the current dominant norm of academic meritocracy in North East Asia
+				Balance $stats 11, 9
+				In North East Asia, many nations form "academic meritocracy" based society, where one's academic background is highly emphasized to judge individuals in various scenes, including job hunting.
+		R2
+			THO the commercial dramatization of real-life tragedies
+				Balance $stats 10, 10
+				Commercial dramatization of real-life tragedies refers to the practice of creating for-profit entertainment, like movies, based on actual events like crimes, disasters, or accidents. To attract public attention, the work often features renowned directors, involves excessive interviews, and exaggerates events by dramatizing emotions, inventing dialogue, or creating composite characters.
+		R3
+			THBT genetic diagnosis does more harm than good
+				Balance $stats 11, 9
+				In this debate, genetic diagnosis refers to the act of analyzing a person's DNA to predict future health risks (e.g., for cancer) or to personalize medical treatment. While this technology offers clear medical benefits, it is sometimes hard for people who have negative genetic information to get insurance or get employed. Furthermore, it lets you know that you might have a disease that cannot be cured and makes individuals feel scared of the chance that an illness might develop
+		R4
+			TH, as you, W choose not to apply for a patent for "koka-kola" and keep the recipe secret
+				Balance $stats 9, 11
+				You are an entrepreneur in the late 19th-century United States. In the course of your business activities, you develop "koka-kola," a new soft drink with a unique taste. After sharing it with people around you, their positive reactions convince you that this drink could be a major success. The complex recipe is a secret known only to you.
+				Now, you face a choice:
+				a) Keep the recipe secret (No Patent): As long as you can keep the recipe a secret, it will be very difficult for others to copy it. However, if a competitor figures it out on their own, they are free to sell imitation products.
+				b) Apply for a patent: In exchange for making your recipe public, the government will grant you exclusive rights to sell your drink for 10 years. During this time, no one can legally copy it. After 10 years, however, the recipe becomes public knowledge, and anyone is free to use it
 	Wakaba Cup 2024
 		R1
 			THW introduce a female quota for executive board of companies
@@ -13,7 +33,7 @@ Wakaba Cup
 		R4
 			TH, as you, would start dating the female influencer openly rather than dating the same-sex member in secret
 				Balance $stats 3, 12
-				You are a 17-year-old gay boy, who is hoping to become a model. You are participating in a Japanese love reality show  (e.g. 今日好き （Kyosuki)). You fell in love with a same-sex member, and you found out he likes you back. However, a popular female influencer, who actually likes you, asks you to be her boyfriend. YOU CANNOT DATE BOTH PEOPLE 
+				You are a 17-year-old gay boy, who is hoping to become a model. You are participating in a Japanese love reality show (e.g. 今日好き （Kyosuki)). You fell in love with a same-sex member, and you found out he likes you back. However, a popular female influencer, who actually likes you, asks you to be her boyfriend. YOU CANNOT DATE BOTH PEOPLE
 				AT ONCE.
 	Wakaba Cup 2023
 		R1
@@ -24,21 +44,21 @@ Wakaba Cup
 				Balance $stats 15, 8
 		R3
 			THS the widespread use of illegal method to promote open access to knowledge
-				Currently, there are many illegal ways to gain access to knowledge behind paywalls, including but not limited to the unauthorised distribution of PDFs and copies of journal articles and books, hacking journal databases, websites such as 12ft and Sci-Hub, etc.
 				Balance $stats 6, 17
+				Currently, there are many illegal ways to gain access to knowledge behind paywalls, including but not limited to the unauthorised distribution of PDFs and copies of journal articles and books, hacking journal databases, websites such as 12ft and Sci-Hub, etc.
 		R4
 			THS the SCOTUS decision
-				On June 29th 2023, in a 6-3 ruling, the SCOTUS (Supreme Court of the United States) rejected race-based affirmative action in higher education institutions. This means that an applicant's race or ethnicity can no longer be considered as a factor in college or university admissions decisions.
 				Balance $stats 9, 14
+				On June 29th 2023, in a 6-3 ruling, the SCOTUS (Supreme Court of the United States) rejected race-based affirmative action in higher education institutions. This means that an applicant's race or ethnicity can no longer be considered as a factor in college or university admissions decisions.
 	Wakaba Cup 2022
 		R1:
-			THW ban extremist political parties.
+			THW ban extremist political parties
 		R2:
-			THBT countries with aging populations should implement policies that increase immigration (e.g. more visas, more social benefits to working migrants) rather than ones that encourage citizens to have more children (e.g. tax benefits, increased childcare).
+			THBT countries with aging populations should implement policies that increase immigration (e.g. more visas, more social benefits to working migrants) rather than ones that encourage citizens to have more children (e.g. tax benefits, increased childcare)
 		R3:
-			Assuming feasibility, THW legalize the buying and selling of one's remaining lifetime years.
+			Assuming feasibility, THW legalize the buying and selling of one's remaining lifetime years
 		R4:
-			THBT parents should be honest with their children about their (i.e. parents') imperfections and insecurities.
+			THBT parents should be honest with their children about their (i.e. parents') imperfections and insecurities
 	2021
 		R1
 			THW legalize child labor in developing countries
@@ -66,14 +86,14 @@ Wakaba Cup
 		R2
 			THW provide welfare in the form of basic goods and services rather than cash payments
 		R3
-			THW allow donations of vital organs even at the expense of the donor’s life
+			THW allow donations of vital organs even at the expense of the donor's life
 	2018 Day2
 		R1
-			THW force both parents to take parental leave.
+			THW force both parents to take parental leave
 		R2
-			THBT private activities of political candidates should never be disclosed by media.
+			THBT private activities of political candidates should never be disclosed by media
 		R3
-			THW allow public servants to strike.
+			THW allow public servants to strike
 	2017 Day1
 		R1
 			THW ban gun
@@ -90,48 +110,48 @@ Wakaba Cup
 		R2
 			THW introduce environmental tax on all countries
 		R3
-			THW ban convicted criminals to narrate their crimes for media including but not limited to books, TVs, website or e.t.c.
+			THW ban convicted criminals to narrate their crimes for media including but not limited to books, TVs, website or e.t.c
 	2016
 		R1
-			THBT students with disabilities should be taught in the same class as everyone else.
+			THBT students with disabilities should be taught in the same class as everyone else
 		R2
-			THW leagalize organ transpant for profit.
+			THW leagalize organ transpant for profit
 		R3
-			THW make parental leave mandatory for both parents.
+			THW make parental leave mandatory for both parents
 		R4
 			THW prohibit developing countries from hosting international sporting events. (such as the Olympics, the World Cup, etc.)
 	Pre-Wakaba 2015
 		R1 Theme: Warming up
-			THW ban gun.
+			THW ban gun
 		R2 Theme: Its up to you.
-			THW legalize euthanasia.
+			THW legalize euthanasia
 		R3 Theme: バイト代は100万円を越さないようにしましょうby TD
-			THW legalize part-time job for junior high school students.
+			THW legalize part-time job for junior high school students
 	2015
 		R1 Theme: Now, let’s talk about “female right.”
-			THW introduce a female quota to the number of executive board of companies.
+			THW introduce a female quota to the number of executive board of companies
 		R2 Theme: Who’s responsible?
-			THW punish teachers when their students commit suicide due to bullying.
+			THW punish teachers when their students commit suicide due to bullying
 		R3 Theme: Environment -Our blue planet-
-			THW impose environmental tax on all countries.
+			THW impose environmental tax on all countries
 		R4 Theme: Don’t be an information underdog.
-			THW prohibit journalists from going to the areas dominated by ISIS, such as Syria or Iraq.
+			THW prohibit journalists from going to the areas dominated by ISIS, such as Syria or Iraq
 	Pre-Wakaba 2014
 		R1
-			THW ban combat sports.
+			THW ban combat sports
 		R2
-			THW make voting mandatory.
+			THW make voting mandatory
 		R3
-			THW introduce environmental tax .
+			THW introduce environmental tax
 	Wakaba cup 2014
 		R1
-			THW legalize organ transplant for profit.
+			THW legalize organ transplant for profit
 		R2
-			THW introduce grade retention in compulsory education.
+			THW introduce grade retention in compulsory education
 		R3
-			THBT doctors should tell their patients true condition of illness.
+			THBT doctors should tell their patients true condition of illness
 		R4
-			THBT Japanese government should welcome immigrants.
+			THBT Japanese government should welcome immigrants
 	2013
 		R1
 			THW legalize marijuana
@@ -140,76 +160,76 @@ Wakaba Cup
 		R3
 			THW make high shcool students whose grades are poor pay for their own school fee
 		R4
-			THW deprive the elderly of their driver’s license
+			THW deprive the elderly of their driver's license
 	2012
 		R1
-			THW raise tax on fatty food.
+			THW raise tax on fatty food
 		R2
-			THBT living together is better than living separately for student couples in university.
+			THBT living together is better than living separately for student couples in university
 		R3
-			THW ban anonymous writings on the Internet.
+			THW ban anonymous writings on the Internet
 		R4
-			THW introduce female quota to the parliament.
+			THW introduce female quota to the parliament
 	2011
 		R1
-			THW also punish parents when their children commit a crime.
+			THW also punish parents when their children commit a crime
 		R2
-			THW ban combat sports.
+			THW ban combat sports
 		R3
-			THBT finding a boyfriend or girlfriend at the same club is better than finding them at any other place.
+			THBT finding a boyfriend or girlfriend at the same club is better than finding them at any other place
 		R4
-			THBT Japanese government should abolish nuclear power plants.
+			THBT Japanese government should abolish nuclear power plants
 	2010
 		R1
-			THW give students the right to choose their teachers.
+			THW give students the right to choose their teachers
 		R2
-			THW make voting compulsory.
+			THW make voting compulsory
 		R3
-			THBT a long-distance relationship is better than a short-distance relationship.
+			THBT a long-distance relationship is better than a short-distance relationship
 		R4
-			THW introduce environmental tax.
+			THW introduce environmental tax
 	2009
 		R1
-			THW abolish school uniform.
+			THW abolish school uniform
 		R2
-			THW introduce compulsory voting.
+			THW introduce compulsory voting
 		R3
-			THBT having a roommate is better than living alone for university students.
+			THBT having a roommate is better than living alone for university students
 		R4
-			THW ban possession of gun.
+			THW ban possession of gun
 	2007
 		R1
-			THBT it is better for a baseball player to go to abroad than staying in Japan.
+			THBT it is better for a baseball player to go to abroad than staying in Japan
 		R2
-			THW prohibit pornography.
+			THW prohibit pornography
 		R3
-			THW make volunteer compulsory in high school.
+			THW make volunteer compulsory in high school
 		R4
-			THW ban possession of gun.
+			THW ban possession of gun
 	2006
 		R1
-			THW allow corporal punishment for education.
+			THW allow corporal punishment for education
 		R2
-			THW establish casinos.
+			THW establish casinos
 		R3
-			THBT going to the sea is better than going to the pool.
+			THBT going to the sea is better than going to the pool
 		R4
-			THW legalize euthanasia.
+			THW legalize euthanasia
 	2005
 		R1
-			THW abolish nuclear power plants.
+			THW abolish nuclear power plants
 		R2
-			THW make volunteer work compulsory in schools.
+			THW make volunteer work compulsory in schools
 		R3
-			THW prefer traveling abroad to traveling in Japan.
+			THW prefer traveling abroad to traveling in Japan
 		R4
-			THW impose tax on carbon dioxide.
+			THW impose tax on carbon dioxide
 	2004
 		R1
-			THBT internet is harmful for elementary school students.
+			THBT internet is harmful for elementary school students
 		R2
-			THW abolish death penalty.
+			THW abolish death penalty
 		R3
-			THBT university students should do part-time job.
+			THBT university students should do part-time job
 		R4
-			THW introduce parliamentary debate at school.
+			THW introduce parliamentary debate at school
