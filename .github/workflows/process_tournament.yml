@@ -1,0 +1,62 @@
+name: Process Tournament Data
+
+on:
+    repository_dispatch:
+        types: [process-tournament]
+
+jobs:
+    run-script:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+              with:
+                  token: ${{ secrets.GITHUB_TOKEN }}
+                  fetch-depth: 0
+
+            - name: Install uv
+              uses: astral-sh/setup-uv@v6
+
+            - name: Install processing tool via uv
+              run: |
+                  uv tool install "git+https://github.com/tokyodebate/automotions"
+
+            - name: Create new tournament
+              if: ${{ github.event.client_payload.action == 'create' }}
+              run: |
+                  automotions-cli create \
+                    --url "${{ github.event.client_payload.url }}" \
+                    --year "${{ github.event.client_payload.year }}" \
+                    --id "${{ github.event.client_payload.tournament_id }}" \
+                    --name "${{ github.event.client_payload.tournament_name }}" \
+                    --short "${{ github.event.client_payload.short_name }}" \
+                    --tag ${{ join(github.event.client_payload.tag, ' ') }} \
+                    --path "${{ github.event.client_payload.path }}"
+
+            - name: Update existing tournament
+              if: ${{ github.event.client_payload.action == 'update' }}
+              run: |
+                  automotions-cli update \
+                    --url "${{ github.event.client_payload.url }}" \
+                    --year "${{ github.event.client_payload.year }}" \
+                    --id "${{ github.event.client_payload.tournament_id }}"
+
+            - name: Configure Git identity
+              run: |
+                  git config user.name "GitHub Actions"
+                  git config user.email "actions@github.com"
+
+            - name: Create Pull Request
+              uses: peter-evans/create-pull-request@v5
+              with:
+                  token: ${{ secrets.GITHUB_TOKEN }}
+                  commit-message: "Update tournament ${{ github.event.client_payload.tournament_id }} (${{ github.event.client_payload.year }})"
+                  title: "Update tournament ${{ github.event.client_payload.tournament_id }} (${{ github.event.client_payload.year }})"
+                  body: |
+                      Automated update for tournament:
+                      - Tournament ID: ${{ github.event.client_payload.tournament_id }}
+                      - Year: ${{ github.event.client_payload.year }}
+                      - Action: ${{ github.event.client_payload.action }}
+                  branch: "tournament/${{ github.event.client_payload.tournament_id }}-${{ github.event.client_payload.year }}"
+                  delete-branch: true
