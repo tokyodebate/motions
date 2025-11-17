@@ -1,4 +1,80 @@
 HWS Round Robin
+	HWS Round Robin 2024
+		R1
+			THBT the UK should have provided extensive military support to the independent state of Biafra
+				OG $stats 0, 5, 1, 1
+				OO $stats 2, 0, 3, 2
+				CG $stats 2, 1, 2, 2
+				CO $stats 3, 1, 1, 2
+				In 1967, the Igbo people declared Biafra to be a state independent from Nigeria. Nigeria had recently gained independence from Britain. The Republic of Biafra received diplomatic, economic, and military support from several nations including France, Portugal, Israel, and South Africa. The Biafran government surrendered to the Nigerian army in 1970 after a destructive civil war.
+		R2
+			THP the establishment of an inclusive literary canon to the elimination of any literary canon
+				OG $stats 4, 0, 2, 1
+				OO $stats 1, 3, 2, 1
+				CG $stats 1, 4, 1, 1
+				CO $stats 1, 0, 2, 4
+				Literary canon refers to an established set of works that are considered high-culture and have achieved the status of 'classics.'
+				An inclusive literary canon refers to one in which works from authors of diverse backgrounds—and often more contemporary works—are considered part of that canon.
+		R3
+			THBT social policies should be decided by mini-publics
+				OG $stats 0, 2, 3, 2
+				OO $stats 2, 3, 0, 2
+				CG $stats 1, 2, 2, 2
+				CO $stats 4, 0, 2, 1
+				For the purposes of this debate, 'social policies' refer to policies that do not inherently require overly technical knowledge.
+				Deliberative mini-publics are institutions in which a diverse body of citizens is selected randomly to decide on issues.
+		R4
+			THW choose to be born on North Sentinel Island over being born randomly somewhere else in the world
+				OG $stats 1, 2, 2, 2
+				OO $stats 4, 0, 1, 2
+				CG $stats 2, 1, 3, 1
+				CO $stats 0, 4, 1, 2
+				North Sentinel Island, part of the Andaman archipelago in the Bay of Bengal, houses the Sentinalese, an isolated indigenous tribe that vigorously defends its seclusion from outsiders. If you are born on the North Sentinel Islands, basic food security is guaranteed and no climate-change related disasters will occur during your lifetime.
+		R5
+			Assuming it is possible to safely and easily move fetuses into safe artificial wombs, THBT womxn should not have the right to an abortion
+				OG $stats 1, 1, 4, 1
+				OO $stats 2, 3, 2, 0
+				CG $stats 3, 1, 1, 2
+				CO $stats 1, 2, 0, 4
+		R6
+			THW break up the largest asset management firms
+				OG $stats 0, 1, 4, 2
+				OO $stats 2, 2, 1, 2
+				CG $stats 3, 3, 0, 1
+				CO $stats 2, 1, 2, 2
+				BlackRock, Vanguard, and State Street control over $20 trillion worth of assets and primarily invest them into index funds. Index funds are designed to invest to mirror the performance of a set of companies in an identifiable class (e.g. the S&P 500, the Dow Jones, etc.). The three companies together own about 30% of all of the S&P 500.
+		R7
+			THR the glorification of ethno-nationalist figures associated with pro-democracy movements (e.g. Aung San Suu Kyi in Myanmar, Alexei Navalny in Russia, Sirimavo Bandaranaike in Sri Lanka, etc.)
+				OG $stats 2, 1, 3, 1
+				OO $stats 1, 4, 2, 0
+				CG $stats 2, 2, 0, 3
+				CO $stats 2, 0, 2, 3
+		R8
+			THR the predominance of romantic love in popular culture
+				OG $stats 0, 2, 3, 2
+				OO $stats 2, 3, 1, 1
+				CG $stats 4, 0, 3, 0
+				CO $stats 1, 2, 0, 4
+		R9
+			THP a world where post-colonial states adopted and use Interlanguages over the usage of colonial languages (e.g. English, French, etc.)
+				OG $stats 1, 3, 1, 2
+				OO $stats 3, 1, 3, 0
+				CG $stats 2, 0, 2, 3
+				CO $stats 1, 3, 1, 2
+				For the purposes of this debate, an Interlanguage is used for communication between speakers of similar languages which come from the same root language (e.g. Sanskrit).
+		SF
+			THBT it is in the Houthis' interest to attack ships in the Red Sea
+				OG $stats 0, 2
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 1, 1
+		GF
+			TH, as the chemist, would take the chemical weapons job
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				In 1973, philosopher Bernard Williams presents the following example. Kelly is an unemployed chemist who is offered a job developing a new category of chemical weapons (seemingly not prohibited by treaty). Kelly has always been strongly opposed to weapons of mass destruction, but jobs are scarce and Kelly has a family to provide for. Kelly’s spouse makes a very modest salary as a preschool teacher, and has no qualms about Kelly working on these new weapons. If Kelly does not take the job, they are told that someone else without any reservations about the weapons research will take the job and will likely move the development ahead more quickly.
 	HWS Round Robin 2023
 		R1
 			In post conflict societies, THW actively suppress information and interpretations that portray any past dictator or tyrannical regime in a sympathetic light
@@ -43,143 +119,143 @@ HWS Round Robin
 				CO $stats 0, 1
 	HWS Round Robin 2022
 		R1
-			As a charity successfully making the world better, this house would reject donations from immoral actors.
+			As a charity successfully making the world better, THW reject donations from immoral actors
 		R2
-			This house believes that companies should implement policies that require management to work entry level jobs periodically.
-		R3 
-			This house would require laws that curtail individual freedom under the pretext of public health (e.g., vaccination requirements, mask mandates, lockdowns, etc.) to be confirmed by a referendum.
-		R4 
-			This house prefers a world that includes the star chamber.
-				The star chamber is a supernatural power (perhaps aliens) who randomly but accurately identify a small percentage of immoral action that would otherwise go unpunished, and then ensure that the perpetrators of these acts suffer to a degree that is proportionate to their offense.  This punishment is administered in such a way that no one (including the perpetrator) ever connects it to the immoral actions. 
-		R5  
-			This house regrets major internet companies (e.g., Facebook, Google, etc.) operating on the basis of selling advertising as a business model.
-		GF 
+			THBT companies should implement policies that require management to work entry level jobs periodically
+		R3
+			THW require laws that curtail individual freedom under the pretext of public health (e.g., vaccination requirements, mask mandates, lockdowns, etc.) to be confirmed by a referendum
+		R4
+			THP a world that includes the star chamber
+				The star chamber is a supernatural power (perhaps aliens) who randomly but accurately identify a small percentage of immoral action that would otherwise go unpunished, and then ensure that the perpetrators of these acts suffer to a degree that is proportionate to their offense. This punishment is administered in such a way that no one (including the perpetrator) ever connects it to the immoral actions.
+		R5
+			THR major internet companies (e.g., Facebook, Google, etc.) operating on the basis of selling advertising as a business model
+		GF
 			THS increased military spending and rearmament plans announced by Germany and other EU countries."
 	HWS Round Robin 2021
 		R1
-			THP a world where children are raised communally.
+			THP a world where children are raised communally
 		R2
-			THW expropriate foreign and white-owned businesses in Southern Africa (i.e., South Africa, Namibia, Botswana, Zimbabwe).
+			THW expropriate foreign and white-owned businesses in Southern Africa (i.e., South Africa, Namibia, Botswana, Zimbabwe)
 		R3
 			THS the cult of productivity
 				The cult of productivity refers to a set of norms where being continuously productive and busy in both your professional and personal life is seen as desirable and virtuous.
 		R4
-			This house would replace 'real world' prison incarceration with simulated incarceration, for people not sentenced to a life sentence.
+			THW replace 'real world' prison incarceration with simulated incarceration, for people not sentenced to a life sentence
 				For the purposes of this debate, there exists a safe technology which can accurately simulate the experience of being in prison. A person within the simulation will experience the simulation as fully real, including time passing slowly as in "real life", while not interacting with others in the "real world". In reality, even a long sentence in the simulation will be done in a matter of days.
 		R5
-			As China, THW fund and arm the anti-coup movement in Myanmar.
+			As China, THW fund and arm the anti-coup movement in Myanmar
 				On February 1, 2021, the Myanmar military ("Tatmadaw") overthrew the civilian government led by Aung San Suu Kyi and the National League for Democracy (NLD). Since the coup, extensive violence has broken out over Myanmar, with frequent civilian-military altercations and mass violence committed by the army. The coup followed general elections last year, where the military suffered a significant defeat and refused to accept the results of the elections.
 				In the status quo, China allegedly sells arms to the Burmese military and has blocked an official condemnation of the coup at the U.N. Chinese investment, firms, and infrastructure have been targeted by protestors.
 		GF
-			THBT the legacy of historical figures should not suffer due to those figures' immoral actions, if those actions were generally seen as morally unproblematic by their own society.
+			THBT the legacy of historical figures should not suffer due to those figures' immoral actions, if those actions were generally seen as morally unproblematic by their own society
 	HWS Round Robin 2020
 		R1
-			THBT parents of minorities should encourage their children to embrace positive stereotypes about themselves.
+			THBT parents of minorities should encourage their children to embrace positive stereotypes about themselves
 		R2
-			As the Chinese Communist Party, THW allow state-owned firms to default on domestic bond repayments.
+			As the Chinese Communist Party, THW allow state-owned firms to default on domestic bond repayments
 		R3
-			THBT artists should prioritize the political impact of their works over their aesthetic value.
+			THBT artists should prioritize the political impact of their works over their aesthetic value
 		R4
-			THP a world in which innate intelligence is distributed equally.
+			THP a world in which innate intelligence is distributed equally
 		R5
-			THP a world where there exists a world government with sovereign power.
-				A world government with sovereign power would have effective power in the entirety of the world.  Such a government is characterized by a legislative system, a world court, and sufficient military power to enforce the laws created by such a government.
-		GF 
-			THP a world where there exists a world government with sovereign power.
-				A world government with sovereign power would have effective power in the entirety of the world.  Such a government is characterized by a legislative system, a world court, and sufficient military power to enforce the laws created by such a government.
+			THP a world where there exists a world government with sovereign power
+				A world government with sovereign power would have effective power in the entirety of the world. Such a government is characterized by a legislative system, a world court, and sufficient military power to enforce the laws created by such a government.
+		GF
+			THP a world where there exists a world government with sovereign power
+				A world government with sovereign power would have effective power in the entirety of the world. Such a government is characterized by a legislative system, a world court, and sufficient military power to enforce the laws created by such a government.
 	HWS Round Robin 2019
 		R1
-			This House regrets the decline of the humanities in higher education.
-				In academic settings, “the humanities” is contrasted with the study of natural sciences, social sciences, and professional trainings. Core fields in the humanities include: literature, philosophy, history, religion, art.
+			THR the decline of the humanities in higher education
+				In academic settings, "the humanities" is contrasted with the study of natural sciences, social sciences, and professional trainings. Core fields in the humanities include: literature, philosophy, history, religion, art.
 		R2
-			This House supports laws that protect the health of fetuses (whose mothers intend to carry them to term).
+			THS laws that protect the health of fetuses (whose mothers intend to carry them to term)
 		R3
-			In the event that current talks produce a compromise Brexit deal, this House would put it to a referendum with “remain” as an alternative.
-				The British Labour and Conservative Parties are currently in negotiations for a compromise Brexit deal. Any deal that is likely to emerge will be a “soft” Brexit.
+			In the event that current talks produce a compromise Brexit deal, THW put it to a referendum with "remain" as an alternative
+				The British Labour and Conservative Parties are currently in negotiations for a compromise Brexit deal. Any deal that is likely to emerge will be a "soft" Brexit.
 		R4
-			This House would take a pill that permanently made one contented with one’s current life situation.
+			THW take a pill that permanently made one contented with one's current life situation
 				For the purpose of this debate, the state of being contented refers to one’s overall satisfaction with one’s life. A contented person may have good or bad days, and fluctuations in mood, but their wholistic assessment of their life is that they are content with what they have, even if what they have changes.
 		R5
-			This House Opposes the centrality of sport to national identity
+			THO the centrality of sport to national identity
 		GF
-			This House believes that the Black Lives Matter movement should embrace open carry gun laws and engage in armed community patrols.
+			THBT the Black Lives Matter movement should embrace open carry gun laws and engage in armed community patrols
 				The Black Panthers began as a group of black citizens in Oakland, California who engaged in armed patrols of the city streets, specifically focusing on observing police behavior and arrests. In response, California enacted much stricter gun control legislation.
 	HWS Round Robin 2018
 		R1
-			THBT the criminal justice system should not consider retribution as a factor in sentencing.
+			THBT the criminal justice system should not consider retribution as a factor in sentencing
 		R2
-			THP a world in which universities charged tuition based on student earnings after graduation.
+			THP a world in which universities charged tuition based on student earnings after graduation
 		R3
-			This house believes that governments should prioritize the economic improvement of minority communities over the preservation of their culture.
+			THBT governments should prioritize the economic improvement of minority communities over the preservation of their culture
 		R4
-			This house prefers a world in which, upon childhood, all people intuitively come to know their natural expiration date.
+			THP a world in which, upon childhood, all people intuitively come to know their natural expiration date
 		R5
-			When responding to civilian casualties, this house believes that the military action taken does not have to meet the principle of proportionality.
-		Open GF
-			This house believes that the interests of the Chinese people would be better served by a peaceful transition into a democracy, rather than a continuation of one party rule.
+			When responding to civilian casualties, THBT the military action taken does not have to meet the principle of proportionality
+		GF
+			THBT the interests of the Chinese people would be better served by a peaceful transition into a democracy, rather than a continuation of one party rule
 	HWS Round Robin 2017
 		R1
-			This house supports the use of “eye in the sky” policing in urban areas with high crime rates.
+			THS the use of "eye in the sky" policing in urban areas with high crime rates
 		R2
-			This house supports democratic governments using social disgust as a grounds for restricting public speech or display.
+			THS democratic governments using social disgust as a grounds for restricting public speech or display
 		R3
-			This house regrets the shift in focus within the academic study of history from studying great figures and institutions to studying cultural forces and the experiences of ordinary people.
+			THR the shift in focus within the academic study of history from studying great figures and institutions to studying cultural forces and the experiences of ordinary people
 		R4
-			Given the choice as an individual who is a typical, healthy 30-year-old, THW elect to never again feel the emotion of sorrow.
+			Given the choice as an individual who is a typical, healthy 30-year-old, THW elect to never again feel the emotion of sorrow
 		R5
-			This house believes that the US should issue guest worker visas, under which minimum wage laws would not apply.
-		Open GF
-			THBT governments should abandon the strategy of “decapitation” in fighting terrorism.
+			THBT the US should issue guest worker visas, under which minimum wage laws would not apply
+		GF
+			THBT governments should abandon the strategy of "decapitation" in fighting terrorism
 	HWS Round Robin 2016
 		R1
-			THW require the use of a draft by lottery when engaged in extended military interventions.
+			THW require the use of a draft by lottery when engaged in extended military interventions
 		R2
 			THS filial responsibility laws. (infoslide provided)
 		R3
-			THBT criminal defendants who hire private counsel should not be afforded the right against self-incrimination at trial.
+			THBT criminal defendants who hire private counsel should not be afforded the right against self-incrimination at trial
 		R4
-			TH prefers a world with memory writing technology.
+			THP a world with memory writing technology
 				A memory writing machine is a device that is capable of imprinting or replacing memories in people’s brains in a manner that is medically safe.
 		R5
-			THBT Israel should set aside a certain percentage of seats in the Knesset to be elected by diaspora Jews.
-		Open GF
-			THS health insurance companies offering terminally ill patients the option of a lump sum payment to forgo expensive life-extending treatments.
+			THBT Israel should set aside a certain percentage of seats in the Knesset to be elected by diaspora Jews
+		GF
+			THS health insurance companies offering terminally ill patients the option of a lump sum payment to forgo expensive life-extending treatments
 	HWS Round Robin 2015
 		R1
-			THS establishing an independent state of Kurdistan.
+			THS establishing an independent state of Kurdistan
 		R2
-			THW measure gross national happiness and base policy decisions on those measurements.
+			THW measure gross national happiness and base policy decisions on those measurements
 		R3
-			THW disallow exclusive private arbitration for contracts between corporations and individuals.
+			THW disallow exclusive private arbitration for contracts between corporations and individuals
 		R4
-			Setting aside infectious diseases, THW work to prevent interaction with tribes who have not had contact with the modern world.
+			Setting aside infectious diseases, THW work to prevent interaction with tribes who have not had contact with the modern world
 		R5
-			THW prohibit religious institutions from considering applicants’ religious affiliation for any position whose primary function is not the performance of religious rites (e.g., administrators, teachers, fundraisers, etc.).
-		Open GF
-			THBT prominent civil society activists should choose not to run for public office.
+			THW prohibit religious institutions from considering applicants' religious affiliation for any position whose primary function is not the performance of religious rites (e.g., administrators, teachers, fundraisers, etc.)
+		GF
+			THBT prominent civil society activists should choose not to run for public office
 	HWS Round Robin 2014
 		R1
-			THW measure the efficacy of charities and strip those with comparatively low social value of their charitable status.
+			THW measure the efficacy of charities and strip those with comparatively low social value of their charitable status
 		R2
-			THBT a world without organized religion would be a better world.
+			THBT a world without organized religion would be a better world
 		R3
-			THS the boycotting of Israeli academics.
+			THS the boycotting of Israeli academics
 		R4
-			THBT full gender emancipation requires the end of monogamy as a dominant social norm.
+			THBT full gender emancipation requires the end of monogamy as a dominant social norm
 		R5
-			THW permit parents to stunt physical development of their severely mentally disabled children.
-		Open GF
-			THBT, within broad budgetary constraints, environmental policy should be decided by unelected scientific experts selected by their peers.
+			THW permit parents to stunt physical development of their severely mentally disabled children
+		GF
+			THBT, within broad budgetary constraints, environmental policy should be decided by unelected scientific experts selected by their peers
 	HWS Round Robin 2013
 		R1
-			THW allow legislation through voter initiated referenda.
+			THW allow legislation through voter initiated referenda
 		R2
-			THW establish a US federal court with the authority to approve targeted killings of unlawful combatants.
+			THW establish a US federal court with the authority to approve targeted killings of unlawful combatants
 		R3
-			THW prohibit provincial and local governments from offering tax incentives to lure corporations to open business in their domain.
+			THW prohibit provincial and local governments from offering tax incentives to lure corporations to open business in their domain
 		R4
-			THBT the discovery of a means to stop the human aging process would be a curse to humanity.
+			THBT the discovery of a means to stop the human aging process would be a curse to humanity
 		R5
-			THBT governments should use corporal punishment instead of incarceration for a significant number of crimes.
-		Open GF
-			THS diversity quotas for university admissions.
+			THBT governments should use corporal punishment instead of incarceration for a significant number of crimes
+		GF
+			THS diversity quotas for university admissions
