@@ -1,4 +1,35 @@
 Umeko Cup
+	Umeko Cup 2025
+		R1
+			THS the normalization of Ouchi Eigo
+				Balance $stats 7, 3
+				"Ouchi eigo (English in Houses)refers to parents actively teaching children to use English from a very young age in the household (e.g. using English in daily conversation in household, listening to English songs) It is beginning to gain popularity amongst households which don't have access to institutional English education systems (e.g International schools etc)"
+		R2
+			THW instantly kill bears that come down to populated areas, even if they haven't killed anyone
+				Balance $stats 7, 3
+				In Japan—especially Hokkaidō—bear encounters have risen, with Ussuri brown bears on Hokkaidō and Asiatic black bears on Honshū increasingly appearing near farms, roads, and even city edges like Sapporo. Recent seasons have seen multiple human injuries and fatalities, alongside mounting crop losses, prompting constant patrols and school-route precautions. Authorities currently mix lethal control with non-lethal measures such as electric fencing, garbage management, and camera/AI detection.
+		R3
+			THW allow negative voting
+				Balance $stats 4, 6
+				A negative vote allows voters to deduct one vote from a candidate or party they select. In this system, each voter can choose to cast either a positive vote or a negative vote. The election results will be determined by the net total of positive and negative votes.
+		R4
+			THO the narrative that having a child is intrinsically fulfilling experience
+				Balance $stats 5, 5
+		QF
+			THBT social movements should advocate for members of its population to assimilate into, instead of dismantle, the systems it opposes (e.g., Black Lives Matter advocating for Black Americans to join the police force, the feminist movement advocating for women to co-opt masculine behaviors in the workplace)
+				Balance $stats 1, 3
+		SF
+			THS strong-state developmental model in developing countries
+				Balance $stats 2, 0
+				Strong-state developmental model refers to system where political authority is highly centralized, and state power plays a dominant role in directing domestic development. Decision-making is typically top-down, and some restrictions on individual or civic freedoms may be imposed to maintain order and policy consistency.
+		Rookie GF
+			THP a world where all children take "the Pinocchio's medicine"
+				Balance $stats 0, 1
+				Pinocchio's medicine is a drug that causes a child's nose to grow instantly whenever they tell a lie. The effect wears off when the child turns 18, and there are no side effects.
+		GF
+			THR the practice of religiously obliged alms-giving (e.g. Zakat, tithing, maaser, dana)
+				Balance $stats 0, 1
+				Obliged almsgiving is to give money or help to people in need because the religion or moral beliefs require people to do so.
 	The 30th Umeko Cup (2024)
 		R1
 			THW ban extremist political parties
@@ -47,7 +78,7 @@ Umeko Cup
 		QF
 			TH, as Aboriginal Australians, Prefer significant governmental support for accessing mainstream higher education as opposed to support for Indigenous schools
 				Balance $stats 1, 3
-				The Aboriginal people of Australia are the Indigenous inhabitants of the Australian continent and its surrounding islands. Aboriginal societies are diverse, with hundreds of distinct languages, cultures, and traditions separate from the majority population. The Aboriginal people have faced centuries of oppression in the form of colonialism, land displacement, restricted access to education/employment/basic rights, and suppression of culture. 
+				The Aboriginal people of Australia are the Indigenous inhabitants of the Australian continent and its surrounding islands. Aboriginal societies are diverse, with hundreds of distinct languages, cultures, and traditions separate from the majority population. The Aboriginal people have faced centuries of oppression in the form of colonialism, land displacement, restricted access to education/employment/basic rights, and suppression of culture.
 				Recently, the Australian government is making efforts to reconcile with the Aboriginal people through the acknowledgement of past injustices, promotion of indigenous cultural appreciation, constitutional recognition, initiatives for achieving social equality, etc.
 				Indigenous schools are exclusive to indigenous students and cater specifically to the educational needs and cultural sensitivities of the group.
 		SF
@@ -64,36 +95,36 @@ Umeko Cup
 				Balance $stats 0, 1
 	The 28th Umeko Cup (2022)
 		R1
-			THBT educators should actively teach children to focus on process over results.
-		R2 
-			THW grant a right to die.
-		R3 
-			THBT environmental activists should emphasize blaming large corporations for environmental degradation, as opposed to focusing on individual responsibility.
-		R4 
+			THBT educators should actively teach children to focus on process over results
+		R2
+			THW grant a right to die
+		R3
+			THBT environmental activists should emphasize blaming large corporations for environmental degradation, as opposed to focusing on individual responsibility
+		R4
 			THW nationalize pharmaceutical industry. (i.e. the research, development, and distribution of pharmaceuticals)
-		Open QF 
-			TH, as feminist movement, Opposes gaining profit through dating. (e.g. Papa-katsu(パパ活), Sugar babies)
-		Open SF 
-			THO “The video of black people holding boards and shouting(世界からのサプライズ動画)”.
-				“The video of black people holding boards and shouting”(黑人舉牌喊話影片,  世界からのサプライズ動画) is a form of online video messaging  service that has become an Internet meme on Twitter and TikTok since 2017.
+		QF
+			TH, as feminist movement, Opposes gaining profit through dating. (e.g. Papa-katsu (パパ活), Sugar babies)
+		SF
+			THO "The video of black people holding boards and shouting (世界からのサプライズ動画)"
+				"The video of black people holding boards and shouting" (黑人舉牌喊話影片, 世界からのサプライズ動画) is a form of online video messaging service that has become an Internet meme on Twitter and TikTok since 2017.
 				These services are operated by East Asian companies, and after receiving orders, local actors mainly from sub-Saharan Africa read out ordered texts on a board in unfluent language. Some local people work on the videos as the main business.
-		Open GF
-			THP a world in which all people are born with equal and average level of intelligence.
+		GF
+			THP a world in which all people are born with equal and average level of intelligence
 		Rookie SF
-			THW criminalize the payment of ransom to terrorist groups.
+			THW criminalize the payment of ransom to terrorist groups
 		Rookie GF
-			THP a world where people cannot lie.
+			THP a world where people cannot lie
 				For the purpose of this debate, lying is to intentionally tell information that you believe to be untrue.
 	The 27th Umeko Cup (2021)
 		R1
 			From the early stages of education, THW divide children based on ability instead of age
 		R2
-			THBT elected politicians should not reefsign due to immoral but not illegal behavior(e.g. adultery in Japan, derogatory comments).
+			THBT elected politicians should not reefsign due to immoral but not illegal behavior (e.g. adultery in Japan, derogatory comments)
 		R3
-			TH prefers a world in which anonymous posting on the internet is prohibited
+			THP a world in which anonymous posting on the internet is prohibited
 		R4
-			THBT minority parents should shelter their children from the existence of racism(e.g. limiting access to books or movies which contain racist content, far-right newspapers etc.)
-		Pre-QF
+			THBT minority parents should shelter their children from the existence of racism (e.g. limiting access to books or movies which contain racist content, far-right newspapers etc.)
+		Pre QF
 			THS conscription
 		Rookie GF
 			THBT artists should not discuss the concepts behind their own art
@@ -102,338 +133,338 @@ Umeko Cup
 		Rookie GF
 			THR the narrative directed at the youth that one has to set clear goals/purposes for their ownn life
 		SF
-			THBT developing nations should prioritise reducing wealth unequality(ie. taxing multi-national corporations, investing in infrastructure in rural areas) over GDP growth (ie. reducing taxes for multi-national corporations, investing in businesses in urban areas)
+			THBT developing nations should prioritise reducing wealth unequality (ie. taxing multi-national corporations, investing in infrastructure in rural areas) over GDP growth (ie. reducing taxes for multi-national corporations, investing in businesses in urban areas)
 		GF
 			In ares of high povertyTHW activeely support religios organizations economically to go to such areas)
 	The 26th Umeko Cup (2020)
 		R1
-			This House Believes That elite universities should implement racial quotas to ensure a greater admission of underrepresented minority students
+			THBT elite universities should implement racial quotas to ensure a greater admission of underrepresented minority students
 		R2
 			THW legalize public nudity
 		R3
 			THW grant citizenship to undocumented migrants who report abuse/exploitation by their employers
 		R4
-			This House Believes That all decisions regarding children’s health should be made by medical professionals and not their parents
+			THBT all decisions regarding children's health should be made by medical professionals and not their parents
 		Rookie SF
 			THBT the government should bail out big failing companies even if they failed due to mismanagement
 				A bailout is when a business, an individual, or a government provides money and/or resources to a failing company. These actions help to prevent the consequences of that business’s potential downfall which may include bankruptcy and default on its financial obligations. Businesses and governments may receive a bailout which may take the form of a loan, the purchasing of bonds, stocks or cash injection.
 		Rookie GF
 			THW actively teach children that money leads to happiness
-		Open QF
-			This House Believes That developing countries should limit rural to urban migration
-		Open SF
+		QF
+			THBT developing countries should limit rural to urban migration
+		SF
 			THBT police officers in the United States should not carry firearms on regular patrol
 		GF
-			This House Opposes the glorification of hard work
+			THO the glorification of hard work
 	Umeko Cup 2019
 		R1
-			This house would make voting mandatory.
+			THW make voting mandatory
 		R2
-			This house believes that parents and teachers should encourage children to be satisfied with what they have at that time rather than to have ambition to achieve more.
+			THBT parents and teachers should encourage children to be satisfied with what they have at that time rather than to have ambition to achieve more
 		R3
-			This house would prohibit the media from reporting on the mental illness of crimes.
+			THW prohibit the media from reporting on the mental illness of crimes
 		R4
 			THW force doctors to report suspected cases of domestic violence
-		Oct Finals
-			This house would monitor ex-prisoners with GPS
-		Quarter Finals
-			This house, as moderate feminist groups, would actively label and criticize radical feminists as “”Feminazis””
-				“”Feminazi”” is an artificial term which is a blend of “”Feminist”” and “”Nazi””. It was popularized by politically conservative radio personality Rush Limbaugh during the 1990s. The term particularly points at radical or militant feminists who are intolerant of opposing views or feminists who want superiority of women over men.
-		Semi Finals
+		OF
+			THW monitor ex-prisoners with GPS
+		QF
+			TH, as moderate feminist groups, would actively label and criticize radical feminists as ""Feminazis""
+				"Feminazi" is an artificial term which is a blend of ""Feminist"" and ""Nazi"". It was popularized by politically conservative radio personality Rush Limbaugh during the 1990s. The term particularly points at radical or militant feminists who are intolerant of opposing views or feminists who want superiority of women over men.
+		SF
 			In cases of interracial adoption, THW allow foster parents to force their children to alter their racial appearance
-		Grand Final
-			THW forcibly introduce a CO2 emission limit to all countries even when it hinders economical growth.
+		GF
+			THW forcibly introduce a CO2 emission limit to all countries even when it hinders economical growth
 	Umeko Cup(2018)
 		R1
 			THW ban consumption of meat
 		R2
-			THR the dominant narrative that it’ taboo to talk about “sexual related things” (including sexual preference, sexual experience, sexuality etc. ) openly in public.
+			THR the dominant narrative that it' taboo to talk about "sexual related things" (including sexual preference, sexual experience, sexuality etc.) openly in public
 		R3
-			THBT we should stop teaching children that their parents always act for the sake of children.
+			THBT we should stop teaching children that their parents always act for the sake of children
 		R4
-			THW prohibit art which glorify suicide.
+			THW prohibit art which glorify suicide
 		OF
-			THBT developing countries should adopt economic development policies that limit the migration of people into rapidly developing urban areas.
+			THBT developing countries should adopt economic development policies that limit the migration of people into rapidly developing urban areas
 		QF
-			THW deprioritize organ transplants to those who have led unhealthy lifestyles.
+			THW deprioritize organ transplants to those who have led unhealthy lifestyles
 		SF
-			THBT prominent civil society activists should choose not to run for public office.
+			THBT prominent civil society activists should choose not to run for public office
 		GF
-			TH opposes organized religion.
+			THO organized religion
 	Umeko Cup(2017)
 		R1
-			THW legalize bestiality(sexual intercourse between a person and an animal.).
+			THW legalize bestiality (sexual intercourse between a person and an animal.)
 		R2
-			TH, as black rights activist, opposes this account.
+			TH, as black rights activist, opposes this account
 				Yes,You+Racist is a twitter account which names and shames people who allegedly reported as white supremacists by crowdsourcing their identification via Internet. The account is followed by 400,000 accounts, and resulted in at least one person being fired from his office.
 		R3
-			THBT “Sharing Culture” does more harm than good for individual’s life.
-				“Sharing Culture” (a culture which encourages the frequent posting of both mundane and intimate details of ones life on social media platforms, and the commenting on and reacting to others posts of this nature)
+			THBT "Sharing Culture" does more harm than good for individual's life
+				"Sharing Culture" (a culture which encourages the frequent posting of both mundane and intimate details of ones life on social media platforms, and the commenting on and reacting to others posts of this nature)
 		R4
-			THBT parents should NOT seek to have savior sibling.
+			THBT parents should NOT seek to have savior sibling
 				A saviour sibling is a child who is intentionally designed and born to provide an organ or cell transplant to a sibling with a fatal disease such as leukemia and cancer.
 		OF
-			THBT past colonial states should teach an overwhelmingly negative version of their imperial histories.
+			THBT past colonial states should teach an overwhelmingly negative version of their imperial histories
 		QF
-			THBT humanitarian aid does more harm than good in active conflict zones.
+			THBT humanitarian aid does more harm than good in active conflict zones
 		SF
-			THBT policies that have significant damage to the environment should be subject to a veto by the committee of scientific experts.
+			THBT policies that have significant damage to the environment should be subject to a veto by the committee of scientific experts
 		GF
-			THO the value that forgiveness is a virtue.
+			THO the value that forgiveness is a virtue
 	Umeko Cup (2016)
 		R1
-			THW prohibit anonymous writing on the Internet.
+			THW prohibit anonymous writing on the Internet
 		R2
-			THW grant the right to vote to prisoners.
+			THW grant the right to vote to prisoners
 		R3
-			THBT CEOs of large corporations should be selected by employees rather than shareholders.
+			THBT CEOs of large corporations should be selected by employees rather than shareholders
 		R4
-			THW ban tobacco.
+			THW ban tobacco
 		OF
-			THW discourage the movement that aim to further the acceptation of obesity in society.
+			THW discourage the movement that aim to further the acceptation of obesity in society
 		QF
-			THBT feminist movement should oppose surrogacy.
+			THBT feminist movement should oppose surrogacy
 		SF
-			THBT Government of developing countries should actively introduce English as a single official language.
+			THBT Government of developing countries should actively introduce English as a single official language
 		GF
-			TH prefers a world without marriage.
+			THP a world without marriage
 	21st Umeko Cup(2015)
 		R1
-			THW introduce grade retention in compulsory education.
+			THW introduce grade retention in compulsory education
 		R2
-			As a form of welfare for the poor, TH prefers providing services (such as, but not limited to food stamp, job raining) to cash.
+			As a form of welfare for the poor, THP providing services (such as, but not limited to food stamp, job raining) to cash
 		R3
-			THW never negotiate with terrorists.
+			THW never negotiate with terrorists
 		R4
-			THW allow strikes by those working in essential state services.
+			THW allow strikes by those working in essential state services
 		OF
-			THW forcibly give medical treatment to children who are suffering from life-threatening illness/injury even if it is against their parent’s will (such as, but not limited to, religious or political reasons)
+			THW forcibly give medical treatment to children who are suffering from life-threatening illness/injury even if it is against their parent's will (such as, but not limited to, religious or political reasons)
 		QF
-			As liberal democratic countries, THBT development aid should be contingent upon democracy.
+			As liberal democratic countries, THBT development aid should be contingent upon democracy
 		SF
-			THW ban the use of private lawyers in criminal trials.
+			THW ban the use of private lawyers in criminal trials
 		GF
-			THW introduce 100% inheritance tax.
+			THW introduce 100% inheritance tax
 	20th Umeko Cup (2014)
 		R1
-			THW introduce fat tax.
+			THW introduce fat tax
 		R2
-			THW legalize child labor in developing countries.
+			THW legalize child labor in developing countries
 		R3
-			THW require all religious schools to provide sex education regardless of parental consent.
+			THW require all religious schools to provide sex education regardless of parental consent
 		R4
-			THW legalize organ transplant for profit.OF THW ban negative campaign.
+			THW legalize organ transplant for profit.OF THW ban negative campaign
 		QF
-			THW ban abortion at all stages of pregnancy.
+			THW ban abortion at all stages of pregnancy
 		SF
-			THW sanction oppressive regimes rather than engage them.
+			THW sanction oppressive regimes rather than engage them
 		GF
-			THW ban all pornography.
+			THW ban all pornography
 	19th Umeko Cup (2013)
 		R1
-			THBT parents whose children are grossly obese should be punished for child abuse.
+			THBT parents whose children are grossly obese should be punished for child abuse
 		R2
-			THW remove all government subsidies from Konkatsu(婚活)events.
+			THW remove all government subsidies from Konkatsu (婚活)events
 		R3
-			THW give extra votes to citizens based on their performance on a current affairs test.
+			THW give extra votes to citizens based on their performance on a current affairs test
 		R4
-			THBT CEOs of large corporations should be selected by employees rather than shareholders.
+			THBT CEOs of large corporations should be selected by employees rather than shareholders
 		OF
-			THW ban tax havens.
+			THW ban tax havens
 				A tax haven is a country or an independent area where taxes are set at an extremely low rate
 		QF
-			THW make people use their real name when on the Internet.
+			THW make people use their real name when on the Internet
 		SF
-			THBT any songs or films that promote or glorify socially undesirable conduct (e.g. drug abuse, racism) should be excluded from awards (e.g. Emmy, Grammy).
+			THBT any songs or films that promote or glorify socially undesirable conduct (e.g. drug abuse, racism) should be excluded from awards (e.g. Emmy, Grammy)
 		GF
-			THBT international sporting events should not be held in countries that oppress its citizens.
+			THBT international sporting events should not be held in countries that oppress its citizens
 	18th Umeko Cup (2012)
 		R1
-			THW ban combat sports.
+			THW ban combat sports
 		R2
-			THBT long-distance relationship is better than short-distance relationship.
+			THBT long-distance relationship is better than short-distance relationship
 		R3
-			THBT Japan should preemptively attack to defend territory.
+			THBT Japan should preemptively attack to defend territory
 		R4
-			THW promote teachers purely by student evaluation.
+			THW promote teachers purely by student evaluation
 		OF
-			THW build gambling in regions which have heavy debt in Japan.
+			THW build gambling in regions which have heavy debt in Japan
 		QF
-			THW ban nurturing pets.
+			THW ban nurturing pets
 		SF
-			THW punish celebrities heavier than ordinary citizens.
+			THW punish celebrities heavier than ordinary citizens
 		GF
-			THW ban cosmetic surgery.
+			THW ban cosmetic surgery
 	17th Umeko Cup (2011)
 		R1
-			THW make school trips volunteer activities.
+			THW make school trips volunteer activities
 		R2
-			THBT it is better to have a two-dimensional boyfriend/girlfriend than having a three-dimensional one.
+			THBT it is better to have a two-dimensional boyfriend/girlfriend than having a three-dimensional one
 		R3
-			THBT a US military bases should be removed from Japan.
+			THBT a US military bases should be removed from Japan
 		R4
-			THBT developing countries should reduce carbon dioxide like advanced countries do.
+			THBT developing countries should reduce carbon dioxide like advanced countries do
 		QF
-			THW prohibit athletes from being under their standard weight.
+			THW prohibit athletes from being under their standard weight
 		SF
-			THW make the prime minister serve full-term in office.
+			THW make the prime minister serve full-term in office
 		GF
-			THW legalize prostitution.
+			THW legalize prostitution
 	16th Umeko Cup (2010)
 		R1
-			THW abolish escalator system in schools.
+			THW abolish escalator system in schools
 		R2
-			THBT it is better to get handmade presents from your boyfriend or girlfriend than gexpensive brand-made ones.
+			THBT it is better to get handmade presents from your boyfriend or girlfriend than gexpensive brand-made ones
 		R3
-			THBT politicians should stop being engaged in other jobs.
+			THBT politicians should stop being engaged in other jobs
 		R4
-			THW ban animal experiments.
+			THW ban animal experiments
 		QF
-			THW join Trans-Pacific Partnership (TPP).
+			THW join Trans-Pacific Partnership (TPP)
 		SF
-			THW prohibit convicted drunk drivers from driving ever again.
+			THW prohibit convicted drunk drivers from driving ever again
 		GF
-			THBT the French government should allow religious freedom in public.
+			THBT the French government should allow religious freedom in public
 	15th Umeko Cup (2009)
 		R1
-			THW close convenient stores at midnight.
+			THW close convenient stores at midnight
 		R2
-			THBT a carnivorous boyfriend or girlfriend is better than a herbivorous one.
+			THBT a carnivorous boyfriend or girlfriend is better than a herbivorous one
 		R3
-			THBT children should not be allowed to play in professional sports.
+			THBT children should not be allowed to play in professional sports
 		R4
-			THW bail out failing companies.
+			THW bail out failing companies
 		QF
-			THBT developed countries should not accept skilled migrants from developing countries.
+			THBT developed countries should not accept skilled migrants from developing countries
 		SF
-			THW create DNA databases of all citizens.
+			THW create DNA databases of all citizens
 		GF
-			THW introduce a female quota system into the Diet.
+			THW introduce a female quota system into the Diet
 	14th Umeko Cup (2008)
 		R1
-			THW resume Saturday classes at schools.
+			THW resume Saturday classes at schools
 		R2
-			THW drive out food companies which deceive consumers.
+			THW drive out food companies which deceive consumers
 		R3
-			THBT a group date is better than a date between two people to get a boyfriend or a girlfriend.
+			THBT a group date is better than a date between two people to get a boyfriend or a girlfriend
 		R4
-			THW provide free national medical health care for elderly people.
+			THW provide free national medical health care for elderly people
 		QF
-			THBT BRICs should limit their emissions of CO2.
+			THBT BRICs should limit their emissions of CO2
 		SF
-			THW introduce organ transplants for profit.
+			THW introduce organ transplants for profit
 		GF
-			THW ban gun.
+			THW ban gun
 	13th Umeko Cup (2007)
 		R1
-			THW raise consumption tax.
+			THW raise consumption tax
 		R2
-			THBT single life is better than married life.
+			THBT single life is better than married life
 		R3
-			THW punish parents when their children commit crimes.
+			THW punish parents when their children commit crimes
 		R4
-			THBT governor should not continue to be in the same post for a long time.
+			THBT governor should not continue to be in the same post for a long time
 		QF
-			THBT politicians have no right to private lives.
+			THBT politicians have no right to private lives
 		SF
-			THW regulate violent scenes in all kinds of media.
+			THW regulate violent scenes in all kinds of media
 		GF
-			THW legalize euthanasia.
+			THW legalize euthanasia
 	12th Umeko Cup (2006)
 		R1
-			THW ban tobacco.
+			THW ban tobacco
 		R2
-			THBT university students should have a student rather than an adult as a boyfriend or a girlfriend.
+			THBT university students should have a student rather than an adult as a boyfriend or a girlfriend
 		R3
-			THW distribute condoms in school.
+			THW distribute condoms in school
 		R4
-			THW introduce compulsory voting system.
+			THW introduce compulsory voting system
 		QF
-			THW impose environmental tax.
+			THW impose environmental tax
 		SF
-			THBT companies should not consider academic background for the employment.
+			THBT companies should not consider academic background for the employment
 		GF
-			THW legalize prostitution.
+			THW legalize prostitution
 	11th Umeko Cup (2005)
 		R1
-			THBT e-mail is better than face to face to declare your love.
+			THBT e-mail is better than face to face to declare your love
 		R2
-			THBT Koizumi should withdraw Self-Defense Forces from Iraq.
+			THBT Koizumi should withdraw Self-Defense Forces from Iraq
 		R3
-			THW ban pornography.
+			THW ban pornography
 		QF
-			THW legalize marijuana for pleasure.
+			THW legalize marijuana for pleasure
 		SF
-			THW prohibit child actors to work on weekdays.
+			THW prohibit child actors to work on weekdays
 		GF
-			THW abolish death penalty.
+			THW abolish death penalty
 	10th Umeko Cup (2004)
 		R1
-			THW abolish abortion.
+			THW abolish abortion
 		R2
-			THBT debaters should choose debaters for their boyfriend or girlfriend.
+			THBT debaters should choose debaters for their boyfriend or girlfriend
 		R3
-			THW pay for garbage disposal.
+			THW pay for garbage disposal
 	9th Umeko Cup (2003)
 		R1
-			THBT the seniority system is better than the meritocratic system.
+			THBT the seniority system is better than the meritocratic system
 		R2
-			THBT love overcomes any obstacle.
+			THBT love overcomes any obstacle
 		R3
-			THBT we should launch joint space explanation projects.
+			THBT we should launch joint space explanation projects
 	8th Umeko Cup (2002)
 		R1
-			THBT we need camera on the street.
+			THBT we need camera on the street
 		R2
-			THBT class of normal students should welcome students with disabilities widely.
+			THBT class of normal students should welcome students with disabilities widely
 		R3
-			THBT Japanese government should legalize organ transfer from children under 15 years of ages.
+			THBT Japanese government should legalize organ transfer from children under 15 years of ages
 	7th Umeko Cup (2001)
 		R1
-			THBT children should have a mobile phone.
+			THBT children should have a mobile phone
 		R2
-			THBT sharing the World Cup between Japan and Korea will be successful.
+			THBT sharing the World Cup between Japan and Korea will be successful
 		R3
-			THBT doctors should inform cancer patients of their true illness.
+			THBT doctors should inform cancer patients of their true illness
 	6th Umeko Cup (2000)
 		R1
-			THBT special discount for ladies is effective.
+			THBT special discount for ladies is effective
 		R2
-			THBT recommendation for school entrance should be abolished.
+			THBT recommendation for school entrance should be abolished
 		R3
-			THBT trials should be broadcasted on TV.
+			THBT trials should be broadcasted on TV
 	5th Umeko Cup (1999)
 		R1
-			THBT it is better for couples to have children after their marriage.
+			THBT it is better for couples to have children after their marriage
 		R2
-			THBT physical punishment is necessary to bring up children.
+			THBT physical punishment is necessary to bring up children
 		R3
-			THBT we should abolish priority seating.
+			THBT we should abolish priority seating
 	4th Umeko Cup (1998)
 		R1
-			THBT it’s better for lovers to cohabit before marriage.
+			THBT it's better for lovers to cohabit before marriage
 		R2
-			THBT discussion is better than debate.
+			THBT discussion is better than debate
 		R3
-			THBT we should abolish emperor system.
+			THBT we should abolish emperor system
 	3rd Umeko Cup (1997)
 		R1
-			THBT campus festival should be abolished.
+			THBT campus festival should be abolished
 		R2
-			THBT nuclear family is more important than extended family.
+			THBT nuclear family is more important than extended family
 		R3
-			THBT public junior and high schools should be integrated one 6-year period.
+			THBT public junior and high schools should be integrated one 6-year period
 	2nd Umeko Cup (1996)
 		R1
-			THBT English school education should be taught by native speakers.
+			THBT English school education should be taught by native speakers
 		R2
-			THBT honesty is the best policy.
+			THBT honesty is the best policy
 		R3
-			THBT same sex friends are better opposite sex friends.
+			THBT same sex friends are better opposite sex friends
 	1st Umeko Cup (1995)
 		R1
-			THBT love is the most important thing in marriage.
+			THBT love is the most important thing in marriage
 		R2
-			THBT computer technology will bring people happiness.
+			THBT computer technology will bring people happiness
 		R3
-			THBT the Japanese government should abolish capital punishment.
+			THBT the Japanese government should abolish capital punishment
