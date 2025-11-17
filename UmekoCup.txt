@@ -30,6 +30,37 @@ Umeko Cup
 			THR the practice of religiously obliged alms-giving (e.g. Zakat, tithing, maaser, dana)
 				Balance $stats 0, 1
 				Obliged almsgiving is to give money or help to people in need because the religion or moral beliefs require people to do so.
+	Umeko Cup 2025
+		R1
+			THS the normalization of Ouchi Eigo
+				Balance $stats 7, 3
+				"Ouchi eigo (English in Houses)refers to parents actively teaching children to use English from a very young age in the household (e.g. using English in daily conversation in household, listening to English songs) It is beginning to gain popularity amongst households which don't have access to institutional English education systems (e.g International schools etc)"
+		R2
+			THW instantly kill bears that come down to populated areas, even if they haven't killed anyone
+				Balance $stats 7, 3
+				In Japan—especially Hokkaidō—bear encounters have risen, with Ussuri brown bears on Hokkaidō and Asiatic black bears on Honshū increasingly appearing near farms, roads, and even city edges like Sapporo. Recent seasons have seen multiple human injuries and fatalities, alongside mounting crop losses, prompting constant patrols and school-route precautions. Authorities currently mix lethal control with non-lethal measures such as electric fencing, garbage management, and camera/AI detection.
+		R3
+			THW allow negative voting
+				Balance $stats 4, 6
+				A negative vote allows voters to deduct one vote from a candidate or party they select. In this system, each voter can choose to cast either a positive vote or a negative vote. The election results will be determined by the net total of positive and negative votes.
+		R4
+			THO the narrative that having a child is intrinsically fulfilling experience
+				Balance $stats 5, 5
+		QF
+			THBT social movements should advocate for members of its population to assimilate into, instead of dismantle, the systems it opposes (e.g., Black Lives Matter advocating for Black Americans to join the police force, the feminist movement advocating for women to co-opt masculine behaviors in the workplace)
+				Balance $stats 1, 3
+		SF
+			THS strong-state developmental model in developing countries
+				Balance $stats 2, 0
+				Strong-state developmental model refers to system where political authority is highly centralized, and state power plays a dominant role in directing domestic development. Decision-making is typically top-down, and some restrictions on individual or civic freedoms may be imposed to maintain order and policy consistency.
+		Rookie GF
+			THP a world where all children take "the Pinocchio's medicine"
+				Balance $stats 0, 1
+				Pinocchio's medicine is a drug that causes a child's nose to grow instantly whenever they tell a lie. The effect wears off when the child turns 18, and there are no side effects.
+		GF
+			THR the practice of religiously obliged alms-giving (e.g. Zakat, tithing, maaser, dana)
+				Balance $stats 0, 1
+				Obliged almsgiving is to give money or help to people in need because the religion or moral beliefs require people to do so.
 	The 30th Umeko Cup (2024)
 		R1
 			THW ban extremist political parties
