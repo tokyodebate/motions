@@ -480,7 +480,7 @@ European Universities Debating Championships
 		ESL GF
 			THO the Defining Decade norm
 				The ‘Defining Decade’ is a cultural norm which urges young adults to persistently persue life goals, even at the expense of significantly neglecting immideate desires. As part of this approach it is common to seek to maximise educational value from most activities, seek more responsibility at work, seek instrumental value from social relationships, and stigmatise idle time.
-		POF
+		PDQF
 			THBT local governments ih developing countries should allocate significant portions of their budget via Participatory Budgeting
 				Participatory Budgeting’ is a process in which ordinary civilians decide how to allocate part of a municipal or local public budget. Citizens propose and prioritize spending projects within a predefined amount of funding, and the government is bound by the decisions they made, e.g, local transportation projects, subsidies, and educational and cultural programs
 		QF
