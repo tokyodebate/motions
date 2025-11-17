@@ -1,4 +1,121 @@
 European Universities Debating Championships
+	Glasgow European Universities Debating Championships 2024
+		R1
+			THO the depiction of tragedies through comedy e.g. Life is Beautiful, Jojo Rabbit, The Great Dictator, Good Morning Vietnam
+				OG $stats 6, 11, 21, 8
+				OO $stats 21, 17, 3, 5
+				CG $stats 2, 10, 10, 24
+				CO $stats 17, 8, 12, 9
+		R2
+			THBT devolution has strengthened the Scottish independence movement
+				OG $stats 16, 12, 15, 3
+				OO $stats 13, 15, 10, 8
+				CG $stats 7, 7, 15, 17
+				CO $stats 10, 12, 6, 18
+				Devolution was the process of providing a regional government, and autonomy over defined policy areas, to Scotland and Wales in 1998.
+				Devolved powers are constrained to domestic issues (for example the Scottish and Welsh governments have control over their respective education systems, domestic transport infrastructure and health services). International issues are reserved to the central British Government (for example, trade deals, issues relating to security and defence).
+		R3
+			THS the rise of "stay-at-home" trend
+				OG $stats 11, 17, 8, 10
+				OO $stats 13, 15, 12, 6
+				CG $stats 13, 5, 13, 15
+				CO $stats 9, 9, 13, 15
+				The "stay-at-home" trend is a trend where young people demonstrate a significantly reduced tendency to go out or engage in experimental activites. This includes: less clubbing, less casual sex, and socialising more online.
+		R4
+			In hybrid regimes*, TH as an independent news media company would actively be biased against the ruling party, rather than being impartial. *a political regime that combines some democratic and some autocratic elements in a significant manner (e.g. Turkey, Hungary, Bangladesh)
+				OG $stats 12, 8, 20, 6
+				OO $stats 13, 14, 15, 4
+				CG $stats 12, 14, 7, 13
+				CO $stats 9, 10, 4, 23
+		R5
+			THBT it is in the interest of resource-rich nations (e.g. Serbia, Mexico and Argentina) to allow Western corporations to undertake mining operations for the extraction of 'green minerals' (e.g. Lithium, Zinc, Nickel) that are essential for green technology
+				OG $stats 19, 10, 13, 4
+				OO $stats 10, 12, 15, 9
+				CG $stats 8, 15, 10, 13
+				CO $stats 9, 9, 8, 20
+		R6
+			THBT left wing criticism of liberal NGOs for failing to be intersectional brings more harm than good
+				OG $stats 19, 17, 6, 4
+				OO $stats 11, 10, 17, 8
+				CG $stats 8, 12, 12, 14
+				CO $stats 8, 7, 11, 20
+				Recently, there has been a rise in left-wing criticism of liberal NGOs for failing to be intersectional. 
+				Some examples include: the Guttmacher Institute, an abortion rights group, facing criticism for insufficient diversity in its workforce; and the American Civil Liberties Union, facing criticism for failing to prioritise free speech rights for specific minority groups.
+		R7
+			THR the consolidation of the music industry
+				OG $stats 4, 18, 10, 14
+				OO $stats 23, 7, 10, 6
+				CG $stats 6, 11, 14, 15
+				CO $stats 13, 10, 12, 11
+				Record labels control music production, artist promotion, and streaming. They influence the type of music created and often favour solo artists over groups. Consolidation in the music industry refers to the merging of record labels and conglomerates. For example the "Big Three" (Universal, Sony, Warner) dominate the market, accounting for nearly 70% of the global music industry.
+		R8
+			THBT Donald Trump winning the 2024 US Presidential Election is in the interest of the Chinese Communist Party
+				OG $stats 13, 15, 8, 10
+				OO $stats 20, 11, 12, 3
+				CG $stats 8, 9, 14, 15
+				CO $stats 5, 11, 12, 18
+		R9
+			THP Hayekian economic policies to Keynesian economic policies
+				OG $stats 7, 10, 20, 9
+				OO $stats 14, 14, 11, 7
+				CG $stats 9, 11, 7, 19
+				CO $stats 16, 11, 8, 11
+				Keynesian economics is a macroeconomic theory that emphasises the importance of strong government intervention (e.g. deficit spending, funding large infastructure projects, quantitative easing/tightening) to promote sustained growth.
+				Hayekian economics is a macroeconomic theory that emphasises the importance of limited government intervention (e.g. minimising annual deficits, free markets, constant monetary policy) to promote sustained growth.
+		POF
+			THP a Common Law system over a Civil Law system
+				OG $stats 3, 1
+				OO $stats 3, 1
+				CG $stats 0, 4
+				CO $stats 2, 2
+				In Common Law systems (e.g. UK, US, India, New Zealand) judges interpret legislation within the context of specific cases and create new legal principles that form precedents for future rulings. Common Law systems are adversarial, such that lawyers of opposing parties advocate for a case, and judges act as a non-interventionist arbiter. 
+				In a Civil Law system (e.g. France, Germany, Indonesia, Japan) laws are primarily codified in legislation by the government, leaving limited room for judicial interpretation. Civil Law systems are inquisitorial, such that while lawyers of opposing parties present the case, judges take a more active role in investigating the case, gathering evidence, and questioning witnesses. 
+				Juries can exist in both systems.
+		QF
+			THBT the IMF should declare China an intransigent creditor
+				OG $stats 3, 1
+				OO $stats 3, 1
+				CG $stats 1, 3
+				CO $stats 1, 3
+				Under the IMFs lending policy, the IMF may declare a creditor country to be 'intransigent'. When seeking a bailout from the IMF, a debtor country must now:
+				1. Stop making any payments to any intransigent countries;
+				2. Agree not to seek any new loans from any intransigent countries;
+				Until the debt has been repaid to the IMF.
+		SF
+			THP a monarchy where the king has the divine right to rule, as opposed to a theocracy ruled by religious institutions
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 1, 1
+				The divine right of kings is a political and religious doctrine of a monarchy. It follows that only God can judge a monarch, and that any attempt to depose, dethrone, resist or restrict their powers runs contrary to God's will and may constitute a sinful act.
+				In a theocracy, without the concept of the divine right of kings, religious leaders and institutions govern the state directly and have the divine authority on earth.
+		GF
+			THO the recent rise in distrust of state institutions
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+		ESL QF
+			THBT the Old Firm should join the English Football league structure, rather than stay in the Scottish Premiership
+				OG $stats 3, 1
+				OO $stats 2, 2
+				CG $stats 1, 3
+				CO $stats 2, 2
+				Celtic and Rangers (collectively referred to as 'The Old Firm') are the two largest football clubs in Scotland and currently play in the Scottish Premiership. 'The Old Firm' has been dominating the Scottish Premiership, and the number of attendees at their home games are equal to the rest of the top two divisions of Scottish Football League combined. 
+				For the purpose of this debate, ‘The Old Firm’ is offered to join the English Football league structure, entering initially in the English Premier League.
+		ESL SF
+			THP EU legislation of AI to legislation imposed by each EU member state
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 1, 1
+				The EU Artifical Intelligence Act is legislation that regulates AI Systems on a 'risk-based approach'. Under this Act, the higher the risk to society, the stricter the rules (for example, increased document keeping, greater obligations on users and distributors, increased human intervention and oversight or, in extreme cases, banning the use of the system). This legislation does not apply to military and defence systems.
+		ESL GF
+			THR the narrative that dying for romantic love is justified
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
 	Black Sea EUDC 2023
 		R1
 			Given the opportunity, TH, as a talented young individual living in Bulgaria, would emigrate to pursue a career in Western Europe
@@ -38,7 +155,7 @@ European Universities Debating Championships
 				CG $stats 8, 6, 9, 15
 				CO $stats 10, 8, 10, 10
 				In children's entertainment, a political message specifically addresses issues, policies, or power dynamics related to governance and public affairs. It aims to shape public opinion, influence political decisions, or promote specific political ideologies. Examples of children's media with political messages include "The Lorax," "Zootopia," and "Pocahontas"
-				It should not be confused with apolitical moral messages, which focus on teaching universal values like honesty, kindness, and empathy, and are prevalent in most children's media (e.g. "SpongeBob SquarePants," "Dora the Explorer," and "The Powerpuff Girls."). 
+				It should not be confused with apolitical moral messages, which focus on teaching universal values like honesty, kindness, and empathy, and are prevalent in most children's media (e.g. "SpongeBob SquarePants," "Dora the Explorer," and "The Powerpuff Girls.").
 				The key distinction that makes a message political lies in whether the message primarily addresses specific political issues as compared to broader ethical principles.
 		R7
 			THP drug regulatory bodies (e.g. FDA, EMA, MHRA) to only evaluate whether pharmaceuticals (e.g. treatments, medicines, vaccines) are safe, but not whether they are effective
@@ -233,7 +350,7 @@ European Universities Debating Championships
 				CG $stats 4, 9, 8, 13
 				CO $stats 10, 9, 7, 8
 				In Spain there are two ways financial autonomy is exercised by autonomous regions:
-				In the common regime the central government is in charge of setting and collecting most taxes, which it then redistributes between all the autonomous regions with the aim of reducing inequalities between regions. This implies that richer regions become net contributors to the system, while poorer ones become net recipients. Catalonia is currently under a common regime. 
+				In the common regime the central government is in charge of setting and collecting most taxes, which it then redistributes between all the autonomous regions with the aim of reducing inequalities between regions. This implies that richer regions become net contributors to the system, while poorer ones become net recipients. Catalonia is currently under a common regime.
 				The second regime is a chartered regime, where as long as regions pay a fixed amount to the central government, they are allowed full control over setting and collecting non-VAT taxes (including raising or lowering tax). Currently only Basque Country and Navarre have a chartered regime.
 		R6
 			THBT social movements should follow social marxism
@@ -294,52 +411,52 @@ European Universities Debating Championships
 				OO $stats 0, 1
 				CG $stats 0, 1
 				CO $stats 0, 1
-				For the purposes of this debate reincaraction is real. It happens in human form only, in a random (not karmic) way, and doesn't have to follow immediately after death. 
-				This is known to all and considered an undisputable fact. 
+				For the purposes of this debate reincaraction is real. It happens in human form only, in a random (not karmic) way, and doesn't have to follow immediately after death.
+				This is known to all and considered an undisputable fact.
 				Humans have inherent traits that consist of their core personality and preferences. These get transferred through reincarnations and do not change. People are a combination of their inherent traits and their environment.
 	Solbridge EUDC 2020
 		R1:
 			THW only allow university admission on the basis of standardized testing, as opposed to non-quantitative methods (e.g. essays, alumni interviews)
 		R2:
-			This House Would ban Amazon’s internal arbitration courts
+			THW ban Amazon's internal arbitration courts
 				Infoslide: All third-party sellers on Amazon are contractually obliged to settle any dispute between them and Amazon in an Amazon internal arbitration process
 		R3:
-			This House Opposes the commercialization of Mindfulness
+			THO the commercialization of Mindfulness
 				Infoslide: Mindfulness is the psychological process of purposely bringing one’s attention to experiences occurring in the present moment without judgment, which one develops through the practice of meditation and through other training
 		R4:
-			This House Believes That pro-democratic activists should use fake news and synthetic media (e.g. “deepfake”, fake video or audio recordings) to advance their cause.
+			THBT pro-democratic activists should use fake news and synthetic media (e.g. "deepfake", fake video or audio recordings) to advance their cause
 		R5:
 			THR the trend of central banks setting extremely low interest rates after the 2008 financial crisis
 		R6:
-			THBT 10 Minute School should remove the videos.
+			THBT 10 Minute School should remove the videos
 				Infoslide: 10 Minute School is a large educational start-up operating in Bangladesh. It produces very popular online content including lessons on school subjects, as well as basic life skills such as writing a CV.Recently, in response to several videos about consent, LGBTQ+ rights and gender equality, extremists in Bangladesh have come out against the organization and its founders, calling the organization anti-Muslim and openly threatening them.
 		R7:
-			Given the technology, This House Would erase society’s memory and evidence of the criminal past of former convicts after their release from prison.
+			Given the technology, THW erase society's memory and evidence of the criminal past of former convicts after their release from prison
 		R8:
-			This House Believes That leaders of an occupied nation should not assist the occupying powers in maintaining stability.
+			THBT leaders of an occupied nation should not assist the occupying powers in maintaining stability
 		R9:
-			This House Would ban ownership consolidation of newspapers by a single entity e.g. private equity firms, single media company.
+			THW ban ownership consolidation of newspapers by a single entity e.g. private equity firms, single media company
 		ESL QF:
-			This House Would force individuals suspected of being a “stolen child” under the junta to undergo DNA testing to establish whether they are indeed stolen children.
-				Infoslide: From 1976 to 1983, Argentina was ruled by a military junta. In order to ensure lasting loyalty to the regime, the junta secretly kidnapped children of “subversive” parents as infants.
+			THW force individuals suspected of being a "stolen child" under the junta to undergo DNA testing to establish whether they are indeed stolen children
+				Infoslide: From 1976 to 1983, Argentina was ruled by a military junta. In order to ensure lasting loyalty to the regime, the junta secretly kidnapped children of "subversive" parents as infants.
 		ESL SF:
 			THBT countries should suspend all elections in times of severe health crises
 		ESL F:
 			THW only recruit atheists to be part of the group, and would not allow any religious books or items of worship on board
 				Infoslide: The year is 2140. A distant planet very similar to Earth has been discovered. A group of humans is supposed to embark on a journey to settle the planet.
-		Open PDQ:
-			This House Would ban insurance coverage for sexual misconduct claims.
+		PDQ:
+			THW ban insurance coverage for sexual misconduct claims
 		QF:
-			This House Would transfer management of all water resources to an international body.
+			THW transfer management of all water resources to an international body
 		SF:
-			TH, as Israel, would form a strategic military alliance with the Kurds in Syria.
+			TH, as Israel, would form a strategic military alliance with the Kurds in Syria
 		F:
 			THW allow police officers to refuse orders on grounds of conscience
 	Athens EUDC 2019
 		R1
-			THBT Greece should introduce significant financial incentives for companies and individuals currently based in Athens* to relocate to other Greek cities *Over a third of the Greek population lives in Athens.
+			THBT Greece should introduce significant financial incentives for companies and individuals currently based in Athens* to relocate to other Greek cities *Over a third of the Greek population lives in Athens
 		R2
-			THBT it is in the interest of the Chinese Communist Party to cease attempts to infringe on “”One Country, Two Systems”” in Hong Kong, rather than continuing its current approach.
+			THBT it is in the interest of the Chinese Communist Party to cease attempts to infringe on ""One Country, Two Systems"" in Hong Kong, rather than continuing its current approach
 		R3
 			THW encourage women to be selfish
 		R4
@@ -352,118 +469,118 @@ European Universities Debating Championships
 		R7
 			THBT schools should teach children to be skeptical of parental authority
 		R8
-			In circumstances where a unanimous decision is currently required, THP majority voting as the European Council’s decision-making approach
+			In circumstances where a unanimous decision is currently required, THP majority voting as the European Council's decision-making approach
 				In matters of high sensitivity and complexity, the European Council requires unanimous decision-making. These matters include, but are not limited to foreign policy decisions, granting new rights to EU citizens and suspending the rights of current member states.
 		R9
 			THW make police commanders personally criminally liable for instances of police brutality committed by their subordinates
-		ESL Quarter Finals
+		ESL QF
 			In situations where deliberate economic policies by another state have caused substantial economic harms, THBT international law should reeognise that-mlitary-retaliation can be-justified e.g. restricting access to important trade routes or straits, aggressively increasing the price of vital commodities, limiting access to strategic resources
-		ESL Semi Finals
-			THBT the US Democratic Party should prioritise emplyment issues, even at the expense of significant harms to the environment.
-		ESL Grand Final
-			TH Opposes the Defining Decade norm
+		ESL SF
+			THBT the US Democratic Party should prioritise emplyment issues, even at the expense of significant harms to the environment
+		ESL GF
+			THO the Defining Decade norm
 				The ‘Defining Decade’ is a cultural norm which urges young adults to persistently persue life goals, even at the expense of significantly neglecting immideate desires. As part of this approach it is common to seek to maximise educational value from most activities, seek more responsibility at work, seek instrumental value from social relationships, and stigmatise idle time.
-		Partial Double-Quarter Finals
+		PDQF
 			THBT local governments ih developing countries should allocate significant portions of their budget via Participatory Budgeting
 				Participatory Budgeting’ is a process in which ordinary civilians decide how to allocate part of a municipal or local public budget. Citizens propose and prioritize spending projects within a predefined amount of funding, and the government is bound by the decisions they made, e.g, local transportation projects, subsidies, and educational and cultural programs
-		Quarter Finals
-			THBT it is in the interest of the Kremlin to take measures to reduce Russian dependency on China* *e.g limit the selling of raw materials to China, reduce the share of Yuan in Russia’s currency reserves, not allowing Chinese companies to develop strategic infastructure such as 5G in Russia
-		Semi Finals
-			THBT communities that have been victims of atorocities should emphasis the narrative of the ‘banality of evil’ when interpreting those atorocities
+		QF
+			THBT it is in the interest of the Kremlin to take measures to reduce Russian dependency on China* *e.g limit the selling of raw materials to China, reduce the share of Yuan in Russia's currency reserves, not allowing Chinese companies to develop strategic infastructure such as 5G in Russia
+		SF
+			THBT communities that have been victims of atorocities should emphasis the narrative of the 'banality of evil' when interpreting those atorocities
 				The concept of ‘banality of evil’ claims that great act of evil can be committed by ordinary indivisuals within a bureacracy. Under this theory, most perpetrators of great evil are ordinary people, with no motive for their actions other than promoting thier own advancement in the system.
-		Grand Final
-			THBT the Greek government should have rejected the 2015 bailout deal and sought to negotiate further concessions, even at the risk of not receiving a bailout.
+		GF
+			THBT the Greek government should have rejected the 2015 bailout deal and sought to negotiate further concessions, even at the risk of not receiving a bailout
 	EUDC 2018 Novi Sad
 		R1
 			THBT the US Democratic Party should move to the left in candidate selection and policy platform
 		R2
 			THBT State Health Services should allow private companies to run hospitals for profit
 		R3
-			THBT the State should fund the creation of, and access to, realistic androids that simulate romantic relationships.
+			THBT the State should fund the creation of, and access to, realistic androids that simulate romantic relationships
 		R4
-			THR the glorification of the immediate postcolonial leaders in Sub-Saharan Africa.
+			THR the glorification of the immediate postcolonial leaders in Sub-Saharan Africa
 		R5
 			THBT South Korea should abandon the goal of, and all policies which aim at, Korean reunification
 		R6
-			THR the increasing trend of popular shows featuring neurodivergence* as the central theme. *Neurodivergence refers to those whose psychology is non standard, e.g. for reasons of mental health, mental disability, etc.
+			THR the increasing trend of popular shows featuring neurodivergence* as the central theme. *Neurodivergence refers to those whose psychology is non standard, e.g. for reasons of mental health, mental disability, etc
 		R7
 			TH, as Colombia, would cease cooperation with the USA in the War Against Drugs
 		R8
-			THBT Artists should not participate in the ongoing interpretation of their art.
+			THBT Artists should not participate in the ongoing interpretation of their art
 		R9
-			TH supports first generation immigrants to Western Europe encouraging their children to fully assimilate and identify with the local culture
+			THS first generation immigrants to Western Europe encouraging their children to fully assimilate and identify with the local culture
 		OF
-			THW prefer a religion which preaches that one’s fate in the material world is predetermined rather than one which preaches that choices influence it
+			THW prefer a religion which preaches that one's fate in the material world is predetermined rather than one which preaches that choices influence it
 		QF
-			THBT the IMF should require direct control over a country’s monetary policy as a condition of national bailouts.
+			THBT the IMF should require direct control over a country's monetary policy as a condition of national bailouts
 		SF
 			THBT liberal democracies should constitutionally enshrine the right of regions to unilaterally secede
 		GF
 			THR the shift in the #MeToo movement from victims sharing their experiences to holding public figures to account
 		ESL QF
-			THBT the EU should decriminalize human smuggling*. * Human smuggling is the aiding of a willing person to illegally cross a border. It is distinct from human trafficking, in which the person does not consent.
+			THBT the EU should decriminalize human smuggling*. * Human smuggling is the aiding of a willing person to illegally cross a border. It is distinct from human trafficking, in which the person does not consent
 		ESL SF
 			THR the decline of labour union power in the West
 		ESL GF
-			TH supports the promotion of collective guilt after large scale crimes against humanity
+			THS the promotion of collective guilt after large scale crimes against humanity
 	EUDC 2017 Tallin
 		R1
-			THBT the US should ban extremist groups (e.g. the KKK and neo-nazi groups).
+			THBT the US should ban extremist groups (e.g. the KKK and neo-nazi groups)
 		R2
-			THBT the WTO should allow developing countries to impose policies aimes at protecting domestic industries, even at the expense of harming international trade.
+			THBT the WTO should allow developing countries to impose policies aimes at protecting domestic industries, even at the expense of harming international trade
 		R3
-			THR the rise of the ‚Sharing Culture’ (a culture which encourages the frequent posting of both mundane and intimate details of one’s life on social media platforms, and the commenting on and reacting to others posts of this nature).
+			THR the rise of the ‚Sharing Culture' (a culture which encourages the frequent posting of both mundane and intimate details of one's life on social media platforms, and the commenting on and reacting to others posts of this nature)
 		R4
-			THBT states should significantly fund female-only tech companies.
+			THBT states should significantly fund female-only tech companies
 		R5
-			TH, as Israel, supports the Jewish People’s Intelligence Service Doctrin.
+			TH, as Israel, supports the Jewish People's Intelligence Service Doctrin
 				The Jewish People’s Intelligence Service Doctrin is a proposal which states that the Israeli Intelligence service should have a significant responsibility not only to Israeli’s citizens’ security, but also to the security to the Jewish communities abroad. If this doctrin were adopted, Israel would use significant resources and launch potentially violent operations in order to keep Jewish people safe internationally.
 		R6
-			TH supports universities treating students like customers (e.g. by allocating significant ressources to improving students’ lifestyles, and granting students influence over university decisions and the content and delivery of the course curricula).
+			THS universities treating students like customers (e.g. by allocating significant ressources to improving students' lifestyles, and granting students influence over university decisions and the content and delivery of the course curricula)
 		R7
-			THBT Western medical institutions should neither cooperate with, nor use the data produced by, non-Western medical institutions that do not meet Western standards on human clinical trials.
+			THBT Western medical institutions should neither cooperate with, nor use the data produced by, non-Western medical institutions that do not meet Western standards on human clinical trials
 				Non-Western medical institutions are becoming increasingly competitive within the field of human clinical trials and now constitute a major share of the world’s scientific output. These trials operate under local medical standards that are less stringent than Western ones.
 		R8
-			THBT LGBT groups should actively seek to include Side B christians.
+			THBT LGBT groups should actively seek to include Side B christians
 				Side B christians are christians who identify as experiencing same sex attraction but nevertheless believe that homosexual sex is sinful, and therefor attempt to remain celibate.
 		R9
-			TH supports the creation and use of Lethal Autonomous Robots.
+			THS the creation and use of Lethal Autonomous Robots
 				Lethal Autonomous Robots are fully autonomous military weapons that can select and engage targets without human intervention.
-		Open PDQF
-			THBT the US should reverse the ‘Pivot to Asia’ strategy.
+		PDQF
+			THBT the US should reverse the 'Pivot to Asia' strategy
 		ESL QF
-			THBT having children is immoral.
-		Open QF
-			TH, as women’s rights groups in India, would adopt violent female goddesses as prominent symbols.
+			THBT having children is immoral
+		QF
+			TH, as women's rights groups in India, would adopt violent female goddesses as prominent symbols
 				In Hinduism, there exist prominent goddesses that represent liberation through force, violence, aggression and power. An example is Kali, who is often portrayed wearing a garland of skulls of the men she has killed around her neck and standing on her lover, the Hindu God Shiva, who lies calm and submissive beneath her.
 		ESL SF
-			THW allow local governments to issue immigration permits that grant access to Defined Permit Services in the local area only.
+			THW allow local governments to issue immigration permits that grant access to Defined Permit Services in the local area only
 				Defined Permit Services include access to the purchasing or renting of property, employment, and government services such as education, healthcare and welfare.
-		Open SF
-			THR the mass deregulation of the financial sector.
+		SF
+			THR the mass deregulation of the financial sector
 				Since the 1980s, the financial sector has grown rapidly in many developed economies, with mass deregulation serving as a major driver. As the sector has grown, the number of people employed in the industry, and the variety and complexity of financial products have increased.
-		ESL final
-			THBT Western European states at high risk for terror attacks should implement ‘state of emergency’ laws.
+		ESL GF
+			THBT Western European states at high risk for terror attacks should implement 'state of emergency' laws
 				‘State of emergency’ laws temporarily grant more powers to the executive and law enforcement agencies. Examples include warrant-less property searches and house arrests, and using electronic tagging for the purposes of surveillance
-		Open final
-			TH as the Kremlin would commemorate the 1917 Russian Revolution as a tradegy rather than a triumph for the nation.
+		GF
+			TH as the Kremlin would commemorate the 1917 Russian Revolution as a tradegy rather than a triumph for the nation
 				The 1917 Revolutions overthrew the Tsarist regime and were a precursor to the creation of the Soviet Union. In Russia, perception of the revolutions varies and the Kremlin does not have an official position.
 	EUDC 2016 Warsaw
 		R1
-			TH regrets the rise of social media as a primary source of news distribution
+			THR the rise of social media as a primary source of news distribution
 		R2
-			TH supports Barack Obama’s statements that emphasise African- Americans taking individual responsibility for improving their own position in life
+			THS Barack Obama's statements that emphasise African- Americans taking individual responsibility for improving their own position in life
 		R3
 			THW create state-run centres where individuals can purchase and consume psychedelic* drugs *drugs whose primary effect is to alter cognition and perception e.g. LSD and Magic Mushrooms
 		R4
-			TH supports strong government intervention to prevent gentrification process when significant numbers of wealthier people move to a poor area
+			THS strong government intervention to prevent gentrification process when significant numbers of wealthier people move to a poor area
 		R5
 			THBT the Israel Philharmonic Orchestra should regularly play the works of Richard Wagner
 				Richard Wagner was a 19th century anti-semitic German composer. His music was favoured by the Nazis and played at the Nuremburg rallies, and reportedly at Nazi death camps. When Wagner’s music was played in Israel, it lead to protests and it remains controversial.
 		R6
-			TH regrets the mass commercialisation of football
+			THR the mass commercialisation of football
 		R7
-			TH supports Sanctuary Cities in the United States
+			THS Sanctuary Cities in the United States
 				A ‘sanctuary city’, for example San Francisco, does not allow police or city employees (e.g. educators, social, and healthcare workers), to inquite about an individual’s immigration status. These cities do not co-operate with the federal government’s controls on illegal immigrants.
 		R8
 			THBT Latin American states should provide extensive material support for a military coup against the Venezualan government
@@ -472,86 +589,86 @@ European Universities Debating Championships
 		ESL QF
 			THBT Western States should fund the spread of atheism in Iraq through provision of education, health care and welfare
 		ESL SF
-			TH regrets the safe space movement’s attempts to significantly limit speech on university campuses
+			THR the safe space movement's attempts to significantly limit speech on university campuses
 				The growing safe space movement has used both social pressure and direct action to achieve its aims. These include, but are not limited to banning certain speakers, and limiting exposure to controversial, and potentially triggering topics.
 		ESL GF
-			THBT western nations should support breakaway states in former Soviet Union (e.g. East Ukraine or South Ossetia) after free and fair referendum.
-		Open Partial OF
-			TH supports BRICS countries creating alternatives to the current international economic institutions (i.e. the IMF, the World Bank, and the World Trade Organisation) Brazil, Russia, India, China, South Africa
-		Open QF
+			THBT western nations should support breakaway states in former Soviet Union (e.g. East Ukraine or South Ossetia) after free and fair referendum
+		POF
+			THS BRICS countries creating alternatives to the current international economic institutions (i.e. the IMF, the World Bank, and the World Trade Organisation) Brazil, Russia, India, China, South Africa
+		QF
 			THW require the economic policies of political parties to be approved by an independent panel of experts before being used in campaigns
-		Open SF
-			TH supports Iran’s extension of the Sharia principle of “an eye for an eye” to the victims of acid attacks
-				Recently there has been a high number of acid attacks against women, either due to personal feuds or for their non-conformity to Islamic values. / Iranian courts that are governed by Sharia law ruled that victims have the right to choose to blind their attacker by putting acid in their eye(s).
-		Open GF
-			THW nationalize and provide public access to the Metadata being gathered by online multinational companies.
+		SF
+			THS Iran's extension of the Sharia principle of "an eye for an eye" to the victims of acid attacks
+				Recently there has been a high number of acid attacks against women, either due to personal feuds or for their non-conformity to Islamic values. / Iranian courts that are governed by Sharia law ruled that victims have the right to choose to blind their attacker by putting acid in their eye (s).
+		GF
+			THW nationalize and provide public access to the Metadata being gathered by online multinational companies
 	EUDC 2015 Vienna
 		R1
-			THW pay all elected politicians the median wage in their country.
+			THW pay all elected politicians the median wage in their country
 		R2
-			THBT when multi-national corporations conduct any business in Western states, these nations should enforce their environmental standards at all stages of production.
+			THBT when multi-national corporations conduct any business in Western states, these nations should enforce their environmental standards at all stages of production
 		R3
-			THBT Western states should not use private military contractors in combat.
+			THBT Western states should not use private military contractors in combat
 		R4
-			THW ban any treatment, service or ritual from claiming a physical healing effect until it is tested and proven more effective than a placebo by a national regulator.
+			THW ban any treatment, service or ritual from claiming a physical healing effect until it is tested and proven more effective than a placebo by a national regulator
 		R5
-			THBT the European Union should lift its arms embargo on China.
+			THBT the European Union should lift its arms embargo on China
 		R6
-			THW only allow the media and campagning organisations to depict or publish information about the deceased in a tragedy with the explicit permission of the family.
+			THW only allow the media and campagning organisations to depict or publish information about the deceased in a tragedy with the explicit permission of the family
 		R7
 			THBT the West should stop all attempts to gather information or intelligence by deception and/or coercion of foreign citizens
 		R8
-			THBT it is legitimate for individuals to punish people they deem to have committed online harassment by revealing their identity online.
+			THBT it is legitimate for individuals to punish people they deem to have committed online harassment by revealing their identity online
 		R9
 			THW introduce a 100% inheritance tax
 		ESL QF
 			THW legalise surrogacy for profit in Western Liberal Democracies
 		ESL SF
 			THW introduce a mandatory term of at least 1 year of non-military national service for 18year olds
-		ESL Final
-			THBT parents of a musical child genius have a moral obligation to push that child to maximise their musical potential.
-		Open QF
+		ESL GF
+			THBT parents of a musical child genius have a moral obligation to push that child to maximise their musical potential
+		QF
 			THW prohibit businesses from taking a public position on social issues
-		Open SF
-			THW require all defendants in criminal cases to be represented only by state-employed lawyers.
-		Open GF
-			THW treat the deaths of soldiers as regrettable losses of lives rather than examples of heroism.
+		SF
+			THW require all defendants in criminal cases to be represented only by state-employed lawyers
+		GF
+			THW treat the deaths of soldiers as regrettable losses of lives rather than examples of heroism
 	EUDC 2014
 		R1
-			THW pay additional benefits to families on welfare according to their child’s performance in school.
+			THW pay additional benefits to families on welfare according to their child's performance in school
 		R2
-			TH supports two-party political systems over multi-party political systems.
+			THS two-party political systems over multi-party political systems
 		R3
-			THW ban international aid charities from using senational, graphic, or overly-emotional images of suffering in fundraising and advertising campaigns.
+			THW ban international aid charities from using senational, graphic, or overly-emotional images of suffering in fundraising and advertising campaigns
 		R4
-			THBT EU member states should nationalise all their oil and gas resources in order to surrender total ownership and control of them to an EU-run energy agency.
+			THBT EU member states should nationalise all their oil and gas resources in order to surrender total ownership and control of them to an EU-run energy agency
 		R5
-			THBT states of the former Yugoslavia should not commemorate the events of the Yugoslav Wars. For the purposes of this debate, ’Commemoration’ refers to state-supported national celebration or mourning of historical events or people.
+			THBT states of the former Yugoslavia should not commemorate the events of the Yugoslav Wars. For the purposes of this debate, 'Commemoration' refers to state-supported national celebration or mourning of historical events or people
 		R6
-			THW introduce blind voting. Blind voting means voters indicate a series of preferences for policies rather than directly selecting a party. These preferences are then matched to the policies of political parties⁏ the voter is taken to have voted for the party that most closely matches their preferences.
+			THW introduce blind voting. Blind voting means voters indicate a series of preferences for policies rather than directly selecting a party. These preferences are then matched to the policies of political parties⁏ the voter is taken to have voted for the party that most closely matches their preferences
 		R7
-			THW require of police departments that the ethnic composition of their arrests match the ethnic composition of the population in their jurisdiction.
+			THW require of police departments that the ethnic composition of their arrests match the ethnic composition of the population in their jurisdiction
 		R8
-			THBT micro-finance organisations (including, but not limited to: NGOs, charities and development banks) should offer micro-finance loans in developing nations exclusively to women. Micro-Finance’ refers to small, long-term loans with no or extremely low interest rates, provided to individuals who seek to start a business.
+			THBT micro-finance organisations (including, but not limited to: NGOs, charities and development banks) should offer micro-finance loans in developing nations exclusively to women. Micro-Finance' refers to small, long-term loans with no or extremely low interest rates, provided to individuals who seek to start a business
 		R9
-			THBT states should hold binding national referendums on major peace agreements.
+			THBT states should hold binding national referendums on major peace agreements
 		ESL Tie break Motion
-			THW make membership in a labour union compulsory for every worker.
-		ESL Quarter Final
-			THW require companies to place images of animal suffering on all products or food whose production harmed or killed animals.
-		ESL Semi Final
-			THBT leaders of minority religions in Europe should strongly encourage their congregations to refrain from public displays of their faith.
-		ESL Final
-			THW, assuming it was technically feasible, remove the ability of soldiers to feel fear.
-		Open Quarter Final
-			THBT supreme/constitutional courts should not have the power to strike down legislation.
-		Open Semi Final
-			THBT the United States of America should invade, and forcibly partition Iraq.
-		Open Final
-			THBT feminist movement should oppose military interventions which claim to further women’s rights
+			THW make membership in a labour union compulsory for every worker
+		ESL QF
+			THW require companies to place images of animal suffering on all products or food whose production harmed or killed animals
+		ESL SF
+			THBT leaders of minority religions in Europe should strongly encourage their congregations to refrain from public displays of their faith
+		ESL GF
+			THW, assuming it was technically feasible, remove the ability of soldiers to feel fear
+		QF
+			THBT supreme/constitutional courts should not have the power to strike down legislation
+		SF
+			THBT the United States of America should invade, and forcibly partition Iraq
+		GF
+			THBT feminist movement should oppose military interventions which claim to further women's rights
 	EUDC 2013
 		R1
-			THW ban video games in which the player engages in brutal and inmoral violence in a realistic setting.
+			THW ban video games in which the player engages in brutal and inmoral violence in a realistic setting
 		R2
 			THW require international development aid budgets to be approved by popular referenda
 		R3
@@ -561,358 +678,358 @@ European Universities Debating Championships
 		R5
 			THB that Israel should allow members of the Jewish Diaspora to vote in its election
 		R6
-			TH applauds the rise of songs by female pop artists that glorify assertive female sexuality.
+			TH applauds the rise of songs by female pop artists that glorify assertive female sexuality
 		R7
-			THBT it is in China’s strat. int. to cease all non-humanitarian assistance to North Korea until it ends its nuclear programme.
+			THBT it is in China's strat. int. to cease all non-humanitarian assistance to North Korea until it ends its nuclear programme
 		R8
-			THB that Barack Obama should not have granted legal immunity to officials who ordered the use of torture.
+			THB that Barack Obama should not have granted legal immunity to officials who ordered the use of torture
 		R9
 			THW provide welfare in the form of basic goods and services rather than cash payments. #eudc
 		ESL QF
-			THBT men should consistently call out and correct chauvinistic claims by colleagues and co-workers.
+			THBT men should consistently call out and correct chauvinistic claims by colleagues and co-workers
 		ESLSF
-			THB that environmentalists should launch a campaign of sabotage and property destruction aimed at major polluting companies.
+			THB that environmentalists should launch a campaign of sabotage and property destruction aimed at major polluting companies
 		ESL GF
 			THB the state should not fund any work of art or perfomance that the average cititzens would not recognise as having artistic merit #educ
 		QF
-			THBT African countries should adopt English as the principal language of instruction in schools.
+			THBT African countries should adopt English as the principal language of instruction in schools
 		SF
-			TH Regrets that Western Media has Demonised Islamic Terrorists Rather than Portraying Them as Criminals with Legitimate Political Grievances.
+			THR that Western Media has Demonised Islamic Terrorists Rather than Portraying Them as Criminals with Legitimate Political Grievances
 		GF
-			THW give more votes to citizens according to their performance on a current affairs test.
+			THW give more votes to citizens according to their performance on a current affairs test
 	EUDC 2012
 		R1
-			THB parents should choose not to send their children to private school.
+			THB parents should choose not to send their children to private school
 		R2
-			THBT First Nations’ Peoples (e.g. Native Americans) who live in geographically separate areas should be given complete autonomous govt.
+			THBT First Nations' Peoples (e.g. Native Americans) who live in geographically separate areas should be given complete autonomous govt
 		R3
-			THBT the music industry should not facilitate the comebacks of artists who committed violent crimes.
+			THBT the music industry should not facilitate the comebacks of artists who committed violent crimes
 		R4
-			THBT the Mexican government should remove all limits on law enforcement and the military in the fight against organised crime.
+			THBT the Mexican government should remove all limits on law enforcement and the military in the fight against organised crime
 		R5
 			THBT the ECB should unconditionally buy significant amounts of government debt from struggling Eurozone countries
 		R6
 			THW limit the amount that can be spent by corporations in any one course of litigation
 		R7
-			THW require the military to recruit solders in direct proportion to the socioeconomic make up of their country.
+			THW require the military to recruit solders in direct proportion to the socioeconomic make up of their country
 		R8
-			THBT the Palestinians should accept complete demilitarisation in returned for a guaranteed sovereign state.
+			THBT the Palestinians should accept complete demilitarisation in returned for a guaranteed sovereign state
 		R9
-			THW allow anyone to take up residence in any country, provided that they will not be an economic burden on that country.
-		ESL Quarters
+			THW allow anyone to take up residence in any country, provided that they will not be an economic burden on that country
+		ESL QF
 			THS life sentence without parole for serial re-offenders
-		ESL Semis
+		ESL SF
 			THBT militaries in newly democratised arab states should act as guardians of secularism
-		ESL Final
-			THW retrospectively remove all amnesty granted to those who committed crimes as part of oppressive regimes.
+		ESL GF
+			THW retrospectively remove all amnesty granted to those who committed crimes as part of oppressive regimes
 		Main QF
-			THBT Republika Srpska should secede from BIH.
-		Main Semis
-			THB schools should aggressively stream students according to their ability from a young age.
-		Main Final
+			THBT Republika Srpska should secede from BIH
+		Main SF
+			THB schools should aggressively stream students according to their ability from a young age
+		Main GF
 			THW amend the US constitution to prohibit any involvement by religious organizations in the electoral process
 	EUDC Galway 2011
 		R1
-			THW bring back death penalty.
+			THW bring back death penalty
 		R2
-			THW prohibit the media from using software to cosmetically improve an individual’s appearance.
+			THW prohibit the media from using software to cosmetically improve an individual's appearance
 		R3
 			THBT Germany should ban the publication of Mein Kampf indefinitely
 		R4
-			THBT Barack Obama should have vetoed any debt deal that did not increase taxation.
+			THBT Barack Obama should have vetoed any debt deal that did not increase taxation
 		R5
-			THW allow the creation of donor siblings.
+			THW allow the creation of donor siblings
 		R6
-			THBT hacking is an acceptable form of protest against large corporations.
+			THBT hacking is an acceptable form of protest against large corporations
 		R7
-			THBT early childhood education in schools should undermine traditional gender roles.
+			THBT early childhood education in schools should undermine traditional gender roles
 		R8
-			THBT America and the EU should cease all financial, political and military support to both Israel and the Palestinian Authority until they reach a peace agreement.
+			THBT America and the EU should cease all financial, political and military support to both Israel and the Palestinian Authority until they reach a peace agreement
 		R9
-			THW legally require priests to report all serious crimes that they hear of in confessions.
-		Quarters
-			THW never fight for King and Country.
-		ESL Quarters
+			THW legally require priests to report all serious crimes that they hear of in confessions
+		QF
+			THW never fight for King and Country
+		ESL QF
 			THW ban all EU arms companies from selling arms outside the EU
-		ESL Semifinals
+		ESL SF
 			THW require persons who work in the media to wait four years before running for public office or working for the government
-		Semifinals
-			THBT the West should promise preferential economic and political cooperation to Arab democracies who adopt secular constitutions.
-		ESL Finals
-			TH believes God Exists.
-		Finals
+		SF
+			THBT the West should promise preferential economic and political cooperation to Arab democracies who adopt secular constitutions
+		ESL GF
+			TH believes God Exists
+		GF
 			THBT the state should pay reparations to women
 	EUDC Amsterdam 2010
 		R1
-			THW remove all non-economic conditions of EU membership, such as geographical location or political requirements.
+			THW remove all non-economic conditions of EU membership, such as geographical location or political requirements
 		R2
-			THBT schools should prioritize the authority of the teachers over the happiness of the pupils.
+			THBT schools should prioritize the authority of the teachers over the happiness of the pupils
 		R3
-			THW offer increased development aid to the developing countries that accept and encourage large influxes of immigrants.
+			THW offer increased development aid to the developing countries that accept and encourage large influxes of immigrants
 		R4
-			THBT social disgust is legitimate grounds for restriction of artistic expression.
+			THBT social disgust is legitimate grounds for restriction of artistic expression
 		R5
-			THW pardon Bradley Manning.
+			THW pardon Bradley Manning
 		R6
-			THW allow women, and only women, to bear arms.
+			THW allow women, and only women, to bear arms
 		R7
-			THW propose a power sharing deal with the Taliban in exchange for their disarmament.
+			THW propose a power sharing deal with the Taliban in exchange for their disarmament
 		R8
-			THBT developing nations should distribute, as a dividend, to citizens, all funds derived from natural resource extraction.
+			THBT developing nations should distribute, as a dividend, to citizens, all funds derived from natural resource extraction
 		ESL QF
-			THW extend the full protections of international law to guerilla fighters, insurgents and terrorists.
+			THW extend the full protections of international law to guerilla fighters, insurgents and terrorists
 		ESL SF
-			THW grant higher primates rights equivalent to those of human children.
+			THW grant higher primates rights equivalent to those of human children
 		ESL GF
-			THBT even in response to the most serious crimes a just penal system should have no consideration for society’s desire for retribution.
+			THBT even in response to the most serious crimes a just penal system should have no consideration for society's desire for retribution
 		QF
-			THW prohibit gay pride parades in countries or areas where there is a risk of violent backlash against those involved.
+			THW prohibit gay pride parades in countries or areas where there is a risk of violent backlash against those involved
 		SF
-			THBT the state should determine the wages to be payed (in both private and public sectors) for jobs deemed of moral value or societal importance.
+			THBT the state should determine the wages to be payed (in both private and public sectors) for jobs deemed of moral value or societal importance
 		GF
-			THBT after a humanitarian intervention has halted human rights abuses the occupation forces should leave if the population clearly establishes this as their wish.
+			THBT after a humanitarian intervention has halted human rights abuses the occupation forces should leave if the population clearly establishes this as their wish
 	EUDC Newcastle 2009
 		R1
-			THW allow the police to use entrapment.
+			THW allow the police to use entrapment
 		R2
-			THW use the education system to instill moral norms in children beyond mere obedience to the law.
+			THW use the education system to instill moral norms in children beyond mere obedience to the law
 		R3
-			THW grant citizenship to illegal immigrants who report on work-place exploitation.
+			THW grant citizenship to illegal immigrants who report on work-place exploitation
 		R4
-			THBT the gay rights movement should oppose gay marriage.
+			THBT the gay rights movement should oppose gay marriage
 		R5
-			THBT western liberal countries have a moral duty to spread democracy across the world using force where necessary.
+			THBT western liberal countries have a moral duty to spread democracy across the world using force where necessary
 		R6
-			THBT custody hearings should not take a child’s biological parentage into account.
+			THBT custody hearings should not take a child's biological parentage into account
 		R7
-			THW allow doctors to actively lie to their patients in order to create or augment a placebo effect.
+			THW allow doctors to actively lie to their patients in order to create or augment a placebo effect
 		ESL QF
-			THW allow the police to physically discipline children below the age of criminal responsibility.
+			THW allow the police to physically discipline children below the age of criminal responsibility
 		QF
-			THW allow political parties to designate certain pre-election claims as binding promises, the breaking of which would trigger immediate fresh elections.
+			THW allow political parties to designate certain pre-election claims as binding promises, the breaking of which would trigger immediate fresh elections
 		ESL SF
-			THBT countries where assisted suicide is illegal should prosecute those who assist others that travel abroad to receive euthanasia.
+			THBT countries where assisted suicide is illegal should prosecute those who assist others that travel abroad to receive euthanasia
 		SF
-			THBT desecration of religious sites is a legitimate tactic of warfare.
+			THBT desecration of religious sites is a legitimate tactic of warfare
 		ESL GF
-			THW remove all legal barriers to the genetic enhancement of humans.
+			THW remove all legal barriers to the genetic enhancement of humans
 		GF
-			THW abolish all limits on immigration.
+			THW abolish all limits on immigration
 	EUDC Tallinn 2008
 		R1
-			THW require people to work in return for welfare payments.
+			THW require people to work in return for welfare payments
 		R2
-			THBT sporting bodies should penalise teams when their players commit criminal acts off the field.
+			THBT sporting bodies should penalise teams when their players commit criminal acts off the field
 		R3
-			THW use military force where necessary to deliver emergency aid.
+			THW use military force where necessary to deliver emergency aid
 		R4
-			THW make fines relative to wealth.
+			THW make fines relative to wealth
 		R5
-			THW ban the physical punishment of children by parents.
+			THW ban the physical punishment of children by parents
 		R6
-			THB developed countries should not accept skilled migrants from developing countries.
+			THB developed countries should not accept skilled migrants from developing countries
 		R7
-			THW pay morbidly obese people to lose weight.
+			THW pay morbidly obese people to lose weight
 		ESL QF
-			THW require all schools to teach safe sex to children from age 10 regardless of parental consent.
+			THW require all schools to teach safe sex to children from age 10 regardless of parental consent
 		QF
-			THW ban the broadcast of recordings produced by terrorists.
+			THW ban the broadcast of recordings produced by terrorists
 		ESL SF
-			THB the European Union should declare that energy security is a legitimate reason for military action.
+			THB the European Union should declare that energy security is a legitimate reason for military action
 		SF
-			THW abolish income tax.
+			THW abolish income tax
 		ESL GF
-			THW allow soldiers to opt out of individual conflict for personal reasons.
+			THW allow soldiers to opt out of individual conflict for personal reasons
 		GF
-			THW ban Nazi and Soviet symbols.
+			THW ban Nazi and Soviet symbols
 	EUDC Koç 2007
 		R1
-			THW take lifestyle choices into account in the allocation of scarce medical resources.
+			THW take lifestyle choices into account in the allocation of scarce medical resources
 		R2
-			THB the state should prohibit all items of clothing which cover the face.
+			THB the state should prohibit all items of clothing which cover the face
 		R3
 			THBT democracy is a necessary condition for economic growth and stability. (ANALYSIS)
 		R4
-			THBT Turkey should invade Northern Iraq to fight Kurdish terrorist organisations.
+			THBT Turkey should invade Northern Iraq to fight Kurdish terrorist organisations
 		R5
-			THW require prescription for the ‘morning-after-pill’.
+			THW require prescription for the 'morning-after-pill'
 		R6
-			THW introduce a time limit on bringing prosecutions for genocide.
+			THW introduce a time limit on bringing prosecutions for genocide
 		R7
-			THW prosecute parents who take their children to another legal jurisdiction in order to carry out an act which is illegal in their home country.
+			THW prosecute parents who take their children to another legal jurisdiction in order to carry out an act which is illegal in their home country
 		ESL QF
-			THW distribute development aid through religious organizations rather than the state.
+			THW distribute development aid through religious organizations rather than the state
 		QF
-			THW forcibly settle the Roma.
+			THW forcibly settle the Roma
 		ESL SF
-			THBT the state should not fund any fertility treatments.
+			THBT the state should not fund any fertility treatments
 		SF
-			THW grant the state the exclusive right to make decisions on behalf of the mentally ill.
+			THW grant the state the exclusive right to make decisions on behalf of the mentally ill
 		ESL GF
-			THW withdraw the right to veto the accession of new members to EU.
+			THW withdraw the right to veto the accession of new members to EU
 		GF
-			THBT the state should publish deliberate mistruths during times of war.
+			THBT the state should publish deliberate mistruths during times of war
 	EUDC Berlin 2006
 		R1
-			THW abolish the international criminal court.
+			THW abolish the international criminal court
 		R2
-			THBT gender reassignment surgery should be included in state funded medical care.
+			THBT gender reassignment surgery should be included in state funded medical care
 		R3
-			THBT governments should block the foreign takeover of important companies.
+			THBT governments should block the foreign takeover of important companies
 		R4
-			THW ban the use of evidence acquired from countries which practice torture.
+			THW ban the use of evidence acquired from countries which practice torture
 		R5
-			THW ban all religious involvement in schools.
+			THW ban all religious involvement in schools
 		R6
-			THW remove the right to refuse medically necessary treatments.
+			THW remove the right to refuse medically necessary treatments
 		ESL SF
-			THW allow insurance companies to consider the results of genetic tests in asessing potential customers.
+			THW allow insurance companies to consider the results of genetic tests in asessing potential customers
 		ESL GF
-			THW destroy the artifacts of fallen oppressive regimes.
+			THW destroy the artifacts of fallen oppressive regimes
 		QF
-			THW take cult members into psychiatric care.
+			THW take cult members into psychiatric care
 		SF
-			THW grant an automatic right of asylum to women trafficked for prostitution.
+			THW grant an automatic right of asylum to women trafficked for prostitution
 		GF
-			THW allow companies to refuse to hire smokers.
+			THW allow companies to refuse to hire smokers
 	EUDC Cork 2005
 		R1
-			THW make the post-mortem donation of organs compulsory without exception.
+			THW make the post-mortem donation of organs compulsory without exception
 		R2
-			THW support the right of Chechnya to secede.
+			THW support the right of Chechnya to secede
 		R3
-			THBT popular referenda should not be used to ratify the EU constitution.
+			THBT popular referenda should not be used to ratify the EU constitution
 		R4
-			THW prosecute the perpetrators of domestic violence without the consent of the victim.
+			THW prosecute the perpetrators of domestic violence without the consent of the victim
 		R5
-			THW grant immunity from prosecution to dictators who step down.
+			THW grant immunity from prosecution to dictators who step down
 		R6
-			THBT the state should assist healthy people commit suicide.
+			THBT the state should assist healthy people commit suicide
 		QF
-			THW condemn companies that seek to avoid first world regulations on human drug testing by conducting their trials in the developing world.
+			THW condemn companies that seek to avoid first world regulations on human drug testing by conducting their trials in the developing world
 		ESL SF
-			THW remove the Arms Embargo on China.
+			THW remove the Arms Embargo on China
 		SF
-			THW withdraw from the Ottawa convention banning the sale of land mines.
+			THW withdraw from the Ottawa convention banning the sale of land mines
 		ESL GF
-			THW make failure to render reasonable assistance to a person in distress a criminal offence.
+			THW make failure to render reasonable assistance to a person in distress a criminal offence
 		GF
-			THW allow the use of racial profiling by police forces.
+			THW allow the use of racial profiling by police forces
 	EUDC Durham 2004
 		R1
-			THBT any EU Constitution should contain reference to Europe’s Christian heritage.
+			THBT any EU Constitution should contain reference to Europe's Christian heritage
 		R2
-			THW ban the production for road use of cars capable of driving over 160kph/100mph.
+			THW ban the production for road use of cars capable of driving over 160kph/100mph
 		R3
-			THBT post-war reconstruction contracts should be restricted to companies from countries which supported the war.
+			THBT post-war reconstruction contracts should be restricted to companies from countries which supported the war
 		R4
-			THW legalise consensual cannibalism.
+			THW legalise consensual cannibalism
 		R5
-			THW not allow embedded journalists attached to military units in warzones.
+			THW not allow embedded journalists attached to military units in warzones
 		R6
-			THBT governments should insist that the software they use is open-source.
+			THBT governments should insist that the software they use is open-source
 		R7
-			THBT the military targeting of any place of worship is a crime against humanity.
+			THBT the military targeting of any place of worship is a crime against humanity
 		QF
-			TH supports compulsory HIV testing for immigrants.
+			THS compulsory HIV testing for immigrants
 		ESL SF
-			THBT junk food companies should not be allowed to sponsor sporting events.
+			THBT junk food companies should not be allowed to sponsor sporting events
 		SF
-			THBT a foetus harmed in a criminal attack on its mother should be considered a victim of crime in its own right.
+			THBT a foetus harmed in a criminal attack on its mother should be considered a victim of crime in its own right
 		ESL GF
-			THW ban international adoption.
+			THW ban international adoption
 		GF
-			THBT elected politicians should not be allowed to own media companies.
+			THBT elected politicians should not be allowed to own media companies
 	EUDC Zagreb 2003
 		R1
-			THBT the USA is right to tie its foreign aid to the support in war against terrorism.
+			THBT the USA is right to tie its foreign aid to the support in war against terrorism
 		R2
-			THBT the cost of space exploration is not worth it.
+			THBT the cost of space exploration is not worth it
 		R3
-			THBT the EU should start immediate accession talks with Turkey.
+			THBT the EU should start immediate accession talks with Turkey
 		R4
-			THBT the state should tax the graduates to cover the costs of their education.
+			THBT the state should tax the graduates to cover the costs of their education
 		R5
-			TH supports compulsory drug testing in the workplace.
+			THS compulsory drug testing in the workplace
 		R6
-			THBT parents have the right to choose the sex of their children.
+			THBT parents have the right to choose the sex of their children
 		QF
-			THW reform the UN Security Council.
+			THW reform the UN Security Council
 		ESL SF
-			THW close its doors to the immigrants.
+			THW close its doors to the immigrants
 		SF
-			THBT the minority religious practices should be exempt from the national laws.
+			THBT the minority religious practices should be exempt from the national laws
 		ESL GF
-			THW make smokers pay for their own medical expenses.
+			THW make smokers pay for their own medical expenses
 		GF
-			THW hold parents legally responsible for the criminal actions of their children.
+			THW hold parents legally responsible for the criminal actions of their children
 	EUDC Haifa 2002
 		R1
-			THBT referenda are the way forward for European democracy.
+			THBT referenda are the way forward for European democracy
 		R2
-			THBT Women should have equal rights and equal obligations in the Army.
+			THBT Women should have equal rights and equal obligations in the Army
 		R3
-			THW Deny liver transplants to alcoholics.
+			THW Deny liver transplants to alcoholics
 		R4
-			THW Clone Britney Spears.
+			THW Clone Britney Spears
 		R5
-			THBT The European Union should ban bullfighting.
+			THBT The European Union should ban bullfighting
 		R6
-			THBT religious education is brainwashing kids.
+			THBT religious education is brainwashing kids
 		QF
-			THW prefer castration to incarceration for sexual offenders.
+			THW prefer castration to incarceration for sexual offenders
 		ESL SF
-			THW guarantee the amnesty of retired dictators.
+			THW guarantee the amnesty of retired dictators
 		SF
-			THW hold the accountants accountable.
+			THW hold the accountants accountable
 		ESL GF
-			THW give Europe its own constitution.
+			THW give Europe its own constitution
 		GF
-			THW ban the advertisement of gambling.
+			THW ban the advertisement of gambling
 	EUDC Portorož 2001
 		R1
-			THW make organ donation compulsory.
+			THW make organ donation compulsory
 		R2
-			THBT sporting events are for the people not media moghuls.
+			THBT sporting events are for the people not media moghuls
 		R3
-			THW put a brake on Albania.
+			THW put a brake on Albania
 		R4
-			THW end farming subsidies in the European Union.
+			THW end farming subsidies in the European Union
 		R5
-			THBT asylum seekers should seek refuge in the first safe country that they reach.
+			THBT asylum seekers should seek refuge in the first safe country that they reach
 		R6
-			THBT Rome should look beyond its own walls for a new Pope.
+			THBT Rome should look beyond its own walls for a new Pope
 		ESL SF
-			TH fears for the little countries in Europe.
+			TH fears for the little countries in Europe
 		ESL GF
-			THBT capitalism is in crisis.
+			THBT capitalism is in crisis
 		QF
-			THBT NATO has had its day.
+			THBT NATO has had its day
 		SF
-			THW put Slobodan Milosevic on trial in the Hague.
+			THW put Slobodan Milosevic on trial in the Hague
 		GF
-			THW clone human beings.
+			THW clone human beings
 	EUDC Aberdeen 2000
 		GF
-			THBT the problems of Africa are of European origin.
+			THBT the problems of Africa are of European origin
 	EUDC Rotterdam 1999
 		R1
-			THW put environment before economics.
+			THW put environment before economics
 		R2
-			TH favours unity.
+			TH favours unity
 		R3
-			THB in cheap labour.
+			THB in cheap labour
 		R4
-			THBT size does matter.
+			THBT size does matter
 		R5
-			THBT the end is near.
+			THBT the end is near
 		R6
-			THB in positive discrimination.
+			THB in positive discrimination
 		R7
-			THW go Dutch.
+			THW go Dutch
 		QF
-			THBT diplomacy is the only solution.
+			THBT diplomacy is the only solution
 		SF
-			THW subsidise the farmers.
+			THW subsidise the farmers
 		GF
-			THB in Zero Tolerance.
+			THB in Zero Tolerance
