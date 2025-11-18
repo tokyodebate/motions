@@ -1,4 +1,83 @@
 North-East Asian Debate Championship
+	Hangzhou Northeast Asians Debating Championships 2025
+		R1
+			THR the rise of optimisation culture
+				OG $stats 4, 4, 4, 2
+				OO $stats 2, 3, 6, 3
+				CG $stats 4, 4, 1, 5
+				CO $stats 4, 3, 3, 4
+				The "optimisation culture" refers to a mindset focused on maximising output for minimum input, which has become a defining feature of modern society. This is reflected in the global popularity of terms that evaluate cost-performance, such as 性价比 (Xìngjiàbǐ)ǐ in China, "가성비 (Gaseongbi)" in Korea, and "コスパ (Kosupa)" in Japan. This culture of "optimisation" is applied to a wide range of situations, from mundane purchases when shopping to major life choices like careers, education, hobbies, and even relationships, framing all aspects of life as a problem of efficiency to be solved.
+		R2
+			THO the growing trend of psychedelic tourism
+				OG $stats 2, 5, 3, 4
+				OO $stats 5, 4, 2, 3
+				CG $stats 7, 1, 3, 3
+				CO $stats 0, 4, 6, 4
+				Psychedelic retreats are wellness programs where participants use traditional psychoactive substances like psilocybin (magic mushrooms), ayahuasca, or peyote in guided, therapeutic settings to promote healing, self-discovery, and spiritual growth, typically led by shamans or trained facilitators. These retreats have historically attracted "patients" or "pilgrims" travelling to countries or communities where these traditional practices are legal and culturally accepted. Recently, such retreats have been promoted and popularised as tourist attractions.
+		R3
+			In areas with high recidivism, THBT states should prioritise strengthening non-prison justice structures over directly reforming the prison system
+				OG $stats 3, 4, 5, 2
+				OO $stats 4, 2, 3, 5
+				CG $stats 2, 6, 2, 4
+				CO $stats 5, 2, 4, 3
+				For the purposes of this debate, direct prison reforms include prison maintenance/construction, corrections staff training and wage policy, in-custody programmes, etc.
+				In contrast, non-prison justice structures are criminal justice policies beyond prisons, including but are not limited to community justice, restoration and rehabilitation, sentencing and parole easing, etc.
+		R4
+			THP a world where Zou Hun is the dominant cultural norm
+				OG $stats 3, 7, 2, 2
+				OO $stats 1, 2, 7, 4
+				CG $stats 6, 3, 3, 2
+				CO $stats 4, 2, 2, 6
+				"Zou Hun" (or Walking Marriage) is a traditional culture of the Mosuo people（摩梭 人） that predominantly reside in the Yunnan and Sichuan province of China.  It is a form of marriage in which the couple does not live together and only visits each other periodically, typically with the husband spending the night at the wife’s residence. Women are the heads of the household, and property is passed down from mother to daughter. The man and woman continue to live with their respective families and they do not share property or have joint financial responsibilities. Children within Zou Hun culture would be raised by the mother’s matrilineal family.
+		R5
+			TH, as the Takaichi Administration, W recognise Palestine as a sovereign state
+				OG $stats 5, 3, 3, 3
+				OO $stats 5, 6, 2, 1
+				CG $stats 0, 2, 8, 4
+				CO $stats 4, 3, 1, 6
+				Japan–Israel security and R&D cooperation has been developing for the past few decades and was strengthened by a 2015 visit from then‑PM Shinzo Abe, after which economic ties between the two countries grew substantially. Since October 7, the humanitarian crisis in Gaza has sparked significant public concern in Japan. According to 2025 survey data, Japan currently ranks among the countries with the highest levels of negative public sentiment toward Israel, with around three-quarters of adults holding unfavourable views of Israel and little or no confidence in Prime Minister Netanyahu.
+		R6
+			THW force all insular religious communities to have their members embark on a "Rumspringa" upon reaching legal adulthood
+				OG $stats 3, 7, 2, 2
+				OO $stats 4, 3, 4, 3
+				CG $stats 4, 3, 4, 3
+				CO $stats 3, 1, 4, 6
+				Rumspringa is a tradition in some Amish communities, typically beginning around age 16. Amish youth are given the chance to engage with non-Amish society (e.g. adopt modern clothing and technology, explore life beyond their community’s strict norms, etc.) for a period of time, before deciding whether to be baptised into the Amish church.
+		QF
+			Assuming global feasibility, THW restrict the conduct of all Dual Use Research of Concern to occur only within the public sector
+				OG $stats 2, 2
+				OO $stats 2, 2
+				CG $stats 2, 2
+				CO $stats 2, 2
+				Dual Use Research of Concern refers to research whose outcomes are perceived to be either immensely beneficial for human civilization or devastating for populations when misapplied. Current examples include, but are not limited to: gain-of-function research in which pathogens are modified to be more infective, genetic drives where engineered organisms are released into the wild, etc.
+		SF
+			TH, as Ayatollah Ali Khamenei, W actively seek to resume nuclear talks with the U.S
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 0, 2
+				CO $stats 2, 0
+				Ayatollah Ali Khamenei is the supreme leader of Iran.
+		GF
+			THS queer opacity in aesthetic expression
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				Queer opacity is a concept that values the unknowability or indeterminacy of queer identities, resisting the demand to be fully understood or made legible within dominant social norms.
+		English as a Foreign Language SF
+			THP the narrative that success in retail investment is driven primarily by luck rather than skill
+				OG $stats 1, 1
+				OO $stats 0, 2
+				CG $stats 2, 0
+				CO $stats 1, 1
+		English as a Foreign Language GF
+			TH welcomes the rise of "red-chip" art
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				Red-chip art refers to art from emerging or mid-career artists whose work gains rapid popularity and high market value, often through social media, pop culture relevance, and online demand.
+				This is in contrast to blue-chip art, denoting works by established artists with a sustained record of visibility and recognition, typically supported by traditional institutions such as galleries, dealers, and major exhibitions.
 	Kumamoto NEADC 2024
 		R1
 			THR the decline of home cooking
