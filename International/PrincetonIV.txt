@@ -1,4 +1,79 @@
 Princeton IV
+	Princeton IV 2025
+		R1
+			THO attempts at adopting zero-hierarchy workplace culture
+				OG $stats 6, 8, 9, 9
+				OO $stats 9, 11, 4, 8
+				CG $stats 7, 7, 8, 10
+				CO $stats 10, 6, 11, 5
+				A zero-hierarchy culture de-emphasizes the role of seniority and rank in the workplace. A workplace embracing a zero-hierarchy culture could claim, for example, that every voice in the company matters equally. The workplace could have policies that allow any worker to attend board meetings and propose changes, or have hiring policies that believe someone junior might be able to walk onto the job and deliver immense value even with minimal experience. This culture was first popularized in some finance and tech companies, but has since been adopted by some professionals across many industries.
+		R2
+			THBT the feminist movement should oppose the idea that relationships should be 50/50
+				OG $stats 7, 10, 11, 4
+				OO $stats 9, 7, 11, 5
+				CG $stats 5, 10, 5, 12
+				CO $stats 11, 5, 5, 11
+				The idea that relationships should be 50/50 refers to the belief that within relationships between men and women, all aspects of the relationship should be divided evenly between the two people. This includes equal effort in meeting each others emotional needs, equal monetary contribution and equal effort in shared tasks such as chores.
+		R3
+			THBT developing countries should make reducing supply chain and trade relations with the US a key foreign policy goal
+				OG $stats 8, 11, 5, 8
+				OO $stats 12, 9, 9, 2
+				CG $stats 6, 7, 8, 11
+				CO $stats 6, 5, 10, 11
+		R4
+			In rapidly growing cities in Less Economically Developed Countries (LEDCs), THS city beautification projects
+				OG $stats 5, 10, 8, 8
+				OO $stats 14, 7, 4, 6
+				CG $stats 7, 8, 8, 8
+				CO $stats 5, 6, 11, 9
+				Urban beautification refers to city-wide initiatives that enhance the visual and physical appearance of urban spaces through projects including but not limited to landscaping, street cleaning, infrastructure upgrades, the reorganization of public spaces, and the development of informal settlements.
+		R5
+			THS a 5% global wealth tax
+				OG $stats 10, 4, 10, 6
+				OO $stats 4, 10, 6, 10
+				CG $stats 8, 9, 8, 5
+				CO $stats 8, 7, 6, 9
+				For the purposes of this debate, while the rate is set globally, the revenue accrues to national governments.
+		POF
+			THBT transgender rights organisations and advocates in the US should encourage trans people to embrace visibility (eg. being open about their identity, requesting preferred pronouns in professional spaces, and carrying the trans flag in protests)
+				OG $stats 4, 0
+				OO $stats 2, 2
+				CG $stats 2, 2
+				CO $stats 0, 4
+		QF
+			THP a world where Malaysia and Singapore did not split
+				OG $stats 1, 3
+				OO $stats 4, 0
+				CG $stats 1, 3
+				CO $stats 2, 2
+				Singapore, a British trading hub, joined the newly independent Federation of Malaya in 1963 to form Malaysia. The union quickly soured due to differences over how to manage ethnic diversity, political representation and economic arrangements between Singapore’s government and Malaysia’s leadership. In 1965, Singapore became an independent republic.
+		SF
+			THR the glorification of nonviolent revolutions (e.g People Power Revolution in the Philippines, Rose Revolution in Georgia, Orange Revolution in Ukraine)
+				OG $stats 1, 1
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 0, 2
+		GF
+			THS releasing the compound worldwide
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				Scientists have developed a synthetic airborne compound that, when inhaled, permanently alters the human immune system to make individuals allergic to all forms of animal meat and animal by-products (including dairy, eggs, and gelatin). The allergy is immediate, irreversible, and universal across genetic backgrounds. It is not lethal, but causes highly unpleasant symptoms. While the compound is non-toxic and harmless beyond inducing the allergy, once released it cannot be contained or reversed.
+		ESL SF
+			THP a world where the MBA was not terminated by the Philippines
+				OG $stats 0, 2
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 1, 1
+				The US–Philippines Military Bases Agreement (MBA) allowed the United States to operate major military bases in the Philippines. In 1991, the Philippine Senate voted to terminate the agreement, and US forces withdrew from the Philippines by 1992.
+		ESL GF
+			THS the existence of heaven and hell
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				For the purposes of this debate, assume that Heaven and Hell exist as destinations after death. Humans know that there is an afterlife, but not of its nature. Placement in Heaven or Hell is determined by the overall balance of a person’s moral actions and intentions in life, judged by an impartial standard that weighs both harms and virtues. Heaven represents a state of ultimate fulfillment and peace. Hell represents the consequences of one’s moral failings, which may range from suffering to separation from fulfillment, proportionate to the seriousness of those failings. These outcomes are eternal and irreversible.
 	Princeton IV 2023
 		R1
 			THO the gamification* of military training *The integration of aspects of game design and mechanics into work and learning (i.e. controls, achievements, leaderboards, graphics or user interfaces)
@@ -45,7 +120,7 @@ Princeton IV
 				OO $stats 4, 0
 				CG $stats 2, 2
 				CO $stats 2, 2
-				After years of economic decline and a rise in insurgency within the region, the presidential guard of Niger successfully mounted a coup against president Mohamed Bazoum and instated a military junta on the 26th of July 2023. Supporters of the junta were seeing chanting 'Wagner' and waving Russian flags in demonstrations in the days following the coup. 
+				After years of economic decline and a rise in insurgency within the region, the presidential guard of Niger successfully mounted a coup against president Mohamed Bazoum and instated a military junta on the 26th of July 2023. Supporters of the junta were seeing chanting 'Wagner' and waving Russian flags in demonstrations in the days following the coup.
 				The Economic Community of West African States (ECOWAS) is a political and economic union consisting of 15 Western African states. It has a history of dealing with military coups in the region: sending peacekeepers to The Gambia after a 2017 coup for example and imposing sanctions on Mali and Guinea after their coups in 2021. So far, it has condemned the coup in Niger and placed sanctions on the country.
 		SF
 			THBT the embryo belongs to the woman who carried the embryo and her partner, as opposed to the people who provided the genetic material
