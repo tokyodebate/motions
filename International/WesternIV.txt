@@ -1,4 +1,73 @@
 Western IV
+	Western IV 2025
+		R1
+			THS the significant increase in constructive journalism at the expense of current focuses (crisis reporting, investigation journalism etc)
+				OG $stats 4, 7, 5, 3
+				OO $stats 4, 3, 7, 5
+				CG $stats 4, 5, 3, 7
+				CO $stats 7, 4, 4, 4
+				Constructive journalism is an approach to news reporting that focuses on outlining solutions for already existing social issues. It focuses on the future and positive outlooks, rather than outlining current issues.
+		R2
+			THS the glorification of "maverick personalities" in sports
+				OG $stats 2, 10, 3, 5
+				OO $stats 8, 3, 8, 1
+				CG $stats 6, 3, 4, 7
+				CO $stats 4, 4, 5, 7
+				Maverick personalities in sports are athletes and figures who are outspoken, unpredictable, and often eccentric. Some may act controversially, challenge established norms in their sport, or behave in ways that disrupt expectations. Examples include Conor McGregor, Nick Kyrgios, Serena Williams, Zlatan Ibrahimović, Dennis Rodman etc.
+		R3
+			THS the rise of the Silver Economy
+				OG $stats 6, 5, 4, 5
+				OO $stats 3, 7, 4, 6
+				CG $stats 8, 4, 5, 3
+				CO $stats 3, 4, 7, 6
+				The Silver Economy refers to the economic activities, products, and services designed to meet the needs and preferences of individuals aged 50 and above. This concept encompasses various sectors, including healthcare, housing, transportation, finance, and leisure, all tailored to support the aging population's lifestyle and well-being.
+		R4
+			THO the glorification of "moving on" (after the death of a loved one, from a long-term career, after the end of a relationship etc.)
+				OG $stats 7, 3, 5, 4
+				OO $stats 3, 5, 6, 5
+				CG $stats 3, 7, 5, 4
+				CO $stats 6, 4, 3, 6
+		R5
+			THBT the IMF should require countries to use major government enterprises as collateral to receive loans
+				OG $stats 4, 4, 2, 6
+				OO $stats 4, 3, 5, 4
+				CG $stats 6, 3, 3, 4
+				CO $stats 2, 6, 6, 2
+		QF
+			TH, as an up and coming lawyer from a minority background in the US, would choose to be an 'adversarial lawyer' instead of a 'moral activist' lawyer
+				OG $stats 3, 1
+				OO $stats 2, 2
+				CG $stats 2, 2
+				CO $stats 1, 3
+				An adversarial lawyer believes their duty is to advocate for their client's interest as zealously as possible and believe that they are not morally responsible for either the ends or means of representation, provided they are lawful.
+				A moral activist lawyer sees forwarding social justice as their primary duty. They aim to improve substantive justice through: public interest lawyering, law reform activities, and counselling clients to act morally.
+		SF
+			THBT India should abandon its pursuit of strategic ambiguity in foreign policy
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 0, 2
+				CO $stats 2, 0
+		GF
+			THBT it is in the interest of humanity that the deity never returns
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				Several religions preach the eventual return of their deity on earth. In most texts, the return includes a final judgement of everyone's sins and the punishing of those who committed them, a resurrection of the dead, a disappearance of suffering and a return to morality.
+		ESL GF
+			THP anti essentialism over essentialism as the dominant norm
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				Essentialism is the view that things (objects, people, ideas, or categories) have some fixed, intrinsic nature or essence that makes them what they are. For example, believing that "gender," "national identity," or "human nature" have stable, universal qualities that exist independently of context. 
+				Anti-essentialism (or emptiness) is the view that things do not have intrinsic essences. Instead, they are contingent, relational, and shaped by perspective and context. For example, "gender roles" or "national character" are seen as social constructions that change across cultures and histories, rather than fixed truths.
+		Novice GF
+			THW tie public funding for colleges to their demonstrated class mobility outcomes (e.g. how much graduates improve their income or social status compared to their family background)
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
 	Western IV 2023
 		R1
 			THP a world where social movements have faith in humanity
