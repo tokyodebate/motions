@@ -73,11 +73,11 @@ Cambridge IV
 			THBT South American countries should no longer co-operate with the USA's "War on Drugs"
 		R5
 			THBT national legislatures should apportion electoral representation by age group, rather than geographical area
-		_QF
+		QF
 			In response to the 2021 Belarus–European Union border crisis, THBT NATO should deploy additional active duty troops to their member states in Eastern Europe (Lithuania, Latvia, Estonia, Poland)
-		_Semi
+		SF
 			THP a world where religious beliefs and teachings are not codified into scripture or doctrine
-		_GF
+		GF
 			THO transhumanism
 	Cambridge IV 2020
 		R1
