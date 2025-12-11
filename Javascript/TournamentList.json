@@ -1555,5 +1555,17 @@
             "region:Domestic"
         ],
         "url": "GoldCup.txt"
+    },
+    {
+        "id": "SofiaOnline",
+        "name": "Sofia Online Debate Open",
+        "short": "",
+        "latest": 2024,
+        "tag": [
+            "BP",
+            "open",
+            "region:Europe"
+        ],
+        "url": "International/SophiaOnline.txt"
     }
 ]

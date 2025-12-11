@@ -1,0 +1,75 @@
+Sofia Online Debate Open
+	Sofia Online Open 2024
+		R1
+			THR the norm of traditionally feminine professions being considered high empathy careers (e.g. nursing, teaching)
+				OG $stats 4, 7, 8, 4
+				OO $stats 6, 2, 7, 8
+				CG $stats 6, 7, 3, 7
+				CO $stats 7, 7, 5, 4
+		R2
+			THBT that major cities should adopt the Amsterdam rental model
+				OG $stats 7, 9, 5, 2
+				OO $stats 5, 4, 8, 6
+				CG $stats 5, 4, 3, 11
+				CO $stats 6, 6, 7, 4
+				For the purpose of this debate, the Amsterdam apartment rental model says: 
+				1. Each apartment for rent will be scored by the government according to four parameters: location, quality, contents, and size. 
+				2. The score determines the maximum rent that can be charged for that apartment.
+		R3
+			THO the phenomenon where founders of companies remain in significant leadership positions (CEO, President, Techno-King...) in the company for a long time after it has gone public
+				OG $stats 6, 8, 1, 8
+				OO $stats 9, 7, 6, 1
+				CG $stats 4, 3, 7, 9
+				CO $stats 4, 5, 9, 5
+		R4
+			THBT performative engagement with social movements brings more harm than good (e.g. Taylor Swift speaking up about feminism)
+				OG $stats 0, 7, 9, 7
+				OO $stats 11, 5, 6, 1
+				CG $stats 5, 6, 2, 10
+				CO $stats 7, 5, 6, 5
+		R5
+			THW allow multinational companies to militarize in order to secure their supply chains
+				OG $stats 6, 9, 5, 2
+				OO $stats 5, 5, 7, 5
+				CG $stats 7, 2, 7, 6
+				CO $stats 4, 6, 3, 9
+		QF
+			TH, as a person of average attractiveness, would choose to date using the "Love is Blind" dating model over dating apps
+				OG $stats 1, 3
+				OO $stats 3, 1
+				CG $stats 3, 1
+				CO $stats 1, 3
+				A "Love is Blind" dating model is a dating model where all dates conducted with a person are done so that you cannot see the other person. You can go on as many dates as you want but you don’t get to see the person until you have decided to be in a committed relationship. For the sake of debate, assume that this is a widespread model of dating (i.e., as normal as dating through a dating app)
+		SF
+			TH as a country that suffers from hyperinflation would dollarize
+				OG $stats 2, 0
+				OO $stats 0, 2
+				CG $stats 1, 1
+				CO $stats 1, 1
+		GF
+			THP a world where the influencer meter exists
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				The influencer meter is a technology that allows accurate and complete measurement of the effect of a certain message on a group/groups exposed to it
+		ESL SF
+			Assuming feasibility, THP a world with relationship credit scores
+				OG $stats 2, 0
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 0, 2
+				A "relationship credit score" is a score that is given to an individual based on a number of set rules, where good behavior in relationships improves one’s score and bad behavior in relationship decreases one’s score. Any individual can access another's score via a website. For the sake of debate, assume that relationship credit score organizations have access to the necessary information to score on a set of criteria.
+		ESL GF
+			THP a world where the dominant norm is that people believe in an internal locus of control rather than an external locus of control
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				Someone with an internal locus of control will believe that the things that happen to them are greatly influenced by their own abilities, actions, or mistakes. A person with an external locus of control will tend to feel that other forces—such as random chance, social structures, environmental factors, or the actions of others—are more responsible for the events that occur in the individual's life.
+		Novice GF
+			THP a world where all cultures perceive death as an occasion of celebration rather than mourning
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
