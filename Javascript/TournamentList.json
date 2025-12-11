@@ -1557,6 +1557,18 @@
         "url": "GoldCup.txt"
     },
     {
+        "id": "KCLIV",
+        "name": "King's College London Intervarsity",
+        "short": "KCL IV",
+        "latest": 2025,
+        "tag": [
+            "BP",
+            "open",
+            "region:Europe"
+        ],
+        "url": "International/KCLIV.txt"
+    },
+    {
         "id": "Manila",
         "name": "Manila",
         "short": "",
