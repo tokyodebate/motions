@@ -1555,5 +1555,17 @@
             "region:Domestic"
         ],
         "url": "GoldCup.txt"
+    },
+    {
+        "id": "Manila",
+        "name": "Manila",
+        "short": "",
+        "latest": 2025,
+        "tag": [
+            "BP",
+            "open",
+            "region:Asia"
+        ],
+        "url": "International/Manila.txt"
     }
 ]
