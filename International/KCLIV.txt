@@ -1,0 +1,54 @@
+King's College London Intervarsity
+	King's College London Intervarsity 2025
+		R1
+			THBT states with low fertility rates should implement the Hanson Proposal
+				OG $stats 1, 4, 5, 1
+				OO $stats 4, 1, 1, 5
+				CG $stats 4, 4, 0, 3
+				CO $stats 2, 2, 5, 2
+				The Hanson Proposal would provide parents with a portion of all tax revenue paid by their children. It would also provide them with tax credits each year until their child turns 18. This would be revenue neutral, funded by the abolition of aged pensions.
+		R2
+			THBT the United States should repeal the right of the people to keep and bear arms
+				OG $stats 0, 7, 3, 1
+				OO $stats 6, 1, 3, 1
+				CG $stats 4, 1, 3, 3
+				CO $stats 1, 2, 2, 6
+		R3
+			THP a World where everyone solely idolises individuals from their immediate environment
+				OG $stats 2, 6, 3, 0
+				OO $stats 5, 3, 3, 0
+				CG $stats 3, 0, 3, 5
+				CO $stats 1, 2, 2, 6
+		R4
+			THW ban the presence of organised religion in prisons
+				OG $stats 0, 2, 5, 4
+				OO $stats 6, 2, 1, 2
+				CG $stats 2, 4, 3, 2
+				CO $stats 3, 3, 2, 3
+		R5
+			THBT India should introduce a cap and trade system as opposed to any other emissions regulations
+				OG $stats 3, 3, 3, 2
+				OO $stats 1, 5, 2, 3
+				CG $stats 5, 1, 1, 4
+				CO $stats 2, 2, 5, 2
+				Under a cap and trade model, the government sets a "cap" on the total amount of carbon emissions allowed, then assigns carbon emission permits to companies. A base amount of these permits are assigned to companies, with the rest auctioned off by the government.  Companies may "trade" them depending on how much they individually pollute.
+		SF
+			THBT the current US federal government shutdown has done more harm than good to the Democratic Party
+				OG $stats 1, 1
+				OO $stats 1, 1
+				CG $stats 1, 1
+				CO $stats 1, 1
+		Novice GF
+			TH, as a contestant on a reality show, would attempt to portray themself as a villain as opposed to a hero
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+		GF
+			THS the granularization of consumption
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				The "granularization of consumption" describes the ever-finer segmentation of products and services to match smaller customer groups and individual tastes, usually at the expense of unit cost.
+				Examples include direct to consumer products, consumer product ranges expanding in breadth and reducing stock, or media and celebrity superstars being less ubiquitous than in the past
