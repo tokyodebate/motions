@@ -1,4 +1,66 @@
 ANU Spring BP
+	ANU Spring 2025
+		R1
+			THS the use of welfare systems to promote socially utile choices in people's personal lives (e.g. decisions about relationships, fertility and living arrangements)
+				OG $stats 1, 7, 3, 2
+				OO $stats 2, 3, 7, 1
+				CG $stats 5, 1, 1, 6
+				CO $stats 5, 2, 2, 4
+		R2
+			THBT Australia should nationalise its struggling heavy industrial plants rather than subsidising private owners to run them
+				OG $stats 2, 6, 0, 5
+				OO $stats 4, 2, 5, 2
+				CG $stats 4, 3, 1, 5
+				CO $stats 3, 2, 7, 1
+				A number of heavy industrial plants in Australia (e.g. smelteries, steelmills) are unlikely to be commercially viable into the near future without government support due in part to energy costs and ageing infrastructure.
+		R3
+			TH, as the Catholic Church, supports the growing number of conversions inspired by right-wing online "Trad Cath" communities
+				OG $stats 1, 4, 5, 3
+				OO $stats 5, 2, 5, 1
+				CG $stats 5, 2, 2, 4
+				CO $stats 2, 5, 1, 5
+				The "Trad Cath" movement refers to an online subculture based on Catholic traditionalism. Trad Caths lean heavily on Catholic aesthetics (e.g. chants, gothic architecture and saints' quotes) and also support traditional social values (e.g. support for traditional gender norms).
+		R4
+			THS the academisation of creative arts
+				OG $stats 3, 4, 4, 1
+				OO $stats 7, 0, 4, 1
+				CG $stats 1, 4, 1, 6
+				CO $stats 1, 4, 3, 4
+				The academisation of the creative arts refers to an increase in the proportion of workers in creative art fields (television, films, publishing etc) who hold university degrees in the creative arts (e.g. Masters of Fine Arts), as well as an increase in people holding such degrees more generally.
+		R5
+			THS the establishment of government run grocery stores in urban food deserts
+				OG $stats 5, 3, 4, 0
+				OO $stats 1, 4, 2, 5
+				CG $stats 3, 1, 5, 3
+				CO $stats 3, 4, 1, 4
+				For the purposes of this debate, a food desert is defined as an area in which the majority of the population is: 
+				1) more than 20 minutes from a grocery store by the dominant mode of transport in that area 
+				2) low income
+		SF
+			THS the sex exceptionalist view of sexual harm
+				OG $stats 1, 1
+				OO $stats 0, 2
+				CG $stats 2, 0
+				CO $stats 1, 1
+				A sex exceptionalist view of sexual harm holds that sexual harms are more severe than, and qualitatively distinct from, other forms of bodily or emotional harm.
+		Novice GF
+			THBT history is thick rather than thin
+				OG $stats 1, 0
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 0, 1
+				A thick view of history holds that that the macro state of society at a given point is largely determined by overwhelming structural forces which made that state close to inevitable. 
+				A thin view of history holds that it is largely as a result of a small number of factors (e.g. events, people or processes) which could easily have been different and lead to different outcomes, making that state subject to a substantial degree of randomness.
+		GF
+			THBT the US rescue package for Argentina is in the interests of the Trump administration
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				The US rescue package for Argentina had two elements:
+				1) A currency swap line which allows Argentina to swap Pesos for USD
+				2) The US Treasury purchasing pesos on the open market
+				This deal was announced immediately prior to the Argentinian Mid Term elections.
 	ANU Spring 2023
 		R1a
 			THS a significant increase in the prevalence of bilingual education systems
@@ -109,7 +171,7 @@ ANU Spring BP
 				1. The establishment of clear wording to "consider stakeholder interests" in company articles of incorporation or company by-laws.
 				2. Define "stakeholders" as the employees, the community, the environment, suppliers, customers, and shareholders.
 				3. Forbid prioritization of one stakeholder over another.
-				If a company acts inconsistently with its governing constitution, interested parties can enforce its provisions through the courts. 
+				If a company acts inconsistently with its governing constitution, interested parties can enforce its provisions through the courts.
 				Examples of B-Corporations are AllBirds (shoes), Patagonia (outdoor-wear), and Ben & Jerries (ice cream).
 		SF
 			THO the ascension of Naftali Bennet to the Israeli premiership
@@ -117,7 +179,7 @@ ANU Spring BP
 				OO $stats 1, 1
 				CG $stats 1, 1
 				CO $stats 2, 0
-				Benjamin Netanyahu, has been ousted from office by a coalition of rivals, ending his 12-year run in power. Israel's new prime minister, Naftali Bennett was sworn in on Sunday after a vote of confidence with the narrowest of margins; 60 votes to 59. Bennett, the far right leader of Yamina party, will be prime minister until September 2023 as part of a power-sharing deal. He will then hand power over to Yair Lapid, head of the centrist Yesh Atid party, for a further two years. 
+				Benjamin Netanyahu, has been ousted from office by a coalition of rivals, ending his 12-year run in power. Israel's new prime minister, Naftali Bennett was sworn in on Sunday after a vote of confidence with the narrowest of margins; 60 votes to 59. Bennett, the far right leader of Yamina party, will be prime minister until September 2023 as part of a power-sharing deal. He will then hand power over to Yair Lapid, head of the centrist Yesh Atid party, for a further two years.
 				Bennett leads a self-described "government of change" that is a mix of ideologically opposed politicians from the left (Labor), the centre (Lapid), hardline Jewish religious nationalists and a small Arab Islamist party. Bennett has long opposed the two-state solution - and the cessation of military action against Hamas in the Gaza Strip. He is in support of the expansion of Jewish settlements in the West Bank and East Jerusalem.
 		ESL GF
 			THBT journalists who support a Palestinian state should deprioritise Hamas' role in the escalation of the conflict
