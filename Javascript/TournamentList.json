@@ -674,7 +674,7 @@
         "id": "ANUSpring",
         "name": "ANU Spring BP",
         "short": "",
-        "latest": 2023,
+        "latest": 2025,
         "tag": [
             "BP",
             "open",
@@ -778,7 +778,7 @@
         "id": "CambridgeIV",
         "name": "Cambridge IV",
         "short": "",
-        "latest": 2021,
+        "latest": 2025,
         "tag": [
             "BP",
             "open",
@@ -858,7 +858,7 @@
         "id": "DTU",
         "name": "Delhi Technological University",
         "short": "DTU",
-        "latest": 2023,
+        "latest": 2025,
         "tag": [
             "Asian",
             "open",
@@ -1275,7 +1275,7 @@
         "id": "PrincetonIV",
         "name": "Princeton IV",
         "short": "",
-        "latest": 2023,
+        "latest": 2025,
         "tag": [
             "BP",
             "open",
@@ -1472,7 +1472,7 @@
         "id": "WesternIV",
         "name": "Western IV",
         "short": "",
-        "latest": 2023,
+        "latest": 2025,
         "tag": [
             "BP",
             "open",
@@ -1555,6 +1555,30 @@
             "region:Domestic"
         ],
         "url": "GoldCup.txt"
+    },
+    {
+        "id": "KCLIV",
+        "name": "King's College London Intervarsity",
+        "short": "KCL IV",
+        "latest": 2025,
+        "tag": [
+            "BP",
+            "open",
+            "region:Europe"
+        ],
+        "url": "International/KCLIV.txt"
+    },
+    {
+        "id": "Manila",
+        "name": "Manila",
+        "short": "",
+        "latest": 2025,
+        "tag": [
+            "BP",
+            "open",
+            "region:Asia"
+        ],
+        "url": "International/Manila.txt"
     },
     {
         "id": "SofiaOnline",

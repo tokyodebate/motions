@@ -1,4 +1,64 @@
 DTU (Delhi Technological University)
+	DTU Monsoons Pre-ABP 2025
+		R1
+			THR the glorification of emotional maturity among young people
+				OG $stats 4, 3, 2, 1
+				OO $stats 3, 0, 1, 6
+				CG $stats 2, 1, 4, 3
+				CO $stats 1, 6, 3, 0
+		R2
+			THP narrower movements with a specific goal (e.g., BLM with police brutality) instead of one that comprises multiple identities and advocacies (e.g., the LGBT movement)
+				OG $stats 3, 3, 2, 2
+				OO $stats 5, 3, 2, 0
+				CG $stats 2, 3, 4, 1
+				CO $stats 0, 1, 2, 7
+		R3
+			THBT the US government should prioritize the use of alternative medicines over conventional treatment to combat opioid addiction
+				OG $stats 1, 1, 2, 6
+				OO $stats 2, 5, 2, 1
+				CG $stats 4, 1, 5, 0
+				CO $stats 3, 3, 1, 3
+				Alternative medicines are naturally-producted psychoactive substances that act as both a stimulant and an opioid-like sedative, typically used to manage opioid withdrawal. Common examples include Kratom, Ibogaine, and Ayahuasca.
+		R4
+			THBT the rise of small parties as kingmakers has done more harm than good
+				OG $stats 2, 2, 3, 3
+				OO $stats 5, 1, 3, 1
+				CG $stats 0, 5, 2, 3
+				CO $stats 3, 2, 2, 3
+				A kingmaker is a political party that holds crucial votes in helping form a majority to form government or pass policies.
+		R5
+			THS sectoral bargaining
+				OG $stats 3, 3, 2, 2
+				OO $stats 1, 3, 5, 1
+				CG $stats 4, 2, 1, 3
+				CO $stats 2, 2, 2, 4
+				Sectoral bargaining is a collective negotiation process where workers across an entire occupation, industry, or region come together to establish common contract terms and minimum compensation standards. Instead of individual companies negotiating separately with their employees, sectoral bargaining sets unified standards that apply broadly across the industry nationwide.
+		Pre SF
+			THP the fundholder-owned model to the shareholder-owned model in investment management firms
+				OG $stats 0, 2
+				OO $stats 1, 1
+				CG $stats 2, 0
+				CO $stats 1, 1
+				Under the fundholder-owned model, anyone who purchases an investment product (e.g., a mutual fund or an exchange-traded fund) issued by an investment management firm gains a proportional ownership stake in that firm. Under the shareholder-owned model, ownership of the investment management firm is separate from fund ownership: to have a stake in the investment management firm one must purchase its shares, and purchasing its investment products does not grant any share of ownership in the firm.
+		SF
+			THS China monopolizing the electric vehicle industry
+				OG $stats 2, 0
+				OO $stats 0, 2
+				CG $stats 2, 0
+				CO $stats 0, 2
+		GF
+			THS implementing ethnic federalism in post-conflict states with ethnic fragmentation
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				Ethnic federalism is a form of federal system in which the federated regional or state units are defined by ethnicity. Ethnic federal systems have been created in attempts to accommodate demands for ethnic autonomy and manage inter-ethnic tensions within a state. In ethnic federal systems, each ethnic region tends to enjoy high administrative freedom and control over policy
+		Novice GF
+			THO the demonization of nationalism
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 1, 0
+				CO $stats 0, 1
 	DTU Summers Pre-UADC 2023
 		R1
 			THBT the rise of productivity media i.e. self-help book, motivational videos, efficiency hacks etc. does more harm than good
