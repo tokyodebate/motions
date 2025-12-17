@@ -1,4 +1,68 @@
 Momiji Cup
+	Momijicup2025
+		R1
+			THP a world where universities adopted non-alphanumeric grades rather than alphanumeric ones
+				OG $stats 1, 1, 3, 2
+				OO $stats 4, 2, 1, 0
+				CG $stats 0, 2, 1, 4
+				CO $stats 2, 2, 2, 1
+				Alphanumeric Grading System: Student performance is quantified using objective scores like GPA. This system is widely used in many universities and serves as a standardized metric for both internal and external evaluation (e.g., by employers and graduate schools).
+				Non-alphanumeric Grading System: In contrast, this system uses only qualitative feedback (e.g., detailed written comments from professors) and self-reflection to assess students. It has been adopted in some universities (e.g., Hampshire College, Brown University).
+		R2
+			TH, as feminist movement, should push the narrative that "all bodies are beautiful" (body positivity) rather than the narrative that "beauty does not matter" (body neutrality)
+				OG $stats 3, 2, 0, 2
+				OO $stats 3, 2, 1, 1
+				CG $stats 1, 2, 2, 2
+				CO $stats 0, 1, 4, 2
+		R3
+			THS privatization of the space industry
+				OG $stats 3, 1, 1, 2
+				OO $stats 2, 3, 2, 0
+				CG $stats 2, 2, 0, 3
+				CO $stats 0, 1, 4, 2
+				Traditionally, the space industry has been driven by governments and international organizations through large-scale cooperation.
+				However, in recent years, the privatization of space has rapidly advanced in pursuit of cost reduction and efficiency. Notably, NASA now outsources many core transport services to private companies such as SpaceX and Boeing.
+				This includes deploying commercial communication satellites, transporting supplies like food to ISS, launching military and reconnaissance satellites, sending scientific instruments, exploration rovers, and commercial crew into space.
+		R4
+			TH hopes for a future where most companies use AI influencers for advertising
+				OG $stats 4, 3, 0, 0
+				OO $stats 2, 1, 2, 2
+				CG $stats 0, 0, 4, 3
+				CO $stats 1, 3, 1, 2
+				AI influencers are computer-generated characters, often created with CG image, motion capture and artificial intelligence. These digital personas are designed to behave the way a human influencer would online. They promote the items by posting on social media and featuring in advertisement.
+		Pre SF
+			THW limit the establishment of new academic journals
+				OG $stats 2, 0
+				OO $stats 2, 0
+				CG $stats 0, 2
+				CO $stats 0, 2
+				The number of academic journals has been rising. In 2020, WordsRated estimated about 46,700 journals.
+				Behind this growth is the "Publish or perish" culture, where many universities and research institutions evaluate researchers based on the quantity of their published papers.
+				Another major factor is the rise of Open Access (OA) journals, facilitated by the internet. Unlike traditional subscription models, OA journals make articles free for everyone to read by charging authors high publication fees.
+		Rookie GF
+			TH, as you, would choose Kikuo to take over the family name
+				OG $stats 0, 1
+				OO $stats 0, 1
+				CG $stats 0, 1
+				CO $stats 1, 0
+				You are a traditional Kabuki actor from a prestigious family line. You have two disciples, Kikuo and Shunsuke. Kikuo isn't related by blood, while Shunsuke is your biological son. Kikuo is talented and has been training diligently since he was a child. He is expected to become an exceptional actor, but he is the son of a Yakuza gang leader. His father passed away and the gang was destroyed in a conflict. Shunsuke, on the other hand, has been feeling down ever since you assigned Kikuo a leading role in the upcoming grand stage. Although he has been practicing since he was young, recently he skips practice and chases women.The two have been good rivals and close friends since they began training together.
+				Your diabetes is getting worse, and you are considering having one of them take over the family name. In the world of Kabuki, the actor's name (e.g. 市川團十郎) is passed down to the next generation. It represents the history and authority of the Kabuki family.
+		SF
+			THP adversarial system over a inquisitorial system for all criminal trials
+				OG $stats 0, 2
+				OO $stats 2, 0
+				CG $stats 1, 1
+				CO $stats 1, 1
+				For the purposes of this debate, the adversarial system (e.g., UK, USA) is a legal "battle" where truth is expected to emerge from two opposing sides (prosecution and defense) presenting their case to a passive, neutral judge.
+				The inquisitorial system (e.g., France, Germany) is a legal "inquiry" where a judge or judicial panel actively leads the investigation to discover the truth.
+		GF
+			THBT parents in Yanbian should actively encourage their children to migrate to Korea
+				OG $stats 0, 1
+				OO $stats 1, 0
+				CG $stats 0, 1
+				CO $stats 0, 1
+				The Yanbian Korean Autonomous Region is a province located in northeast China. From its establishment in 1952, the region has been granted high autonomy within their ethnic group. (e.g.  rights to their own language in education and government, and a degree of self-administration)
+				They have long been celebrated as a "model minority". But recently they are facing pressure from the Chinese government as part of a nationwide "education for national unity" policy. Authorities in Yanbian began to systematically reduce and phase out the use of Korean as a language of instruction in schools.
 	Momiji Cup 2024
 		R1
 			THW restrict voting rights to individuals who passed a general political knowlegde test
@@ -25,7 +89,7 @@ Momiji Cup
 				CG $stats 1, 3, 3, 0
 				CO $stats 1, 0, 1, 5
 				In the US, government funding for specific religions has traditionally been prohibited based on the constitutional principle of separation of church and state, as well as concerns about fairness to atheists and adherents of other religions. However, recent Supreme Court rulings have shifted this perspective, viewing state restrictions on public funds for religious purposes as unconstitutional.
-				Notably, the Court ruled in 2020 that a Montana law prohibiting scholarships to religious schools violated the Free Exercise Clause, and in 2022, it deemed Maine's refusal to provide public funding to religious schools unconstitutional. 
+				Notably, the Court ruled in 2020 that a Montana law prohibiting scholarships to religious schools violated the Free Exercise Clause, and in 2022, it deemed Maine's refusal to provide public funding to religious schools unconstitutional.
 		R5
 			THR the emphasis on a moral obrigation of children to take care of their parents
 				OG $stats 4, 1, 1, 1
@@ -52,14 +116,13 @@ Momiji Cup
 				CG $stats 0, 2
 				CO $stats 1, 1
 				In recent years, there has been a growing social norm that the ability to make an effort itself is a talent. This implies that those who can make an effort have this talent, while those who lack the talent to make an effort from the beginning will find it difficult or impossible to do so. Additionally, these claims are sometimes accompanied by some scientific evidence.
-				
 		GF
 			THW make the contract with Kyubey
 				OG $stats 0, 1
 				OO $stats 0, 1
 				CG $stats 0, 1
 				CO $stats 1, 0
-				You are an average high school girl. You don't have any particular hopes or dreams for the future, but your family is reasonably wealthy, and you lead a mundane yet happy life. You have a crush on a childhood friend. He is a violin prodigy, who aspires to become a violinist, but injured his arm in a car accident. It is impossible to heal his arm with modern medical technology, and doctors have told him to give up on becoming a violinist. As his childhood friend, you visit him every week, but he is on the verge of despair, and it pains you greatly to see him like this.One day, you came across Kyubey, who is not human but looks cute. He said, "Please become a ‘Magical Girl’ (魔法少女) by making a contract with me! If you do so, I'll grant you any one wish you want. It doesn’t matter what the wish is. I can even heal the arm of your friend. However, in return, you need to take on the role of defeating witches with your magical powers! Witches are invisible to ordinary people, extremely evil, and sometimes even kill them in secret. For example, many unexplained suspicious deaths and mass suicides are highly likely to be caused by witches. Only a magical girl can defeat them. Now there is no magical girl in this city and witches kill many innocent lives.You have enough talent to become a magical girl.SO, PLEASE MAKE A CONTRACT WITH ME  AND BECOME A MAGICAL GIRL!"For the purpose of this debate, you have two choice1. Make the contract to heal your childhood friend’s arm. A magical girl needs to defeat witches to restore her magical energy; otherwise, cannot sustain her life. So you cannot escape from a harsh and irreversible fighting destiny if you make the contract.2. Reject the contract. Kyubey will then leave you, and you will live as an average woman.
+				You are an average high school girl. You don't have any particular hopes or dreams for the future, but your family is reasonably wealthy, and you lead a mundane yet happy life. You have a crush on a childhood friend. He is a violin prodigy, who aspires to become a violinist, but injured his arm in a car accident. It is impossible to heal his arm with modern medical technology, and doctors have told him to give up on becoming a violinist. As his childhood friend, you visit him every week, but he is on the verge of despair, and it pains you greatly to see him like this.One day, you came across Kyubey, who is not human but looks cute. He said, "Please become a ‘Magical Girl’ (魔法少女) by making a contract with me! If you do so, I'll grant you any one wish you want. It doesn’t matter what the wish is. I can even heal the arm of your friend. However, in return, you need to take on the role of defeating witches with your magical powers! Witches are invisible to ordinary people, extremely evil, and sometimes even kill them in secret. For example, many unexplained suspicious deaths and mass suicides are highly likely to be caused by witches. Only a magical girl can defeat them. Now there is no magical girl in this city and witches kill many innocent lives.You have enough talent to become a magical girl.SO, PLEASE MAKE A CONTRACT WITH ME AND BECOME A MAGICAL GIRL!"For the purpose of this debate, you have two choice1. Make the contract to heal your childhood friend’s arm. A magical girl needs to defeat witches to restore her magical energy; otherwise, cannot sustain her life. So you cannot escape from a harsh and irreversible fighting destiny if you make the contract.2. Reject the contract. Kyubey will then leave you, and you will live as an average woman.
 	Momiji Cup 2023
 		R1
 			THW prohibit religious proselytisation in areas of high socioeconomic deprivation
@@ -88,8 +151,8 @@ Momiji Cup
 				CO $stats 2, 1, 2, 2
 				"Girlboss" are women who seek success particularly
 				in the realms of leadership, and career success.
-				They embody the idea that women can achieve professional 
-				and personal success by embracing their ambition, 
+				They embody the idea that women can achieve professional
+				and personal success by embracing their ambition,
 				confidence, and assertiveness."
 		Rookie GF
 			TH, as you, Would decline the offer
@@ -125,302 +188,294 @@ Momiji Cup
 				Clubs can allocate only 1/4 of the funds generated from player sales for acquiring new players.
 				These rules restrict and ensures careful financial management of clubs.
 				Lionel Messi achieved numerous titles with FC Barcelona, notably winning the Ballon d'Or seven times. He has also left an indelible mark on history by setting records such as being the all-time leading goal-scorer in La Liga and achieving remarkable goal-scoring feats in the UEFA Champions League. He has signed a huge salary contract with Barcelona for many years and has a strong attachment to the team.
-				Barcelona is a team in La Liga. Barcelona faced financial challenges due to the accumulation of debts resulting from high player salaries. 　　
+				Barcelona is a team in La Liga. Barcelona faced financial challenges due to the accumulation of debts resulting from high player salaries.
 				Despite attempting to hold down Squad Cost by selling young players, Barcelona still found itself in violation of La "Liga's financial management rules". La Liga, citing budgetary constraints, did not permit Barcelona to continue Messi's contract.
 				Thus, Leonel Messi unwillingly left Barcelona and As of now, Leonel Messi is no longer with a La Liga team but is playing for Inter Miami, a club in the United States.
 				For the purpose of the debate,we assume that Lionel Messi would have remained in Barcelona if La Liga had granted the contract as an exception.
 	Momiji Cup 2022
-		R1: 
-			THO the strong association of sports and national identity (e.g. singing national anthem before matches, fans using national flag).
-
-		R2: 
-			THW limit the number of times that individuals can win elections.
-
-		R3: 
-			THBT LGBTQ movements should not glorify coming out.
+		R1:
+			THO the strong association of sports and national identity (e.g. singing national anthem before matches, fans using national flag)
+		R2:
+			THW limit the number of times that individuals can win elections
+		R3:
+			THBT LGBTQ movements should not glorify coming out
 				Coming out is a metaphor used to describe LGBTQ people's self-disclosure of their sexual orientation, romantic orientation or their gender identity.
-
-		R4: 
+		R4:
 			THBT religious organization should not make money from their spiritual services and products
-
-		Open Pre-SF: 
-			THR cancel culture.
+		Pre SF:
+			THR cancel culture
 				Cancel culture refers to actions taken by group of people cancelling support for certain individuals/groups, based on the perception that they have committed immoral/unacceptable acts. It can include boycotting purchase or use of services, quitting being a fan etc.
-
-		Open SF: 
-			THR the trend of FIRE.
+		SF:
+			THR the trend of FIRE
 				Financial Independence, Retire Early (FIRE) is a movement of people devoted to a program of extreme savings and earning money through working hard and/or investing into financial assets, which aims to allow them to retire far earlier than traditional budgets and retirement plans would permit.
-
-		Open GF: 
-			THP animal right activists seeking the spread of animal products/services which care for animals' welfare (e.g. stress-free farming), to seeking a complete ban on animal consumptions/sufferings.
-
-		RGF: 
-			THBT the globalisation of art has done more harm than good.
-			
+		GF:
+			THP animal right activists seeking the spread of animal products/services which care for animals' welfare (e.g. stress-free farming), to seeking a complete ban on animal consumptions/sufferings
+		RGF:
+			THBT the globalisation of art has done more harm than good
 	Momiji Cup 2021 (12.4-5)
 		R1:
-			Assuming feasibility, THW allow all individuals who are willing to volunteer to be sent on a one way trip to Mars.
+			Assuming feasibility, THW allow all individuals who are willing to volunteer to be sent on a one way trip to Mars
 				In this world, it has become technically feasible for people to be sent to Mars. However, because of technological constraints, once people go to Mars they are unable to come back to Earth. Space agencies around the world are gathering volunteers to be sent out to Mars to conduct research work in hopes to make Mars permanently inhabitable.
 		R2:
-			THW require politicians to retire after a certain age.
+			THW require politicians to retire after a certain age
 		R3:
-			THR the institutions of marriage and civil partnership.
+			THR the institutions of marriage and civil partnership
 				A civil partnership (also known as a civil union) is a legally recognized arrangement similar to marriage, created primarily as a means to provide recognition in law for same-sex couples. Civil unions grant some or all of the rights of marriage except the title itself.
 		R4:
-			THW allow individuals to buy exemption from compulsory military service by paying the state.
-		Pre-SF:
-			TH supports self-diagnosis.
+			THW allow individuals to buy exemption from compulsory military service by paying the state
+		Pre SF:
+			THS self-diagnosis
 				Self-diagnosis is the process of individuals diagnosing or identifying medical conditions themselves based on information online.
 		SF:
-			THBT constantly being able to connect through our phones has done more harm than good to romantic relationships.
+			THBT constantly being able to connect through our phones has done more harm than good to romantic relationships
 		GF:
-			TH supports "Setsuna-shugi".
+			THS "Setsuna-shugi"
 				刹那主義 Setsuna-shugi refers to the principle of living in the moment.
 		RGF:
-			TH regrets the depiction of the everyday lives of people with disabilities as inspirational.
+			THR the depiction of the everyday lives of people with disabilities as inspirational
 	Momiji Cup 2020
 		R1
-			THR social media being increasingly used as a primary souce of news distribution.
+			THR social media being increasingly used as a primary souce of news distribution
 		R2
-			THBT parents should be honest with their children about their (i.e. parents') imperfections and insecurities.
+			THBT parents should be honest with their children about their (i.e. parents') imperfections and insecurities
 		R3
-			THS voluntourism.
+			THS voluntourism
 				Voluntourism is a form of tourism in which travellers participate in voluntary work, typically for a charity.
 		R4
-			THS athletes making political and religious expressions at international sporting events.
+			THS athletes making political and religious expressions at international sporting events
 		SF
-			In times of crisis, THBT the state should withhold information that may damage public confidence.
+			In times of crisis, THBT the state should withhold information that may damage public confidence
 		GF
-			TH opposes the 'Toxic Positivity' culture.
+			THO the 'Toxic Positivity' culture
 				"Toxic positivity" refers to the concept that keeping a positive mindset and being optimistic is the right and best way to live your life.
 	Momiji Cup 2019
 		R1
 			THW allow workers to sell their rights in exchange for higher pay
 		R2
-			THBT developing countries with ethnically diverse populations should prohibit vernacular schools.
+			THBT developing countries with ethnically diverse populations should prohibit vernacular schools
 				Vernacular school provides education in language which are ingrained in the particular communities and not in the country’s primary language.
 		R3
 			THBT media should not broadcast private life of politicians
 		R4
-			TH, as feminist, W advocate against advertisements which use female sexuality to appeal to customers.
+			TH, as feminist, W advocate against advertisements which use female sexuality to appeal to customers
 		QF
-			THW hold head of religious organizations legally liable when their believers, for religious reasons, deny giving medical treatment to their children under life-threating condition.
+			THW hold head of religious organizations legally liable when their believers, for religious reasons, deny giving medical treatment to their children under life-threating condition
 		SF
-			THR the glamorization of start-up culture that encourage people to start their own companies rather than pursue traditional career paths.
+			THR the glamorization of start-up culture that encourage people to start their own companies rather than pursue traditional career paths
 		GF
 			THR the rise of social influencer
 				A Social Influencer is a user on social media who has established credibility in a specific field. A social media influencer has access to a large audience (e.g. followers on Twitter/Instagram and subscribers on Youtube) and can persuade others by virtue of their appeal and reach.
 	14th Momiji cup (2018)
 		R1
-			THW force companies to reflect the racial diversity of national population on employee composition.
+			THW force companies to reflect the racial diversity of national population on employee composition
 		R2
-			THW require individuals to pass a political general knowledge test in order to gain the right to vote.
+			THW require individuals to pass a political general knowledge test in order to gain the right to vote
 		R3
-			THBT developing countries should adopt English as the principal language of instruction in schools.
+			THBT developing countries should adopt English as the principal language of instruction in schools
 		R4
-			THR the perception that soldiers are heroes.
-		Pre-QF
-			THBT social sanctions should be a mitigating factor of criminal length.
+			THR the perception that soldiers are heroes
+		Pre QF
+			THBT social sanctions should be a mitigating factor of criminal length
 				A social sanction is a reaction from others in society to an accused person. It varies in severity from releasing the private information by media, dismissal by his company or the insult on the Internet.
 		QF
-			THBT former colonial powers should drastically increase the number of immigrants from their ex-colonies.
+			THBT former colonial powers should drastically increase the number of immigrants from their ex-colonies
 		SF
-			THW force religious adoption agencies(e.g. Catholic Charities Adoption Agency) to allow same-sex couples to foster and adopt children.
+			THW force religious adoption agencies (e.g. Catholic Charities Adoption Agency) to allow same-sex couples to foster and adopt children
 				Religious adoption agency is an agency run by religious organization such as Catholic. They assist in placing children to adoptive parents they are looking for children.
 		GF
-			THBT medical institutions in developed countries should neither cooperate with, nor use the data produced by, medical institutions in developing countries that do not meet standards in developed countries on human clinical trials.
+			THBT medical institutions in developed countries should neither cooperate with, nor use the data produced by, medical institutions in developing countries that do not meet standards in developed countries on human clinical trials
 				Medical institutions in developing countries (e.g. Southeast Asia, Central Asia) are becoming increasingly competitive within the field of human clinical trials and now constitute a major share of the world’s scientific output. These trials operate under local medical standards that are pointed out to be less stringent than the ones in developed countries.
 	13th Momoji Cup(2017)
 		R1
 			THW ban the use of models who are below a healthy weight
 		R2
-			THBT elected politician should not resign when inmoral but not illegal behavior (i.e adultery) is discovered.
+			THBT elected politician should not resign when inmoral but not illegal behavior (i.e adultery) is discovered
 		R3
 			THW allow teachers to carry out physical corporal punishment in school
 		R4
-			THW impose tax upon adults who actively choose not to have children.
+			THW impose tax upon adults who actively choose not to have children
 		Double-OF
-			THBT the United States of America should introduce conscription.
+			THBT the United States of America should introduce conscription
 		OF
 			THW introduce universal basic income
 				Introduction of univarsal basic income is often discussed especially in some developed countries.
 				A universal basic income is a form of social security in which all citizens or residents of a country receive a regular, unconditional sum of money, either from a government or some other public institution, independent of any other income. The amount of money is supposed to meet a person’s basic needs sufficiently.
-				There is high possibility that more heavy taxation will be imposed and current basic welfare system(unemployment insurunce, livelihood protection, childcare support, etc) will be replaced with universal basic income after the introduction of this policy.
-		Quarter final
-			THW forcibly remove  homeless from the street and place them in rehabilitation.
+				There is high possibility that more heavy taxation will be imposed and current basic welfare system (unemployment insurunce, livelihood protection, childcare support, etc) will be replaced with universal basic income after the introduction of this policy.
+		QF
+			THW forcibly remove homeless from the street and place them in rehabilitation
 		SF
-			THW allow doctors to use placebo treatment.
+			THW allow doctors to use placebo treatment
 		GF
-			THBT prisoners sentenced to life-time imprisonment should be allowed to choose death penalty.
+			THBT prisoners sentenced to life-time imprisonment should be allowed to choose death penalty
 	12th Momiji Cup(2016)
 		R1
-			THBT the Japanese Government should allow individuals to opt out from national pension system.
+			THBT the Japanese Government should allow individuals to opt out from national pension system
 		R2
-			THW prohibit parents from imposing veganism* on their children.
+			THW prohibit parents from imposing veganism* on their children
 				Veganism is the lifestyle which denies the consumption of any animal products because of ethical reasons. This is a form of vegetarianism, but particularly veganism denies not only eating meat but also milk and egg. Raising children on a vegan diet sometimes leads to hospitalization for malnutrition.
 		R3
-			THW prohibit religious organizations from supporting candidates.
+			THW prohibit religious organizations from supporting candidates
 		R4
-			THW prosecute suspected rapists without the formal complaint from the victim.
+			THW prosecute suspected rapists without the formal complaint from the victim
 		Double-OF
-			In cities with a wide wealth gap, THW require all elementary school set a quota that reflects socio-economic composition.
+			In cities with a wide wealth gap, THW require all elementary school set a quota that reflects socio-economic composition
 		OF
-			TH prefers a multi-party system over a bi-party system.
+			THP a multi-party system over a bi-party system
 		QF
 			THBT the disability community should oppose TV program which inspirationally portrait people with disabilities. (such as 24 hours TV)
 		SF
 			THBT the early stages of education should overemphasize equality (e.g. not ranking children in sports festival, many Momotaro in school plays)
 		GF
-			THBT the United Nation should abolish the right to veto of the permanent members of the Security Council.
+			THBT the United Nation should abolish the right to veto of the permanent members of the Security Council
 	11th Momiji Cup(2015)
 		R1
-			THW ban broadcasting of suicide.
+			THW ban broadcasting of suicide
 		R2
-			THW allow parents to vote on behalf of their children.
+			THW allow parents to vote on behalf of their children
 		R3
-			THW criminalize the membership of criminal organizations (such as gungs, mafias, yakuzas) even if he/she doesn’t commit crimes on his/her own.
+			THW criminalize the membership of criminal organizations (such as gungs, mafias, yakuzas) even if he/she doesn't commit crimes on his/her own
 		R4
-			THW require individuals who have gone through cosmetic surgery to open it to their partner before marriage.
+			THW require individuals who have gone through cosmetic surgery to open it to their partner before marriage
 		Double-OF
-			THBT candidates of political elections should take an aptitude test for their approval as candidates.
+			THBT candidates of political elections should take an aptitude test for their approval as candidates
 		OF
-			THW ban mail order bride agencies.
+			THW ban mail order bride agencies
 		QF
-			THW cap the number of patents that a corporation can simultaneously hold.
+			THW cap the number of patents that a corporation can simultaneously hold
 		SF
-			THW allow emplyees to choose not to receive any basic provision in their labor contracts in exchange for a proportional increase in wages.
+			THW allow emplyees to choose not to receive any basic provision in their labor contracts in exchange for a proportional increase in wages
 		GF
-			THW give amnesty to dictators who voluntarily step down.
+			THW give amnesty to dictators who voluntarily step down
 	10th Momiji Cup(2014)
-		Pre-R1
-			THW allow active euthanasia for terminal ill patients.
-		Pre-R2
-			THW criminalise the payment of ransom.
-		Pre-R3
-			TH opposes marriage system.
+		Pre R1
+			THW allow active euthanasia for terminal ill patients
+		Pre R2
+			THW criminalise the payment of ransom
+		Pre R3
+			THO marriage system
 		R1
-			THW ban traditional events that regularly cause death.(e.g.DANJIRI festival, bungee jumping as the traditional event of community.
+			THW ban traditional events that regularly cause death. (e.g.DANJIRI festival, bungee jumping as the traditional event of community
 		R2
-			THW bail out big failing companies.
+			THW bail out big failing companies
 		R3
-			THBT parents should NOT teach religious believes to their children.
+			THBT parents should NOT teach religious believes to their children
 		R4
-			THW abolish Juveniles Law.
-		Pre-OF
-			THW abolish conscription.
+			THW abolish Juveniles Law
+		Pre OF
+			THW abolish conscription
 		OF
-			THW ban the private use of 3D printer.
+			THW ban the private use of 3D printer
 		QF
-			TH regrets the domination of English as the global language.
+			THR the domination of English as the global language
 		SF
-			THBT citizens should physically intervene to red-handed crime even when they have risk to get involved.
+			THBT citizens should physically intervene to red-handed crime even when they have risk to get involved
 		GF
-			TH regrets declining influence of left-wing ideology in Japan.
+			THR declining influence of left-wing ideology in Japan
 	9th Momiji Cup (2013)
 		R1
-			THW make parental leave mandatory for both parents.
+			THW make parental leave mandatory for both parents
 		R2
-			THW make teacher’s salary progressive to academic performance.
+			THW make teacher's salary progressive to academic performance
 		R3
 			THW decriminalize murder for the sake of cannibalism under emergency circumstances. (such as drift, blizzard, heavy natural disasters)
 		R4
-			In the event of a life-threatening illness or injury, THBT medical decisions of minors should be made by doctors not by parents.
-				Currently, in many states. parents are able to make final decisions regarding children’s health based on various reasons of what “quality of like” is. (such as, but not limited to religious reasons)
-		Pre-OF
-			THBT it is legitimate for states to show the full horror of terrorism.
+			In the event of a life-threatening illness or injury, THBT medical decisions of minors should be made by doctors not by parents
+				Currently, in many states. parents are able to make final decisions regarding children’s health based on various reasons of what "quality of like" is. (such as, but not limited to religious reasons)
+		Pre OF
+			THBT it is legitimate for states to show the full horror of terrorism
 		OF
-			THBT international sporting events should disqualify the team when their member(s) use performance enhancing drugs. (ex. when a batter from a baseball team was using steroid, the baseball team will be disqualified)
+			THBT international sporting events should disqualify the team when their member (s) use performance enhancing drugs. (ex. when a batter from a baseball team was using steroid, the baseball team will be disqualified)
 		QF
-			THBT TV drama from large broadcasting company should include at least one person with disability as an actor or actress.
+			THBT TV drama from large broadcasting company should include at least one person with disability as an actor or actress
 		SF
-			THW make convicted criminals experience how his/her victim(s) was/were damaged.
+			THW make convicted criminals experience how his/her victim (s) was/were damaged
 				Assume that a technology enables individuals to be sent to a virtual world. (It is like a crazily advanced video game) There, individuals can experience whatever it was programmed by the computer. It is basically same as the ordinary world in a sense they feel pain, emotions, and can even die. All of the memory in the virtual world remains, but they will not be physically hurt in the real life. (ex. even if they were killed in the virtual world, they will not die in the real world)
 		GF
-			THW criminalize NGOs that bribed regional armed groups in order to guarantee their safety.
+			THW criminalize NGOs that bribed regional armed groups in order to guarantee their safety
 	Pre-Momiji Cup (2013)
 		R1
-			THBT tourists from 1st world liberal democracies should NOT pay/feed beggars in the 3rd world.
+			THBT tourists from 1st world liberal democracies should NOT pay/feed beggars in the 3rd world
 		R2
-			THW decriminalize hate speech conducted by the minority against the majority which was intended to protect themselves.
+			THW decriminalize hate speech conducted by the minority against the majority which was intended to protect themselves
 		R3
-			THS the decision of USA to advocate Japan’s rearmament.
+			THS the decision of USA to advocate Japan's rearmament
 	8th Momiji Cup (2012)
 		R1
-			THW legalize organ transplants for profit.
+			THW legalize organ transplants for profit
 		R2
-			THBT gifted students should be taught separately from their peers.
+			THBT gifted students should be taught separately from their peers
 		R3
-			THBT all the juries and judges should be the same sex of victims in trials of sexual crimes.
+			THBT all the juries and judges should be the same sex of victims in trials of sexual crimes
 		R4
 			THW drive out food companies once they deceive consumers．
 		OF
-			THW prohibit parents from checking whether their children have disability or not before their birth.
+			THW prohibit parents from checking whether their children have disability or not before their birth
 		QF
-			THW require politicians to send their children to public school.
+			THW require politicians to send their children to public school
 		SF
-			THW ban expression which portrait anti-social behavior in a bright light.
+			THW ban expression which portrait anti-social behavior in a bright light
 		GF
-			THBT every country, not limited countries, should have the right to possess nuclear weapons.
+			THBT every country, not limited countries, should have the right to possess nuclear weapons
 	7th Momiji Cup (2011)
 		R1
-			THW make voting compulsory.
+			THW make voting compulsory
 		R2
-			THW allow the use of performance enhancing drug in sports.
+			THW allow the use of performance enhancing drug in sports
 		R3
-			THBT single sex schools are more beneficial for students than co-educational schools.
+			THBT single sex schools are more beneficial for students than co-educational schools
 		R4
-			THW prohibit corporations from promoting unhealthy food and drink.
+			THW prohibit corporations from promoting unhealthy food and drink
 		OF
-			THW allow pharmacies to sell birth control pills without prescription.
+			THW allow pharmacies to sell birth control pills without prescription
 		QF
-			THW ban homeschooling.
+			THW ban homeschooling
 		SF
-			THBT parents who have a severely disabled child should be allowed to euthanize them shortly after birth.
+			THBT parents who have a severely disabled child should be allowed to euthanize them shortly after birth
 		GF
-			THW abolish the death penalty.
+			THW abolish the death penalty
 	6th Momiji Cup (2010)
 		R1
-			THW establish a casino.
+			THW establish a casino
 		R2
-			THBT simple wedding is better than gorgeous one.
+			THBT simple wedding is better than gorgeous one
 		R3
-			THW raise tuition of students with poor grade.
+			THW raise tuition of students with poor grade
 		R4
-			THBT doctors should inform cancer patients of their true illness.
+			THBT doctors should inform cancer patients of their true illness
 		QF
-			THW ban negative campaigning.
+			THW ban negative campaigning
 		SF
-			THBT the government has no right to control information to its citizens.
+			THBT the government has no right to control information to its citizens
 		GF
-			THW legalize marijuana.
+			THW legalize marijuana
 	5th Momiji Cup (2009)
 		R1
-			THW impose enviornmental tax.
+			THW impose enviornmental tax
 		R2
-			THW raise minimum wage.
+			THW raise minimum wage
 		R3
-			THBT a long-distance relationship is better than a short-distance relationship.
+			THBT a long-distance relationship is better than a short-distance relationship
 		R4
-			THW introduce compulsory volunteering.
+			THW introduce compulsory volunteering
 		QF
-			THW ban sperm banks.
+			THW ban sperm banks
 		SF
-			THW let students choose their own teachers.
+			THW let students choose their own teachers
 		GF
-			THW ban tabacco.
+			THW ban tabacco
 	3rd Momiji Cup (2007)
 		R1
-			THW construct a casino in a tourist area.
+			THW construct a casino in a tourist area
 		R2
-			THBT parents should push their children to play sports rather than to study.
+			THBT parents should push their children to play sports rather than to study
 		R3
-			THW ban abortion.
+			THW ban abortion
 		R4
-			THW make voting compulsory.
+			THW make voting compulsory
 	1st Momiji Cup (2005)
 		R1
-			THW abolish gun.
+			THW abolish gun
 		R2
-			THW prefer sports to eating in autumn.
+			THW prefer sports to eating in autumn
 		R3
-			THW establish Casino.
+			THW establish Casino
