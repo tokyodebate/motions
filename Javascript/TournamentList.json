@@ -1591,5 +1591,17 @@
             "region:Europe"
         ],
         "url": "International/SophiaOnline.txt"
+    },
+    {
+        "id": "hiraganaminiii",
+        "name": "\u3068\u3046\u304d\u3087\u3046\u307f\u306b",
+        "short": "",
+        "latest": 2025,
+        "tag": [
+            "BP",
+            "open",
+            "region:Domestic"
+        ],
+        "url": "TokyoMiniiii.txt"
     }
 ]

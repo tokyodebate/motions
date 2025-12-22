@@ -1,0 +1,25 @@
+とうきょうみに
+	とうきょうみに2025
+		R1
+			THP a society where students' access to competitive sports is primarily through school-run clubs as opposed to ones by non-school organizations (e.g., private or community-based clubs)
+				OG $stats 0, 2, 0, 1
+				OO $stats 1, 1, 1, 0
+				CG $stats 1, 0, 1, 1
+				CO $stats 1, 0, 1, 1
+		R2
+			Suppose a modern feminist had been in the Edo-era, as them, THS the Utamaro-style bijinga trend
+				OG $stats 1, 1, 1, 0
+				OO $stats 1, 0, 0, 2
+				CG $stats 0, 1, 2, 0
+				CO $stats 1, 1, 0, 1
+				Kitagawa Utamaro was a famous Ukiyo-e artist of the Edo period from the chōnin (townspeople) class, renowned for his bijin-ga (pictures of beautiful women). 
+				Before Utamaro, mainstream bijin-ga was dominated by high-ranking court painters. Influenced by strict samurai morals, they depicted noblewomen as idealized, emotionless symbols, signifying social status rather than inner life.
+				In contrast, ukiyo-e artists were commercial artists who worked for publishers, creating a mass culture of the common townspeople. 
+				Utamaro focused on women living in the daily life of the city: courtesans of the Yoshiwara district, teahouse waitresses, and nameless city mothers, depicting the inner psychology, daily labor, and sensuality. 
+				This approach became immensely popular, establishing a major trend of ukiyo-e."
+		R3
+			THR the recent hype surrounding AI capabilities
+				OG $stats 0, 0, 1, 2
+				OO $stats 1, 1, 1, 0
+				CG $stats 1, 2, 0, 0
+				CO $stats 1, 0, 1, 1
